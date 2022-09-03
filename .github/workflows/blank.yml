@@ -42,7 +42,7 @@ jobs:
           python ./.github/workflows/daily_arxiv.py
           
       - name: Push new cv-arxiv-daily.md
-        uses: github-actions-x/commit@main
+        uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.WORKFLOW_SECRET }}
           commit-message: "Github Action Automatic Update CV Arxiv Papers"
