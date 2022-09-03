@@ -44,7 +44,7 @@ jobs:
       - name: Push new cv-arxiv-daily.md
         uses: github-actions-x/commit@v2.8
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.WORKFLOW_SECRET }}
           commit-message: "Github Action Automatic Update CV Arxiv Papers"
           files: README.md cv-arxiv-daily.json
           rebase: 'true'
