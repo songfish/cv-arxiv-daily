@@ -39,7 +39,7 @@ jobs:
           
       - name: Run daily arxiv 
         run: |
-          ls ./.github
+          python ./.github/daily_arxiv.py
           
       - name: Push new cv-arxiv-daily.md
         uses: github-actions-x/commit@v2.8
