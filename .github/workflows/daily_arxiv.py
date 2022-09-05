@@ -136,6 +136,7 @@ if __name__ == "__main__":
     data_collector = []
     keywords = dict()
     keywords["super-resolution"] = "super-resolution"
+    keywords["cloud detection"] =  "\"cloud detection\""
     keywords["abnormal detection"] =  "\"abnormal detection\""
     keywords["anomaly detection"] =  "\"anomaly detection\""
      
