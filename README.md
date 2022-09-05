@@ -15,6 +15,21 @@
 |**2022-01-20**|**Enhancement or Super-Resolution: Learning-based Adaptive Video Streaming with Client-Side Video Processing**|Junyan Yang et.al.|[2201.08197v1](http://arxiv.org/abs/2201.08197v1)|
 |**2021-07-07**|**Blind Image Super-Resolution: A Survey and Beyond**|Anran Liu et.al.|[2107.03055v1](http://arxiv.org/abs/2107.03055v1)|
 
+## cloud detection
+
+|Publish Date|Title|Authors|PDF|
+|---|---|---|---|
+|**2022-07-05**|**Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning**|Yuheng Lu et.al.|[2207.01987v1](http://arxiv.org/abs/2207.01987v1)|
+|**2022-05-31**|**itKD: Interchange Transfer-based Knowledge Distillation for 3D Object Detection**|Hyeon Cho et.al.|[2205.15531v1](http://arxiv.org/abs/2205.15531v1)|
+|**2022-01-26**|**Non-star-forming molecular gas in the Abell 1367 intra-cluster multiphase orphan cloud**|Pavel Jáchym et.al.|[2201.11141v1](http://arxiv.org/abs/2201.11141v1)|
+|**2022-01-07**|**Multiresolution Fully Convolutional Networks to detect Clouds and Snow through Optical Satellite Images**|Debvrat Varshney et.al.|[2201.02350v1](http://arxiv.org/abs/2201.02350v1)|
+|**2021-12-23**|**Cloud Removal from Satellite Images**|Rutvik Chauhan et.al.|[2112.15483v1](http://arxiv.org/abs/2112.15483v1)|
+|**2021-12-03**|**Adversarial Attacks against a Satellite-borne Multispectral Cloud Detector**|Andrew Du et.al.|[2112.01723v1](http://arxiv.org/abs/2112.01723v1)|
+|**2021-11-23**|**Weakly-Supervised Cloud Detection with Fixed-Point GANs**|Joachim Nyborg et.al.|[2111.11879v1](http://arxiv.org/abs/2111.11879v1)|
+|**2021-10-10**|**3D Object Detection Combining Semantic and Geometric Features from Point Clouds**|Hao Peng et.al.|[2110.04704v1](http://arxiv.org/abs/2110.04704v1)|
+|**2021-08-17**|**Applying Intelligent Reflector Surfaces for Detecting Violent Expiratory Aerosol Cloud using Terahertz Signals**|Harun Šiljak et.al.|[2108.07834v2](http://arxiv.org/abs/2108.07834v2)|
+|**2021-08-03**|**Search for enhanced TeV gamma-ray emission from Giant Molecular Clouds using H.E.S.S**|A. Sinha et.al.|[2108.01738v1](http://arxiv.org/abs/2108.01738v1)|
+
 ## abnormal detection
 
 |Publish Date|Title|Authors|PDF|
@@ -34,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-09-02**|**nnOOD: A Framework for Benchmarking Self-supervised Anomaly Localisation Methods**|Matthew Baugh et.al.|[2209.01124v1](http://arxiv.org/abs/2209.01124v1)|
 |**2022-08-31**|**RecLight: A Recurrent Neural Network Accelerator with Integrated Silicon Photonics**|Febin Sunny et.al.|[2209.00084v1](http://arxiv.org/abs/2209.00084v1)|
 |**2022-08-31**|**Object classification on video data of meteors and meteor-like phenomena: algorithm and data**|Rabea Sennlaub et.al.|[2208.14914v1](http://arxiv.org/abs/2208.14914v1)|
 |**2022-08-31**|**Deep Anomaly Detection and Search via Reinforcement Learning**|Chao Chen et.al.|[2208.14834v1](http://arxiv.org/abs/2208.14834v1)|
@@ -43,5 +59,4 @@
 |**2022-08-30**|**Anomaly Detection using Contrastive Normalizing Flows**|Robert Schmier et.al.|[2208.14024v1](http://arxiv.org/abs/2208.14024v1)|
 |**2022-08-28**|**Contrastive Feature Learning for Fault Detection and Diagnostics in Railway Applications**|Katharina Rombach et.al.|[2208.13288v1](http://arxiv.org/abs/2208.13288v1)|
 |**2022-08-28**|**RUAD: unsupervised anomaly detection in HPC systems**|Martin Molan et.al.|[2208.13169v1](http://arxiv.org/abs/2208.13169v1)|
-|**2022-08-26**|**Unraveling Threat Intelligence Through the Lens of Malicious URL Campaigns**|Mahathir Almashor et.al.|[2208.12449v1](http://arxiv.org/abs/2208.12449v1)|
 
