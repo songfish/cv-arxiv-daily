@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-09-05**|**RX-ADS: Interpretable Anomaly Detection using Adversarial ML for Electric Vehicle CAN data**|Chathurika S. Wickramasinghe et.al.|[2209.02052v1](http://arxiv.org/abs/2209.02052v1)|
+|**2022-09-05**|**FIRED: a fine-grained robust performance diagnosis framework for cloud applications**|Ruyue Xin et.al.|[2209.01970v1](http://arxiv.org/abs/2209.01970v1)|
+|**2022-09-05**|**A Benchmark for Unsupervised Anomaly Detection in Multi-Agent Trajectories**|Julian Wiederer et.al.|[2209.01838v1](http://arxiv.org/abs/2209.01838v1)|
+|**2022-09-05**|**HealthyGAN: Learning from Unannotated Medical Images to Detect Anomalies Associated with Human Disease**|Md Mahfuzur Rahman Siddiquee et.al.|[2209.01822v1](http://arxiv.org/abs/2209.01822v1)|
+|**2022-09-05**|**ADTR: Anomaly Detection Transformer with Feature Reconstruction**|Zhiyuan You et.al.|[2209.01816v1](http://arxiv.org/abs/2209.01816v1)|
+|**2022-09-04**|**Quickest Anomaly Detection in Sensor Networks With Unlabeled Samples**|Zhongchang Sun et.al.|[2209.01525v1](http://arxiv.org/abs/2209.01525v1)|
+|**2022-09-02**|**Neuromorphic implementation of ECG anomaly detection using delay chains**|Stefan Gerber et.al.|[2209.01266v1](http://arxiv.org/abs/2209.01266v1)|
 |**2022-09-02**|**nnOOD: A Framework for Benchmarking Self-supervised Anomaly Localisation Methods**|Matthew Baugh et.al.|[2209.01124v1](http://arxiv.org/abs/2209.01124v1)|
 |**2022-08-31**|**RecLight: A Recurrent Neural Network Accelerator with Integrated Silicon Photonics**|Febin Sunny et.al.|[2209.00084v1](http://arxiv.org/abs/2209.00084v1)|
 |**2022-08-31**|**Object classification on video data of meteors and meteor-like phenomena: algorithm and data**|Rabea Sennlaub et.al.|[2208.14914v1](http://arxiv.org/abs/2208.14914v1)|
-|**2022-08-31**|**Deep Anomaly Detection and Search via Reinforcement Learning**|Chao Chen et.al.|[2208.14834v1](http://arxiv.org/abs/2208.14834v1)|
-|**2022-08-30**|**Denoising Architecture for Unsupervised Anomaly Detection in Time-Series**|Wadie Skaf et.al.|[2208.14337v1](http://arxiv.org/abs/2208.14337v1)|
-|**2022-08-30**|**Similarity-based Link Prediction from Modular Compression of Network Flows**|Christopher Blöcker et.al.|[2208.14220v1](http://arxiv.org/abs/2208.14220v1)|
-|**2022-08-30**|**Deep Autoencoders for Anomaly Detection in Textured Images using CW-SSIM**|Andrea Bionda et.al.|[2208.14045v1](http://arxiv.org/abs/2208.14045v1)|
-|**2022-08-30**|**Anomaly Detection using Contrastive Normalizing Flows**|Robert Schmier et.al.|[2208.14024v1](http://arxiv.org/abs/2208.14024v1)|
-|**2022-08-28**|**Contrastive Feature Learning for Fault Detection and Diagnostics in Railway Applications**|Katharina Rombach et.al.|[2208.13288v1](http://arxiv.org/abs/2208.13288v1)|
-|**2022-08-28**|**RUAD: unsupervised anomaly detection in HPC systems**|Martin Molan et.al.|[2208.13169v1](http://arxiv.org/abs/2208.13169v1)|
 
