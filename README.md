@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-09-07**|**Morphology-preserving Autoregressive 3D Generative Modelling of the Brain**|Petru-Daniel Tudosiu et.al.|[2209.03177v1](http://arxiv.org/abs/2209.03177v1)|
+|**2022-09-07**|**Context Recovery and Knowledge Retrieval: A Novel Two-Stream Framework for Video Anomaly Detection**|Congqi Cao et.al.|[2209.02899v1](http://arxiv.org/abs/2209.02899v1)|
 |**2022-09-05**|**RX-ADS: Interpretable Anomaly Detection using Adversarial ML for Electric Vehicle CAN data**|Chathurika S. Wickramasinghe et.al.|[2209.02052v1](http://arxiv.org/abs/2209.02052v1)|
 |**2022-09-05**|**FIRED: a fine-grained robust performance diagnosis framework for cloud applications**|Ruyue Xin et.al.|[2209.01970v1](http://arxiv.org/abs/2209.01970v1)|
 |**2022-09-05**|**A Benchmark for Unsupervised Anomaly Detection in Multi-Agent Trajectories**|Julian Wiederer et.al.|[2209.01838v1](http://arxiv.org/abs/2209.01838v1)|
@@ -57,6 +59,4 @@
 |**2022-09-04**|**Quickest Anomaly Detection in Sensor Networks With Unlabeled Samples**|Zhongchang Sun et.al.|[2209.01525v1](http://arxiv.org/abs/2209.01525v1)|
 |**2022-09-02**|**Neuromorphic implementation of ECG anomaly detection using delay chains**|Stefan Gerber et.al.|[2209.01266v1](http://arxiv.org/abs/2209.01266v1)|
 |**2022-09-02**|**nnOOD: A Framework for Benchmarking Self-supervised Anomaly Localisation Methods**|Matthew Baugh et.al.|[2209.01124v1](http://arxiv.org/abs/2209.01124v1)|
-|**2022-08-31**|**RecLight: A Recurrent Neural Network Accelerator with Integrated Silicon Photonics**|Febin Sunny et.al.|[2209.00084v1](http://arxiv.org/abs/2209.00084v1)|
-|**2022-08-31**|**Object classification on video data of meteors and meteor-like phenomena: algorithm and data**|Rabea Sennlaub et.al.|[2208.14914v1](http://arxiv.org/abs/2208.14914v1)|
 
