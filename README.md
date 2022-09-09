@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-09-08**|**W-Transformers : A Wavelet-based Transformer Framework for Univariate Time Series Forecasting**|Lena Sasal et.al.|[2209.03945v1](http://arxiv.org/abs/2209.03945v1)|
+|**2022-09-08**|**ReX: A Framework for Generating Local Explanations to Recurrent Neural Networks**|Junhao Liu et.al.|[2209.03798v1](http://arxiv.org/abs/2209.03798v1)|
+|**2022-09-08**|**Suspicious and Anomaly Detection**|Shubham Deshmukh et.al.|[2209.03576v1](http://arxiv.org/abs/2209.03576v1)|
 |**2022-09-07**|**Morphology-preserving Autoregressive 3D Generative Modelling of the Brain**|Petru-Daniel Tudosiu et.al.|[2209.03177v1](http://arxiv.org/abs/2209.03177v1)|
 |**2022-09-07**|**Context Recovery and Knowledge Retrieval: A Novel Two-Stream Framework for Video Anomaly Detection**|Congqi Cao et.al.|[2209.02899v1](http://arxiv.org/abs/2209.02899v1)|
 |**2022-09-05**|**RX-ADS: Interpretable Anomaly Detection using Adversarial ML for Electric Vehicle CAN data**|Chathurika S. Wickramasinghe et.al.|[2209.02052v1](http://arxiv.org/abs/2209.02052v1)|
@@ -56,7 +59,4 @@
 |**2022-09-05**|**A Benchmark for Unsupervised Anomaly Detection in Multi-Agent Trajectories**|Julian Wiederer et.al.|[2209.01838v1](http://arxiv.org/abs/2209.01838v1)|
 |**2022-09-05**|**HealthyGAN: Learning from Unannotated Medical Images to Detect Anomalies Associated with Human Disease**|Md Mahfuzur Rahman Siddiquee et.al.|[2209.01822v1](http://arxiv.org/abs/2209.01822v1)|
 |**2022-09-05**|**ADTR: Anomaly Detection Transformer with Feature Reconstruction**|Zhiyuan You et.al.|[2209.01816v1](http://arxiv.org/abs/2209.01816v1)|
-|**2022-09-04**|**Quickest Anomaly Detection in Sensor Networks With Unlabeled Samples**|Zhongchang Sun et.al.|[2209.01525v1](http://arxiv.org/abs/2209.01525v1)|
-|**2022-09-02**|**Neuromorphic implementation of ECG anomaly detection using delay chains**|Stefan Gerber et.al.|[2209.01266v1](http://arxiv.org/abs/2209.01266v1)|
-|**2022-09-02**|**nnOOD: A Framework for Benchmarking Self-supervised Anomaly Localisation Methods**|Matthew Baugh et.al.|[2209.01124v1](http://arxiv.org/abs/2209.01124v1)|
 
