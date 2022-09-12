@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-09-09**|**Anomaly Detection through Unsupervised Federated Learning**|Mirko Nardi et.al.|[2209.04184v1](http://arxiv.org/abs/2209.04184v1)|
+|**2022-09-09**|**Explanation Method for Anomaly Detection on Mixed Numerical and Categorical Spaces**|Iñigo López-Riobóo Botana et.al.|[2209.04173v1](http://arxiv.org/abs/2209.04173v1)|
 |**2022-09-08**|**W-Transformers : A Wavelet-based Transformer Framework for Univariate Time Series Forecasting**|Lena Sasal et.al.|[2209.03945v1](http://arxiv.org/abs/2209.03945v1)|
 |**2022-09-08**|**ReX: A Framework for Generating Local Explanations to Recurrent Neural Networks**|Junhao Liu et.al.|[2209.03798v1](http://arxiv.org/abs/2209.03798v1)|
 |**2022-09-08**|**Suspicious and Anomaly Detection**|Shubham Deshmukh et.al.|[2209.03576v1](http://arxiv.org/abs/2209.03576v1)|
@@ -57,6 +59,4 @@
 |**2022-09-05**|**RX-ADS: Interpretable Anomaly Detection using Adversarial ML for Electric Vehicle CAN data**|Chathurika S. Wickramasinghe et.al.|[2209.02052v1](http://arxiv.org/abs/2209.02052v1)|
 |**2022-09-05**|**FIRED: a fine-grained robust performance diagnosis framework for cloud applications**|Ruyue Xin et.al.|[2209.01970v1](http://arxiv.org/abs/2209.01970v1)|
 |**2022-09-05**|**A Benchmark for Unsupervised Anomaly Detection in Multi-Agent Trajectories**|Julian Wiederer et.al.|[2209.01838v1](http://arxiv.org/abs/2209.01838v1)|
-|**2022-09-05**|**HealthyGAN: Learning from Unannotated Medical Images to Detect Anomalies Associated with Human Disease**|Md Mahfuzur Rahman Siddiquee et.al.|[2209.01822v1](http://arxiv.org/abs/2209.01822v1)|
-|**2022-09-05**|**ADTR: Anomaly Detection Transformer with Feature Reconstruction**|Zhiyuan You et.al.|[2209.01816v1](http://arxiv.org/abs/2209.01816v1)|
 
