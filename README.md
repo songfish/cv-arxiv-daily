@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-09-12**|**Detecting Driver Drowsiness as an Anomaly Using LSTM Autoencoders**|Gülin Tüfekci et.al.|[2209.05269v1](http://arxiv.org/abs/2209.05269v1)|
+|**2022-09-12**|**Hyperbolic Self-supervised Contrastive Learning Based Network Anomaly Detection**|Yuanjun Shi et.al.|[2209.05049v1](http://arxiv.org/abs/2209.05049v1)|
+|**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|
+|**2022-09-10**|**A Comparative Study on Unsupervised Anomaly Detection for Time Series: Experiments and Analysis**|Yan Zhao et.al.|[2209.04635v1](http://arxiv.org/abs/2209.04635v1)|
+|**2022-09-10**|**Deep Baseline Network for Time Series Modeling and Anomaly Detection**|Cheng Ge et.al.|[2209.04561v1](http://arxiv.org/abs/2209.04561v1)|
+|**2022-09-09**|**Fine-grain Inference on Out-of-Distribution Data with Hierarchical Classification**|Randolph Linderman et.al.|[2209.04493v1](http://arxiv.org/abs/2209.04493v1)|
 |**2022-09-09**|**Anomaly Detection through Unsupervised Federated Learning**|Mirko Nardi et.al.|[2209.04184v1](http://arxiv.org/abs/2209.04184v1)|
 |**2022-09-09**|**Explanation Method for Anomaly Detection on Mixed Numerical and Categorical Spaces**|Iñigo López-Riobóo Botana et.al.|[2209.04173v1](http://arxiv.org/abs/2209.04173v1)|
 |**2022-09-08**|**W-Transformers : A Wavelet-based Transformer Framework for Univariate Time Series Forecasting**|Lena Sasal et.al.|[2209.03945v1](http://arxiv.org/abs/2209.03945v1)|
 |**2022-09-08**|**ReX: A Framework for Generating Local Explanations to Recurrent Neural Networks**|Junhao Liu et.al.|[2209.03798v1](http://arxiv.org/abs/2209.03798v1)|
-|**2022-09-08**|**Suspicious and Anomaly Detection**|Shubham Deshmukh et.al.|[2209.03576v1](http://arxiv.org/abs/2209.03576v1)|
-|**2022-09-07**|**Morphology-preserving Autoregressive 3D Generative Modelling of the Brain**|Petru-Daniel Tudosiu et.al.|[2209.03177v1](http://arxiv.org/abs/2209.03177v1)|
-|**2022-09-07**|**Context Recovery and Knowledge Retrieval: A Novel Two-Stream Framework for Video Anomaly Detection**|Congqi Cao et.al.|[2209.02899v1](http://arxiv.org/abs/2209.02899v1)|
-|**2022-09-05**|**RX-ADS: Interpretable Anomaly Detection using Adversarial ML for Electric Vehicle CAN data**|Chathurika S. Wickramasinghe et.al.|[2209.02052v1](http://arxiv.org/abs/2209.02052v1)|
-|**2022-09-05**|**FIRED: a fine-grained robust performance diagnosis framework for cloud applications**|Ruyue Xin et.al.|[2209.01970v1](http://arxiv.org/abs/2209.01970v1)|
-|**2022-09-05**|**A Benchmark for Unsupervised Anomaly Detection in Multi-Agent Trajectories**|Julian Wiederer et.al.|[2209.01838v1](http://arxiv.org/abs/2209.01838v1)|
 
