@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-09-14**|**Federated Learning based on Defending Against Data Poisoning Attacks in IoT**|Jiayin Li et.al.|[2209.06397v1](http://arxiv.org/abs/2209.06397v1)|
 |**2022-07-20**|**A Hybrid Convolutional Neural Network with Meta Feature Learning for Abnormality Detection in Wireless Capsule Endoscopy Images**|Samir Jain et.al.|[2207.09769v1](http://arxiv.org/abs/2207.09769v1)|
 |**2022-07-13**|**Abnormality Detection and Localization Schemes using Molecular Communication Systems: A Survey**|Ali Etemadi et.al.|[2207.06032v1](http://arxiv.org/abs/2207.06032v1)|
 |**2022-07-08**|**Generative Adversarial Networks and Other Generative Models**|Markus Wenzel et.al.|[2207.03887v1](http://arxiv.org/abs/2207.03887v1)|
@@ -43,20 +44,19 @@
 |**2022-01-24**|**COVID-19 Detection Using CT Image Based On YOLOv5 Network**|Ruyi Qu et.al.|[2201.09972v1](http://arxiv.org/abs/2201.09972v1)|
 |**2022-01-07**|**Persistent Homology for Breast Tumor Classification using Mammogram Scans**|Aras Asaad et.al.|[2201.02295v2](http://arxiv.org/abs/2201.02295v2)|
 |**2021-12-12**|**Anomaly Crossing: A New Method for Video Anomaly Detection as Cross-domain Few-shot Learning**|Guangyu Sun et.al.|[2112.06320v2](http://arxiv.org/abs/2112.06320v2)|
-|**2021-10-07**|**Generative Pre-Trained Transformer for Cardiac Abnormality Detection**|Pierre Louis Gaudilliere et.al.|[2110.04071v1](http://arxiv.org/abs/2110.04071v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-09-14**|**TrADe Re-ID -- Live Person Re-Identification using Tracking and Anomaly Detection**|Luigy Machaca et.al.|[2209.06452v1](http://arxiv.org/abs/2209.06452v1)|
+|**2022-09-14**|**Real-world Video Anomaly Detection by Extracting Salient Features in Videos**|Yudai Watanabe et.al.|[2209.06435v1](http://arxiv.org/abs/2209.06435v1)|
+|**2022-09-14**|**Analytics and Machine Learning Powered Wireless Network Optimization and Planning**|Ying Li et.al.|[2209.06352v1](http://arxiv.org/abs/2209.06352v1)|
+|**2022-09-13**|**Anomaly Detection under Coordinate Transformations**|Gregor Kasieczka et.al.|[2209.06225v1](http://arxiv.org/abs/2209.06225v1)|
 |**2022-09-13**|**Hypersparse Network Flow Analysis of Packets with GraphBLAS**|Tyler Trigg et.al.|[2209.05725v1](http://arxiv.org/abs/2209.05725v1)|
 |**2022-09-12**|**Detecting Driver Drowsiness as an Anomaly Using LSTM Autoencoders**|Gülin Tüfekci et.al.|[2209.05269v1](http://arxiv.org/abs/2209.05269v1)|
 |**2022-09-12**|**Hyperbolic Self-supervised Contrastive Learning Based Network Anomaly Detection**|Yuanjun Shi et.al.|[2209.05049v1](http://arxiv.org/abs/2209.05049v1)|
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|
 |**2022-09-10**|**A Comparative Study on Unsupervised Anomaly Detection for Time Series: Experiments and Analysis**|Yan Zhao et.al.|[2209.04635v1](http://arxiv.org/abs/2209.04635v1)|
 |**2022-09-10**|**Deep Baseline Network for Time Series Modeling and Anomaly Detection**|Cheng Ge et.al.|[2209.04561v1](http://arxiv.org/abs/2209.04561v1)|
-|**2022-09-09**|**Fine-grain Inference on Out-of-Distribution Data with Hierarchical Classification**|Randolph Linderman et.al.|[2209.04493v1](http://arxiv.org/abs/2209.04493v1)|
-|**2022-09-09**|**Anomaly Detection through Unsupervised Federated Learning**|Mirko Nardi et.al.|[2209.04184v1](http://arxiv.org/abs/2209.04184v1)|
-|**2022-09-09**|**Explanation Method for Anomaly Detection on Mixed Numerical and Categorical Spaces**|Iñigo López-Riobóo Botana et.al.|[2209.04173v1](http://arxiv.org/abs/2209.04173v1)|
-|**2022-09-08**|**W-Transformers : A Wavelet-based Transformer Framework for Univariate Time Series Forecasting**|Lena Sasal et.al.|[2209.03945v1](http://arxiv.org/abs/2209.03945v1)|
 
