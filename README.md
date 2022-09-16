@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-09-15**|**Self-Supervised Texture Image Anomaly Detection By Fusing Normalizing Flow and Dictionary Learning**|Yaohua Guo et.al.|[2209.07005v1](http://arxiv.org/abs/2209.07005v1)|
+|**2022-09-14**|**A Temporal Anomaly Detection System for Vehicles utilizing Functional Working Groups and Sensor Channels**|Subash Neupane et.al.|[2209.06828v1](http://arxiv.org/abs/2209.06828v1)|
 |**2022-09-14**|**TrADe Re-ID -- Live Person Re-Identification using Tracking and Anomaly Detection**|Luigy Machaca et.al.|[2209.06452v1](http://arxiv.org/abs/2209.06452v1)|
 |**2022-09-14**|**Real-world Video Anomaly Detection by Extracting Salient Features in Videos**|Yudai Watanabe et.al.|[2209.06435v1](http://arxiv.org/abs/2209.06435v1)|
 |**2022-09-14**|**Analytics and Machine Learning Powered Wireless Network Optimization and Planning**|Ying Li et.al.|[2209.06352v1](http://arxiv.org/abs/2209.06352v1)|
@@ -57,6 +59,4 @@
 |**2022-09-12**|**Detecting Driver Drowsiness as an Anomaly Using LSTM Autoencoders**|Gülin Tüfekci et.al.|[2209.05269v1](http://arxiv.org/abs/2209.05269v1)|
 |**2022-09-12**|**Hyperbolic Self-supervised Contrastive Learning Based Network Anomaly Detection**|Yuanjun Shi et.al.|[2209.05049v1](http://arxiv.org/abs/2209.05049v1)|
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|
-|**2022-09-10**|**A Comparative Study on Unsupervised Anomaly Detection for Time Series: Experiments and Analysis**|Yan Zhao et.al.|[2209.04635v1](http://arxiv.org/abs/2209.04635v1)|
-|**2022-09-10**|**Deep Baseline Network for Time Series Modeling and Anomaly Detection**|Cheng Ge et.al.|[2209.04561v1](http://arxiv.org/abs/2209.04561v1)|
 
