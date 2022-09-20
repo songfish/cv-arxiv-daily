@@ -1,4 +1,4 @@
-## Updated on 2022.09.19
+## Updated on 2022.09.20
 
 ## super-resolution
 
@@ -53,7 +53,7 @@
 |**2022-09-16**|**A Deep Moving-camera Background Model**|Guy Erez et.al.|[2209.07923v1](http://arxiv.org/abs/2209.07923v1)|
 |**2022-09-16**|**An Attention-guided Multistream Feature Fusion Network for Localization of Risky Objects in Driving Videos**|Muhammad Monjurul Karim et.al.|[2209.07922v1](http://arxiv.org/abs/2209.07922v1)|
 |**2022-09-16**|**LogGD:Detecting Anomalies from System Logs by Graph Neural Networks**|Yongzheng Xie et.al.|[2209.07869v1](http://arxiv.org/abs/2209.07869v1)|
-|**2022-09-15**|**Self-Supervised Texture Image Anomaly Detection By Fusing Normalizing Flow and Dictionary Learning**|Yaohua Guo et.al.|[2209.07005v1](http://arxiv.org/abs/2209.07005v1)|
+|**2022-09-15**|**Self-Supervised Texture Image Anomaly Detection By Fusing Normalizing Flow and Dictionary Learning**|Yaohua Guo et.al.|[2209.07005v2](http://arxiv.org/abs/2209.07005v2)|
 |**2022-09-14**|**A Temporal Anomaly Detection System for Vehicles utilizing Functional Working Groups and Sensor Channels**|Subash Neupane et.al.|[2209.06828v1](http://arxiv.org/abs/2209.06828v1)|
 |**2022-09-14**|**TrADe Re-ID -- Live Person Re-Identification using Tracking and Anomaly Detection**|Luigy Machaca et.al.|[2209.06452v1](http://arxiv.org/abs/2209.06452v1)|
 |**2022-09-14**|**Real-world Video Anomaly Detection by Extracting Salient Features in Videos**|Yudai Watanabe et.al.|[2209.06435v1](http://arxiv.org/abs/2209.06435v1)|
