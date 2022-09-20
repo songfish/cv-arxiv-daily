@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-09-19**|**Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model**|Zhisheng Xiao et.al.|[2209.08739v1](http://arxiv.org/abs/2209.08739v1)|
+|**2022-09-18**|**Quantum Algorithm for Anomaly Detection of Sequences**|Ming-Chao Guo et.al.|[2209.08594v1](http://arxiv.org/abs/2209.08594v1)|
+|**2022-09-18**|**Infrared: A Meta Bug Detector**|Chi Zhang et.al.|[2209.08510v1](http://arxiv.org/abs/2209.08510v1)|
+|**2022-09-16**|**Anomaly Detection in Automatic Generation Control Systems Based on Traffic Pattern Analysis and Deep Transfer Learning**|Tohid Behdadnia et.al.|[2209.08099v1](http://arxiv.org/abs/2209.08099v1)|
 |**2022-09-16**|**IoT Data Analytics in Dynamic Environments: From An Automated Machine Learning Perspective**|Li Yang et.al.|[2209.08018v1](http://arxiv.org/abs/2209.08018v1)|
 |**2022-09-16**|**A Deep Moving-camera Background Model**|Guy Erez et.al.|[2209.07923v1](http://arxiv.org/abs/2209.07923v1)|
 |**2022-09-16**|**An Attention-guided Multistream Feature Fusion Network for Localization of Risky Objects in Driving Videos**|Muhammad Monjurul Karim et.al.|[2209.07922v1](http://arxiv.org/abs/2209.07922v1)|
 |**2022-09-16**|**LogGD:Detecting Anomalies from System Logs by Graph Neural Networks**|Yongzheng Xie et.al.|[2209.07869v1](http://arxiv.org/abs/2209.07869v1)|
 |**2022-09-15**|**Self-Supervised Texture Image Anomaly Detection By Fusing Normalizing Flow and Dictionary Learning**|Yaohua Guo et.al.|[2209.07005v2](http://arxiv.org/abs/2209.07005v2)|
 |**2022-09-14**|**A Temporal Anomaly Detection System for Vehicles utilizing Functional Working Groups and Sensor Channels**|Subash Neupane et.al.|[2209.06828v1](http://arxiv.org/abs/2209.06828v1)|
-|**2022-09-14**|**TrADe Re-ID -- Live Person Re-Identification using Tracking and Anomaly Detection**|Luigy Machaca et.al.|[2209.06452v1](http://arxiv.org/abs/2209.06452v1)|
-|**2022-09-14**|**Real-world Video Anomaly Detection by Extracting Salient Features in Videos**|Yudai Watanabe et.al.|[2209.06435v1](http://arxiv.org/abs/2209.06435v1)|
-|**2022-09-14**|**Analytics and Machine Learning Powered Wireless Network Optimization and Planning**|Ying Li et.al.|[2209.06352v1](http://arxiv.org/abs/2209.06352v1)|
-|**2022-09-13**|**Anomaly Detection under Coordinate Transformations**|Gregor Kasieczka et.al.|[2209.06225v1](http://arxiv.org/abs/2209.06225v1)|
 
