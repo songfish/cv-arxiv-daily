@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-09-20**|**Rethinking Dimensionality Reduction in Grid-based 3D Object Detection**|Dihe Huang et.al.|[2209.09464v1](http://arxiv.org/abs/2209.09464v1)|
 |**2022-07-05**|**Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning**|Yuheng Lu et.al.|[2207.01987v1](http://arxiv.org/abs/2207.01987v1)|
 |**2022-05-31**|**itKD: Interchange Transfer-based Knowledge Distillation for 3D Object Detection**|Hyeon Cho et.al.|[2205.15531v1](http://arxiv.org/abs/2205.15531v1)|
 |**2022-01-26**|**Non-star-forming molecular gas in the Abell 1367 intra-cluster multiphase orphan cloud**|Pavel Jáchym et.al.|[2201.11141v1](http://arxiv.org/abs/2201.11141v1)|
@@ -28,7 +29,6 @@
 |**2021-11-23**|**Weakly-Supervised Cloud Detection with Fixed-Point GANs**|Joachim Nyborg et.al.|[2111.11879v1](http://arxiv.org/abs/2111.11879v1)|
 |**2021-10-10**|**3D Object Detection Combining Semantic and Geometric Features from Point Clouds**|Hao Peng et.al.|[2110.04704v1](http://arxiv.org/abs/2110.04704v1)|
 |**2021-08-17**|**Applying Intelligent Reflector Surfaces for Detecting Violent Expiratory Aerosol Cloud using Terahertz Signals**|Harun Šiljak et.al.|[2108.07834v2](http://arxiv.org/abs/2108.07834v2)|
-|**2021-08-03**|**Search for enhanced TeV gamma-ray emission from Giant Molecular Clouds using H.E.S.S**|A. Sinha et.al.|[2108.01738v1](http://arxiv.org/abs/2108.01738v1)|
 
 ## abnormal detection
 
@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-09-20**|**An Outlier Exposure Approach to Improve Visual Anomaly Detection Performance for Mobile Robots**|Dario Mantegazza et.al.|[2209.09786v1](http://arxiv.org/abs/2209.09786v1)|
 |**2022-09-19**|**Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model**|Zhisheng Xiao et.al.|[2209.08739v1](http://arxiv.org/abs/2209.08739v1)|
 |**2022-09-18**|**Quantum Algorithm for Anomaly Detection of Sequences**|Ming-Chao Guo et.al.|[2209.08594v1](http://arxiv.org/abs/2209.08594v1)|
 |**2022-09-18**|**Infrared: A Meta Bug Detector**|Chi Zhang et.al.|[2209.08510v1](http://arxiv.org/abs/2209.08510v1)|
@@ -58,5 +59,4 @@
 |**2022-09-16**|**An Attention-guided Multistream Feature Fusion Network for Localization of Risky Objects in Driving Videos**|Muhammad Monjurul Karim et.al.|[2209.07922v1](http://arxiv.org/abs/2209.07922v1)|
 |**2022-09-16**|**LogGD:Detecting Anomalies from System Logs by Graph Neural Networks**|Yongzheng Xie et.al.|[2209.07869v1](http://arxiv.org/abs/2209.07869v1)|
 |**2022-09-15**|**Self-Supervised Texture Image Anomaly Detection By Fusing Normalizing Flow and Dictionary Learning**|Yaohua Guo et.al.|[2209.07005v2](http://arxiv.org/abs/2209.07005v2)|
-|**2022-09-14**|**A Temporal Anomaly Detection System for Vehicles utilizing Functional Working Groups and Sensor Channels**|Subash Neupane et.al.|[2209.06828v1](http://arxiv.org/abs/2209.06828v1)|
 
