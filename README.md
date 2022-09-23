@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-09-22**|**Query-based Industrial Analytics over Knowledge Graphs with Ontology Reshaping**|Zhuoxun Zheng et.al.|[2209.11089v1](http://arxiv.org/abs/2209.11089v1)|
+|**2022-09-22**|**Challenges in Visual Anomaly Detection for Mobile Robots**|Dario Mantegazza et.al.|[2209.10995v1](http://arxiv.org/abs/2209.10995v1)|
+|**2022-09-21**|**Contrastive Learning for Time Series on Dynamic Graphs**|Yitian Zhang et.al.|[2209.10662v1](http://arxiv.org/abs/2209.10662v1)|
 |**2022-09-21**|**Benchmarking energy consumption and latency for neuromorphic computing in condensed matter and particle physics**|Dominique J. Kösters et.al.|[2209.10481v1](http://arxiv.org/abs/2209.10481v1)|
 |**2022-09-21**|**A data-centric approach to anomaly detection in layer-based additive manufacturing**|Alexander Zeiser et.al.|[2209.10178v1](http://arxiv.org/abs/2209.10178v1)|
 |**2022-09-21**|**Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation**|Shuang Zhou et.al.|[2209.10168v1](http://arxiv.org/abs/2209.10168v1)|
@@ -56,7 +59,4 @@
 |**2022-09-20**|**Collaborative Anomaly Detection**|Ke Bai et.al.|[2209.09923v1](http://arxiv.org/abs/2209.09923v1)|
 |**2022-09-20**|**An Outlier Exposure Approach to Improve Visual Anomaly Detection Performance for Mobile Robots**|Dario Mantegazza et.al.|[2209.09786v1](http://arxiv.org/abs/2209.09786v1)|
 |**2022-09-19**|**Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model**|Zhisheng Xiao et.al.|[2209.08739v1](http://arxiv.org/abs/2209.08739v1)|
-|**2022-09-18**|**Quantum Algorithm for Anomaly Detection of Sequences**|Ming-Chao Guo et.al.|[2209.08594v1](http://arxiv.org/abs/2209.08594v1)|
-|**2022-09-18**|**Infrared: A Meta Bug Detector**|Chi Zhang et.al.|[2209.08510v1](http://arxiv.org/abs/2209.08510v1)|
-|**2022-09-16**|**Anomaly Detection in Automatic Generation Control Systems Based on Traffic Pattern Analysis and Deep Transfer Learning**|Tohid Behdadnia et.al.|[2209.08099v1](http://arxiv.org/abs/2209.08099v1)|
 
