@@ -1,4 +1,4 @@
-## Updated on 2022.09.25
+## Updated on 2022.09.26
 
 ## super-resolution
 
@@ -53,7 +53,7 @@
 |**2022-09-22**|**Challenges in Visual Anomaly Detection for Mobile Robots**|Dario Mantegazza et.al.|[2209.10995v1](http://arxiv.org/abs/2209.10995v1)|
 |**2022-09-21**|**Contrastive Learning for Time Series on Dynamic Graphs**|Yitian Zhang et.al.|[2209.10662v1](http://arxiv.org/abs/2209.10662v1)|
 |**2022-09-21**|**Benchmarking energy consumption and latency for neuromorphic computing in condensed matter and particle physics**|Dominique J. Kösters et.al.|[2209.10481v1](http://arxiv.org/abs/2209.10481v1)|
-|**2022-09-21**|**A data-centric approach to anomaly detection in layer-based additive manufacturing**|Alexander Zeiser et.al.|[2209.10178v1](http://arxiv.org/abs/2209.10178v1)|
+|**2022-09-21**|**Deep Learning based pipeline for anomaly detection and quality enhancement in industrial binder jetting processes**|Alexander Zeiser et.al.|[2209.10178v2](http://arxiv.org/abs/2209.10178v2)|
 |**2022-09-21**|**Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation**|Shuang Zhou et.al.|[2209.10168v1](http://arxiv.org/abs/2209.10168v1)|
 |**2022-09-20**|**Learning Acceptance Regions for Many Classes with Anomaly Detection**|Zhou Wang et.al.|[2209.09963v1](http://arxiv.org/abs/2209.09963v1)|
 |**2022-09-20**|**Collaborative Anomaly Detection**|Ke Bai et.al.|[2209.09923v1](http://arxiv.org/abs/2209.09923v1)|
