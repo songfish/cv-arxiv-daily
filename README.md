@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-09-22**|**Anomaly Detection on Financial Time Series by Principal Component Analysis and Neural Networks**|Stéphane Crépey et.al.|[2209.11686v1](http://arxiv.org/abs/2209.11686v1)|
+|**2022-09-23**|**A Robust and Explainable Data-Driven Anomaly Detection Approach For Power Electronics**|Alexander Beattie et.al.|[2209.11427v1](http://arxiv.org/abs/2209.11427v1)|
+|**2022-09-22**|**Oracle Analysis of Representations for Deep Open Set Detection**|Risheek Garrepalli et.al.|[2209.11350v1](http://arxiv.org/abs/2209.11350v1)|
 |**2022-09-22**|**Query-based Industrial Analytics over Knowledge Graphs with Ontology Reshaping**|Zhuoxun Zheng et.al.|[2209.11089v1](http://arxiv.org/abs/2209.11089v1)|
 |**2022-09-22**|**Challenges in Visual Anomaly Detection for Mobile Robots**|Dario Mantegazza et.al.|[2209.10995v1](http://arxiv.org/abs/2209.10995v1)|
 |**2022-09-21**|**Contrastive Learning for Time Series on Dynamic Graphs**|Yitian Zhang et.al.|[2209.10662v1](http://arxiv.org/abs/2209.10662v1)|
@@ -56,7 +59,4 @@
 |**2022-09-21**|**Deep Learning based pipeline for anomaly detection and quality enhancement in industrial binder jetting processes**|Alexander Zeiser et.al.|[2209.10178v2](http://arxiv.org/abs/2209.10178v2)|
 |**2022-09-21**|**Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation**|Shuang Zhou et.al.|[2209.10168v1](http://arxiv.org/abs/2209.10168v1)|
 |**2022-09-20**|**Learning Acceptance Regions for Many Classes with Anomaly Detection**|Zhou Wang et.al.|[2209.09963v1](http://arxiv.org/abs/2209.09963v1)|
-|**2022-09-20**|**Collaborative Anomaly Detection**|Ke Bai et.al.|[2209.09923v1](http://arxiv.org/abs/2209.09923v1)|
-|**2022-09-20**|**An Outlier Exposure Approach to Improve Visual Anomaly Detection Performance for Mobile Robots**|Dario Mantegazza et.al.|[2209.09786v1](http://arxiv.org/abs/2209.09786v1)|
-|**2022-09-19**|**Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model**|Zhisheng Xiao et.al.|[2209.08739v1](http://arxiv.org/abs/2209.08739v1)|
 
