@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2022-09-22**|**Anomaly Detection on Financial Time Series by Principal Component Analysis and Neural Networks**|Stéphane Crépey et.al.|[2209.11686v1](http://arxiv.org/abs/2209.11686v1)|
+|**2022-09-26**|**Power System Anomaly Detection and Classification Utilizing WLS-EKF State Estimation and Machine Learning**|Sajjad Asefi et.al.|[2209.12629v1](http://arxiv.org/abs/2209.12629v1)|
+|**2022-09-26**|**Visual Anomaly Detection Via Partition Memory Bank Module and Error Estimation**|Peng Xing et.al.|[2209.12441v1](http://arxiv.org/abs/2209.12441v1)|
+|**2022-09-26**|**Self-Supervised Guided Segmentation Framework for Unsupervised Anomaly Detection**|Peng Xing et.al.|[2209.12440v1](http://arxiv.org/abs/2209.12440v1)|
+|**2022-09-26**|**Real-time Anomaly Detection for Multivariate Data Streams**|Kenneth Odoh et.al.|[2209.12398v1](http://arxiv.org/abs/2209.12398v1)|
+|**2022-09-25**|**Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection**|Neelu Madan et.al.|[2209.12148v1](http://arxiv.org/abs/2209.12148v1)|
+|**2022-09-23**|**Composite Layers for Deep Anomaly Detection on 3D Point Clouds**|Alberto Floris et.al.|[2209.11796v1](http://arxiv.org/abs/2209.11796v1)|
+|**2022-09-26**|**Enhancing Claim Classification with Feature Extraction from Anomaly-Detection-Derived Routine and Peculiarity Profiles**|Francis Duval et.al.|[2209.11763v1](http://arxiv.org/abs/2209.11763v1)|
 |**2022-09-23**|**A Robust and Explainable Data-Driven Anomaly Detection Approach For Power Electronics**|Alexander Beattie et.al.|[2209.11427v1](http://arxiv.org/abs/2209.11427v1)|
 |**2022-09-22**|**Oracle Analysis of Representations for Deep Open Set Detection**|Risheek Garrepalli et.al.|[2209.11350v1](http://arxiv.org/abs/2209.11350v1)|
 |**2022-09-22**|**Query-based Industrial Analytics over Knowledge Graphs with Ontology Reshaping**|Zhuoxun Zheng et.al.|[2209.11089v1](http://arxiv.org/abs/2209.11089v1)|
-|**2022-09-22**|**Challenges in Visual Anomaly Detection for Mobile Robots**|Dario Mantegazza et.al.|[2209.10995v1](http://arxiv.org/abs/2209.10995v1)|
-|**2022-09-21**|**Contrastive Learning for Time Series on Dynamic Graphs**|Yitian Zhang et.al.|[2209.10662v1](http://arxiv.org/abs/2209.10662v1)|
-|**2022-09-21**|**Benchmarking energy consumption and latency for neuromorphic computing in condensed matter and particle physics**|Dominique J. Kösters et.al.|[2209.10481v1](http://arxiv.org/abs/2209.10481v1)|
-|**2022-09-21**|**Deep Learning based pipeline for anomaly detection and quality enhancement in industrial binder jetting processes**|Alexander Zeiser et.al.|[2209.10178v2](http://arxiv.org/abs/2209.10178v2)|
-|**2022-09-21**|**Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation**|Shuang Zhou et.al.|[2209.10168v1](http://arxiv.org/abs/2209.10168v1)|
-|**2022-09-20**|**Learning Acceptance Regions for Many Classes with Anomaly Detection**|Zhou Wang et.al.|[2209.09963v1](http://arxiv.org/abs/2209.09963v1)|
 
