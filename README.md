@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-09-27**|**Hitchhiker's Guide to Super-Resolution: Introduction and Recent Advances**|Brian Moser et.al.|[2209.13131v1](http://arxiv.org/abs/2209.13131v1)|
 |**2022-07-15**|**Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity**|Wei Zhou et.al.|[2207.08689v1](http://arxiv.org/abs/2207.08689v1)|
 |**2022-05-11**|**NTIRE 2022 Challenge on Efficient Super-Resolution: Methods and Results**|Yawei Li et.al.|[2205.05675v1](http://arxiv.org/abs/2205.05675v1)|
 |**2022-05-10**|**A Closer Look at Blind Super-Resolution: Degradation Models, Baselines, and Performance Upper Bounds**|Wenlong Zhang et.al.|[2205.04910v1](http://arxiv.org/abs/2205.04910v1)|
@@ -13,7 +14,6 @@
 |**2022-03-16**|**Towards True Detail Restoration for Super-Resolution: A Benchmark and a Quality Metric**|Eugene Lyapustin et.al.|[2203.08923v1](http://arxiv.org/abs/2203.08923v1)|
 |**2022-01-25**|**Revisiting L1 Loss in Super-Resolution: A Probabilistic View and Beyond**|Xiangyu He et.al.|[2201.10084v1](http://arxiv.org/abs/2201.10084v1)|
 |**2022-01-20**|**Enhancement or Super-Resolution: Learning-based Adaptive Video Streaming with Client-Side Video Processing**|Junyan Yang et.al.|[2201.08197v1](http://arxiv.org/abs/2201.08197v1)|
-|**2021-07-07**|**Blind Image Super-Resolution: A Survey and Beyond**|Anran Liu et.al.|[2107.03055v1](http://arxiv.org/abs/2107.03055v1)|
 
 ## cloud detection
 
@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-09-25**|**Anomaly Detection in Aerial Videos with Transformers**|Pu Jin et.al.|[2209.13363v1](http://arxiv.org/abs/2209.13363v1)|
+|**2022-09-27**|**Report of the Topical Group on Physics Beyond the Standard Model at Energy Frontier for Snowmass 2021**|Tulika Bose et.al.|[2209.13128v1](http://arxiv.org/abs/2209.13128v1)|
+|**2022-09-27**|**Spatio-Temporal Relation Learning for Video Anomaly Detection**|Hui Lv et.al.|[2209.13116v1](http://arxiv.org/abs/2209.13116v1)|
+|**2022-09-26**|**Learning Self-Supervised Representations from Vision and Touch for Active Sliding Perception of Deformable Surfaces**|Justin Kerr et.al.|[2209.13042v1](http://arxiv.org/abs/2209.13042v1)|
 |**2022-09-26**|**Power System Anomaly Detection and Classification Utilizing WLS-EKF State Estimation and Machine Learning**|Sajjad Asefi et.al.|[2209.12629v1](http://arxiv.org/abs/2209.12629v1)|
 |**2022-09-26**|**Visual Anomaly Detection Via Partition Memory Bank Module and Error Estimation**|Peng Xing et.al.|[2209.12441v1](http://arxiv.org/abs/2209.12441v1)|
 |**2022-09-26**|**Self-Supervised Guided Segmentation Framework for Unsupervised Anomaly Detection**|Peng Xing et.al.|[2209.12440v1](http://arxiv.org/abs/2209.12440v1)|
 |**2022-09-26**|**Real-time Anomaly Detection for Multivariate Data Streams**|Kenneth Odoh et.al.|[2209.12398v1](http://arxiv.org/abs/2209.12398v1)|
 |**2022-09-25**|**Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection**|Neelu Madan et.al.|[2209.12148v1](http://arxiv.org/abs/2209.12148v1)|
-|**2022-09-23**|**Composite Layers for Deep Anomaly Detection on 3D Point Clouds**|Alberto Floris et.al.|[2209.11796v1](http://arxiv.org/abs/2209.11796v1)|
 |**2022-09-26**|**Enhancing Claim Classification with Feature Extraction from Anomaly-Detection-Derived Routine and Peculiarity Profiles**|Francis Duval et.al.|[2209.11763v1](http://arxiv.org/abs/2209.11763v1)|
-|**2022-09-23**|**A Robust and Explainable Data-Driven Anomaly Detection Approach For Power Electronics**|Alexander Beattie et.al.|[2209.11427v1](http://arxiv.org/abs/2209.11427v1)|
-|**2022-09-22**|**Oracle Analysis of Representations for Deep Open Set Detection**|Risheek Garrepalli et.al.|[2209.11350v1](http://arxiv.org/abs/2209.11350v1)|
-|**2022-09-22**|**Query-based Industrial Analytics over Knowledge Graphs with Ontology Reshaping**|Zhuoxun Zheng et.al.|[2209.11089v1](http://arxiv.org/abs/2209.11089v1)|
 
