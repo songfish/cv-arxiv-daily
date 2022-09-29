@@ -49,7 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2022-09-25**|**Anomaly Detection in Aerial Videos with Transformers**|Pu Jin et.al.|[2209.13363v1](http://arxiv.org/abs/2209.13363v1)|
+|**2022-09-28**|**Anomaly detection optimization using big data and deep learning to reduce false-positive**|Khloud Al Jallad et.al.|[2209.13965v1](http://arxiv.org/abs/2209.13965v1)|
+|**2022-09-28**|**Big data analysis and distributed deep learning for next-generation intrusion detection system optimization**|Khloud Al Jallad et.al.|[2209.13961v1](http://arxiv.org/abs/2209.13961v1)|
 |**2022-09-27**|**Report of the Topical Group on Physics Beyond the Standard Model at Energy Frontier for Snowmass 2021**|Tulika Bose et.al.|[2209.13128v1](http://arxiv.org/abs/2209.13128v1)|
 |**2022-09-27**|**Spatio-Temporal Relation Learning for Video Anomaly Detection**|Hui Lv et.al.|[2209.13116v1](http://arxiv.org/abs/2209.13116v1)|
 |**2022-09-26**|**Learning Self-Supervised Representations from Vision and Touch for Active Sliding Perception of Deformable Surfaces**|Justin Kerr et.al.|[2209.13042v1](http://arxiv.org/abs/2209.13042v1)|
@@ -57,6 +58,5 @@
 |**2022-09-26**|**Visual Anomaly Detection Via Partition Memory Bank Module and Error Estimation**|Peng Xing et.al.|[2209.12441v1](http://arxiv.org/abs/2209.12441v1)|
 |**2022-09-26**|**Self-Supervised Guided Segmentation Framework for Unsupervised Anomaly Detection**|Peng Xing et.al.|[2209.12440v1](http://arxiv.org/abs/2209.12440v1)|
 |**2022-09-26**|**Real-time Anomaly Detection for Multivariate Data Streams**|Kenneth Odoh et.al.|[2209.12398v1](http://arxiv.org/abs/2209.12398v1)|
-|**2022-09-25**|**Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection**|Neelu Madan et.al.|[2209.12148v1](http://arxiv.org/abs/2209.12148v1)|
 |**2022-09-26**|**Enhancing Claim Classification with Feature Extraction from Anomaly-Detection-Derived Routine and Peculiarity Profiles**|Francis Duval et.al.|[2209.11763v1](http://arxiv.org/abs/2209.11763v1)|
 
