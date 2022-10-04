@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-03**|**Unsupervised Model Selection for Time-series Anomaly Detection**|Mononito Goswami et.al.|[2210.01078v1](http://arxiv.org/abs/2210.01078v1)|
+|**2022-10-02**|**Open Framework for Analyzing Public Parliaments Data**|Shai Berkovitz et.al.|[2210.00433v1](http://arxiv.org/abs/2210.00433v1)|
+|**2022-09-30**|**Image-Based Detection of Modifications in Gas Pump PCBs with Deep Convolutional Autoencoders**|Diulhio Candido de Oliveira et.al.|[2210.00100v1](http://arxiv.org/abs/2210.00100v1)|
 |**2022-09-29**|**Cardiotocography Signal Abnormality Detection based on Deep Unsupervised Models**|Julien Bertieaux et.al.|[2209.15085v1](http://arxiv.org/abs/2209.15085v1)|
 |**2022-09-29**|**Graph Anomaly Detection with Graph Neural Networks: Current Status and Challenges**|Hwan Kim et.al.|[2209.14930v1](http://arxiv.org/abs/2209.14930v1)|
 |**2022-09-28**|**Anomaly detection optimization using big data and deep learning to reduce false-positive**|Khloud Al Jallad et.al.|[2209.13965v1](http://arxiv.org/abs/2209.13965v1)|
@@ -56,7 +59,4 @@
 |**2022-09-27**|**Report of the Topical Group on Physics Beyond the Standard Model at Energy Frontier for Snowmass 2021**|Tulika Bose et.al.|[2209.13128v1](http://arxiv.org/abs/2209.13128v1)|
 |**2022-09-27**|**Spatio-Temporal Relation Learning for Video Anomaly Detection**|Hui Lv et.al.|[2209.13116v1](http://arxiv.org/abs/2209.13116v1)|
 |**2022-09-26**|**Learning Self-Supervised Representations from Vision and Touch for Active Sliding Perception of Deformable Surfaces**|Justin Kerr et.al.|[2209.13042v1](http://arxiv.org/abs/2209.13042v1)|
-|**2022-09-26**|**Power System Anomaly Detection and Classification Utilizing WLS-EKF State Estimation and Machine Learning**|Sajjad Asefi et.al.|[2209.12629v2](http://arxiv.org/abs/2209.12629v2)|
-|**2022-09-26**|**Visual Anomaly Detection Via Partition Memory Bank Module and Error Estimation**|Peng Xing et.al.|[2209.12441v1](http://arxiv.org/abs/2209.12441v1)|
-|**2022-09-26**|**Enhancing Claim Classification with Feature Extraction from Anomaly-Detection-Derived Routine and Peculiarity Profiles**|Francis Duval et.al.|[2209.11763v1](http://arxiv.org/abs/2209.11763v1)|
 
