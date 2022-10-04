@@ -1,4 +1,4 @@
-## Updated on 2022.10.03
+## Updated on 2022.10.04
 
 ## super-resolution
 
@@ -8,7 +8,7 @@
 |**2022-07-15**|**Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity**|Wei Zhou et.al.|[2207.08689v1](http://arxiv.org/abs/2207.08689v1)|
 |**2022-05-11**|**NTIRE 2022 Challenge on Efficient Super-Resolution: Methods and Results**|Yawei Li et.al.|[2205.05675v1](http://arxiv.org/abs/2205.05675v1)|
 |**2022-05-10**|**A Closer Look at Blind Super-Resolution: Degradation Models, Baselines, and Performance Upper Bounds**|Wenlong Zhang et.al.|[2205.04910v1](http://arxiv.org/abs/2205.04910v1)|
-|**2022-04-28**|**Generative Adversarial Networks for Image Super-Resolution: A Survey**|Chunwei Tian et.al.|[2204.13620v1](http://arxiv.org/abs/2204.13620v1)|
+|**2022-04-28**|**Generative Adversarial Networks for Image Super-Resolution: A Survey**|Chunwei Tian et.al.|[2204.13620v2](http://arxiv.org/abs/2204.13620v2)|
 |**2022-04-20**|**NTIRE 2022 Challenge on Stereo Image Super-Resolution: Methods and Results**|Longguang Wang et.al.|[2204.09197v1](http://arxiv.org/abs/2204.09197v1)|
 |**2022-03-20**|**Optical Flow for Video Super-Resolution: A Survey**|Zhigang Tu et.al.|[2203.10462v1](http://arxiv.org/abs/2203.10462v1)|
 |**2022-03-16**|**Towards True Detail Restoration for Super-Resolution: A Benchmark and a Quality Metric**|Eugene Lyapustin et.al.|[2203.08923v1](http://arxiv.org/abs/2203.08923v1)|
@@ -56,7 +56,7 @@
 |**2022-09-27**|**Report of the Topical Group on Physics Beyond the Standard Model at Energy Frontier for Snowmass 2021**|Tulika Bose et.al.|[2209.13128v1](http://arxiv.org/abs/2209.13128v1)|
 |**2022-09-27**|**Spatio-Temporal Relation Learning for Video Anomaly Detection**|Hui Lv et.al.|[2209.13116v1](http://arxiv.org/abs/2209.13116v1)|
 |**2022-09-26**|**Learning Self-Supervised Representations from Vision and Touch for Active Sliding Perception of Deformable Surfaces**|Justin Kerr et.al.|[2209.13042v1](http://arxiv.org/abs/2209.13042v1)|
-|**2022-09-26**|**Power System Anomaly Detection and Classification Utilizing WLS-EKF State Estimation and Machine Learning**|Sajjad Asefi et.al.|[2209.12629v1](http://arxiv.org/abs/2209.12629v1)|
+|**2022-09-26**|**Power System Anomaly Detection and Classification Utilizing WLS-EKF State Estimation and Machine Learning**|Sajjad Asefi et.al.|[2209.12629v2](http://arxiv.org/abs/2209.12629v2)|
 |**2022-09-26**|**Visual Anomaly Detection Via Partition Memory Bank Module and Error Estimation**|Peng Xing et.al.|[2209.12441v1](http://arxiv.org/abs/2209.12441v1)|
 |**2022-09-26**|**Enhancing Claim Classification with Feature Extraction from Anomaly-Detection-Derived Routine and Peculiarity Profiles**|Francis Duval et.al.|[2209.11763v1](http://arxiv.org/abs/2209.11763v1)|
 
