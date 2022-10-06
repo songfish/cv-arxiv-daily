@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-05**|**Null Hypothesis Test for Anomaly Detection**|Jernej F. Kamenik et.al.|[2210.02226v1](http://arxiv.org/abs/2210.02226v1)|
+|**2022-10-05**|**TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis**|Haixu Wu et.al.|[2210.02186v1](http://arxiv.org/abs/2210.02186v1)|
 |**2022-10-04**|**AnoML-IoT: An End to End Re-configurable Multi-protocol Anomaly Detection Pipeline for Internet of Things**|Hakan Kayan et.al.|[2210.01771v1](http://arxiv.org/abs/2210.01771v1)|
 |**2022-10-04**|**CADet: Fully Self-Supervised Anomaly Detection With Contrastive Learning**|Charles Guille-Escuret et.al.|[2210.01742v1](http://arxiv.org/abs/2210.01742v1)|
 |**2022-10-04**|**Multiple Instance Learning for Detecting Anomalies over Sequential Real-World Datasets**|Parastoo Kamranfar et.al.|[2210.01707v1](http://arxiv.org/abs/2210.01707v1)|
@@ -57,6 +59,4 @@
 |**2022-10-02**|**Open Framework for Analyzing Public Parliaments Data**|Shai Berkovitz et.al.|[2210.00433v1](http://arxiv.org/abs/2210.00433v1)|
 |**2022-09-30**|**Image-Based Detection of Modifications in Gas Pump PCBs with Deep Convolutional Autoencoders**|Diulhio Candido de Oliveira et.al.|[2210.00100v1](http://arxiv.org/abs/2210.00100v1)|
 |**2022-09-29**|**Cardiotocography Signal Abnormality Detection based on Deep Unsupervised Models**|Julien Bertieaux et.al.|[2209.15085v1](http://arxiv.org/abs/2209.15085v1)|
-|**2022-09-29**|**Graph Anomaly Detection with Graph Neural Networks: Current Status and Challenges**|Hwan Kim et.al.|[2209.14930v2](http://arxiv.org/abs/2209.14930v2)|
-|**2022-09-28**|**Anomaly detection optimization using big data and deep learning to reduce false-positive**|Khloud Al Jallad et.al.|[2209.13965v1](http://arxiv.org/abs/2209.13965v1)|
 
