@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-06**|**Env-Aware Anomaly Detection: Ignore Style Changes, Stay True to Content!**|Stefan Smeu et.al.|[2210.03103v1](http://arxiv.org/abs/2210.03103v1)|
+|**2022-10-06**|**Anomaly detection using data depth: multivariate case**|Pavlo Mozharovskyi et.al.|[2210.02851v1](http://arxiv.org/abs/2210.02851v1)|
+|**2022-10-05**|**Improved Anomaly Detection by Using the Attention-Based Isolation Forest**|Lev V. Utkin et.al.|[2210.02558v1](http://arxiv.org/abs/2210.02558v1)|
+|**2022-10-05**|**DEGAN: Time Series Anomaly Detection using Generative Adversarial Network Discriminators and Density Estimation**|Yueyan Gu et.al.|[2210.02449v1](http://arxiv.org/abs/2210.02449v1)|
 |**2022-10-05**|**Null Hypothesis Test for Anomaly Detection**|Jernej F. Kamenik et.al.|[2210.02226v1](http://arxiv.org/abs/2210.02226v1)|
 |**2022-10-05**|**TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis**|Haixu Wu et.al.|[2210.02186v1](http://arxiv.org/abs/2210.02186v1)|
 |**2022-10-04**|**AnoML-IoT: An End to End Re-configurable Multi-protocol Anomaly Detection Pipeline for Internet of Things**|Hakan Kayan et.al.|[2210.01771v1](http://arxiv.org/abs/2210.01771v1)|
 |**2022-10-04**|**CADet: Fully Self-Supervised Anomaly Detection With Contrastive Learning**|Charles Guille-Escuret et.al.|[2210.01742v1](http://arxiv.org/abs/2210.01742v1)|
 |**2022-10-04**|**Multiple Instance Learning for Detecting Anomalies over Sequential Real-World Datasets**|Parastoo Kamranfar et.al.|[2210.01707v1](http://arxiv.org/abs/2210.01707v1)|
 |**2022-10-04**|**Maximum Entropy Approach for the Prediction of Urban Mobility Patterns**|Simone Daniotti et.al.|[2210.01491v1](http://arxiv.org/abs/2210.01491v1)|
-|**2022-10-03**|**Unsupervised Model Selection for Time-series Anomaly Detection**|Mononito Goswami et.al.|[2210.01078v1](http://arxiv.org/abs/2210.01078v1)|
-|**2022-10-02**|**Open Framework for Analyzing Public Parliaments Data**|Shai Berkovitz et.al.|[2210.00433v1](http://arxiv.org/abs/2210.00433v1)|
-|**2022-09-30**|**Image-Based Detection of Modifications in Gas Pump PCBs with Deep Convolutional Autoencoders**|Diulhio Candido de Oliveira et.al.|[2210.00100v1](http://arxiv.org/abs/2210.00100v1)|
-|**2022-09-29**|**Cardiotocography Signal Abnormality Detection based on Deep Unsupervised Models**|Julien Bertieaux et.al.|[2209.15085v1](http://arxiv.org/abs/2209.15085v1)|
 
