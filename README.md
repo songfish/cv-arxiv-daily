@@ -1,4 +1,4 @@
-## Updated on 2022.10.11
+## Updated on 2022.10.12
 
 ## super-resolution
 
@@ -56,7 +56,7 @@
 |**2022-10-06**|**Anomaly detection using data depth: multivariate case**|Pavlo Mozharovskyi et.al.|[2210.02851v1](http://arxiv.org/abs/2210.02851v1)|
 |**2022-10-05**|**Improved Anomaly Detection by Using the Attention-Based Isolation Forest**|Lev V. Utkin et.al.|[2210.02558v1](http://arxiv.org/abs/2210.02558v1)|
 |**2022-10-05**|**DEGAN: Time Series Anomaly Detection using Generative Adversarial Network Discriminators and Density Estimation**|Yueyan Gu et.al.|[2210.02449v1](http://arxiv.org/abs/2210.02449v1)|
-|**2022-10-05**|**Null Hypothesis Test for Anomaly Detection**|Jernej F. Kamenik et.al.|[2210.02226v1](http://arxiv.org/abs/2210.02226v1)|
+|**2022-10-05**|**Null Hypothesis Test for Anomaly Detection**|Jernej F. Kamenik et.al.|[2210.02226v2](http://arxiv.org/abs/2210.02226v2)|
 |**2022-10-05**|**TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis**|Haixu Wu et.al.|[2210.02186v1](http://arxiv.org/abs/2210.02186v1)|
 |**2022-10-04**|**AnoML-IoT: An End to End Re-configurable Multi-protocol Anomaly Detection Pipeline for Internet of Things**|Hakan Kayan et.al.|[2210.01771v1](http://arxiv.org/abs/2210.01771v1)|
 
