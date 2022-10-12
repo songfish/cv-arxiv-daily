@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-11**|**Digital Twin-Based Multiple Access Optimization and Monitoring via Model-Driven Bayesian Learning**|Clement Ruah et.al.|[2210.05582v1](http://arxiv.org/abs/2210.05582v1)|
+|**2022-10-11**|**InQMAD: Incremental Quantum Measurement Anomaly Detection**|Joseph Gallego-Mejia et.al.|[2210.05061v1](http://arxiv.org/abs/2210.05061v1)|
 |**2022-10-10**|**The Eyecandies Dataset for Unsupervised Multimodal Anomaly Detection and Localization**|Luca Bonfiglioli et.al.|[2210.04570v1](http://arxiv.org/abs/2210.04570v1)|
 |**2022-10-09**|**Dual-distribution discrepancy with self-supervised refinement for anomaly detection in medical images**|Yu Cai et.al.|[2210.04227v1](http://arxiv.org/abs/2210.04227v1)|
 |**2022-10-09**|**Fine-grained Anomaly Detection in Sequential Data via Counterfactual Explanations**|He Cheng et.al.|[2210.04145v1](http://arxiv.org/abs/2210.04145v1)|
 |**2022-10-06**|**Env-Aware Anomaly Detection: Ignore Style Changes, Stay True to Content!**|Stefan Smeu et.al.|[2210.03103v1](http://arxiv.org/abs/2210.03103v1)|
 |**2022-10-06**|**Anomaly detection using data depth: multivariate case**|Pavlo Mozharovskyi et.al.|[2210.02851v1](http://arxiv.org/abs/2210.02851v1)|
 |**2022-10-05**|**Improved Anomaly Detection by Using the Attention-Based Isolation Forest**|Lev V. Utkin et.al.|[2210.02558v1](http://arxiv.org/abs/2210.02558v1)|
-|**2022-10-05**|**DEGAN: Time Series Anomaly Detection using Generative Adversarial Network Discriminators and Density Estimation**|Yueyan Gu et.al.|[2210.02449v1](http://arxiv.org/abs/2210.02449v1)|
 |**2022-10-05**|**Null Hypothesis Test for Anomaly Detection**|Jernej F. Kamenik et.al.|[2210.02226v2](http://arxiv.org/abs/2210.02226v2)|
 |**2022-10-05**|**TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis**|Haixu Wu et.al.|[2210.02186v1](http://arxiv.org/abs/2210.02186v1)|
-|**2022-10-04**|**AnoML-IoT: An End to End Re-configurable Multi-protocol Anomaly Detection Pipeline for Internet of Things**|Hakan Kayan et.al.|[2210.01771v1](http://arxiv.org/abs/2210.01771v1)|
 
