@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-12**|**Common Corruption Robustness of Point Cloud Detectors: Benchmark and Enhancement**|Shuangzhi Li et.al.|[2210.05896v1](http://arxiv.org/abs/2210.05896v1)|
 |**2022-09-20**|**Rethinking Dimensionality Reduction in Grid-based 3D Object Detection**|Dihe Huang et.al.|[2209.09464v2](http://arxiv.org/abs/2209.09464v2)|
 |**2022-07-05**|**Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning**|Yuheng Lu et.al.|[2207.01987v1](http://arxiv.org/abs/2207.01987v1)|
 |**2022-05-31**|**itKD: Interchange Transfer-based Knowledge Distillation for 3D Object Detection**|Hyeon Cho et.al.|[2205.15531v1](http://arxiv.org/abs/2205.15531v1)|
@@ -28,7 +29,6 @@
 |**2021-12-03**|**Adversarial Attacks against a Satellite-borne Multispectral Cloud Detector**|Andrew Du et.al.|[2112.01723v1](http://arxiv.org/abs/2112.01723v1)|
 |**2021-11-23**|**Weakly-Supervised Cloud Detection with Fixed-Point GANs**|Joachim Nyborg et.al.|[2111.11879v1](http://arxiv.org/abs/2111.11879v1)|
 |**2021-10-10**|**3D Object Detection Combining Semantic and Geometric Features from Point Clouds**|Hao Peng et.al.|[2110.04704v1](http://arxiv.org/abs/2110.04704v1)|
-|**2021-08-17**|**Applying Intelligent Reflector Surfaces for Detecting Violent Expiratory Aerosol Cloud using Terahertz Signals**|Harun Šiljak et.al.|[2108.07834v2](http://arxiv.org/abs/2108.07834v2)|
 
 ## abnormal detection
 
@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-12**|**Anomaly Detection using Generative Models and Sum-Product Networks in Mammography Scans**|Marc Dietrichstein et.al.|[2210.06188v1](http://arxiv.org/abs/2210.06188v1)|
 |**2022-10-11**|**Digital Twin-Based Multiple Access Optimization and Monitoring via Model-Driven Bayesian Learning**|Clement Ruah et.al.|[2210.05582v1](http://arxiv.org/abs/2210.05582v1)|
 |**2022-10-11**|**InQMAD: Incremental Quantum Measurement Anomaly Detection**|Joseph Gallego-Mejia et.al.|[2210.05061v1](http://arxiv.org/abs/2210.05061v1)|
 |**2022-10-10**|**The Eyecandies Dataset for Unsupervised Multimodal Anomaly Detection and Localization**|Luca Bonfiglioli et.al.|[2210.04570v1](http://arxiv.org/abs/2210.04570v1)|
@@ -58,5 +59,4 @@
 |**2022-10-06**|**Anomaly detection using data depth: multivariate case**|Pavlo Mozharovskyi et.al.|[2210.02851v1](http://arxiv.org/abs/2210.02851v1)|
 |**2022-10-05**|**Improved Anomaly Detection by Using the Attention-Based Isolation Forest**|Lev V. Utkin et.al.|[2210.02558v1](http://arxiv.org/abs/2210.02558v1)|
 |**2022-10-05**|**Null Hypothesis Test for Anomaly Detection**|Jernej F. Kamenik et.al.|[2210.02226v2](http://arxiv.org/abs/2210.02226v2)|
-|**2022-10-05**|**TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis**|Haixu Wu et.al.|[2210.02186v1](http://arxiv.org/abs/2210.02186v1)|
 
