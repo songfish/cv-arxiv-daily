@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-13**|**OpenOOD: Benchmarking Generalized Out-of-Distribution Detection**|Jingkang Yang et.al.|[2210.07242v1](http://arxiv.org/abs/2210.07242v1)|
+|**2022-10-13**|**A Survey on Explainable Anomaly Detection**|Zhong Li et.al.|[2210.06959v1](http://arxiv.org/abs/2210.06959v1)|
+|**2022-10-13**|**Overlooked Video Classification in Weakly Supervised Video Anomaly Detection**|Weijun Tan et.al.|[2210.06688v1](http://arxiv.org/abs/2210.06688v1)|
+|**2022-10-12**|**Anomaly Detection via Federated Learning**|Marc Vucovich et.al.|[2210.06614v1](http://arxiv.org/abs/2210.06614v1)|
 |**2022-10-12**|**Anomaly Detection using Generative Models and Sum-Product Networks in Mammography Scans**|Marc Dietrichstein et.al.|[2210.06188v1](http://arxiv.org/abs/2210.06188v1)|
 |**2022-10-11**|**Digital Twin-Based Multiple Access Optimization and Monitoring via Model-Driven Bayesian Learning**|Clement Ruah et.al.|[2210.05582v1](http://arxiv.org/abs/2210.05582v1)|
 |**2022-10-11**|**InQMAD: Incremental Quantum Measurement Anomaly Detection**|Joseph Gallego-Mejia et.al.|[2210.05061v1](http://arxiv.org/abs/2210.05061v1)|
 |**2022-10-10**|**The Eyecandies Dataset for Unsupervised Multimodal Anomaly Detection and Localization**|Luca Bonfiglioli et.al.|[2210.04570v1](http://arxiv.org/abs/2210.04570v1)|
 |**2022-10-09**|**Dual-distribution discrepancy with self-supervised refinement for anomaly detection in medical images**|Yu Cai et.al.|[2210.04227v1](http://arxiv.org/abs/2210.04227v1)|
 |**2022-10-09**|**Fine-grained Anomaly Detection in Sequential Data via Counterfactual Explanations**|He Cheng et.al.|[2210.04145v1](http://arxiv.org/abs/2210.04145v1)|
-|**2022-10-06**|**Env-Aware Anomaly Detection: Ignore Style Changes, Stay True to Content!**|Stefan Smeu et.al.|[2210.03103v1](http://arxiv.org/abs/2210.03103v1)|
-|**2022-10-06**|**Anomaly detection using data depth: multivariate case**|Pavlo Mozharovskyi et.al.|[2210.02851v1](http://arxiv.org/abs/2210.02851v1)|
-|**2022-10-05**|**Improved Anomaly Detection by Using the Attention-Based Isolation Forest**|Lev V. Utkin et.al.|[2210.02558v1](http://arxiv.org/abs/2210.02558v1)|
-|**2022-10-05**|**Null Hypothesis Test for Anomaly Detection**|Jernej F. Kamenik et.al.|[2210.02226v2](http://arxiv.org/abs/2210.02226v2)|
 
