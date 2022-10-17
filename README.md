@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-14**|**Surface abnormality detection in medical and inspection systems using energy variations in co-occurrence matrixes**|Nandara K. Krishnand et.al.|[2210.07812v1](http://arxiv.org/abs/2210.07812v1)|
 |**2022-09-29**|**Cardiotocography Signal Abnormality Detection based on Deep Unsupervised Models**|Julien Bertieaux et.al.|[2209.15085v1](http://arxiv.org/abs/2209.15085v1)|
 |**2022-09-14**|**Federated Learning based on Defending Against Data Poisoning Attacks in IoT**|Jiayin Li et.al.|[2209.06397v1](http://arxiv.org/abs/2209.06397v1)|
 |**2022-07-20**|**A Hybrid Convolutional Neural Network with Meta Feature Learning for Abnormality Detection in Wireless Capsule Endoscopy Images**|Samir Jain et.al.|[2207.09769v1](http://arxiv.org/abs/2207.09769v1)|
@@ -43,20 +44,19 @@
 |**2022-05-24**|**Neural Contextual Bandits Based Dynamic Sensor Selection for Low-Power Body-Area Networks**|Berken Utku Demirel et.al.|[2205.11832v1](http://arxiv.org/abs/2205.11832v1)|
 |**2022-02-23**|**Augmentation based unsupervised domain adaptation**|Mauricio Orbes-Arteaga et.al.|[2202.11486v1](http://arxiv.org/abs/2202.11486v1)|
 |**2022-01-24**|**COVID-19 Detection Using CT Image Based On YOLOv5 Network**|Ruyi Qu et.al.|[2201.09972v1](http://arxiv.org/abs/2201.09972v1)|
-|**2022-01-07**|**Persistent Homology for Breast Tumor Classification using Mammogram Scans**|Aras Asaad et.al.|[2201.02295v2](http://arxiv.org/abs/2201.02295v2)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-14**|**Asymmetric Student-Teacher Networks for Industrial Anomaly Detection**|Marco Rudolph et.al.|[2210.07829v1](http://arxiv.org/abs/2210.07829v1)|
+|**2022-10-14**|**Multi-Task Learning based Video Anomaly Detection with Attention**|Mohammad Baradaran et.al.|[2210.07697v1](http://arxiv.org/abs/2210.07697v1)|
+|**2022-10-14**|**Learning image representations for anomaly detection: application to discovery of histological alterations in drug development**|Igor Zingman et.al.|[2210.07675v1](http://arxiv.org/abs/2210.07675v1)|
+|**2022-10-14**|**Reconstructed Student-Teacher and Discriminative Networks for Anomaly Detection**|Shinji Yamada et.al.|[2210.07548v1](http://arxiv.org/abs/2210.07548v1)|
+|**2022-10-13**|**Anomaly detection in dynamic networks**|Sevvandi Kandanaarachchi et.al.|[2210.07407v1](http://arxiv.org/abs/2210.07407v1)|
 |**2022-10-13**|**OpenOOD: Benchmarking Generalized Out-of-Distribution Detection**|Jingkang Yang et.al.|[2210.07242v1](http://arxiv.org/abs/2210.07242v1)|
 |**2022-10-13**|**A Survey on Explainable Anomaly Detection**|Zhong Li et.al.|[2210.06959v1](http://arxiv.org/abs/2210.06959v1)|
 |**2022-10-13**|**Overlooked Video Classification in Weakly Supervised Video Anomaly Detection**|Weijun Tan et.al.|[2210.06688v1](http://arxiv.org/abs/2210.06688v1)|
 |**2022-10-12**|**Anomaly Detection via Federated Learning**|Marc Vucovich et.al.|[2210.06614v1](http://arxiv.org/abs/2210.06614v1)|
 |**2022-10-12**|**Anomaly Detection using Generative Models and Sum-Product Networks in Mammography Scans**|Marc Dietrichstein et.al.|[2210.06188v1](http://arxiv.org/abs/2210.06188v1)|
-|**2022-10-11**|**Digital Twin-Based Multiple Access Optimization and Monitoring via Model-Driven Bayesian Learning**|Clement Ruah et.al.|[2210.05582v1](http://arxiv.org/abs/2210.05582v1)|
-|**2022-10-11**|**InQMAD: Incremental Quantum Measurement Anomaly Detection**|Joseph Gallego-Mejia et.al.|[2210.05061v1](http://arxiv.org/abs/2210.05061v1)|
-|**2022-10-10**|**The Eyecandies Dataset for Unsupervised Multimodal Anomaly Detection and Localization**|Luca Bonfiglioli et.al.|[2210.04570v1](http://arxiv.org/abs/2210.04570v1)|
-|**2022-10-09**|**Dual-distribution discrepancy with self-supervised refinement for anomaly detection in medical images**|Yu Cai et.al.|[2210.04227v1](http://arxiv.org/abs/2210.04227v1)|
-|**2022-10-09**|**Fine-grained Anomaly Detection in Sequential Data via Counterfactual Explanations**|He Cheng et.al.|[2210.04145v1](http://arxiv.org/abs/2210.04145v1)|
 
