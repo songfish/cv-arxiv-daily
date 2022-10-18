@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-17**|**tegdet: An extensible Python Library for Anomaly Detection using Time-Evolving Graphs**|Simona Bernardi et.al.|[2210.08847v1](http://arxiv.org/abs/2210.08847v1)|
+|**2022-10-17**|**N-pad : Neighboring Pixel-based Industrial Anomaly Detection**|JunKyu Jang et.al.|[2210.08768v1](http://arxiv.org/abs/2210.08768v1)|
+|**2022-10-14**|**VHetNets for AI and AI for VHetNets: An Anomaly Detection Case Study for Ubiquitous IoT**|Weili Wang et.al.|[2210.08132v1](http://arxiv.org/abs/2210.08132v1)|
+|**2022-10-14**|**Autoencoder based Anomaly Detection and Explained Fault Localization in Industrial Cooling Systems**|Stephanie Holly et.al.|[2210.08011v1](http://arxiv.org/abs/2210.08011v1)|
 |**2022-10-14**|**Asymmetric Student-Teacher Networks for Industrial Anomaly Detection**|Marco Rudolph et.al.|[2210.07829v1](http://arxiv.org/abs/2210.07829v1)|
 |**2022-10-14**|**Multi-Task Learning based Video Anomaly Detection with Attention**|Mohammad Baradaran et.al.|[2210.07697v1](http://arxiv.org/abs/2210.07697v1)|
 |**2022-10-14**|**Learning image representations for anomaly detection: application to discovery of histological alterations in drug development**|Igor Zingman et.al.|[2210.07675v1](http://arxiv.org/abs/2210.07675v1)|
 |**2022-10-14**|**Reconstructed Student-Teacher and Discriminative Networks for Anomaly Detection**|Shinji Yamada et.al.|[2210.07548v1](http://arxiv.org/abs/2210.07548v1)|
 |**2022-10-13**|**Anomaly detection in dynamic networks**|Sevvandi Kandanaarachchi et.al.|[2210.07407v1](http://arxiv.org/abs/2210.07407v1)|
 |**2022-10-13**|**OpenOOD: Benchmarking Generalized Out-of-Distribution Detection**|Jingkang Yang et.al.|[2210.07242v1](http://arxiv.org/abs/2210.07242v1)|
-|**2022-10-13**|**A Survey on Explainable Anomaly Detection**|Zhong Li et.al.|[2210.06959v1](http://arxiv.org/abs/2210.06959v1)|
-|**2022-10-13**|**Overlooked Video Classification in Weakly Supervised Video Anomaly Detection**|Weijun Tan et.al.|[2210.06688v1](http://arxiv.org/abs/2210.06688v1)|
-|**2022-10-12**|**Anomaly Detection via Federated Learning**|Marc Vucovich et.al.|[2210.06614v1](http://arxiv.org/abs/2210.06614v1)|
-|**2022-10-12**|**Anomaly Detection using Generative Models and Sum-Product Networks in Mammography Scans**|Marc Dietrichstein et.al.|[2210.06188v1](http://arxiv.org/abs/2210.06188v1)|
 
