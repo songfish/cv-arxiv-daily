@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-17**|**HALOGAS: Strong Constraints on the Neutral Gas Reservoir and Accretion Rate in Nearby Spiral Galaxies**|P. Kamphuis et.al.|[2210.09383v1](http://arxiv.org/abs/2210.09383v1)|
 |**2022-10-12**|**Common Corruption Robustness of Point Cloud Detectors: Benchmark and Enhancement**|Shuangzhi Li et.al.|[2210.05896v1](http://arxiv.org/abs/2210.05896v1)|
 |**2022-09-20**|**Rethinking Dimensionality Reduction in Grid-based 3D Object Detection**|Dihe Huang et.al.|[2209.09464v2](http://arxiv.org/abs/2209.09464v2)|
 |**2022-07-05**|**Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning**|Yuheng Lu et.al.|[2207.01987v1](http://arxiv.org/abs/2207.01987v1)|
@@ -28,7 +29,6 @@
 |**2021-12-23**|**Cloud Removal from Satellite Images**|Rutvik Chauhan et.al.|[2112.15483v1](http://arxiv.org/abs/2112.15483v1)|
 |**2021-12-03**|**Adversarial Attacks against a Satellite-borne Multispectral Cloud Detector**|Andrew Du et.al.|[2112.01723v1](http://arxiv.org/abs/2112.01723v1)|
 |**2021-11-23**|**Weakly-Supervised Cloud Detection with Fixed-Point GANs**|Joachim Nyborg et.al.|[2111.11879v1](http://arxiv.org/abs/2111.11879v1)|
-|**2021-10-10**|**3D Object Detection Combining Semantic and Geometric Features from Point Clouds**|Hao Peng et.al.|[2110.04704v1](http://arxiv.org/abs/2110.04704v1)|
 
 ## abnormal detection
 
@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-18**|**DAGAD: Data Augmentation for Graph Anomaly Detection**|Fanzhen Liu et.al.|[2210.09766v1](http://arxiv.org/abs/2210.09766v1)|
+|**2022-10-18**|**TFAD: A Decomposition Time Series Anomaly Detection Architecture with Time-Frequency Analysis**|Chaoli Zhang et.al.|[2210.09693v1](http://arxiv.org/abs/2210.09693v1)|
+|**2022-10-18**|**Spatio-Temporal-based Context Fusion for Video Anomaly Detection**|Chao Hu et.al.|[2210.09572v1](http://arxiv.org/abs/2210.09572v1)|
+|**2022-10-18**|**Graph Anomaly Detection with Unsupervised GNNs**|Lingxiao Zhao et.al.|[2210.09535v1](http://arxiv.org/abs/2210.09535v1)|
+|**2022-10-17**|**CAN-BERT do it? Controller Area Network Intrusion Detection System based on BERT Language Model**|Natasha Alkhatib et.al.|[2210.09439v1](http://arxiv.org/abs/2210.09439v1)|
+|**2022-10-17**|**Towards Generating Adversarial Examples on Mixed-type Data**|Han Xu et.al.|[2210.09405v1](http://arxiv.org/abs/2210.09405v1)|
 |**2022-10-17**|**tegdet: An extensible Python Library for Anomaly Detection using Time-Evolving Graphs**|Simona Bernardi et.al.|[2210.08847v1](http://arxiv.org/abs/2210.08847v1)|
 |**2022-10-17**|**N-pad : Neighboring Pixel-based Industrial Anomaly Detection**|JunKyu Jang et.al.|[2210.08768v1](http://arxiv.org/abs/2210.08768v1)|
 |**2022-10-14**|**VHetNets for AI and AI for VHetNets: An Anomaly Detection Case Study for Ubiquitous IoT**|Weili Wang et.al.|[2210.08132v1](http://arxiv.org/abs/2210.08132v1)|
-|**2022-10-14**|**Autoencoder based Anomaly Detection and Explained Fault Localization in Industrial Cooling Systems**|Stephanie Holly et.al.|[2210.08011v1](http://arxiv.org/abs/2210.08011v1)|
 |**2022-10-14**|**Asymmetric Student-Teacher Networks for Industrial Anomaly Detection**|Marco Rudolph et.al.|[2210.07829v2](http://arxiv.org/abs/2210.07829v2)|
-|**2022-10-14**|**Multi-Task Learning based Video Anomaly Detection with Attention**|Mohammad Baradaran et.al.|[2210.07697v1](http://arxiv.org/abs/2210.07697v1)|
-|**2022-10-14**|**Learning image representations for anomaly detection: application to discovery of histological alterations in drug development**|Igor Zingman et.al.|[2210.07675v1](http://arxiv.org/abs/2210.07675v1)|
-|**2022-10-14**|**Reconstructed Student-Teacher and Discriminative Networks for Anomaly Detection**|Shinji Yamada et.al.|[2210.07548v1](http://arxiv.org/abs/2210.07548v1)|
-|**2022-10-13**|**Anomaly detection in dynamic networks**|Sevvandi Kandanaarachchi et.al.|[2210.07407v1](http://arxiv.org/abs/2210.07407v1)|
-|**2022-10-13**|**OpenOOD: Benchmarking Generalized Out-of-Distribution Detection**|Jingkang Yang et.al.|[2210.07242v1](http://arxiv.org/abs/2210.07242v1)|
 
