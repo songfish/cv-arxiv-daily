@@ -1,4 +1,4 @@
-## Updated on 2022.10.18
+## Updated on 2022.10.19
 
 ## super-resolution
 
@@ -53,7 +53,7 @@
 |**2022-10-17**|**N-pad : Neighboring Pixel-based Industrial Anomaly Detection**|JunKyu Jang et.al.|[2210.08768v1](http://arxiv.org/abs/2210.08768v1)|
 |**2022-10-14**|**VHetNets for AI and AI for VHetNets: An Anomaly Detection Case Study for Ubiquitous IoT**|Weili Wang et.al.|[2210.08132v1](http://arxiv.org/abs/2210.08132v1)|
 |**2022-10-14**|**Autoencoder based Anomaly Detection and Explained Fault Localization in Industrial Cooling Systems**|Stephanie Holly et.al.|[2210.08011v1](http://arxiv.org/abs/2210.08011v1)|
-|**2022-10-14**|**Asymmetric Student-Teacher Networks for Industrial Anomaly Detection**|Marco Rudolph et.al.|[2210.07829v1](http://arxiv.org/abs/2210.07829v1)|
+|**2022-10-14**|**Asymmetric Student-Teacher Networks for Industrial Anomaly Detection**|Marco Rudolph et.al.|[2210.07829v2](http://arxiv.org/abs/2210.07829v2)|
 |**2022-10-14**|**Multi-Task Learning based Video Anomaly Detection with Attention**|Mohammad Baradaran et.al.|[2210.07697v1](http://arxiv.org/abs/2210.07697v1)|
 |**2022-10-14**|**Learning image representations for anomaly detection: application to discovery of histological alterations in drug development**|Igor Zingman et.al.|[2210.07675v1](http://arxiv.org/abs/2210.07675v1)|
 |**2022-10-14**|**Reconstructed Student-Teacher and Discriminative Networks for Anomaly Detection**|Shinji Yamada et.al.|[2210.07548v1](http://arxiv.org/abs/2210.07548v1)|
