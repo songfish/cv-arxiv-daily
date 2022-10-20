@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-19**|**Anomaly Detection Requires Better Representations**|Tal Reiss et.al.|[2210.10773v1](http://arxiv.org/abs/2210.10773v1)|
+|**2022-10-19**|**Generative model for learning quantum ensemble via optimal transport loss**|Hiroyuki Tezuka et.al.|[2210.10743v1](http://arxiv.org/abs/2210.10743v1)|
+|**2022-10-19**|**Asymmetric Distillation Post-Segmentation Method for Image Anomaly Detection**|Peng Xing et.al.|[2210.10495v1](http://arxiv.org/abs/2210.10495v1)|
+|**2022-10-19**|**Estimating the Contamination Factor's Distribution in Unsupervised Anomaly Detection**|Lorenzo Perini et.al.|[2210.10487v1](http://arxiv.org/abs/2210.10487v1)|
+|**2022-10-19**|**Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection**|Andres Pulido et.al.|[2210.10263v1](http://arxiv.org/abs/2210.10263v1)|
 |**2022-10-18**|**DAGAD: Data Augmentation for Graph Anomaly Detection**|Fanzhen Liu et.al.|[2210.09766v1](http://arxiv.org/abs/2210.09766v1)|
 |**2022-10-18**|**TFAD: A Decomposition Time Series Anomaly Detection Architecture with Time-Frequency Analysis**|Chaoli Zhang et.al.|[2210.09693v1](http://arxiv.org/abs/2210.09693v1)|
 |**2022-10-18**|**Spatio-Temporal-based Context Fusion for Video Anomaly Detection**|Chao Hu et.al.|[2210.09572v1](http://arxiv.org/abs/2210.09572v1)|
 |**2022-10-18**|**Graph Anomaly Detection with Unsupervised GNNs**|Lingxiao Zhao et.al.|[2210.09535v1](http://arxiv.org/abs/2210.09535v1)|
 |**2022-10-17**|**CAN-BERT do it? Controller Area Network Intrusion Detection System based on BERT Language Model**|Natasha Alkhatib et.al.|[2210.09439v1](http://arxiv.org/abs/2210.09439v1)|
-|**2022-10-17**|**Towards Generating Adversarial Examples on Mixed-type Data**|Han Xu et.al.|[2210.09405v1](http://arxiv.org/abs/2210.09405v1)|
-|**2022-10-17**|**tegdet: An extensible Python Library for Anomaly Detection using Time-Evolving Graphs**|Simona Bernardi et.al.|[2210.08847v1](http://arxiv.org/abs/2210.08847v1)|
-|**2022-10-17**|**N-pad : Neighboring Pixel-based Industrial Anomaly Detection**|JunKyu Jang et.al.|[2210.08768v1](http://arxiv.org/abs/2210.08768v1)|
-|**2022-10-14**|**VHetNets for AI and AI for VHetNets: An Anomaly Detection Case Study for Ubiquitous IoT**|Weili Wang et.al.|[2210.08132v1](http://arxiv.org/abs/2210.08132v1)|
-|**2022-10-14**|**Asymmetric Student-Teacher Networks for Industrial Anomaly Detection**|Marco Rudolph et.al.|[2210.07829v2](http://arxiv.org/abs/2210.07829v2)|
 
