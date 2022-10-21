@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-19**|**Hierarchical Deep Learning with Generative Adversarial Network for Automatic Cardiac Diagnosis from ECG Signals**|Zekai Wang et.al.|[2210.11408v1](http://arxiv.org/abs/2210.11408v1)|
+|**2022-10-20**|**Investigating Quantum Many-Body Systems with Tensor Networks, Machine Learning and Quantum Computers**|Korbinian Kottmann et.al.|[2210.11130v1](http://arxiv.org/abs/2210.11130v1)|
+|**2022-10-20**|**Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance**|YeongHyeon Park et.al.|[2210.11068v1](http://arxiv.org/abs/2210.11068v1)|
 |**2022-10-19**|**Anomaly Detection Requires Better Representations**|Tal Reiss et.al.|[2210.10773v1](http://arxiv.org/abs/2210.10773v1)|
 |**2022-10-19**|**Generative model for learning quantum ensemble via optimal transport loss**|Hiroyuki Tezuka et.al.|[2210.10743v1](http://arxiv.org/abs/2210.10743v1)|
 |**2022-10-19**|**Asymmetric Distillation Post-Segmentation Method for Image Anomaly Detection**|Peng Xing et.al.|[2210.10495v1](http://arxiv.org/abs/2210.10495v1)|
@@ -56,7 +59,4 @@
 |**2022-10-19**|**Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection**|Andres Pulido et.al.|[2210.10263v1](http://arxiv.org/abs/2210.10263v1)|
 |**2022-10-18**|**DAGAD: Data Augmentation for Graph Anomaly Detection**|Fanzhen Liu et.al.|[2210.09766v1](http://arxiv.org/abs/2210.09766v1)|
 |**2022-10-18**|**TFAD: A Decomposition Time Series Anomaly Detection Architecture with Time-Frequency Analysis**|Chaoli Zhang et.al.|[2210.09693v1](http://arxiv.org/abs/2210.09693v1)|
-|**2022-10-18**|**Spatio-Temporal-based Context Fusion for Video Anomaly Detection**|Chao Hu et.al.|[2210.09572v1](http://arxiv.org/abs/2210.09572v1)|
-|**2022-10-18**|**Graph Anomaly Detection with Unsupervised GNNs**|Lingxiao Zhao et.al.|[2210.09535v2](http://arxiv.org/abs/2210.09535v2)|
-|**2022-10-17**|**CAN-BERT do it? Controller Area Network Intrusion Detection System based on BERT Language Model**|Natasha Alkhatib et.al.|[2210.09439v1](http://arxiv.org/abs/2210.09439v1)|
 
