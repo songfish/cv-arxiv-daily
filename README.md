@@ -1,4 +1,4 @@
-## Updated on 2022.10.20
+## Updated on 2022.10.21
 
 ## super-resolution
 
@@ -57,6 +57,6 @@
 |**2022-10-18**|**DAGAD: Data Augmentation for Graph Anomaly Detection**|Fanzhen Liu et.al.|[2210.09766v1](http://arxiv.org/abs/2210.09766v1)|
 |**2022-10-18**|**TFAD: A Decomposition Time Series Anomaly Detection Architecture with Time-Frequency Analysis**|Chaoli Zhang et.al.|[2210.09693v1](http://arxiv.org/abs/2210.09693v1)|
 |**2022-10-18**|**Spatio-Temporal-based Context Fusion for Video Anomaly Detection**|Chao Hu et.al.|[2210.09572v1](http://arxiv.org/abs/2210.09572v1)|
-|**2022-10-18**|**Graph Anomaly Detection with Unsupervised GNNs**|Lingxiao Zhao et.al.|[2210.09535v1](http://arxiv.org/abs/2210.09535v1)|
+|**2022-10-18**|**Graph Anomaly Detection with Unsupervised GNNs**|Lingxiao Zhao et.al.|[2210.09535v2](http://arxiv.org/abs/2210.09535v2)|
 |**2022-10-17**|**CAN-BERT do it? Controller Area Network Intrusion Detection System based on BERT Language Model**|Natasha Alkhatib et.al.|[2210.09439v1](http://arxiv.org/abs/2210.09439v1)|
 
