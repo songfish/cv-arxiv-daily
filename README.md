@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-21**|**Improving the Anomaly Detection in GPR Images by Fine-Tuning CNNs with Synthetic Data**|Xiren Zhou et.al.|[2210.11833v1](http://arxiv.org/abs/2210.11833v1)|
 |**2022-10-19**|**Hierarchical Deep Learning with Generative Adversarial Network for Automatic Cardiac Diagnosis from ECG Signals**|Zekai Wang et.al.|[2210.11408v1](http://arxiv.org/abs/2210.11408v1)|
 |**2022-10-20**|**Investigating Quantum Many-Body Systems with Tensor Networks, Machine Learning and Quantum Computers**|Korbinian Kottmann et.al.|[2210.11130v1](http://arxiv.org/abs/2210.11130v1)|
 |**2022-10-20**|**Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance**|YeongHyeon Park et.al.|[2210.11068v1](http://arxiv.org/abs/2210.11068v1)|
@@ -58,5 +59,4 @@
 |**2022-10-19**|**Estimating the Contamination Factor's Distribution in Unsupervised Anomaly Detection**|Lorenzo Perini et.al.|[2210.10487v1](http://arxiv.org/abs/2210.10487v1)|
 |**2022-10-19**|**Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection**|Andres Pulido et.al.|[2210.10263v1](http://arxiv.org/abs/2210.10263v1)|
 |**2022-10-18**|**DAGAD: Data Augmentation for Graph Anomaly Detection**|Fanzhen Liu et.al.|[2210.09766v1](http://arxiv.org/abs/2210.09766v1)|
-|**2022-10-18**|**TFAD: A Decomposition Time Series Anomaly Detection Architecture with Time-Frequency Analysis**|Chaoli Zhang et.al.|[2210.09693v1](http://arxiv.org/abs/2210.09693v1)|
 
