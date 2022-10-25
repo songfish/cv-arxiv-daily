@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-24**|**Bridging Machine Learning and Sciences: Opportunities and Challenges**|Taoli Cheng et.al.|[2210.13441v1](http://arxiv.org/abs/2210.13441v1)|
+|**2022-10-24**|**Physical Layer Security -- from Theory to Practice**|Miroslav Mitev et.al.|[2210.13261v1](http://arxiv.org/abs/2210.13261v1)|
 |**2022-10-21**|**Improving the Anomaly Detection in GPR Images by Fine-Tuning CNNs with Synthetic Data**|Xiren Zhou et.al.|[2210.11833v1](http://arxiv.org/abs/2210.11833v1)|
 |**2022-10-19**|**Hierarchical Deep Learning with Generative Adversarial Network for Automatic Cardiac Diagnosis from ECG Signals**|Zekai Wang et.al.|[2210.11408v1](http://arxiv.org/abs/2210.11408v1)|
 |**2022-10-20**|**Investigating Quantum Many-Body Systems with Tensor Networks, Machine Learning and Quantum Computers**|Korbinian Kottmann et.al.|[2210.11130v1](http://arxiv.org/abs/2210.11130v1)|
@@ -57,6 +59,4 @@
 |**2022-10-19**|**Generative model for learning quantum ensemble via optimal transport loss**|Hiroyuki Tezuka et.al.|[2210.10743v1](http://arxiv.org/abs/2210.10743v1)|
 |**2022-10-19**|**Asymmetric Distillation Post-Segmentation Method for Image Anomaly Detection**|Peng Xing et.al.|[2210.10495v1](http://arxiv.org/abs/2210.10495v1)|
 |**2022-10-19**|**Estimating the Contamination Factor's Distribution in Unsupervised Anomaly Detection**|Lorenzo Perini et.al.|[2210.10487v1](http://arxiv.org/abs/2210.10487v1)|
-|**2022-10-19**|**Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection**|Andres Pulido et.al.|[2210.10263v1](http://arxiv.org/abs/2210.10263v1)|
-|**2022-10-18**|**DAGAD: Data Augmentation for Graph Anomaly Detection**|Fanzhen Liu et.al.|[2210.09766v1](http://arxiv.org/abs/2210.09766v1)|
 
