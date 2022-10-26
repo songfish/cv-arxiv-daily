@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-24**|**Self-Configuring nnU-Nets Detect Clouds in Satellite Images**|Bartosz Grabowski et.al.|[2210.13659v1](http://arxiv.org/abs/2210.13659v1)|
 |**2022-10-17**|**HALOGAS: Strong Constraints on the Neutral Gas Reservoir and Accretion Rate in Nearby Spiral Galaxies**|P. Kamphuis et.al.|[2210.09383v1](http://arxiv.org/abs/2210.09383v1)|
 |**2022-10-12**|**Common Corruption Robustness of Point Cloud Detectors: Benchmark and Enhancement**|Shuangzhi Li et.al.|[2210.05896v1](http://arxiv.org/abs/2210.05896v1)|
 |**2022-09-20**|**Rethinking Dimensionality Reduction in Grid-based 3D Object Detection**|Dihe Huang et.al.|[2209.09464v2](http://arxiv.org/abs/2209.09464v2)|
@@ -28,7 +29,6 @@
 |**2022-01-07**|**Multiresolution Fully Convolutional Networks to detect Clouds and Snow through Optical Satellite Images**|Debvrat Varshney et.al.|[2201.02350v1](http://arxiv.org/abs/2201.02350v1)|
 |**2021-12-23**|**Cloud Removal from Satellite Images**|Rutvik Chauhan et.al.|[2112.15483v1](http://arxiv.org/abs/2112.15483v1)|
 |**2021-12-03**|**Adversarial Attacks against a Satellite-borne Multispectral Cloud Detector**|Andrew Du et.al.|[2112.01723v1](http://arxiv.org/abs/2112.01723v1)|
-|**2021-11-23**|**Weakly-Supervised Cloud Detection with Fixed-Point GANs**|Joachim Nyborg et.al.|[2111.11879v1](http://arxiv.org/abs/2111.11879v1)|
 
 ## abnormal detection
 
@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-25**|**Unsupervised Anomaly Detection for Auditing Data and Impact of Categorical Encodings**|Ajay Chawda et.al.|[2210.14056v1](http://arxiv.org/abs/2210.14056v1)|
+|**2022-10-25**|**Deep Crowd Anomaly Detection: State-of-the-Art, Challenges, and Future Research Directions**|Md. Haidar Sharif et.al.|[2210.13927v1](http://arxiv.org/abs/2210.13927v1)|
+|**2022-10-25**|**InForecaster: Forecasting Influenza Hemagglutinin Mutations Through the Lens of Anomaly Detection**|Ali Garjani et.al.|[2210.13709v1](http://arxiv.org/abs/2210.13709v1)|
 |**2022-10-24**|**Bridging Machine Learning and Sciences: Opportunities and Challenges**|Taoli Cheng et.al.|[2210.13441v1](http://arxiv.org/abs/2210.13441v1)|
 |**2022-10-24**|**Physical Layer Security -- from Theory to Practice**|Miroslav Mitev et.al.|[2210.13261v1](http://arxiv.org/abs/2210.13261v1)|
 |**2022-10-21**|**Improving the Anomaly Detection in GPR Images by Fine-Tuning CNNs with Synthetic Data**|Xiren Zhou et.al.|[2210.11833v1](http://arxiv.org/abs/2210.11833v1)|
-|**2022-10-19**|**Hierarchical Deep Learning with Generative Adversarial Network for Automatic Cardiac Diagnosis from ECG Signals**|Zekai Wang et.al.|[2210.11408v1](http://arxiv.org/abs/2210.11408v1)|
 |**2022-10-20**|**Investigating Quantum Many-Body Systems with Tensor Networks, Machine Learning and Quantum Computers**|Korbinian Kottmann et.al.|[2210.11130v1](http://arxiv.org/abs/2210.11130v1)|
 |**2022-10-20**|**Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance**|YeongHyeon Park et.al.|[2210.11068v1](http://arxiv.org/abs/2210.11068v1)|
 |**2022-10-19**|**Anomaly Detection Requires Better Representations**|Tal Reiss et.al.|[2210.10773v1](http://arxiv.org/abs/2210.10773v1)|
 |**2022-10-19**|**Generative model for learning quantum ensemble via optimal transport loss**|Hiroyuki Tezuka et.al.|[2210.10743v1](http://arxiv.org/abs/2210.10743v1)|
-|**2022-10-19**|**Asymmetric Distillation Post-Segmentation Method for Image Anomaly Detection**|Peng Xing et.al.|[2210.10495v1](http://arxiv.org/abs/2210.10495v1)|
-|**2022-10-19**|**Estimating the Contamination Factor's Distribution in Unsupervised Anomaly Detection**|Lorenzo Perini et.al.|[2210.10487v1](http://arxiv.org/abs/2210.10487v1)|
 
