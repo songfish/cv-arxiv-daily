@@ -1,4 +1,4 @@
-## Updated on 2022.10.26
+## Updated on 2022.10.27
 
 ## super-resolution
 
@@ -49,7 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2022-10-25**|**Unsupervised Anomaly Detection for Auditing Data and Impact of Categorical Encodings**|Ajay Chawda et.al.|[2210.14056v1](http://arxiv.org/abs/2210.14056v1)|
+|**2022-10-25**|**Unsupervised Anomaly Detection for Auditing Data and Impact of Categorical Encodings**|Ajay Chawda et.al.|[2210.14056v2](http://arxiv.org/abs/2210.14056v2)|
 |**2022-10-25**|**Deep Crowd Anomaly Detection: State-of-the-Art, Challenges, and Future Research Directions**|Md. Haidar Sharif et.al.|[2210.13927v1](http://arxiv.org/abs/2210.13927v1)|
 |**2022-10-25**|**InForecaster: Forecasting Influenza Hemagglutinin Mutations Through the Lens of Anomaly Detection**|Ali Garjani et.al.|[2210.13709v1](http://arxiv.org/abs/2210.13709v1)|
 |**2022-10-24**|**Bridging Machine Learning and Sciences: Opportunities and Challenges**|Taoli Cheng et.al.|[2210.13441v1](http://arxiv.org/abs/2210.13441v1)|
