@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-27**|**Masked Transformer for image Anomaly Localization**|Axel De Nardin et.al.|[2210.15540v1](http://arxiv.org/abs/2210.15540v1)|
+|**2022-10-26**|**A Hierarchical Approach to Conditional Random Fields for System Anomaly Detection**|Srishti Mishra et.al.|[2210.15030v1](http://arxiv.org/abs/2210.15030v1)|
+|**2022-10-26**|**Resonant anomaly detection without background sculpting**|Anna Hallin et.al.|[2210.14924v1](http://arxiv.org/abs/2210.14924v1)|
+|**2022-10-26**|**AltUB: Alternating Training Method to Update Base Distribution of Normalizing Flow for Anomaly Detection**|Yeongmin Kim et.al.|[2210.14913v1](http://arxiv.org/abs/2210.14913v1)|
 |**2022-10-26**|**AD-DMKDE: Anomaly Detection through Density Matrices and Fourier Features**|Oscar Bustos-Brinez et.al.|[2210.14796v1](http://arxiv.org/abs/2210.14796v1)|
 |**2022-10-26**|**Reconstruction from edge image combined with color and gradient difference for industrial surface anomaly detection**|Tongkun Liu et.al.|[2210.14485v1](http://arxiv.org/abs/2210.14485v1)|
 |**2022-10-25**|**On multiscale quasi-interpolation of scattered scalar- and manifold-valued functions**|Nir Sharon et.al.|[2210.14333v1](http://arxiv.org/abs/2210.14333v1)|
 |**2022-10-25**|**Unsupervised Anomaly Detection for Auditing Data and Impact of Categorical Encodings**|Ajay Chawda et.al.|[2210.14056v2](http://arxiv.org/abs/2210.14056v2)|
 |**2022-10-25**|**Deep Crowd Anomaly Detection: State-of-the-Art, Challenges, and Future Research Directions**|Md. Haidar Sharif et.al.|[2210.13927v1](http://arxiv.org/abs/2210.13927v1)|
 |**2022-10-25**|**InForecaster: Forecasting Influenza Hemagglutinin Mutations Through the Lens of Anomaly Detection**|Ali Garjani et.al.|[2210.13709v1](http://arxiv.org/abs/2210.13709v1)|
-|**2022-10-24**|**Bridging Machine Learning and Sciences: Opportunities and Challenges**|Taoli Cheng et.al.|[2210.13441v1](http://arxiv.org/abs/2210.13441v1)|
-|**2022-10-24**|**Physical Layer Security -- from Theory to Practice**|Miroslav Mitev et.al.|[2210.13261v1](http://arxiv.org/abs/2210.13261v1)|
-|**2022-10-21**|**Improving the Anomaly Detection in GPR Images by Fine-Tuning CNNs with Synthetic Data**|Xiren Zhou et.al.|[2210.11833v1](http://arxiv.org/abs/2210.11833v1)|
-|**2022-10-20**|**Investigating Quantum Many-Body Systems with Tensor Networks, Machine Learning and Quantum Computers**|Korbinian Kottmann et.al.|[2210.11130v1](http://arxiv.org/abs/2210.11130v1)|
 
