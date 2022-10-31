@@ -1,4 +1,4 @@
-## Updated on 2022.10.30
+## Updated on 2022.10.31
 
 ## super-resolution
 
@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2022-10-27**|**Masked Transformer for image Anomaly Localization**|Axel De Nardin et.al.|[2210.15540v1](http://arxiv.org/abs/2210.15540v1)|
-|**2022-10-26**|**A Hierarchical Approach to Conditional Random Fields for System Anomaly Detection**|Srishti Mishra et.al.|[2210.15030v1](http://arxiv.org/abs/2210.15030v1)|
+|**2022-10-26**|**A Hierarchical Approach to Conditional Random Fields for System Anomaly Detection**|Srishti Mishra et.al.|[2210.15030v2](http://arxiv.org/abs/2210.15030v2)|
 |**2022-10-26**|**Resonant anomaly detection without background sculpting**|Anna Hallin et.al.|[2210.14924v1](http://arxiv.org/abs/2210.14924v1)|
 |**2022-10-26**|**AltUB: Alternating Training Method to Update Base Distribution of Normalizing Flow for Anomaly Detection**|Yeongmin Kim et.al.|[2210.14913v1](http://arxiv.org/abs/2210.14913v1)|
 |**2022-10-26**|**AD-DMKDE: Anomaly Detection through Density Matrices and Fourier Features**|Oscar Bustos-Brinez et.al.|[2210.14796v1](http://arxiv.org/abs/2210.14796v1)|
