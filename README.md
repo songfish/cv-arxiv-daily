@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-28**|**Deep Learning-Based Anomaly Detection in Synthetic Aperture Radar Imaging**|Max Muzeau et.al.|[2210.16038v1](http://arxiv.org/abs/2210.16038v1)|
+|**2022-10-27**|**Data-driven anomaly detection in large battery packs**|Kiran Bhaskar et.al.|[2210.15773v1](http://arxiv.org/abs/2210.15773v1)|
 |**2022-10-27**|**Masked Transformer for image Anomaly Localization**|Axel De Nardin et.al.|[2210.15540v1](http://arxiv.org/abs/2210.15540v1)|
 |**2022-10-26**|**A Hierarchical Approach to Conditional Random Fields for System Anomaly Detection**|Srishti Mishra et.al.|[2210.15030v2](http://arxiv.org/abs/2210.15030v2)|
 |**2022-10-26**|**Resonant anomaly detection without background sculpting**|Anna Hallin et.al.|[2210.14924v1](http://arxiv.org/abs/2210.14924v1)|
@@ -57,6 +59,4 @@
 |**2022-10-26**|**Reconstruction from edge image combined with color and gradient difference for industrial surface anomaly detection**|Tongkun Liu et.al.|[2210.14485v1](http://arxiv.org/abs/2210.14485v1)|
 |**2022-10-25**|**On multiscale quasi-interpolation of scattered scalar- and manifold-valued functions**|Nir Sharon et.al.|[2210.14333v1](http://arxiv.org/abs/2210.14333v1)|
 |**2022-10-25**|**Unsupervised Anomaly Detection for Auditing Data and Impact of Categorical Encodings**|Ajay Chawda et.al.|[2210.14056v2](http://arxiv.org/abs/2210.14056v2)|
-|**2022-10-25**|**Deep Crowd Anomaly Detection: State-of-the-Art, Challenges, and Future Research Directions**|Md. Haidar Sharif et.al.|[2210.13927v1](http://arxiv.org/abs/2210.13927v1)|
-|**2022-10-25**|**InForecaster: Forecasting Influenza Hemagglutinin Mutations Through the Lens of Anomaly Detection**|Ali Garjani et.al.|[2210.13709v1](http://arxiv.org/abs/2210.13709v1)|
 
