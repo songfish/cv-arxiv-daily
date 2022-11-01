@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-10-31**|**Tree Detection and Diameter Estimation Based on Deep Learning**|Vincent Grondin et.al.|[2210.17424v1](http://arxiv.org/abs/2210.17424v1)|
+|**2022-10-31**|**SoK: Modeling Explainability in Security Monitoring for Trust, Privacy, and Interpretability**|Dipkamal Bhusal et.al.|[2210.17376v1](http://arxiv.org/abs/2210.17376v1)|
+|**2022-10-28**|**Imbalanced Data Classification via Generative Adversarial Network with Application to Anomaly Detection in Additive Manufacturing Process**|Jihoon Chung et.al.|[2210.17274v1](http://arxiv.org/abs/2210.17274v1)|
+|**2022-10-31**|**Teacher-Student Network for 3D Point Cloud Anomaly Detection with Few Normal Samples**|Jianjian Qin et.al.|[2210.17258v1](http://arxiv.org/abs/2210.17258v1)|
+|**2022-10-29**|**Joint Sub-component Level Segmentation and Classification for Anomaly Detection within Dual-Energy X-Ray Security Imagery**|Neelanjan Bhowmik et.al.|[2210.16453v1](http://arxiv.org/abs/2210.16453v1)|
+|**2022-10-28**|**Quantum Variational Rewinding for Time Series Anomaly Detection**|Jack S. Baker et.al.|[2210.16438v1](http://arxiv.org/abs/2210.16438v1)|
+|**2022-10-28**|**Learning to Detect Interesting Anomalies**|Alireza Vafaei Sadr et.al.|[2210.16334v1](http://arxiv.org/abs/2210.16334v1)|
 |**2022-10-28**|**Deep Learning-Based Anomaly Detection in Synthetic Aperture Radar Imaging**|Max Muzeau et.al.|[2210.16038v1](http://arxiv.org/abs/2210.16038v1)|
 |**2022-10-27**|**Data-driven anomaly detection in large battery packs**|Kiran Bhaskar et.al.|[2210.15773v1](http://arxiv.org/abs/2210.15773v1)|
 |**2022-10-27**|**Masked Transformer for image Anomaly Localization**|Axel De Nardin et.al.|[2210.15540v1](http://arxiv.org/abs/2210.15540v1)|
-|**2022-10-26**|**A Hierarchical Approach to Conditional Random Fields for System Anomaly Detection**|Srishti Mishra et.al.|[2210.15030v2](http://arxiv.org/abs/2210.15030v2)|
-|**2022-10-26**|**Resonant anomaly detection without background sculpting**|Anna Hallin et.al.|[2210.14924v1](http://arxiv.org/abs/2210.14924v1)|
-|**2022-10-26**|**AltUB: Alternating Training Method to Update Base Distribution of Normalizing Flow for Anomaly Detection**|Yeongmin Kim et.al.|[2210.14913v1](http://arxiv.org/abs/2210.14913v1)|
-|**2022-10-26**|**AD-DMKDE: Anomaly Detection through Density Matrices and Fourier Features**|Oscar Bustos-Brinez et.al.|[2210.14796v1](http://arxiv.org/abs/2210.14796v1)|
-|**2022-10-26**|**Reconstruction from edge image combined with color and gradient difference for industrial surface anomaly detection**|Tongkun Liu et.al.|[2210.14485v1](http://arxiv.org/abs/2210.14485v1)|
-|**2022-10-25**|**On multiscale quasi-interpolation of scattered scalar- and manifold-valued functions**|Nir Sharon et.al.|[2210.14333v1](http://arxiv.org/abs/2210.14333v1)|
-|**2022-10-25**|**Unsupervised Anomaly Detection for Auditing Data and Impact of Categorical Encodings**|Ajay Chawda et.al.|[2210.14056v2](http://arxiv.org/abs/2210.14056v2)|
 
