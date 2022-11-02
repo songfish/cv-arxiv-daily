@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-01**|**MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model**|Junde Wu et.al.|[2211.00611v1](http://arxiv.org/abs/2211.00611v1)|
+|**2022-11-01**|**Siamese Transition Masked Autoencoders as Uniform Unsupervised Visual Anomaly Detector**|Haiming Yao et.al.|[2211.00349v1](http://arxiv.org/abs/2211.00349v1)|
+|**2022-11-01**|**HFN: Heterogeneous Feature Network for Multivariate Time Series Anomaly Detection**|Jun Zhan et.al.|[2211.00277v1](http://arxiv.org/abs/2211.00277v1)|
+|**2022-10-30**|**Classical ensemble of Quantum-classical ML algorithms for Phishing detection in Ethereum transaction networks**|Anupama Ray et.al.|[2211.00004v1](http://arxiv.org/abs/2211.00004v1)|
 |**2022-10-31**|**Tree Detection and Diameter Estimation Based on Deep Learning**|Vincent Grondin et.al.|[2210.17424v1](http://arxiv.org/abs/2210.17424v1)|
 |**2022-10-31**|**SoK: Modeling Explainability in Security Monitoring for Trust, Privacy, and Interpretability**|Dipkamal Bhusal et.al.|[2210.17376v1](http://arxiv.org/abs/2210.17376v1)|
-|**2022-10-28**|**Imbalanced Data Classification via Generative Adversarial Network with Application to Anomaly Detection in Additive Manufacturing Process**|Jihoon Chung et.al.|[2210.17274v1](http://arxiv.org/abs/2210.17274v1)|
 |**2022-10-31**|**Teacher-Student Network for 3D Point Cloud Anomaly Detection with Few Normal Samples**|Jianjian Qin et.al.|[2210.17258v1](http://arxiv.org/abs/2210.17258v1)|
 |**2022-10-29**|**Joint Sub-component Level Segmentation and Classification for Anomaly Detection within Dual-Energy X-Ray Security Imagery**|Neelanjan Bhowmik et.al.|[2210.16453v1](http://arxiv.org/abs/2210.16453v1)|
 |**2022-10-28**|**Quantum Variational Rewinding for Time Series Anomaly Detection**|Jack S. Baker et.al.|[2210.16438v1](http://arxiv.org/abs/2210.16438v1)|
 |**2022-10-28**|**Learning to Detect Interesting Anomalies**|Alireza Vafaei Sadr et.al.|[2210.16334v1](http://arxiv.org/abs/2210.16334v1)|
-|**2022-10-28**|**Deep Learning-Based Anomaly Detection in Synthetic Aperture Radar Imaging**|Max Muzeau et.al.|[2210.16038v1](http://arxiv.org/abs/2210.16038v1)|
-|**2022-10-27**|**Data-driven anomaly detection in large battery packs**|Kiran Bhaskar et.al.|[2210.15773v1](http://arxiv.org/abs/2210.15773v1)|
-|**2022-10-27**|**Masked Transformer for image Anomaly Localization**|Axel De Nardin et.al.|[2210.15540v1](http://arxiv.org/abs/2210.15540v1)|
 
