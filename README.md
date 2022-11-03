@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-02**|**Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems**|Kai Packhäuser et.al.|[2211.01323v1](http://arxiv.org/abs/2211.01323v1)|
 |**2022-10-14**|**Surface abnormality detection in medical and inspection systems using energy variations in co-occurrence matrixes**|Nandara K. Krishnand et.al.|[2210.07812v1](http://arxiv.org/abs/2210.07812v1)|
 |**2022-09-29**|**Cardiotocography Signal Abnormality Detection based on Deep Unsupervised Models**|Julien Bertieaux et.al.|[2209.15085v1](http://arxiv.org/abs/2209.15085v1)|
 |**2022-09-14**|**Federated Learning based on Defending Against Data Poisoning Attacks in IoT**|Jiayin Li et.al.|[2209.06397v1](http://arxiv.org/abs/2209.06397v1)|
@@ -43,20 +44,19 @@
 |**2022-06-06**|**Early Abnormal Detection of Sewage Pipe Network: Bagging of Various Abnormal Detection Algorithms**|Zhen-Yu Zhang et.al.|[2206.03321v1](http://arxiv.org/abs/2206.03321v1)|
 |**2022-05-24**|**Neural Contextual Bandits Based Dynamic Sensor Selection for Low-Power Body-Area Networks**|Berken Utku Demirel et.al.|[2205.11832v1](http://arxiv.org/abs/2205.11832v1)|
 |**2022-02-23**|**Augmentation based unsupervised domain adaptation**|Mauricio Orbes-Arteaga et.al.|[2202.11486v1](http://arxiv.org/abs/2202.11486v1)|
-|**2022-01-24**|**COVID-19 Detection Using CT Image Based On YOLOv5 Network**|Ruyi Qu et.al.|[2201.09972v1](http://arxiv.org/abs/2201.09972v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-02**|**Secure and Efficient Privacy-preserving Authentication Scheme using Cuckoo Filter in Remote Patient Monitoring Network**|Shafika Showkat Moni et.al.|[2211.01270v1](http://arxiv.org/abs/2211.01270v1)|
+|**2022-11-02**|**DyAnNet: A Scene Dynamicity Guided Self-Trained Video Anomaly Detection Network**|Kamalakar Thakare et.al.|[2211.00882v1](http://arxiv.org/abs/2211.00882v1)|
+|**2022-11-02**|**Exploiting Spatial-temporal Correlations for Video Anomaly Detection**|Mengyang Zhao et.al.|[2211.00829v1](http://arxiv.org/abs/2211.00829v1)|
+|**2022-11-01**|**Semi-Supervised Domain Adaptation for Cross-Survey Galaxy Morphology Classification and Anomaly Detection**|Aleksandra Ćiprijanović et.al.|[2211.00677v1](http://arxiv.org/abs/2211.00677v1)|
 |**2022-11-01**|**MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model**|Junde Wu et.al.|[2211.00611v1](http://arxiv.org/abs/2211.00611v1)|
 |**2022-11-01**|**Siamese Transition Masked Autoencoders as Uniform Unsupervised Visual Anomaly Detector**|Haiming Yao et.al.|[2211.00349v1](http://arxiv.org/abs/2211.00349v1)|
 |**2022-11-01**|**HFN: Heterogeneous Feature Network for Multivariate Time Series Anomaly Detection**|Jun Zhan et.al.|[2211.00277v2](http://arxiv.org/abs/2211.00277v2)|
-|**2022-10-30**|**Classical ensemble of Quantum-classical ML algorithms for Phishing detection in Ethereum transaction networks**|Anupama Ray et.al.|[2211.00004v1](http://arxiv.org/abs/2211.00004v1)|
 |**2022-10-31**|**Tree Detection and Diameter Estimation Based on Deep Learning**|Vincent Grondin et.al.|[2210.17424v1](http://arxiv.org/abs/2210.17424v1)|
 |**2022-10-31**|**SoK: Modeling Explainability in Security Monitoring for Trust, Privacy, and Interpretability**|Dipkamal Bhusal et.al.|[2210.17376v1](http://arxiv.org/abs/2210.17376v1)|
 |**2022-10-31**|**Teacher-Student Network for 3D Point Cloud Anomaly Detection with Few Normal Samples**|Jianjian Qin et.al.|[2210.17258v1](http://arxiv.org/abs/2210.17258v1)|
-|**2022-10-29**|**Joint Sub-component Level Segmentation and Classification for Anomaly Detection within Dual-Energy X-Ray Security Imagery**|Neelanjan Bhowmik et.al.|[2210.16453v1](http://arxiv.org/abs/2210.16453v1)|
-|**2022-10-28**|**Quantum Variational Rewinding for Time Series Anomaly Detection**|Jack S. Baker et.al.|[2210.16438v1](http://arxiv.org/abs/2210.16438v1)|
-|**2022-10-28**|**Learning to Detect Interesting Anomalies**|Alireza Vafaei Sadr et.al.|[2210.16334v1](http://arxiv.org/abs/2210.16334v1)|
 
