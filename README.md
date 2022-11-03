@@ -1,4 +1,4 @@
-## Updated on 2022.11.02
+## Updated on 2022.11.03
 
 ## super-resolution
 
@@ -51,7 +51,7 @@
 |---|---|---|---|
 |**2022-11-01**|**MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model**|Junde Wu et.al.|[2211.00611v1](http://arxiv.org/abs/2211.00611v1)|
 |**2022-11-01**|**Siamese Transition Masked Autoencoders as Uniform Unsupervised Visual Anomaly Detector**|Haiming Yao et.al.|[2211.00349v1](http://arxiv.org/abs/2211.00349v1)|
-|**2022-11-01**|**HFN: Heterogeneous Feature Network for Multivariate Time Series Anomaly Detection**|Jun Zhan et.al.|[2211.00277v1](http://arxiv.org/abs/2211.00277v1)|
+|**2022-11-01**|**HFN: Heterogeneous Feature Network for Multivariate Time Series Anomaly Detection**|Jun Zhan et.al.|[2211.00277v2](http://arxiv.org/abs/2211.00277v2)|
 |**2022-10-30**|**Classical ensemble of Quantum-classical ML algorithms for Phishing detection in Ethereum transaction networks**|Anupama Ray et.al.|[2211.00004v1](http://arxiv.org/abs/2211.00004v1)|
 |**2022-10-31**|**Tree Detection and Diameter Estimation Based on Deep Learning**|Vincent Grondin et.al.|[2210.17424v1](http://arxiv.org/abs/2210.17424v1)|
 |**2022-10-31**|**SoK: Modeling Explainability in Security Monitoring for Trust, Privacy, and Interpretability**|Dipkamal Bhusal et.al.|[2210.17376v1](http://arxiv.org/abs/2210.17376v1)|
