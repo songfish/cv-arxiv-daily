@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-03**|**A unique, ring-like radio source with quadrilateral structure detected with machine learning**|Michelle Lochner et.al.|[2211.02062v1](http://arxiv.org/abs/2211.02062v1)|
 |**2022-11-03**|**Discussion of Features for Acoustic Anomaly Detection under Industrial Disturbing Noise in an End-of-Line Test of Geared Motors**|Peter Wissbrock et.al.|[2211.01716v1](http://arxiv.org/abs/2211.01716v1)|
 |**2022-11-01**|**Unsupervised Anomaly Detection of Paranasal Anomalies in the Maxillary Sinus**|Debayan Bhattacharya et.al.|[2211.01371v1](http://arxiv.org/abs/2211.01371v1)|
 |**2022-11-02**|**Secure and Efficient Privacy-preserving Authentication Scheme using Cuckoo Filter in Remote Patient Monitoring Network**|Shafika Showkat Moni et.al.|[2211.01270v1](http://arxiv.org/abs/2211.01270v1)|
@@ -58,5 +59,4 @@
 |**2022-11-01**|**MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model**|Junde Wu et.al.|[2211.00611v1](http://arxiv.org/abs/2211.00611v1)|
 |**2022-11-01**|**Siamese Transition Masked Autoencoders as Uniform Unsupervised Visual Anomaly Detector**|Haiming Yao et.al.|[2211.00349v1](http://arxiv.org/abs/2211.00349v1)|
 |**2022-11-01**|**HFN: Heterogeneous Feature Network for Multivariate Time Series Anomaly Detection**|Jun Zhan et.al.|[2211.00277v2](http://arxiv.org/abs/2211.00277v2)|
-|**2022-10-31**|**Tree Detection and Diameter Estimation Based on Deep Learning**|Vincent Grondin et.al.|[2210.17424v1](http://arxiv.org/abs/2210.17424v1)|
 
