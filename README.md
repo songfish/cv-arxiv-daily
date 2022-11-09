@@ -56,7 +56,7 @@
 |**2022-11-03**|**A unique, ring-like radio source with quadrilateral structure detected with machine learning**|Michelle Lochner et.al.|[2211.02062v1](http://arxiv.org/abs/2211.02062v1)|
 |**2022-11-03**|**Discussion of Features for Acoustic Anomaly Detection under Industrial Disturbing Noise in an End-of-Line Test of Geared Motors**|Peter Wissbrock et.al.|[2211.01716v1](http://arxiv.org/abs/2211.01716v1)|
 |**2022-11-01**|**Unsupervised Anomaly Detection of Paranasal Anomalies in the Maxillary Sinus**|Debayan Bhattacharya et.al.|[2211.01371v1](http://arxiv.org/abs/2211.01371v1)|
-|**2022-11-02**|**Secure and Efficient Privacy-preserving Authentication Scheme using Cuckoo Filter in Remote Patient Monitoring Network**|Shafika Showkat Moni et.al.|[2211.01270v1](http://arxiv.org/abs/2211.01270v1)|
+|**2022-11-02**|**Secure and Efficient Privacy-preserving Authentication Scheme using Cuckoo Filter in Remote Patient Monitoring Network**|Shafika Showkat Moni et.al.|[2211.01270v2](http://arxiv.org/abs/2211.01270v2)|
 |**2022-11-02**|**DyAnNet: A Scene Dynamicity Guided Self-Trained Video Anomaly Detection Network**|Kamalakar Thakare et.al.|[2211.00882v1](http://arxiv.org/abs/2211.00882v1)|
 |**2022-11-02**|**Exploiting Spatial-temporal Correlations for Video Anomaly Detection**|Mengyang Zhao et.al.|[2211.00829v1](http://arxiv.org/abs/2211.00829v1)|
 
