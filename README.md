@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-08**|**Evaluation of Color Anomaly Detection in Multispectral Images For Synthetic Aperture Sensing**|Francis Seits et.al.|[2211.04293v1](http://arxiv.org/abs/2211.04293v1)|
+|**2022-11-07**|**Quantum-probabilistic Hamiltonian learning for generative modelling & anomaly detection**|Jack Y. Araz et.al.|[2211.03803v1](http://arxiv.org/abs/2211.03803v1)|
 |**2022-11-07**|**Privacy-Preserving Anomaly Detection in Stochastic Dynamical Systems: Synthesis of Optimal Gaussian Mechanisms**|Haleh Hayati et.al.|[2211.03698v1](http://arxiv.org/abs/2211.03698v1)|
 |**2022-11-05**|**A Comprehensive Survey of Regression Based Loss Functions for Time Series Forecasting**|Aryan Jadon et.al.|[2211.02989v1](http://arxiv.org/abs/2211.02989v1)|
 |**2022-11-05**|**Degradation Prediction of Semiconductor Lasers using Conditional Variational Autoencoder**|Khouloud Abdelli et.al.|[2211.02847v1](http://arxiv.org/abs/2211.02847v1)|
 |**2022-11-05**|**A Machine Learning-based Framework for Predictive Maintenance of Semiconductor Laser for Optical Communication**|Khouloud Abdelli et.al.|[2211.02842v1](http://arxiv.org/abs/2211.02842v1)|
 |**2022-11-03**|**A unique, ring-like radio source with quadrilateral structure detected with machine learning**|Michelle Lochner et.al.|[2211.02062v1](http://arxiv.org/abs/2211.02062v1)|
 |**2022-11-03**|**Discussion of Features for Acoustic Anomaly Detection under Industrial Disturbing Noise in an End-of-Line Test of Geared Motors**|Peter Wissbrock et.al.|[2211.01716v1](http://arxiv.org/abs/2211.01716v1)|
-|**2022-11-01**|**Unsupervised Anomaly Detection of Paranasal Anomalies in the Maxillary Sinus**|Debayan Bhattacharya et.al.|[2211.01371v1](http://arxiv.org/abs/2211.01371v1)|
 |**2022-11-02**|**Secure and Efficient Privacy-preserving Authentication Scheme using Cuckoo Filter in Remote Patient Monitoring Network**|Shafika Showkat Moni et.al.|[2211.01270v2](http://arxiv.org/abs/2211.01270v2)|
 |**2022-11-02**|**DyAnNet: A Scene Dynamicity Guided Self-Trained Video Anomaly Detection Network**|Kamalakar Thakare et.al.|[2211.00882v1](http://arxiv.org/abs/2211.00882v1)|
-|**2022-11-02**|**Exploiting Spatial-temporal Correlations for Video Anomaly Detection**|Mengyang Zhao et.al.|[2211.00829v1](http://arxiv.org/abs/2211.00829v1)|
 
