@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-10**|**Computer Vision on X-ray Data in Industrial Production and Security Applications: A survey**|Mehdi Rafiei et.al.|[2211.05565v1](http://arxiv.org/abs/2211.05565v1)|
+|**2022-11-09**|**Deep Learning for Time Series Anomaly Detection: A Survey**|Zahra Zamanzadeh Darban et.al.|[2211.05244v1](http://arxiv.org/abs/2211.05244v1)|
 |**2022-11-08**|**Evaluation of Color Anomaly Detection in Multispectral Images For Synthetic Aperture Sensing**|Francis Seits et.al.|[2211.04293v1](http://arxiv.org/abs/2211.04293v1)|
 |**2022-11-07**|**Quantum-probabilistic Hamiltonian learning for generative modelling & anomaly detection**|Jack Y. Araz et.al.|[2211.03803v1](http://arxiv.org/abs/2211.03803v1)|
 |**2022-11-07**|**Privacy-Preserving Anomaly Detection in Stochastic Dynamical Systems: Synthesis of Optimal Gaussian Mechanisms**|Haleh Hayati et.al.|[2211.03698v1](http://arxiv.org/abs/2211.03698v1)|
@@ -57,6 +59,4 @@
 |**2022-11-05**|**A Machine Learning-based Framework for Predictive Maintenance of Semiconductor Laser for Optical Communication**|Khouloud Abdelli et.al.|[2211.02842v1](http://arxiv.org/abs/2211.02842v1)|
 |**2022-11-03**|**A unique, ring-like radio source with quadrilateral structure detected with machine learning**|Michelle Lochner et.al.|[2211.02062v1](http://arxiv.org/abs/2211.02062v1)|
 |**2022-11-03**|**Discussion of Features for Acoustic Anomaly Detection under Industrial Disturbing Noise in an End-of-Line Test of Geared Motors**|Peter Wissbrock et.al.|[2211.01716v1](http://arxiv.org/abs/2211.01716v1)|
-|**2022-11-02**|**Secure and Efficient Privacy-preserving Authentication Scheme using Cuckoo Filter in Remote Patient Monitoring Network**|Shafika Showkat Moni et.al.|[2211.01270v2](http://arxiv.org/abs/2211.01270v2)|
-|**2022-11-02**|**DyAnNet: A Scene Dynamicity Guided Self-Trained Video Anomaly Detection Network**|Kamalakar Thakare et.al.|[2211.00882v1](http://arxiv.org/abs/2211.00882v1)|
 
