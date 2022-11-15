@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-14**|**LGN-Net: Local-Global Normality Network for Video Anomaly Detection**|Mengyang Zhao et.al.|[2211.07454v1](http://arxiv.org/abs/2211.07454v1)|
+|**2022-11-11**|**The Far Side of Failure: Investigating the Impact of Speech Recognition Errors on Subsequent Dementia Classification**|Changye Li et.al.|[2211.07430v1](http://arxiv.org/abs/2211.07430v1)|
+|**2022-11-14**|**Attacking Face Recognition with T-shirts: Database, Vulnerability Assessment and Detection**|M. Ibsen et.al.|[2211.07383v1](http://arxiv.org/abs/2211.07383v1)|
+|**2022-11-14**|**FAPM: Fast Adaptive Patch Memory for Real-time Industrial Anomaly Detection**|Donghyeong Kim et.al.|[2211.07381v1](http://arxiv.org/abs/2211.07381v1)|
+|**2022-11-14**|**The Young Supernova Experiment Data Release 1 (YSE DR1): Light Curves and Photometric Classification of 1975 Supernovae**|P. D. Aleo et.al.|[2211.07128v1](http://arxiv.org/abs/2211.07128v1)|
+|**2022-11-13**|**Detecting Disengagement in Virtual Learning as an Anomaly**|Ali Abedi et.al.|[2211.06870v1](http://arxiv.org/abs/2211.06870v1)|
+|**2022-11-11**|**Rethinking Data-driven Networking with Foundation Models: Challenges and Opportunities**|Franck Le et.al.|[2211.06494v1](http://arxiv.org/abs/2211.06494v1)|
 |**2022-11-11**|**A Comprehensive Survey of Transformers for Computer Vision**|Sonain Jamil et.al.|[2211.06004v1](http://arxiv.org/abs/2211.06004v1)|
 |**2022-11-10**|**Computer Vision on X-ray Data in Industrial Production and Security Applications: A survey**|Mehdi Rafiei et.al.|[2211.05565v1](http://arxiv.org/abs/2211.05565v1)|
 |**2022-11-09**|**Deep Learning for Time Series Anomaly Detection: A Survey**|Zahra Zamanzadeh Darban et.al.|[2211.05244v1](http://arxiv.org/abs/2211.05244v1)|
-|**2022-11-08**|**Evaluation of Color Anomaly Detection in Multispectral Images For Synthetic Aperture Sensing**|Francis Seits et.al.|[2211.04293v1](http://arxiv.org/abs/2211.04293v1)|
-|**2022-11-07**|**Quantum-probabilistic Hamiltonian learning for generative modelling & anomaly detection**|Jack Y. Araz et.al.|[2211.03803v1](http://arxiv.org/abs/2211.03803v1)|
-|**2022-11-07**|**Privacy-Preserving Anomaly Detection in Stochastic Dynamical Systems: Synthesis of Optimal Gaussian Mechanisms**|Haleh Hayati et.al.|[2211.03698v1](http://arxiv.org/abs/2211.03698v1)|
-|**2022-11-05**|**A Comprehensive Survey of Regression Based Loss Functions for Time Series Forecasting**|Aryan Jadon et.al.|[2211.02989v1](http://arxiv.org/abs/2211.02989v1)|
-|**2022-11-05**|**Degradation Prediction of Semiconductor Lasers using Conditional Variational Autoencoder**|Khouloud Abdelli et.al.|[2211.02847v1](http://arxiv.org/abs/2211.02847v1)|
-|**2022-11-05**|**A Machine Learning-based Framework for Predictive Maintenance of Semiconductor Laser for Optical Communication**|Khouloud Abdelli et.al.|[2211.02842v1](http://arxiv.org/abs/2211.02842v1)|
-|**2022-11-03**|**A unique, ring-like radio source with quadrilateral structure detected with machine learning**|Michelle Lochner et.al.|[2211.02062v1](http://arxiv.org/abs/2211.02062v1)|
 
