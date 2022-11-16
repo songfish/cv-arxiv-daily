@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-15**|**Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction**|Ali Behrouz et.al.|[2211.08378v1](http://arxiv.org/abs/2211.08378v1)|
 |**2022-11-14**|**LGN-Net: Local-Global Normality Network for Video Anomaly Detection**|Mengyang Zhao et.al.|[2211.07454v1](http://arxiv.org/abs/2211.07454v1)|
 |**2022-11-11**|**The Far Side of Failure: Investigating the Impact of Speech Recognition Errors on Subsequent Dementia Classification**|Changye Li et.al.|[2211.07430v1](http://arxiv.org/abs/2211.07430v1)|
 |**2022-11-14**|**Attacking Face Recognition with T-shirts: Database, Vulnerability Assessment and Detection**|M. Ibsen et.al.|[2211.07383v1](http://arxiv.org/abs/2211.07383v1)|
@@ -58,5 +59,4 @@
 |**2022-11-11**|**Rethinking Data-driven Networking with Foundation Models: Challenges and Opportunities**|Franck Le et.al.|[2211.06494v1](http://arxiv.org/abs/2211.06494v1)|
 |**2022-11-11**|**A Comprehensive Survey of Transformers for Computer Vision**|Sonain Jamil et.al.|[2211.06004v1](http://arxiv.org/abs/2211.06004v1)|
 |**2022-11-10**|**Computer Vision on X-ray Data in Industrial Production and Security Applications: A survey**|Mehdi Rafiei et.al.|[2211.05565v1](http://arxiv.org/abs/2211.05565v1)|
-|**2022-11-09**|**Deep Learning for Time Series Anomaly Detection: A Survey**|Zahra Zamanzadeh Darban et.al.|[2211.05244v1](http://arxiv.org/abs/2211.05244v1)|
 
