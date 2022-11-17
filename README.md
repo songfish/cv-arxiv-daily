@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-16**|**Anomaly Detection via Multi-Scale Contrasted Memory**|Loic Jezequel et.al.|[2211.09041v1](http://arxiv.org/abs/2211.09041v1)|
+|**2022-11-16**|**On the Connection of Generative Models and Discriminative Models for Anomaly Detection**|Jingxuan Pang et.al.|[2211.08910v1](http://arxiv.org/abs/2211.08910v1)|
+|**2022-11-15**|**Cyber-Attack Event Analysis for EV Charging Stations**|Mansi Girdhar et.al.|[2211.08530v1](http://arxiv.org/abs/2211.08530v1)|
+|**2022-11-15**|**LEAN-DMKDE: Quantum Latent Density Estimation for Anomaly Detection**|Joseph Gallego-Mejia et.al.|[2211.08525v1](http://arxiv.org/abs/2211.08525v1)|
 |**2022-11-15**|**Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction**|Ali Behrouz et.al.|[2211.08378v1](http://arxiv.org/abs/2211.08378v1)|
 |**2022-11-14**|**LGN-Net: Local-Global Normality Network for Video Anomaly Detection**|Mengyang Zhao et.al.|[2211.07454v1](http://arxiv.org/abs/2211.07454v1)|
-|**2022-11-11**|**The Far Side of Failure: Investigating the Impact of Speech Recognition Errors on Subsequent Dementia Classification**|Changye Li et.al.|[2211.07430v1](http://arxiv.org/abs/2211.07430v1)|
 |**2022-11-14**|**Attacking Face Recognition with T-shirts: Database, Vulnerability Assessment and Detection**|M. Ibsen et.al.|[2211.07383v1](http://arxiv.org/abs/2211.07383v1)|
 |**2022-11-14**|**FAPM: Fast Adaptive Patch Memory for Real-time Industrial Anomaly Detection**|Donghyeong Kim et.al.|[2211.07381v1](http://arxiv.org/abs/2211.07381v1)|
 |**2022-11-14**|**The Young Supernova Experiment Data Release 1 (YSE DR1): Light Curves and Photometric Classification of 1975 Supernovae**|P. D. Aleo et.al.|[2211.07128v1](http://arxiv.org/abs/2211.07128v1)|
 |**2022-11-13**|**Detecting Disengagement in Virtual Learning as an Anomaly**|Ali Abedi et.al.|[2211.06870v1](http://arxiv.org/abs/2211.06870v1)|
-|**2022-11-11**|**Rethinking Data-driven Networking with Foundation Models: Challenges and Opportunities**|Franck Le et.al.|[2211.06494v1](http://arxiv.org/abs/2211.06494v1)|
-|**2022-11-11**|**A Comprehensive Survey of Transformers for Computer Vision**|Sonain Jamil et.al.|[2211.06004v1](http://arxiv.org/abs/2211.06004v1)|
-|**2022-11-10**|**Computer Vision on X-ray Data in Industrial Production and Security Applications: A survey**|Mehdi Rafiei et.al.|[2211.05565v1](http://arxiv.org/abs/2211.05565v1)|
 
