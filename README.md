@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-17**|**Heart Abnormality Detection from Heart Sound Signals using MFCC Feature and Dual Stream Attention Based Network**|Nayeeb Rashid et.al.|[2211.09751v1](http://arxiv.org/abs/2211.09751v1)|
 |**2022-11-02**|**Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems**|Kai Packhäuser et.al.|[2211.01323v2](http://arxiv.org/abs/2211.01323v2)|
 |**2022-10-14**|**Surface abnormality detection in medical and inspection systems using energy variations in co-occurrence matrixes**|Nandara K. Krishnand et.al.|[2210.07812v1](http://arxiv.org/abs/2210.07812v1)|
 |**2022-09-29**|**Cardiotocography Signal Abnormality Detection based on Deep Unsupervised Models**|Julien Bertieaux et.al.|[2209.15085v1](http://arxiv.org/abs/2209.15085v1)|
@@ -43,12 +44,14 @@
 |**2022-07-08**|**Generative Adversarial Networks and Other Generative Models**|Markus Wenzel et.al.|[2207.03887v1](http://arxiv.org/abs/2207.03887v1)|
 |**2022-06-06**|**Early Abnormal Detection of Sewage Pipe Network: Bagging of Various Abnormal Detection Algorithms**|Zhen-Yu Zhang et.al.|[2206.03321v1](http://arxiv.org/abs/2206.03321v1)|
 |**2022-05-24**|**Neural Contextual Bandits Based Dynamic Sensor Selection for Low-Power Body-Area Networks**|Berken Utku Demirel et.al.|[2205.11832v1](http://arxiv.org/abs/2205.11832v1)|
-|**2022-02-23**|**Augmentation based unsupervised domain adaptation**|Mauricio Orbes-Arteaga et.al.|[2202.11486v1](http://arxiv.org/abs/2202.11486v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-17**|**SpectNet : End-to-End Audio Signal Classification Using Learnable Spectrograms**|Md. Istiaq Ansari et.al.|[2211.09352v1](http://arxiv.org/abs/2211.09352v1)|
+|**2022-11-16**|**Are we certain it's anomalous?**|Alessandro Flaborea et.al.|[2211.09224v1](http://arxiv.org/abs/2211.09224v1)|
+|**2022-11-16**|**Deep Drilling in the Time Domain with DECam: Survey Characterization**|Melissa L. Graham et.al.|[2211.09202v1](http://arxiv.org/abs/2211.09202v1)|
 |**2022-11-16**|**Anomaly Detection via Multi-Scale Contrasted Memory**|Loic Jezequel et.al.|[2211.09041v1](http://arxiv.org/abs/2211.09041v1)|
 |**2022-11-16**|**On the Connection of Generative Models and Discriminative Models for Anomaly Detection**|Jingxuan Pang et.al.|[2211.08910v1](http://arxiv.org/abs/2211.08910v1)|
 |**2022-11-15**|**Cyber-Attack Event Analysis for EV Charging Stations**|Mansi Girdhar et.al.|[2211.08530v1](http://arxiv.org/abs/2211.08530v1)|
@@ -56,7 +59,4 @@
 |**2022-11-15**|**Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction**|Ali Behrouz et.al.|[2211.08378v1](http://arxiv.org/abs/2211.08378v1)|
 |**2022-11-14**|**LGN-Net: Local-Global Normality Network for Video Anomaly Detection**|Mengyang Zhao et.al.|[2211.07454v1](http://arxiv.org/abs/2211.07454v1)|
 |**2022-11-14**|**Attacking Face Recognition with T-shirts: Database, Vulnerability Assessment and Detection**|M. Ibsen et.al.|[2211.07383v1](http://arxiv.org/abs/2211.07383v1)|
-|**2022-11-14**|**FAPM: Fast Adaptive Patch Memory for Real-time Industrial Anomaly Detection**|Donghyeong Kim et.al.|[2211.07381v1](http://arxiv.org/abs/2211.07381v1)|
-|**2022-11-14**|**The Young Supernova Experiment Data Release 1 (YSE DR1): Light Curves and Photometric Classification of 1975 Supernovae**|P. D. Aleo et.al.|[2211.07128v1](http://arxiv.org/abs/2211.07128v1)|
-|**2022-11-13**|**Detecting Disengagement in Virtual Learning as an Anomaly**|Ali Abedi et.al.|[2211.06870v1](http://arxiv.org/abs/2211.06870v1)|
 
