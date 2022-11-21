@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-18**|**Hunting for bumps in the margins**|David Yallup et.al.|[2211.10391v1](http://arxiv.org/abs/2211.10391v1)|
+|**2022-11-18**|**Rare Yet Popular: Evidence and Implications from Labeled Datasets for Network Anomaly Detection**|Jose Manuel Navarro et.al.|[2211.10129v1](http://arxiv.org/abs/2211.10129v1)|
+|**2022-11-18**|**Reference-Based Autoencoder for Surface Defect Detection**|Wei Luo et.al.|[2211.10060v1](http://arxiv.org/abs/2211.10060v1)|
+|**2022-11-18**|**Pedestrian Spatio-Temporal Information Fusion For Video Anomaly Detection**|Chao Hu et.al.|[2211.10052v1](http://arxiv.org/abs/2211.10052v1)|
 |**2022-11-17**|**SpectNet : End-to-End Audio Signal Classification Using Learnable Spectrograms**|Md. Istiaq Ansari et.al.|[2211.09352v1](http://arxiv.org/abs/2211.09352v1)|
 |**2022-11-16**|**Are we certain it's anomalous?**|Alessandro Flaborea et.al.|[2211.09224v1](http://arxiv.org/abs/2211.09224v1)|
 |**2022-11-16**|**Deep Drilling in the Time Domain with DECam: Survey Characterization**|Melissa L. Graham et.al.|[2211.09202v1](http://arxiv.org/abs/2211.09202v1)|
 |**2022-11-16**|**Anomaly Detection via Multi-Scale Contrasted Memory**|Loic Jezequel et.al.|[2211.09041v1](http://arxiv.org/abs/2211.09041v1)|
 |**2022-11-16**|**On the Connection of Generative Models and Discriminative Models for Anomaly Detection**|Jingxuan Pang et.al.|[2211.08910v1](http://arxiv.org/abs/2211.08910v1)|
 |**2022-11-15**|**Cyber-Attack Event Analysis for EV Charging Stations**|Mansi Girdhar et.al.|[2211.08530v1](http://arxiv.org/abs/2211.08530v1)|
-|**2022-11-15**|**LEAN-DMKDE: Quantum Latent Density Estimation for Anomaly Detection**|Joseph Gallego-Mejia et.al.|[2211.08525v1](http://arxiv.org/abs/2211.08525v1)|
-|**2022-11-15**|**Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction**|Ali Behrouz et.al.|[2211.08378v1](http://arxiv.org/abs/2211.08378v1)|
-|**2022-11-14**|**LGN-Net: Local-Global Normality Network for Video Anomaly Detection**|Mengyang Zhao et.al.|[2211.07454v1](http://arxiv.org/abs/2211.07454v1)|
-|**2022-11-14**|**Attacking Face Recognition with T-shirts: Database, Vulnerability Assessment and Detection**|M. Ibsen et.al.|[2211.07383v1](http://arxiv.org/abs/2211.07383v1)|
 
