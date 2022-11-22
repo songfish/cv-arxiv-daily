@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-17**|**Dynamic Interactional And Cooperative Network For Shield Machine**|Dazhi Gao et.al.|[2211.10473v1](http://arxiv.org/abs/2211.10473v1)|
 |**2022-11-17**|**Heart Abnormality Detection from Heart Sound Signals using MFCC Feature and Dual Stream Attention Based Network**|Nayeeb Rashid et.al.|[2211.09751v1](http://arxiv.org/abs/2211.09751v1)|
 |**2022-11-02**|**Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems**|Kai Packhäuser et.al.|[2211.01323v2](http://arxiv.org/abs/2211.01323v2)|
 |**2022-10-14**|**Surface abnormality detection in medical and inspection systems using energy variations in co-occurrence matrixes**|Nandara K. Krishnand et.al.|[2210.07812v1](http://arxiv.org/abs/2210.07812v1)|
@@ -43,20 +44,19 @@
 |**2022-07-13**|**Abnormality Detection and Localization Schemes using Molecular Communication Systems: A Survey**|Ali Etemadi et.al.|[2207.06032v2](http://arxiv.org/abs/2207.06032v2)|
 |**2022-07-08**|**Generative Adversarial Networks and Other Generative Models**|Markus Wenzel et.al.|[2207.03887v1](http://arxiv.org/abs/2207.03887v1)|
 |**2022-06-06**|**Early Abnormal Detection of Sewage Pipe Network: Bagging of Various Abnormal Detection Algorithms**|Zhen-Yu Zhang et.al.|[2206.03321v1](http://arxiv.org/abs/2206.03321v1)|
-|**2022-05-24**|**Neural Contextual Bandits Based Dynamic Sensor Selection for Low-Power Body-Area Networks**|Berken Utku Demirel et.al.|[2205.11832v1](http://arxiv.org/abs/2205.11832v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-21**|**Immersion and Invariance-based Coding for Privacy in Remote Anomaly Detection**|Haleh Hayati et.al.|[2211.11608v1](http://arxiv.org/abs/2211.11608v1)|
+|**2022-11-21**|**DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection**|Xuan Zhang et.al.|[2211.11317v1](http://arxiv.org/abs/2211.11317v1)|
+|**2022-11-21**|**STGlow: A Flow-based Generative Framework with Dual Graphormer for Pedestrian Trajectory Prediction**|Rongqin Liang et.al.|[2211.11220v1](http://arxiv.org/abs/2211.11220v1)|
+|**2022-11-20**|**Machine Learning Methods for Anomaly Detection in Nuclear Power Plant Power Transformers**|Iurii Katser et.al.|[2211.11013v1](http://arxiv.org/abs/2211.11013v1)|
+|**2022-11-20**|**Normalizing Flows for Human Pose Anomaly Detection**|Or Hirschorn et.al.|[2211.10946v1](http://arxiv.org/abs/2211.10946v1)|
+|**2022-11-17**|**Dynamic Interactional And Cooperative Network For Shield Machine**|Dazhi Gao et.al.|[2211.10473v1](http://arxiv.org/abs/2211.10473v1)|
 |**2022-11-18**|**Hunting for bumps in the margins**|David Yallup et.al.|[2211.10391v1](http://arxiv.org/abs/2211.10391v1)|
 |**2022-11-18**|**Rare Yet Popular: Evidence and Implications from Labeled Datasets for Network Anomaly Detection**|Jose Manuel Navarro et.al.|[2211.10129v1](http://arxiv.org/abs/2211.10129v1)|
 |**2022-11-18**|**Reference-Based Autoencoder for Surface Defect Detection**|Wei Luo et.al.|[2211.10060v1](http://arxiv.org/abs/2211.10060v1)|
 |**2022-11-18**|**Pedestrian Spatio-Temporal Information Fusion For Video Anomaly Detection**|Chao Hu et.al.|[2211.10052v1](http://arxiv.org/abs/2211.10052v1)|
-|**2022-11-17**|**SpectNet : End-to-End Audio Signal Classification Using Learnable Spectrograms**|Md. Istiaq Ansari et.al.|[2211.09352v1](http://arxiv.org/abs/2211.09352v1)|
-|**2022-11-16**|**Are we certain it's anomalous?**|Alessandro Flaborea et.al.|[2211.09224v1](http://arxiv.org/abs/2211.09224v1)|
-|**2022-11-16**|**Deep Drilling in the Time Domain with DECam: Survey Characterization**|Melissa L. Graham et.al.|[2211.09202v1](http://arxiv.org/abs/2211.09202v1)|
-|**2022-11-16**|**Anomaly Detection via Multi-Scale Contrasted Memory**|Loic Jezequel et.al.|[2211.09041v1](http://arxiv.org/abs/2211.09041v1)|
-|**2022-11-16**|**On the Connection of Generative Models and Discriminative Models for Anomaly Detection**|Jingxuan Pang et.al.|[2211.08910v1](http://arxiv.org/abs/2211.08910v1)|
-|**2022-11-15**|**Cyber-Attack Event Analysis for EV Charging Stations**|Mansi Girdhar et.al.|[2211.08530v1](http://arxiv.org/abs/2211.08530v1)|
 
