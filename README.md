@@ -51,7 +51,7 @@
 |---|---|---|---|
 |**2022-11-21**|**Immersion and Invariance-based Coding for Privacy in Remote Anomaly Detection**|Haleh Hayati et.al.|[2211.11608v1](http://arxiv.org/abs/2211.11608v1)|
 |**2022-11-21**|**DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection**|Xuan Zhang et.al.|[2211.11317v1](http://arxiv.org/abs/2211.11317v1)|
-|**2022-11-21**|**STGlow: A Flow-based Generative Framework with Dual Graphormer for Pedestrian Trajectory Prediction**|Rongqin Liang et.al.|[2211.11220v1](http://arxiv.org/abs/2211.11220v1)|
+|**2022-11-21**|**STGlow: A Flow-based Generative Framework with Dual Graphormer for Pedestrian Trajectory Prediction**|Rongqin Liang et.al.|[2211.11220v2](http://arxiv.org/abs/2211.11220v2)|
 |**2022-11-20**|**Machine Learning Methods for Anomaly Detection in Nuclear Power Plant Power Transformers**|Iurii Katser et.al.|[2211.11013v1](http://arxiv.org/abs/2211.11013v1)|
 |**2022-11-20**|**Normalizing Flows for Human Pose Anomaly Detection**|Or Hirschorn et.al.|[2211.10946v1](http://arxiv.org/abs/2211.10946v1)|
 |**2022-11-17**|**Dynamic Interactional And Cooperative Network For Shield Machine**|Dazhi Gao et.al.|[2211.10473v1](http://arxiv.org/abs/2211.10473v1)|
