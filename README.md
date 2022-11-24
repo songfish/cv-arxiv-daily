@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-23**|**An Adaptive Event-based Data Converter for Always-on Biomedical Applications at the Edge**|Mohammadali Sharifshazileh et.al.|[2211.13102v1](http://arxiv.org/abs/2211.13102v1)|
+|**2022-11-23**|**FRE: A Fast Method For Anomaly Detection And Segmentation**|Ibrahima Ndiour et.al.|[2211.12650v1](http://arxiv.org/abs/2211.12650v1)|
+|**2022-11-22**|**Image Anomaly Detection and Localization with Position and Neighborhood Information**|Jaehyeok Bae et.al.|[2211.12634v1](http://arxiv.org/abs/2211.12634v1)|
+|**2022-11-22**|**A Novel Center-based Deep Contrastive Metric Learning Method for the Detection of Polymicrogyria in Pediatric Brain MRI**|Lingfeng Zhang et.al.|[2211.12565v1](http://arxiv.org/abs/2211.12565v1)|
 |**2022-11-22**|**U-Flow: A U-shaped Normalizing Flow for Anomaly Detection with Unsupervised Threshold**|Matías Tailanian et.al.|[2211.12353v1](http://arxiv.org/abs/2211.12353v1)|
 |**2022-11-22**|**Generalizable Industrial Visual Anomaly Detection with Self-Induction Vision Transformer**|Haiming Yao et.al.|[2211.12311v1](http://arxiv.org/abs/2211.12311v1)|
 |**2022-11-22**|**MGADN: A Multi-task Graph Anomaly Detection Network for Multivariate Time Series**|Weixuan Xiong et.al.|[2211.12141v1](http://arxiv.org/abs/2211.12141v1)|
 |**2022-11-21**|**Immersion and Invariance-based Coding for Privacy in Remote Anomaly Detection**|Haleh Hayati et.al.|[2211.11608v1](http://arxiv.org/abs/2211.11608v1)|
 |**2022-11-21**|**DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection**|Xuan Zhang et.al.|[2211.11317v1](http://arxiv.org/abs/2211.11317v1)|
 |**2022-11-21**|**STGlow: A Flow-based Generative Framework with Dual Graphormer for Pedestrian Trajectory Prediction**|Rongqin Liang et.al.|[2211.11220v2](http://arxiv.org/abs/2211.11220v2)|
-|**2022-11-20**|**Machine Learning Methods for Anomaly Detection in Nuclear Power Plant Power Transformers**|Iurii Katser et.al.|[2211.11013v1](http://arxiv.org/abs/2211.11013v1)|
-|**2022-11-20**|**Normalizing Flows for Human Pose Anomaly Detection**|Or Hirschorn et.al.|[2211.10946v1](http://arxiv.org/abs/2211.10946v1)|
-|**2022-11-18**|**Hunting for bumps in the margins**|David Yallup et.al.|[2211.10391v1](http://arxiv.org/abs/2211.10391v1)|
-|**2022-11-18**|**Rare Yet Popular: Evidence and Implications from Labeled Datasets for Network Anomaly Detection**|Jose Manuel Navarro et.al.|[2211.10129v1](http://arxiv.org/abs/2211.10129v1)|
 
