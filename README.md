@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-25**|**MAEDAY: MAE for few and zero shot AnomalY-Detection**|Eli Schwartz et.al.|[2211.14307v1](http://arxiv.org/abs/2211.14307v1)|
+|**2022-11-25**|**MIAD: A Maintenance Inspection Dataset for Unsupervised Anomaly Detection**|Tianpeng Bao et.al.|[2211.13968v1](http://arxiv.org/abs/2211.13968v1)|
+|**2022-11-25**|**A Deep Learning Anomaly Detection Method in Textual Data**|Amir Jafari et.al.|[2211.13900v1](http://arxiv.org/abs/2211.13900v1)|
+|**2022-11-24**|**Detecting Anomalies using Generative Adversarial Networks on Images**|Rushikesh Zawar et.al.|[2211.13808v1](http://arxiv.org/abs/2211.13808v1)|
+|**2022-11-24**|**Meta-Learning for Automated Selection of Anomaly Detectors for Semi-Supervised Datasets**|David Schubert et.al.|[2211.13681v1](http://arxiv.org/abs/2211.13681v1)|
+|**2022-11-24**|**Towards Interpretable Anomaly Detection via Invariant Rule Mining**|Cheng Feng et.al.|[2211.13577v1](http://arxiv.org/abs/2211.13577v1)|
+|**2022-11-23**|**CoMadOut -- A Robust Outlier Detection Algorithm based on CoMAD**|Andreas Lohrer et.al.|[2211.13314v1](http://arxiv.org/abs/2211.13314v1)|
+|**2022-11-23**|**Corn Yield Prediction based on Remotely Sensed Variables Using Variational Autoencoder and Multiple Instance Regression**|Zeyu Cao et.al.|[2211.13286v1](http://arxiv.org/abs/2211.13286v1)|
 |**2022-11-23**|**An Adaptive Event-based Data Converter for Always-on Biomedical Applications at the Edge**|Mohammadali Sharifshazileh et.al.|[2211.13102v1](http://arxiv.org/abs/2211.13102v1)|
 |**2022-11-23**|**FRE: A Fast Method For Anomaly Detection And Segmentation**|Ibrahima Ndiour et.al.|[2211.12650v1](http://arxiv.org/abs/2211.12650v1)|
-|**2022-11-22**|**Image Anomaly Detection and Localization with Position and Neighborhood Information**|Jaehyeok Bae et.al.|[2211.12634v1](http://arxiv.org/abs/2211.12634v1)|
-|**2022-11-22**|**A Novel Center-based Deep Contrastive Metric Learning Method for the Detection of Polymicrogyria in Pediatric Brain MRI**|Lingfeng Zhang et.al.|[2211.12565v1](http://arxiv.org/abs/2211.12565v1)|
-|**2022-11-22**|**U-Flow: A U-shaped Normalizing Flow for Anomaly Detection with Unsupervised Threshold**|Matías Tailanian et.al.|[2211.12353v1](http://arxiv.org/abs/2211.12353v1)|
-|**2022-11-22**|**Generalizable Industrial Visual Anomaly Detection with Self-Induction Vision Transformer**|Haiming Yao et.al.|[2211.12311v1](http://arxiv.org/abs/2211.12311v1)|
-|**2022-11-22**|**MGADN: A Multi-task Graph Anomaly Detection Network for Multivariate Time Series**|Weixuan Xiong et.al.|[2211.12141v1](http://arxiv.org/abs/2211.12141v1)|
-|**2022-11-21**|**Immersion and Invariance-based Coding for Privacy in Remote Anomaly Detection**|Haleh Hayati et.al.|[2211.11608v1](http://arxiv.org/abs/2211.11608v1)|
-|**2022-11-21**|**DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection**|Xuan Zhang et.al.|[2211.11317v1](http://arxiv.org/abs/2211.11317v1)|
-|**2022-11-21**|**STGlow: A Flow-based Generative Framework with Dual Graphormer for Pedestrian Trajectory Prediction**|Rongqin Liang et.al.|[2211.11220v2](http://arxiv.org/abs/2211.11220v2)|
 
