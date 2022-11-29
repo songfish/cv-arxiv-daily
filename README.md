@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2022-11-25**|**MAEDAY: MAE for few and zero shot AnomalY-Detection**|Eli Schwartz et.al.|[2211.14307v1](http://arxiv.org/abs/2211.14307v1)|
-|**2022-11-25**|**MIAD: A Maintenance Inspection Dataset for Unsupervised Anomaly Detection**|Tianpeng Bao et.al.|[2211.13968v1](http://arxiv.org/abs/2211.13968v1)|
+|**2022-11-25**|**MIAD: A Maintenance Inspection Dataset for Unsupervised Anomaly Detection**|Tianpeng Bao et.al.|[2211.13968v2](http://arxiv.org/abs/2211.13968v2)|
 |**2022-11-25**|**A Deep Learning Anomaly Detection Method in Textual Data**|Amir Jafari et.al.|[2211.13900v1](http://arxiv.org/abs/2211.13900v1)|
 |**2022-11-24**|**Detecting Anomalies using Generative Adversarial Networks on Images**|Rushikesh Zawar et.al.|[2211.13808v1](http://arxiv.org/abs/2211.13808v1)|
 |**2022-11-24**|**Meta-Learning for Automated Selection of Anomaly Detectors for Semi-Supervised Datasets**|David Schubert et.al.|[2211.13681v1](http://arxiv.org/abs/2211.13681v1)|
