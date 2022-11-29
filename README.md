@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-28**|**Lightning Fast Video Anomaly Detection via Adversarial Knowledge Distillation**|Nicolae-Catalin Ristea et.al.|[2211.15597v1](http://arxiv.org/abs/2211.15597v1)|
+|**2022-11-28**|**A Study of Representational Properties of Unsupervised Anomaly Detection in Brain MRI**|Ayantika Das et.al.|[2211.15527v1](http://arxiv.org/abs/2211.15527v1)|
+|**2022-11-25**|**Composite Score for Anomaly Detection in Imbalanced Real-World Industrial Dataset**|Arnaud Bougaham et.al.|[2211.15513v1](http://arxiv.org/abs/2211.15513v1)|
+|**2022-11-28**|**GADMSL: Graph Anomaly Detection on Attributed Networks via Multi-scale Substructure Learning**|Duan Jingcan et.al.|[2211.15255v1](http://arxiv.org/abs/2211.15255v1)|
+|**2022-11-28**|**MGFN: Magnitude-Contrastive Glance-and-Focus Network for Weakly-Supervised Video Anomaly Detection**|Yingxian Chen et.al.|[2211.15098v1](http://arxiv.org/abs/2211.15098v1)|
+|**2022-11-27**|**An Anomaly Detection Method for Satellites Using Monte Carlo Dropout**|Mohammad Amin Maleki Sadr et.al.|[2211.14938v1](http://arxiv.org/abs/2211.14938v1)|
 |**2022-11-25**|**MAEDAY: MAE for few and zero shot AnomalY-Detection**|Eli Schwartz et.al.|[2211.14307v1](http://arxiv.org/abs/2211.14307v1)|
 |**2022-11-25**|**MIAD: A Maintenance Inspection Dataset for Unsupervised Anomaly Detection**|Tianpeng Bao et.al.|[2211.13968v2](http://arxiv.org/abs/2211.13968v2)|
 |**2022-11-25**|**A Deep Learning Anomaly Detection Method in Textual Data**|Amir Jafari et.al.|[2211.13900v1](http://arxiv.org/abs/2211.13900v1)|
 |**2022-11-24**|**Detecting Anomalies using Generative Adversarial Networks on Images**|Rushikesh Zawar et.al.|[2211.13808v1](http://arxiv.org/abs/2211.13808v1)|
-|**2022-11-24**|**Meta-Learning for Automated Selection of Anomaly Detectors for Semi-Supervised Datasets**|David Schubert et.al.|[2211.13681v1](http://arxiv.org/abs/2211.13681v1)|
-|**2022-11-24**|**Towards Interpretable Anomaly Detection via Invariant Rule Mining**|Cheng Feng et.al.|[2211.13577v1](http://arxiv.org/abs/2211.13577v1)|
-|**2022-11-23**|**CoMadOut -- A Robust Outlier Detection Algorithm based on CoMAD**|Andreas Lohrer et.al.|[2211.13314v1](http://arxiv.org/abs/2211.13314v1)|
-|**2022-11-23**|**Corn Yield Prediction based on Remotely Sensed Variables Using Variational Autoencoder and Multiple Instance Regression**|Zeyu Cao et.al.|[2211.13286v1](http://arxiv.org/abs/2211.13286v1)|
-|**2022-11-23**|**An Adaptive Event-based Data Converter for Always-on Biomedical Applications at the Edge**|Mohammadali Sharifshazileh et.al.|[2211.13102v1](http://arxiv.org/abs/2211.13102v1)|
-|**2022-11-23**|**FRE: A Fast Method For Anomaly Detection And Segmentation**|Ibrahima Ndiour et.al.|[2211.12650v1](http://arxiv.org/abs/2211.12650v1)|
 
