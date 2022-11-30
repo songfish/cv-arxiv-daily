@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-11-29**|**G-CMP: Graph-enhanced Contextual Matrix Profile for unsupervised anomaly detection in sensor-based remote health monitoring**|Nivedita Bijlani et.al.|[2211.16122v1](http://arxiv.org/abs/2211.16122v1)|
+|**2022-11-29**|**Unsupervised Visual Defect Detection with Score-Based Generative Model**|Yapeng Teng et.al.|[2211.16092v1](http://arxiv.org/abs/2211.16092v1)|
+|**2022-11-29**|**Novelty Detection for Election Fraud: A Case Study with Agent-Based Simulation Data**|Khurram Yamin et.al.|[2211.16023v1](http://arxiv.org/abs/2211.16023v1)|
 |**2022-11-28**|**Lightning Fast Video Anomaly Detection via Adversarial Knowledge Distillation**|Nicolae-Catalin Ristea et.al.|[2211.15597v1](http://arxiv.org/abs/2211.15597v1)|
 |**2022-11-28**|**A Study of Representational Properties of Unsupervised Anomaly Detection in Brain MRI**|Ayantika Das et.al.|[2211.15527v1](http://arxiv.org/abs/2211.15527v1)|
 |**2022-11-25**|**Composite Score for Anomaly Detection in Imbalanced Real-World Industrial Dataset**|Arnaud Bougaham et.al.|[2211.15513v1](http://arxiv.org/abs/2211.15513v1)|
@@ -56,7 +59,4 @@
 |**2022-11-28**|**MGFN: Magnitude-Contrastive Glance-and-Focus Network for Weakly-Supervised Video Anomaly Detection**|Yingxian Chen et.al.|[2211.15098v1](http://arxiv.org/abs/2211.15098v1)|
 |**2022-11-27**|**An Anomaly Detection Method for Satellites Using Monte Carlo Dropout**|Mohammad Amin Maleki Sadr et.al.|[2211.14938v1](http://arxiv.org/abs/2211.14938v1)|
 |**2022-11-25**|**MAEDAY: MAE for few and zero shot AnomalY-Detection**|Eli Schwartz et.al.|[2211.14307v1](http://arxiv.org/abs/2211.14307v1)|
-|**2022-11-25**|**MIAD: A Maintenance Inspection Dataset for Unsupervised Anomaly Detection**|Tianpeng Bao et.al.|[2211.13968v2](http://arxiv.org/abs/2211.13968v2)|
-|**2022-11-25**|**A Deep Learning Anomaly Detection Method in Textual Data**|Amir Jafari et.al.|[2211.13900v1](http://arxiv.org/abs/2211.13900v1)|
-|**2022-11-24**|**Detecting Anomalies using Generative Adversarial Networks on Images**|Rushikesh Zawar et.al.|[2211.13808v1](http://arxiv.org/abs/2211.13808v1)|
 
