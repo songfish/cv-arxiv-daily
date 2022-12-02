@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2022-11-30**|**Towards Interpreting Vulnerability of Multi-Instance Learning via Customized and Universal Adversarial Perturbations**|Yu-Xuan Zhang et.al.|[2211.17071v1](http://arxiv.org/abs/2211.17071v1)|
-|**2022-11-30**|**Automated anomaly-aware 3D segmentation of bones and cartilages in knee MR images from the Osteoarthritis Initiative**|Boyeong Woo et.al.|[2211.16696v1](http://arxiv.org/abs/2211.16696v1)|
+|**2022-11-30**|**Automated anomaly-aware 3D segmentation of bones and cartilages in knee MR images from the Osteoarthritis Initiative**|Boyeong Woo et.al.|[2211.16696v2](http://arxiv.org/abs/2211.16696v2)|
 |**2022-11-29**|**G-CMP: Graph-enhanced Contextual Matrix Profile for unsupervised anomaly detection in sensor-based remote health monitoring**|Nivedita Bijlani et.al.|[2211.16122v1](http://arxiv.org/abs/2211.16122v1)|
 |**2022-11-29**|**Unsupervised Visual Defect Detection with Score-Based Generative Model**|Yapeng Teng et.al.|[2211.16092v1](http://arxiv.org/abs/2211.16092v1)|
 |**2022-11-29**|**Novelty Detection for Election Fraud: A Case Study with Agent-Based Simulation Data**|Khurram Yamin et.al.|[2211.16023v1](http://arxiv.org/abs/2211.16023v1)|
