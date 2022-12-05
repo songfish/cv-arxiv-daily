@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2022-12-01**|**Attribute-based Representations for Accurate and Interpretable Video Anomaly Detection**|Tal Reiss et.al.|[2212.00789v1](http://arxiv.org/abs/2212.00789v1)|
-|**2022-12-01**|**Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View**|Jingcan Duan et.al.|[2212.00535v1](http://arxiv.org/abs/2212.00535v1)|
+|**2022-12-01**|**Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View**|Jingcan Duan et.al.|[2212.00535v2](http://arxiv.org/abs/2212.00535v2)|
 |**2022-12-01**|**Crowd-level Abnormal Behavior Detection via Multi-scale Motion Consistency Learning**|Linbo Luo et.al.|[2212.00501v1](http://arxiv.org/abs/2212.00501v1)|
 |**2022-11-30**|**SPADE: Semi-supervised Anomaly Detection under Distribution Mismatch**|Jinsung Yoon et.al.|[2212.00173v1](http://arxiv.org/abs/2212.00173v1)|
 |**2022-11-30**|**Towards Interpreting Vulnerability of Multi-Instance Learning via Customized and Universal Adversarial Perturbations**|Yu-Xuan Zhang et.al.|[2211.17071v1](http://arxiv.org/abs/2211.17071v1)|
