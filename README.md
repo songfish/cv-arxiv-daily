@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-12-02**|**Fast Detection of Burst Jamming for Delay-Sensitive Internet-of-Things Applications**|Shao-Di Wang et.al.|[2212.01362v1](http://arxiv.org/abs/2212.01362v1)|
+|**2022-12-02**|**Sequential Anomaly Detection Against Demodulation Reference Signal Spoofing in 5G NR**|Shao-Di Wang et.al.|[2212.01356v1](http://arxiv.org/abs/2212.01356v1)|
+|**2022-12-02**|**A Bayesian Framework for Digital Twin-Based Control, Monitoring, and Data Collection in Wireless Systems**|Clement Ruah et.al.|[2212.01351v1](http://arxiv.org/abs/2212.01351v1)|
+|**2022-12-02**|**Cross-Domain Graph Anomaly Detection via Anomaly-aware Contrastive Alignment**|Qizhou Wang et.al.|[2212.01096v1](http://arxiv.org/abs/2212.01096v1)|
+|**2022-12-02**|**A Hybrid Deep Learning Anomaly Detection Framework for Intrusion Detection**|Rahul Kale et.al.|[2212.00966v1](http://arxiv.org/abs/2212.00966v1)|
 |**2022-12-01**|**Attribute-based Representations for Accurate and Interpretable Video Anomaly Detection**|Tal Reiss et.al.|[2212.00789v1](http://arxiv.org/abs/2212.00789v1)|
 |**2022-12-01**|**Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View**|Jingcan Duan et.al.|[2212.00535v2](http://arxiv.org/abs/2212.00535v2)|
 |**2022-12-01**|**Crowd-level Abnormal Behavior Detection via Multi-scale Motion Consistency Learning**|Linbo Luo et.al.|[2212.00501v1](http://arxiv.org/abs/2212.00501v1)|
 |**2022-11-30**|**SPADE: Semi-supervised Anomaly Detection under Distribution Mismatch**|Jinsung Yoon et.al.|[2212.00173v1](http://arxiv.org/abs/2212.00173v1)|
 |**2022-11-30**|**Towards Interpreting Vulnerability of Multi-Instance Learning via Customized and Universal Adversarial Perturbations**|Yu-Xuan Zhang et.al.|[2211.17071v1](http://arxiv.org/abs/2211.17071v1)|
-|**2022-11-30**|**Automated anomaly-aware 3D segmentation of bones and cartilages in knee MR images from the Osteoarthritis Initiative**|Boyeong Woo et.al.|[2211.16696v2](http://arxiv.org/abs/2211.16696v2)|
-|**2022-11-29**|**G-CMP: Graph-enhanced Contextual Matrix Profile for unsupervised anomaly detection in sensor-based remote health monitoring**|Nivedita Bijlani et.al.|[2211.16122v1](http://arxiv.org/abs/2211.16122v1)|
-|**2022-11-29**|**Unsupervised Visual Defect Detection with Score-Based Generative Model**|Yapeng Teng et.al.|[2211.16092v1](http://arxiv.org/abs/2211.16092v1)|
-|**2022-11-29**|**Novelty Detection for Election Fraud: A Case Study with Agent-Based Simulation Data**|Khurram Yamin et.al.|[2211.16023v1](http://arxiv.org/abs/2211.16023v1)|
-|**2022-11-28**|**Lightning Fast Video Anomaly Detection via Adversarial Knowledge Distillation**|Nicolae-Catalin Ristea et.al.|[2211.15597v1](http://arxiv.org/abs/2211.15597v1)|
 
