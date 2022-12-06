@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2022-12-05**|**Lossy Compression for Robust Unsupervised Time-Series Anomaly Detection**|Christopher P. Ley et.al.|[2212.02303v1](http://arxiv.org/abs/2212.02303v1)|
+|**2022-12-05**|**Anomaly Detection in Power Markets and Systems**|Ugur Halden et.al.|[2212.02182v1](http://arxiv.org/abs/2212.02182v1)|
+|**2022-12-05**|**Prototypical Residual Networks for Anomaly Detection and Localization**|Hui Zhang et.al.|[2212.02031v1](http://arxiv.org/abs/2212.02031v1)|
 |**2022-12-02**|**Fast Detection of Burst Jamming for Delay-Sensitive Internet-of-Things Applications**|Shao-Di Wang et.al.|[2212.01362v1](http://arxiv.org/abs/2212.01362v1)|
 |**2022-12-02**|**Sequential Anomaly Detection Against Demodulation Reference Signal Spoofing in 5G NR**|Shao-Di Wang et.al.|[2212.01356v1](http://arxiv.org/abs/2212.01356v1)|
 |**2022-12-02**|**A Bayesian Framework for Digital Twin-Based Control, Monitoring, and Data Collection in Wireless Systems**|Clement Ruah et.al.|[2212.01351v1](http://arxiv.org/abs/2212.01351v1)|
@@ -56,7 +59,4 @@
 |**2022-12-02**|**A Hybrid Deep Learning Anomaly Detection Framework for Intrusion Detection**|Rahul Kale et.al.|[2212.00966v1](http://arxiv.org/abs/2212.00966v1)|
 |**2022-12-01**|**Attribute-based Representations for Accurate and Interpretable Video Anomaly Detection**|Tal Reiss et.al.|[2212.00789v1](http://arxiv.org/abs/2212.00789v1)|
 |**2022-12-01**|**Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View**|Jingcan Duan et.al.|[2212.00535v2](http://arxiv.org/abs/2212.00535v2)|
-|**2022-12-01**|**Crowd-level Abnormal Behavior Detection via Multi-scale Motion Consistency Learning**|Linbo Luo et.al.|[2212.00501v1](http://arxiv.org/abs/2212.00501v1)|
-|**2022-11-30**|**SPADE: Semi-supervised Anomaly Detection under Distribution Mismatch**|Jinsung Yoon et.al.|[2212.00173v1](http://arxiv.org/abs/2212.00173v1)|
-|**2022-11-30**|**Towards Interpreting Vulnerability of Multi-Instance Learning via Customized and Universal Adversarial Perturbations**|Yu-Xuan Zhang et.al.|[2211.17071v1](http://arxiv.org/abs/2211.17071v1)|
 
