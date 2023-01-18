@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-01-17**|**FewSOME: Few Shot Anomaly Detection**|Niamh Belton et.al.|[2301.06957v1](http://arxiv.org/abs/2301.06957v1)|
+|**2023-01-17**|**Subgraph Centralization: A Necessary Step for Graph Anomaly Detection**|Zhong Zhuang et.al.|[2301.06794v1](http://arxiv.org/abs/2301.06794v1)|
+|**2023-01-15**|**Efficient anomaly detection method for rooftop PV systems using big data and permutation entropy**|Sahand Karimi-Arpanahi et.al.|[2301.06035v1](http://arxiv.org/abs/2301.06035v1)|
 |**2023-01-11**|**Anomalies, Representations, and Self-Supervision**|Barry M. Dillon et.al.|[2301.04660v1](http://arxiv.org/abs/2301.04660v1)|
 |**2023-01-09**|**Non-contact Respiratory Anomaly Detection using Infrared Light Wave Sensing**|Md Zobaer Islam et.al.|[2301.03713v1](http://arxiv.org/abs/2301.03713v1)|
 |**2023-01-09**|**Structural Attention-Based Recurrent Variational Autoencoder for Highway Vehicle Anomaly Detection**|Neeloy Chakraborty et.al.|[2301.03634v1](http://arxiv.org/abs/2301.03634v1)|
 |**2023-01-09**|**Efficient Attack Detection in IoT Devices using Feature Engineering-Less Machine Learning**|Arshiya Khan et.al.|[2301.03532v1](http://arxiv.org/abs/2301.03532v1)|
-|**2023-01-03**|**Unsupervised Multivariate Time-Series Transformers for Seizure Identification on EEG**|İlkay Yıldız Potter et.al.|[2301.03470v1](http://arxiv.org/abs/2301.03470v1)|
 |**2023-01-09**|**On advantages of Mask-level Recognition for Open-set Segmentation in the Wild**|Matej Grcić et.al.|[2301.03407v1](http://arxiv.org/abs/2301.03407v1)|
 |**2023-01-07**|**How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection**|Lorenzo Perini et.al.|[2301.02909v1](http://arxiv.org/abs/2301.02909v1)|
 |**2023-01-05**|**CRADL: Contrastive Representations for Unsupervised Anomaly Detection and Localization**|Carsten T. Lüth et.al.|[2301.02126v1](http://arxiv.org/abs/2301.02126v1)|
-|**2023-01-05**|**Zen: LSTM-based generation of individual spatiotemporal cellular traffic with interactions**|Anne Josiane Kouam et.al.|[2301.02059v1](http://arxiv.org/abs/2301.02059v1)|
-|**2023-01-04**|**Self-Supervised Video Forensics by Audio-Visual Anomaly Detection**|Chao Feng et.al.|[2301.01767v1](http://arxiv.org/abs/2301.01767v1)|
 
