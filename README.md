@@ -1,4 +1,4 @@
-## Updated on 2023.01.19
+## Updated on 2023.01.24
 
 ## super-resolution
 
@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-01-23**|**Adapting the Hypersphere Loss Function from Anomaly Detection to Anomaly Segmentation**|Joao P. C. Bertoldo et.al.|[2301.09602v1](http://arxiv.org/abs/2301.09602v1)|
+|**2023-01-23**|**Contracting Skeletal Kinematic Embeddings for Anomaly Detection**|Alessandro Flaborea et.al.|[2301.09489v1](http://arxiv.org/abs/2301.09489v1)|
+|**2023-01-23**|**A Tale of Two Latent Flows: Learning Latent Space Normalizing Flow with Short-run Langevin Flow for Approximate Inference**|Jianwen Xie et.al.|[2301.09300v1](http://arxiv.org/abs/2301.09300v1)|
+|**2023-01-22**|**Condition monitoring and anomaly detection in cyber-physical systems**|William Marfo et.al.|[2301.09030v1](http://arxiv.org/abs/2301.09030v1)|
+|**2023-01-19**|**Hybrid Open-set Segmentation with Synthetic Negative Data**|Matej Grcić et.al.|[2301.08555v1](http://arxiv.org/abs/2301.08555v1)|
+|**2023-01-19**|**The role of noise in denoising models for anomaly detection in medical images**|Antanas Kascenas et.al.|[2301.08330v1](http://arxiv.org/abs/2301.08330v1)|
+|**2023-01-19**|**Position Regression for Unsupervised Anomaly Detection**|Florentin Bieder et.al.|[2301.08064v1](http://arxiv.org/abs/2301.08064v1)|
+|**2023-01-19**|**Human-Scene Network: A Novel Baseline with Self-rectifying Loss for Weakly supervised Video Anomaly Detection**|Snehashis Majhi et.al.|[2301.07923v1](http://arxiv.org/abs/2301.07923v1)|
+|**2023-01-19**|**ClusterLog: Clustering Logs for Effective Log-based Anomaly Detection**|Chris Egersdoerfer et.al.|[2301.07846v1](http://arxiv.org/abs/2301.07846v1)|
 |**2023-01-18**|**Efficient Black-box Checking of Snapshot Isolation in Databases**|Kaile Huang et.al.|[2301.07313v1](http://arxiv.org/abs/2301.07313v1)|
-|**2023-01-17**|**FewSOME: Few Shot Anomaly Detection**|Niamh Belton et.al.|[2301.06957v1](http://arxiv.org/abs/2301.06957v1)|
-|**2023-01-17**|**Subgraph Centralization: A Necessary Step for Graph Anomaly Detection**|Zhong Zhuang et.al.|[2301.06794v1](http://arxiv.org/abs/2301.06794v1)|
-|**2023-01-15**|**Efficient anomaly detection method for rooftop PV systems using big data and permutation entropy**|Sahand Karimi-Arpanahi et.al.|[2301.06035v1](http://arxiv.org/abs/2301.06035v1)|
-|**2023-01-11**|**Anomalies, Representations, and Self-Supervision**|Barry M. Dillon et.al.|[2301.04660v1](http://arxiv.org/abs/2301.04660v1)|
-|**2023-01-09**|**Non-contact Respiratory Anomaly Detection using Infrared Light Wave Sensing**|Md Zobaer Islam et.al.|[2301.03713v1](http://arxiv.org/abs/2301.03713v1)|
-|**2023-01-09**|**Structural Attention-Based Recurrent Variational Autoencoder for Highway Vehicle Anomaly Detection**|Neeloy Chakraborty et.al.|[2301.03634v1](http://arxiv.org/abs/2301.03634v1)|
-|**2023-01-09**|**Efficient Attack Detection in IoT Devices using Feature Engineering-Less Machine Learning**|Arshiya Khan et.al.|[2301.03532v1](http://arxiv.org/abs/2301.03532v1)|
-|**2023-01-09**|**On advantages of Mask-level Recognition for Open-set Segmentation in the Wild**|Matej Grcić et.al.|[2301.03407v1](http://arxiv.org/abs/2301.03407v1)|
-|**2023-01-07**|**How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection**|Lorenzo Perini et.al.|[2301.02909v1](http://arxiv.org/abs/2301.02909v1)|
 
