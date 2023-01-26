@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-01-25**|**PULL: Reactive Log Anomaly Detection Based On Iterative PU Learning**|Thorsten Wittkopp et.al.|[2301.10681v1](http://arxiv.org/abs/2301.10681v1)|
+|**2023-01-25**|**Incentive-weighted Anomaly Detection for False Data Injection Attacks Against Smart Meter Load Profiles**|Martin Higgins et.al.|[2301.10628v1](http://arxiv.org/abs/2301.10628v1)|
+|**2023-01-24**|**Linking Anomalous Behaviour with Stellar Properties: An Unsupervised Exploration of TESS Light Curves**|Dennis A. Crake et.al.|[2301.10264v1](http://arxiv.org/abs/2301.10264v1)|
 |**2023-01-24**|**A convolutional neural network of low complexity for tumor anomaly detection**|Vasileios E. Papageorgiou et.al.|[2301.09861v2](http://arxiv.org/abs/2301.09861v2)|
 |**2023-01-23**|**Adapting the Hypersphere Loss Function from Anomaly Detection to Anomaly Segmentation**|Joao P. C. Bertoldo et.al.|[2301.09602v1](http://arxiv.org/abs/2301.09602v1)|
 |**2023-01-23**|**Contracting Skeletal Kinematic Embeddings for Anomaly Detection**|Alessandro Flaborea et.al.|[2301.09489v1](http://arxiv.org/abs/2301.09489v1)|
 |**2023-01-23**|**A Tale of Two Latent Flows: Learning Latent Space Normalizing Flow with Short-run Langevin Flow for Approximate Inference**|Jianwen Xie et.al.|[2301.09300v1](http://arxiv.org/abs/2301.09300v1)|
 |**2023-01-22**|**Condition monitoring and anomaly detection in cyber-physical systems**|William Marfo et.al.|[2301.09030v1](http://arxiv.org/abs/2301.09030v1)|
-|**2023-01-19**|**Hybrid Open-set Segmentation with Synthetic Negative Data**|Matej Grcić et.al.|[2301.08555v1](http://arxiv.org/abs/2301.08555v1)|
 |**2023-01-19**|**The role of noise in denoising models for anomaly detection in medical images**|Antanas Kascenas et.al.|[2301.08330v1](http://arxiv.org/abs/2301.08330v1)|
 |**2023-01-19**|**Position Regression for Unsupervised Anomaly Detection**|Florentin Bieder et.al.|[2301.08064v1](http://arxiv.org/abs/2301.08064v1)|
-|**2023-01-19**|**Human-Scene Network: A Novel Baseline with Self-rectifying Loss for Weakly supervised Video Anomaly Detection**|Snehashis Majhi et.al.|[2301.07923v1](http://arxiv.org/abs/2301.07923v1)|
-|**2023-01-19**|**ClusterLog: Clustering Logs for Effective Log-based Anomaly Detection**|Chris Egersdoerfer et.al.|[2301.07846v1](http://arxiv.org/abs/2301.07846v1)|
 
