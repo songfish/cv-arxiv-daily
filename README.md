@@ -49,7 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-01-24**|**A convolutional neural network of low complexity for tumor anomaly detection**|Vasileios E. Papageorgiou et.al.|[2301.09861v1](http://arxiv.org/abs/2301.09861v1)|
+|**2023-01-24**|**A convolutional neural network of low complexity for tumor anomaly detection**|Vasileios E. Papageorgiou et.al.|[2301.09861v2](http://arxiv.org/abs/2301.09861v2)|
 |**2023-01-23**|**Adapting the Hypersphere Loss Function from Anomaly Detection to Anomaly Segmentation**|Joao P. C. Bertoldo et.al.|[2301.09602v1](http://arxiv.org/abs/2301.09602v1)|
 |**2023-01-23**|**Contracting Skeletal Kinematic Embeddings for Anomaly Detection**|Alessandro Flaborea et.al.|[2301.09489v1](http://arxiv.org/abs/2301.09489v1)|
 |**2023-01-23**|**A Tale of Two Latent Flows: Learning Latent Space Normalizing Flow with Short-run Langevin Flow for Approximate Inference**|Jianwen Xie et.al.|[2301.09300v1](http://arxiv.org/abs/2301.09300v1)|
