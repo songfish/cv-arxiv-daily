@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-01-25**|**Unravelling physics beyond the standard model with classical and quantum anomaly detection**|Julian Schuhmacher et.al.|[2301.10787v1](http://arxiv.org/abs/2301.10787v1)|
+|**2023-01-25**|**Quantum anomaly detection in the latent space of proton collision events at the LHC**|Kinga Anna Woźniak et.al.|[2301.10780v1](http://arxiv.org/abs/2301.10780v1)|
 |**2023-01-25**|**PULL: Reactive Log Anomaly Detection Based On Iterative PU Learning**|Thorsten Wittkopp et.al.|[2301.10681v1](http://arxiv.org/abs/2301.10681v1)|
 |**2023-01-25**|**Incentive-weighted Anomaly Detection for False Data Injection Attacks Against Smart Meter Load Profiles**|Martin Higgins et.al.|[2301.10628v1](http://arxiv.org/abs/2301.10628v1)|
 |**2023-01-24**|**Linking Anomalous Behaviour with Stellar Properties: An Unsupervised Exploration of TESS Light Curves**|Dennis A. Crake et.al.|[2301.10264v1](http://arxiv.org/abs/2301.10264v1)|
@@ -57,6 +59,4 @@
 |**2023-01-23**|**Contracting Skeletal Kinematic Embeddings for Anomaly Detection**|Alessandro Flaborea et.al.|[2301.09489v1](http://arxiv.org/abs/2301.09489v1)|
 |**2023-01-23**|**A Tale of Two Latent Flows: Learning Latent Space Normalizing Flow with Short-run Langevin Flow for Approximate Inference**|Jianwen Xie et.al.|[2301.09300v1](http://arxiv.org/abs/2301.09300v1)|
 |**2023-01-22**|**Condition monitoring and anomaly detection in cyber-physical systems**|William Marfo et.al.|[2301.09030v1](http://arxiv.org/abs/2301.09030v1)|
-|**2023-01-19**|**The role of noise in denoising models for anomaly detection in medical images**|Antanas Kascenas et.al.|[2301.08330v1](http://arxiv.org/abs/2301.08330v1)|
-|**2023-01-19**|**Position Regression for Unsupervised Anomaly Detection**|Florentin Bieder et.al.|[2301.08064v1](http://arxiv.org/abs/2301.08064v1)|
 
