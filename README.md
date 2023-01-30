@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-01-27**|**Deep Visual Anomaly Detection in Industrial Manufacturing: A Survey**|Jiaqi Liu et.al.|[2301.11514v1](http://arxiv.org/abs/2301.11514v1)|
+|**2023-01-26**|**Parkinson gait modelling from an anomaly deep representation**|Edgar Rangel et.al.|[2301.11418v1](http://arxiv.org/abs/2301.11418v1)|
+|**2023-01-26**|**Coincident Learning for Unsupervised Anomaly Detection**|Ryan Humble et.al.|[2301.11368v1](http://arxiv.org/abs/2301.11368v1)|
 |**2023-01-25**|**Unravelling physics beyond the standard model with classical and quantum anomaly detection**|Julian Schuhmacher et.al.|[2301.10787v2](http://arxiv.org/abs/2301.10787v2)|
 |**2023-01-25**|**Quantum anomaly detection in the latent space of proton collision events at the LHC**|Kinga Anna Woźniak et.al.|[2301.10780v1](http://arxiv.org/abs/2301.10780v1)|
 |**2023-01-25**|**PULL: Reactive Log Anomaly Detection Based On Iterative PU Learning**|Thorsten Wittkopp et.al.|[2301.10681v1](http://arxiv.org/abs/2301.10681v1)|
@@ -56,7 +59,4 @@
 |**2023-01-24**|**Linking Anomalous Behaviour with Stellar Properties: An Unsupervised Exploration of TESS Light Curves**|Dennis A. Crake et.al.|[2301.10264v1](http://arxiv.org/abs/2301.10264v1)|
 |**2023-01-24**|**A convolutional neural network of low complexity for tumor anomaly detection**|Vasileios E. Papageorgiou et.al.|[2301.09861v2](http://arxiv.org/abs/2301.09861v2)|
 |**2023-01-23**|**Adapting the Hypersphere Loss Function from Anomaly Detection to Anomaly Segmentation**|Joao P. C. Bertoldo et.al.|[2301.09602v1](http://arxiv.org/abs/2301.09602v1)|
-|**2023-01-23**|**Contracting Skeletal Kinematic Embeddings for Anomaly Detection**|Alessandro Flaborea et.al.|[2301.09489v1](http://arxiv.org/abs/2301.09489v1)|
-|**2023-01-23**|**A Tale of Two Latent Flows: Learning Latent Space Normalizing Flow with Short-run Langevin Flow for Approximate Inference**|Jianwen Xie et.al.|[2301.09300v1](http://arxiv.org/abs/2301.09300v1)|
-|**2023-01-22**|**Condition monitoring and anomaly detection in cyber-physical systems**|William Marfo et.al.|[2301.09030v1](http://arxiv.org/abs/2301.09030v1)|
 
