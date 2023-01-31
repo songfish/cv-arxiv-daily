@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-01-30**|**Exploring Image Augmentations for Siamese Representation Learning with Chest X-Rays**|Rogier van der Sluijs et.al.|[2301.12636v1](http://arxiv.org/abs/2301.12636v1)|
 |**2022-11-17**|**Dynamic Interactional And Cooperative Network For Shield Machine**|Dazhi Gao et.al.|[2211.10473v1](http://arxiv.org/abs/2211.10473v1)|
 |**2022-11-17**|**Heart Abnormality Detection from Heart Sound Signals using MFCC Feature and Dual Stream Attention Based Network**|Nayeeb Rashid et.al.|[2211.09751v1](http://arxiv.org/abs/2211.09751v1)|
 |**2022-11-02**|**Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems**|Kai Packhäuser et.al.|[2211.01323v2](http://arxiv.org/abs/2211.01323v2)|
@@ -43,20 +44,19 @@
 |**2022-07-20**|**A Hybrid Convolutional Neural Network with Meta Feature Learning for Abnormality Detection in Wireless Capsule Endoscopy Images**|Samir Jain et.al.|[2207.09769v1](http://arxiv.org/abs/2207.09769v1)|
 |**2022-07-13**|**Abnormality Detection and Localization Schemes using Molecular Communication Systems: A Survey**|Ali Etemadi et.al.|[2207.06032v2](http://arxiv.org/abs/2207.06032v2)|
 |**2022-07-08**|**Generative Adversarial Networks and Other Generative Models**|Markus Wenzel et.al.|[2207.03887v1](http://arxiv.org/abs/2207.03887v1)|
-|**2022-06-06**|**Early Abnormal Detection of Sewage Pipe Network: Bagging of Various Abnormal Detection Algorithms**|Zhen-Yu Zhang et.al.|[2206.03321v1](http://arxiv.org/abs/2206.03321v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-01-30**|**Streaming Anomaly Detection**|Siddharth Bhatia et.al.|[2301.13199v1](http://arxiv.org/abs/2301.13199v1)|
+|**2023-01-30**|**BSSAD: Towards A Novel Bayesian State-Space Approach for Anomaly Detection in Multivariate Time Series**|Usman Anjum et.al.|[2301.13031v1](http://arxiv.org/abs/2301.13031v1)|
+|**2023-01-30**|**Approximating DTW with a convolutional neural network on EEG data**|Hugo Lerogeron et.al.|[2301.12873v1](http://arxiv.org/abs/2301.12873v1)|
+|**2023-01-30**|**FractalAD: A simple industrial anomaly segmentation method using fractal anomaly generation and backbone knowledge distillation**|Xuan Xia et.al.|[2301.12739v1](http://arxiv.org/abs/2301.12739v1)|
+|**2023-01-28**|**Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore**|Guoyang Xie et.al.|[2301.12082v1](http://arxiv.org/abs/2301.12082v1)|
+|**2023-01-28**|**Making Reconstruction-based Method Great Again for Video Anomaly Detection**|Yizhou Wang et.al.|[2301.12048v1](http://arxiv.org/abs/2301.12048v1)|
 |**2023-01-27**|**Deep Industrial Image Anomaly Detection: A Survey**|Jiaqi Liu et.al.|[2301.11514v2](http://arxiv.org/abs/2301.11514v2)|
 |**2023-01-26**|**Parkinson gait modelling from an anomaly deep representation**|Edgar Rangel et.al.|[2301.11418v1](http://arxiv.org/abs/2301.11418v1)|
 |**2023-01-26**|**Coincident Learning for Unsupervised Anomaly Detection**|Ryan Humble et.al.|[2301.11368v1](http://arxiv.org/abs/2301.11368v1)|
 |**2023-01-25**|**Unravelling physics beyond the standard model with classical and quantum anomaly detection**|Julian Schuhmacher et.al.|[2301.10787v2](http://arxiv.org/abs/2301.10787v2)|
-|**2023-01-25**|**Quantum anomaly detection in the latent space of proton collision events at the LHC**|Kinga Anna Woźniak et.al.|[2301.10780v1](http://arxiv.org/abs/2301.10780v1)|
-|**2023-01-25**|**PULL: Reactive Log Anomaly Detection Based On Iterative PU Learning**|Thorsten Wittkopp et.al.|[2301.10681v1](http://arxiv.org/abs/2301.10681v1)|
-|**2023-01-25**|**Incentive-weighted Anomaly Detection for False Data Injection Attacks Against Smart Meter Load Profiles**|Martin Higgins et.al.|[2301.10628v1](http://arxiv.org/abs/2301.10628v1)|
-|**2023-01-24**|**Linking Anomalous Behaviour with Stellar Properties: An Unsupervised Exploration of TESS Light Curves**|Dennis A. Crake et.al.|[2301.10264v1](http://arxiv.org/abs/2301.10264v1)|
-|**2023-01-24**|**A convolutional neural network of low complexity for tumor anomaly detection**|Vasileios E. Papageorgiou et.al.|[2301.09861v2](http://arxiv.org/abs/2301.09861v2)|
-|**2023-01-23**|**Adapting the Hypersphere Loss Function from Anomaly Detection to Anomaly Segmentation**|Joao P. C. Bertoldo et.al.|[2301.09602v1](http://arxiv.org/abs/2301.09602v1)|
 
