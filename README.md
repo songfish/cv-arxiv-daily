@@ -49,7 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-01-27**|**Deep Visual Anomaly Detection in Industrial Manufacturing: A Survey**|Jiaqi Liu et.al.|[2301.11514v1](http://arxiv.org/abs/2301.11514v1)|
+|**2023-01-27**|**Deep Industrial Image Anomaly Detection: A Survey**|Jiaqi Liu et.al.|[2301.11514v2](http://arxiv.org/abs/2301.11514v2)|
 |**2023-01-26**|**Parkinson gait modelling from an anomaly deep representation**|Edgar Rangel et.al.|[2301.11418v1](http://arxiv.org/abs/2301.11418v1)|
 |**2023-01-26**|**Coincident Learning for Unsupervised Anomaly Detection**|Ryan Humble et.al.|[2301.11368v1](http://arxiv.org/abs/2301.11368v1)|
 |**2023-01-25**|**Unravelling physics beyond the standard model with classical and quantum anomaly detection**|Julian Schuhmacher et.al.|[2301.10787v2](http://arxiv.org/abs/2301.10787v2)|
