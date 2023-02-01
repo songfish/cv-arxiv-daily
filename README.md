@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-01-31**|**Real-Time Outlier Detection with Dynamic Process Limits**|Marek Wadinger et.al.|[2301.13527v1](http://arxiv.org/abs/2301.13527v1)|
+|**2023-01-31**|**LogAI: A Library for Log Analytics and Intelligence**|Qian Cheng et.al.|[2301.13415v1](http://arxiv.org/abs/2301.13415v1)|
+|**2023-01-31**|**IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing**|Guoyang Xie et.al.|[2301.13359v1](http://arxiv.org/abs/2301.13359v1)|
 |**2023-01-30**|**Streaming Anomaly Detection**|Siddharth Bhatia et.al.|[2301.13199v1](http://arxiv.org/abs/2301.13199v1)|
 |**2023-01-30**|**BSSAD: Towards A Novel Bayesian State-Space Approach for Anomaly Detection in Multivariate Time Series**|Usman Anjum et.al.|[2301.13031v1](http://arxiv.org/abs/2301.13031v1)|
 |**2023-01-30**|**Approximating DTW with a convolutional neural network on EEG data**|Hugo Lerogeron et.al.|[2301.12873v1](http://arxiv.org/abs/2301.12873v1)|
@@ -56,7 +59,4 @@
 |**2023-01-28**|**Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore**|Guoyang Xie et.al.|[2301.12082v1](http://arxiv.org/abs/2301.12082v1)|
 |**2023-01-28**|**Making Reconstruction-based Method Great Again for Video Anomaly Detection**|Yizhou Wang et.al.|[2301.12048v1](http://arxiv.org/abs/2301.12048v1)|
 |**2023-01-27**|**Deep Industrial Image Anomaly Detection: A Survey**|Jiaqi Liu et.al.|[2301.11514v2](http://arxiv.org/abs/2301.11514v2)|
-|**2023-01-26**|**Parkinson gait modelling from an anomaly deep representation**|Edgar Rangel et.al.|[2301.11418v1](http://arxiv.org/abs/2301.11418v1)|
-|**2023-01-26**|**Coincident Learning for Unsupervised Anomaly Detection**|Ryan Humble et.al.|[2301.11368v1](http://arxiv.org/abs/2301.11368v1)|
-|**2023-01-25**|**Unravelling physics beyond the standard model with classical and quantum anomaly detection**|Julian Schuhmacher et.al.|[2301.10787v2](http://arxiv.org/abs/2301.10787v2)|
 
