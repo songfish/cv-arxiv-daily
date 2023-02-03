@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-02**|**Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs**|Shenyang Huang et.al.|[2302.01204v1](http://arxiv.org/abs/2302.01204v1)|
+|**2023-02-02**|**Eloss in the way: A Sensitive Input Quality Metrics for Intelligent Driving**|Haobo Yang et.al.|[2302.00986v1](http://arxiv.org/abs/2302.00986v1)|
+|**2023-02-02**|**An optimization method for out-of-distribution anomaly detection models**|Ji Qiu et.al.|[2302.00939v1](http://arxiv.org/abs/2302.00939v1)|
 |**2023-02-01**|**Anomaly, reciprocity, and community detection in networks**|Hadiseh Safdari et.al.|[2302.00504v1](http://arxiv.org/abs/2302.00504v1)|
 |**2023-01-31**|**Graph-based Time-Series Anomaly Detection: A Survey**|Thi Kieu Khanh Ho et.al.|[2302.00058v1](http://arxiv.org/abs/2302.00058v1)|
 |**2023-01-31**|**Real-Time Outlier Detection with Dynamic Process Limits**|Marek Wadinger et.al.|[2301.13527v1](http://arxiv.org/abs/2301.13527v1)|
@@ -56,7 +59,4 @@
 |**2023-01-31**|**IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing**|Guoyang Xie et.al.|[2301.13359v1](http://arxiv.org/abs/2301.13359v1)|
 |**2023-01-30**|**Streaming Anomaly Detection**|Siddharth Bhatia et.al.|[2301.13199v1](http://arxiv.org/abs/2301.13199v1)|
 |**2023-01-30**|**BSSAD: Towards A Novel Bayesian State-Space Approach for Anomaly Detection in Multivariate Time Series**|Usman Anjum et.al.|[2301.13031v1](http://arxiv.org/abs/2301.13031v1)|
-|**2023-01-30**|**Approximating DTW with a convolutional neural network on EEG data**|Hugo Lerogeron et.al.|[2301.12873v1](http://arxiv.org/abs/2301.12873v1)|
-|**2023-01-30**|**FractalAD: A simple industrial anomaly segmentation method using fractal anomaly generation and backbone knowledge distillation**|Xuan Xia et.al.|[2301.12739v1](http://arxiv.org/abs/2301.12739v1)|
-|**2023-01-28**|**Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore**|Guoyang Xie et.al.|[2301.12082v1](http://arxiv.org/abs/2301.12082v1)|
 
