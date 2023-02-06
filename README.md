@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-02**|**Leveraging a Probabilistic PCA Model to Understand the Multivariate Statistical Network Monitoring Framework for Network Security Anomaly Detection**|Fernando Pérez-Bueno et.al.|[2302.01759v1](http://arxiv.org/abs/2302.01759v1)|
+|**2023-02-03**|**Leveraging Contaminated Datasets to Learn Clean-Data Distribution with Purified Generative Adversarial Networks**|Bowen Tian et.al.|[2302.01722v1](http://arxiv.org/abs/2302.01722v1)|
 |**2023-02-02**|**Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs**|Shenyang Huang et.al.|[2302.01204v1](http://arxiv.org/abs/2302.01204v1)|
 |**2023-02-02**|**Eloss in the way: A Sensitive Input Quality Metrics for Intelligent Driving**|Haobo Yang et.al.|[2302.00986v1](http://arxiv.org/abs/2302.00986v1)|
 |**2023-02-02**|**An optimization method for out-of-distribution anomaly detection models**|Ji Qiu et.al.|[2302.00939v1](http://arxiv.org/abs/2302.00939v1)|
@@ -57,6 +59,4 @@
 |**2023-01-31**|**Real-Time Outlier Detection with Dynamic Process Limits**|Marek Wadinger et.al.|[2301.13527v1](http://arxiv.org/abs/2301.13527v1)|
 |**2023-01-31**|**LogAI: A Library for Log Analytics and Intelligence**|Qian Cheng et.al.|[2301.13415v1](http://arxiv.org/abs/2301.13415v1)|
 |**2023-01-31**|**IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing**|Guoyang Xie et.al.|[2301.13359v1](http://arxiv.org/abs/2301.13359v1)|
-|**2023-01-30**|**Streaming Anomaly Detection**|Siddharth Bhatia et.al.|[2301.13199v1](http://arxiv.org/abs/2301.13199v1)|
-|**2023-01-30**|**BSSAD: Towards A Novel Bayesian State-Space Approach for Anomaly Detection in Multivariate Time Series**|Usman Anjum et.al.|[2301.13031v1](http://arxiv.org/abs/2301.13031v1)|
 
