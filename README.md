@@ -34,6 +34,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-06**|**Integrating Eye-Gaze Data into CXR DL Approaches: A Preliminary study**|André Luís et.al.|[2302.02940v1](http://arxiv.org/abs/2302.02940v1)|
+|**2023-02-04**|**Conformalized semi-supervised random forest for classification and abnormality detection**|Yujin Han et.al.|[2302.02237v1](http://arxiv.org/abs/2302.02237v1)|
 |**2023-01-30**|**Exploring Image Augmentations for Siamese Representation Learning with Chest X-Rays**|Rogier van der Sluijs et.al.|[2301.12636v1](http://arxiv.org/abs/2301.12636v1)|
 |**2022-11-17**|**Dynamic Interactional And Cooperative Network For Shield Machine**|Dazhi Gao et.al.|[2211.10473v1](http://arxiv.org/abs/2211.10473v1)|
 |**2022-11-17**|**Heart Abnormality Detection from Heart Sound Signals using MFCC Feature and Dual Stream Attention Based Network**|Nayeeb Rashid et.al.|[2211.09751v1](http://arxiv.org/abs/2211.09751v1)|
@@ -42,21 +44,19 @@
 |**2022-09-29**|**Cardiotocography Signal Abnormality Detection based on Deep Unsupervised Models**|Julien Bertieaux et.al.|[2209.15085v1](http://arxiv.org/abs/2209.15085v1)|
 |**2022-09-14**|**Federated Learning based on Defending Against Data Poisoning Attacks in IoT**|Jiayin Li et.al.|[2209.06397v1](http://arxiv.org/abs/2209.06397v1)|
 |**2022-07-20**|**A Hybrid Convolutional Neural Network with Meta Feature Learning for Abnormality Detection in Wireless Capsule Endoscopy Images**|Samir Jain et.al.|[2207.09769v1](http://arxiv.org/abs/2207.09769v1)|
-|**2022-07-13**|**Abnormality Detection and Localization Schemes using Molecular Communication Systems: A Survey**|Ali Etemadi et.al.|[2207.06032v2](http://arxiv.org/abs/2207.06032v2)|
-|**2022-07-08**|**Generative Adversarial Networks and Other Generative Models**|Markus Wenzel et.al.|[2207.03887v1](http://arxiv.org/abs/2207.03887v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-06**|**Label Assisted Autoencoder for Anomaly Detection in Power Generation Plants**|Marcellin Atemkeng et.al.|[2302.02896v1](http://arxiv.org/abs/2302.02896v1)|
+|**2023-02-06**|**Perception Datasets for Anomaly Detection in Autonomous Driving: A Survey**|Daniel Bogdoll et.al.|[2302.02790v1](http://arxiv.org/abs/2302.02790v1)|
+|**2023-02-05**|**Towards Scalable EM-based Anomaly Detection For Embedded Devices Through Synthetic Fingerprinting**|Kurt A. Vedros et.al.|[2302.02324v1](http://arxiv.org/abs/2302.02324v1)|
+|**2023-02-04**|**Unsupervised Ensemble Methods for Anomaly Detection in PLC-based Process Control**|Emmanuel Aboah Boateng et.al.|[2302.02097v1](http://arxiv.org/abs/2302.02097v1)|
+|**2023-02-04**|**Multivariate Time Series Anomaly Detection via Dynamic Graph Forecasting**|Katrina Chen et.al.|[2302.02051v1](http://arxiv.org/abs/2302.02051v1)|
+|**2023-02-03**|**DeepAstroUDA: Semi-Supervised Universal Domain Adaptation for Cross-Survey Galaxy Morphology Classification and Anomaly Detection**|A. Ćiprijanović et.al.|[2302.02005v1](http://arxiv.org/abs/2302.02005v1)|
+|**2023-02-03**|**DCA: Delayed Charging Attack on the Electric Shared Mobility System**|Shuocheng Guo et.al.|[2302.01972v1](http://arxiv.org/abs/2302.01972v1)|
 |**2023-02-02**|**Leveraging a Probabilistic PCA Model to Understand the Multivariate Statistical Network Monitoring Framework for Network Security Anomaly Detection**|Fernando Pérez-Bueno et.al.|[2302.01759v1](http://arxiv.org/abs/2302.01759v1)|
 |**2023-02-03**|**Leveraging Contaminated Datasets to Learn Clean-Data Distribution with Purified Generative Adversarial Networks**|Bowen Tian et.al.|[2302.01722v1](http://arxiv.org/abs/2302.01722v1)|
 |**2023-02-02**|**Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs**|Shenyang Huang et.al.|[2302.01204v1](http://arxiv.org/abs/2302.01204v1)|
-|**2023-02-02**|**Eloss in the way: A Sensitive Input Quality Metrics for Intelligent Driving**|Haobo Yang et.al.|[2302.00986v1](http://arxiv.org/abs/2302.00986v1)|
-|**2023-02-02**|**An optimization method for out-of-distribution anomaly detection models**|Ji Qiu et.al.|[2302.00939v1](http://arxiv.org/abs/2302.00939v1)|
-|**2023-02-01**|**Anomaly, reciprocity, and community detection in networks**|Hadiseh Safdari et.al.|[2302.00504v1](http://arxiv.org/abs/2302.00504v1)|
-|**2023-01-31**|**Graph-based Time-Series Anomaly Detection: A Survey**|Thi Kieu Khanh Ho et.al.|[2302.00058v1](http://arxiv.org/abs/2302.00058v1)|
-|**2023-01-31**|**Real-Time Outlier Detection with Dynamic Process Limits**|Marek Wadinger et.al.|[2301.13527v1](http://arxiv.org/abs/2301.13527v1)|
-|**2023-01-31**|**LogAI: A Library for Log Analytics and Intelligence**|Qian Cheng et.al.|[2301.13415v1](http://arxiv.org/abs/2301.13415v1)|
-|**2023-01-31**|**IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing**|Guoyang Xie et.al.|[2301.13359v1](http://arxiv.org/abs/2301.13359v1)|
 
