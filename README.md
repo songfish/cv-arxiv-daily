@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-07**|**Towards Meaningful Anomaly Detection: The Effect of Counterfactual Explanations on the Investigation of Anomalies in Multivariate Time Series**|Max Schemmer et.al.|[2302.03302v1](http://arxiv.org/abs/2302.03302v1)|
+|**2023-02-07**|**Unsupervised Deep Learning for IoT Time Series**|Ya Liu et.al.|[2302.03284v1](http://arxiv.org/abs/2302.03284v1)|
 |**2023-02-06**|**Label Assisted Autoencoder for Anomaly Detection in Power Generation Plants**|Marcellin Atemkeng et.al.|[2302.02896v1](http://arxiv.org/abs/2302.02896v1)|
 |**2023-02-06**|**Perception Datasets for Anomaly Detection in Autonomous Driving: A Survey**|Daniel Bogdoll et.al.|[2302.02790v1](http://arxiv.org/abs/2302.02790v1)|
 |**2023-02-05**|**Towards Scalable EM-based Anomaly Detection For Embedded Devices Through Synthetic Fingerprinting**|Kurt A. Vedros et.al.|[2302.02324v1](http://arxiv.org/abs/2302.02324v1)|
@@ -56,7 +58,5 @@
 |**2023-02-04**|**Multivariate Time Series Anomaly Detection via Dynamic Graph Forecasting**|Katrina Chen et.al.|[2302.02051v1](http://arxiv.org/abs/2302.02051v1)|
 |**2023-02-03**|**DeepAstroUDA: Semi-Supervised Universal Domain Adaptation for Cross-Survey Galaxy Morphology Classification and Anomaly Detection**|A. Ćiprijanović et.al.|[2302.02005v1](http://arxiv.org/abs/2302.02005v1)|
 |**2023-02-03**|**DCA: Delayed Charging Attack on the Electric Shared Mobility System**|Shuocheng Guo et.al.|[2302.01972v1](http://arxiv.org/abs/2302.01972v1)|
-|**2023-02-02**|**Leveraging a Probabilistic PCA Model to Understand the Multivariate Statistical Network Monitoring Framework for Network Security Anomaly Detection**|Fernando Pérez-Bueno et.al.|[2302.01759v1](http://arxiv.org/abs/2302.01759v1)|
 |**2023-02-03**|**Leveraging Contaminated Datasets to Learn Clean-Data Distribution with Purified Generative Adversarial Networks**|Bowen Tian et.al.|[2302.01722v1](http://arxiv.org/abs/2302.01722v1)|
-|**2023-02-02**|**Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs**|Shenyang Huang et.al.|[2302.01204v1](http://arxiv.org/abs/2302.01204v1)|
 
