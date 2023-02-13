@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-10**|**Dual Memory Units with Uncertainty Regulation for Weakly Supervised Video Anomaly Detection**|Hang Zhou et.al.|[2302.05160v1](http://arxiv.org/abs/2302.05160v1)|
+|**2023-02-10**|**Industrial and Medical Anomaly Detection Through Cycle-Consistent Adversarial Networks**|Arnaud Bougaham et.al.|[2302.05154v1](http://arxiv.org/abs/2302.05154v1)|
+|**2023-02-10**|**Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data**|Cheryl Lee et.al.|[2302.05092v1](http://arxiv.org/abs/2302.05092v1)|
+|**2023-02-10**|**Generalized Video Anomaly Event Detection: Systematic Taxonomy and Comparison of Deep Models**|Yang Liu et.al.|[2302.05087v1](http://arxiv.org/abs/2302.05087v1)|
 |**2023-02-09**|**Weakly Supervised Anomaly Detection: A Survey**|Minqi Jiang et.al.|[2302.04549v1](http://arxiv.org/abs/2302.04549v1)|
 |**2023-02-08**|**Deep Machine Learning in Cosmology: Evolution or Revolution?**|Ofer Lahav et.al.|[2302.04324v1](http://arxiv.org/abs/2302.04324v1)|
 |**2023-02-08**|**Understanding Policy and Technical Aspects of AI-Enabled Smart Video Surveillance to Address Public Safety**|Babak Rahimi Ardabili et.al.|[2302.04310v1](http://arxiv.org/abs/2302.04310v1)|
 |**2023-02-07**|**Towards Meaningful Anomaly Detection: The Effect of Counterfactual Explanations on the Investigation of Anomalies in Multivariate Time Series**|Max Schemmer et.al.|[2302.03302v1](http://arxiv.org/abs/2302.03302v1)|
 |**2023-02-07**|**Unsupervised Deep Learning for IoT Time Series**|Ya Liu et.al.|[2302.03284v1](http://arxiv.org/abs/2302.03284v1)|
 |**2023-02-06**|**Label Assisted Autoencoder for Anomaly Detection in Power Generation Plants**|Marcellin Atemkeng et.al.|[2302.02896v1](http://arxiv.org/abs/2302.02896v1)|
-|**2023-02-06**|**Perception Datasets for Anomaly Detection in Autonomous Driving: A Survey**|Daniel Bogdoll et.al.|[2302.02790v1](http://arxiv.org/abs/2302.02790v1)|
-|**2023-02-05**|**Towards Scalable EM-based Anomaly Detection For Embedded Devices Through Synthetic Fingerprinting**|Kurt A. Vedros et.al.|[2302.02324v1](http://arxiv.org/abs/2302.02324v1)|
-|**2023-02-04**|**Unsupervised Ensemble Methods for Anomaly Detection in PLC-based Process Control**|Emmanuel Aboah Boateng et.al.|[2302.02097v1](http://arxiv.org/abs/2302.02097v1)|
-|**2023-02-04**|**Multivariate Time Series Anomaly Detection via Dynamic Graph Forecasting**|Katrina Chen et.al.|[2302.02051v1](http://arxiv.org/abs/2302.02051v1)|
 
