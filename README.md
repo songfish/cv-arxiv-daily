@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-13**|**Deep Graph-Level Orthogonal Hypersphere Compression for Anomaly Detection**|Yunhe Zhang et.al.|[2302.06430v1](http://arxiv.org/abs/2302.06430v1)|
+|**2023-02-13**|**Unsupervised Detection of Behavioural Drifts with Dynamic Clustering and Trajectory Analysis**|Bardh Prenkaj et.al.|[2302.06228v1](http://arxiv.org/abs/2302.06228v1)|
+|**2023-02-13**|**Unsupervised Deep One-Class Classification with Adaptive Threshold based on Training Dynamics**|Minkyung Kim et.al.|[2302.06048v1](http://arxiv.org/abs/2302.06048v1)|
+|**2023-02-10**|**Satellite Anomaly Detection Using Variance Based Genetic Ensemble of Neural Networks**|Mohammad Amin Maleki Sadr et.al.|[2302.05525v1](http://arxiv.org/abs/2302.05525v1)|
 |**2023-02-10**|**Dual Memory Units with Uncertainty Regulation for Weakly Supervised Video Anomaly Detection**|Hang Zhou et.al.|[2302.05160v1](http://arxiv.org/abs/2302.05160v1)|
 |**2023-02-10**|**Industrial and Medical Anomaly Detection Through Cycle-Consistent Adversarial Networks**|Arnaud Bougaham et.al.|[2302.05154v1](http://arxiv.org/abs/2302.05154v1)|
 |**2023-02-10**|**Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data**|Cheryl Lee et.al.|[2302.05092v1](http://arxiv.org/abs/2302.05092v1)|
 |**2023-02-10**|**Generalized Video Anomaly Event Detection: Systematic Taxonomy and Comparison of Deep Models**|Yang Liu et.al.|[2302.05087v1](http://arxiv.org/abs/2302.05087v1)|
 |**2023-02-09**|**Weakly Supervised Anomaly Detection: A Survey**|Minqi Jiang et.al.|[2302.04549v1](http://arxiv.org/abs/2302.04549v1)|
 |**2023-02-08**|**Deep Machine Learning in Cosmology: Evolution or Revolution?**|Ofer Lahav et.al.|[2302.04324v1](http://arxiv.org/abs/2302.04324v1)|
-|**2023-02-08**|**Understanding Policy and Technical Aspects of AI-Enabled Smart Video Surveillance to Address Public Safety**|Babak Rahimi Ardabili et.al.|[2302.04310v1](http://arxiv.org/abs/2302.04310v1)|
-|**2023-02-07**|**Towards Meaningful Anomaly Detection: The Effect of Counterfactual Explanations on the Investigation of Anomalies in Multivariate Time Series**|Max Schemmer et.al.|[2302.03302v1](http://arxiv.org/abs/2302.03302v1)|
-|**2023-02-07**|**Unsupervised Deep Learning for IoT Time Series**|Ya Liu et.al.|[2302.03284v1](http://arxiv.org/abs/2302.03284v1)|
-|**2023-02-06**|**Label Assisted Autoencoder for Anomaly Detection in Power Generation Plants**|Marcellin Atemkeng et.al.|[2302.02896v1](http://arxiv.org/abs/2302.02896v1)|
 
