@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-15**|**Zero-Shot Anomaly Detection without Foundation Models**|Aodong Li et.al.|[2302.07849v1](http://arxiv.org/abs/2302.07849v1)|
+|**2023-02-15**|**Deep Anomaly Detection under Labeling Budget Constraints**|Aodong Li et.al.|[2302.07832v1](http://arxiv.org/abs/2302.07832v1)|
+|**2023-02-15**|**A Subspace Projection Approach to Autoencoder-based Anomaly Detection**|Jinho Choi et.al.|[2302.07643v1](http://arxiv.org/abs/2302.07643v1)|
 |**2023-02-14**|**Energy Transformer**|Benjamin Hoover et.al.|[2302.07253v1](http://arxiv.org/abs/2302.07253v1)|
 |**2023-02-14**|**Lessons from the Development of an Anomaly Detection Interface on the Mars Perseverance Rover using the ISHMAP Framework**|Austin P. Wright et.al.|[2302.07187v1](http://arxiv.org/abs/2302.07187v1)|
 |**2023-02-14**|**Heterogeneous Anomaly Detection for Software Systems via Semi-supervised Cross-modal Attention**|Cheryl Lee et.al.|[2302.06914v1](http://arxiv.org/abs/2302.06914v1)|
@@ -56,7 +59,4 @@
 |**2023-02-13**|**Deep Graph-Level Orthogonal Hypersphere Compression for Anomaly Detection**|Yunhe Zhang et.al.|[2302.06430v1](http://arxiv.org/abs/2302.06430v1)|
 |**2023-02-13**|**Unsupervised Detection of Behavioural Drifts with Dynamic Clustering and Trajectory Analysis**|Bardh Prenkaj et.al.|[2302.06228v1](http://arxiv.org/abs/2302.06228v1)|
 |**2023-02-13**|**Unsupervised Deep One-Class Classification with Adaptive Threshold based on Training Dynamics**|Minkyung Kim et.al.|[2302.06048v1](http://arxiv.org/abs/2302.06048v1)|
-|**2023-02-10**|**Satellite Anomaly Detection Using Variance Based Genetic Ensemble of Neural Networks**|Mohammad Amin Maleki Sadr et.al.|[2302.05525v1](http://arxiv.org/abs/2302.05525v1)|
-|**2023-02-10**|**Dual Memory Units with Uncertainty Regulation for Weakly Supervised Video Anomaly Detection**|Hang Zhou et.al.|[2302.05160v1](http://arxiv.org/abs/2302.05160v1)|
-|**2023-02-10**|**Industrial and Medical Anomaly Detection Through Cycle-Consistent Adversarial Networks**|Arnaud Bougaham et.al.|[2302.05154v1](http://arxiv.org/abs/2302.05154v1)|
 
