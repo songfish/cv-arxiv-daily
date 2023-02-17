@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-16**|**Detecting Clouds in Multispectral Satellite Images Using Quantum-Kernel Support Vector Machines**|Artur Miroszewski et.al.|[2302.08270v1](http://arxiv.org/abs/2302.08270v1)|
 |**2022-12-21**|**MM811 Project Report: Cloud Detection and Removal in Satellite Images**|Dale Chen-Song et.al.|[2212.11369v1](http://arxiv.org/abs/2212.11369v1)|
 |**2022-10-24**|**Self-Configuring nnU-Nets Detect Clouds in Satellite Images**|Bartosz Grabowski et.al.|[2210.13659v1](http://arxiv.org/abs/2210.13659v1)|
 |**2022-10-17**|**HALOGAS: Strong Constraints on the Neutral Gas Reservoir and Accretion Rate in Nearby Spiral Galaxies**|P. Kamphuis et.al.|[2210.09383v1](http://arxiv.org/abs/2210.09383v1)|
@@ -28,7 +29,6 @@
 |**2022-05-31**|**itKD: Interchange Transfer-based Knowledge Distillation for 3D Object Detection**|Hyeon Cho et.al.|[2205.15531v1](http://arxiv.org/abs/2205.15531v1)|
 |**2022-01-26**|**Non-star-forming molecular gas in the Abell 1367 intra-cluster multiphase orphan cloud**|Pavel Jáchym et.al.|[2201.11141v1](http://arxiv.org/abs/2201.11141v1)|
 |**2022-01-07**|**Multiresolution Fully Convolutional Networks to detect Clouds and Snow through Optical Satellite Images**|Debvrat Varshney et.al.|[2201.02350v1](http://arxiv.org/abs/2201.02350v1)|
-|**2021-12-23**|**Cloud Removal from Satellite Images**|Rutvik Chauhan et.al.|[2112.15483v1](http://arxiv.org/abs/2112.15483v1)|
 
 ## abnormal detection
 
@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-16**|**A method for incremental discovery of financial event types based on anomaly detection**|Dianyue Gu et.al.|[2302.08205v1](http://arxiv.org/abs/2302.08205v1)|
+|**2023-02-15**|**Ultrafast single-channel machine vision based on neuro-inspired photonic computing**|Tomoya Yamaguchi et.al.|[2302.07875v1](http://arxiv.org/abs/2302.07875v1)|
 |**2023-02-15**|**Zero-Shot Anomaly Detection without Foundation Models**|Aodong Li et.al.|[2302.07849v1](http://arxiv.org/abs/2302.07849v1)|
 |**2023-02-15**|**Deep Anomaly Detection under Labeling Budget Constraints**|Aodong Li et.al.|[2302.07832v1](http://arxiv.org/abs/2302.07832v1)|
 |**2023-02-15**|**A Subspace Projection Approach to Autoencoder-based Anomaly Detection**|Jinho Choi et.al.|[2302.07643v1](http://arxiv.org/abs/2302.07643v1)|
@@ -57,6 +59,4 @@
 |**2023-02-14**|**Heterogeneous Anomaly Detection for Software Systems via Semi-supervised Cross-modal Attention**|Cheryl Lee et.al.|[2302.06914v1](http://arxiv.org/abs/2302.06914v1)|
 |**2023-02-13**|**Towards Explainable Visual Anomaly Detection**|Yizhou Wang et.al.|[2302.06670v1](http://arxiv.org/abs/2302.06670v1)|
 |**2023-02-13**|**Deep Graph-Level Orthogonal Hypersphere Compression for Anomaly Detection**|Yunhe Zhang et.al.|[2302.06430v1](http://arxiv.org/abs/2302.06430v1)|
-|**2023-02-13**|**Unsupervised Detection of Behavioural Drifts with Dynamic Clustering and Trajectory Analysis**|Bardh Prenkaj et.al.|[2302.06228v1](http://arxiv.org/abs/2302.06228v1)|
-|**2023-02-13**|**Unsupervised Deep One-Class Classification with Adaptive Threshold based on Training Dynamics**|Minkyung Kim et.al.|[2302.06048v1](http://arxiv.org/abs/2302.06048v1)|
 
