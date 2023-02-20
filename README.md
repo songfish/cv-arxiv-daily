@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-17**|**Quantile LSTM: A Robust LSTM for Anomaly Detection In Time Series Data**|Snehanshu Saha et.al.|[2302.08712v1](http://arxiv.org/abs/2302.08712v1)|
 |**2023-02-16**|**A method for incremental discovery of financial event types based on anomaly detection**|Dianyue Gu et.al.|[2302.08205v1](http://arxiv.org/abs/2302.08205v1)|
 |**2023-02-15**|**Ultrafast single-channel machine vision based on neuro-inspired photonic computing**|Tomoya Yamaguchi et.al.|[2302.07875v1](http://arxiv.org/abs/2302.07875v1)|
 |**2023-02-15**|**Zero-Shot Anomaly Detection without Foundation Models**|Aodong Li et.al.|[2302.07849v1](http://arxiv.org/abs/2302.07849v1)|
@@ -58,5 +59,4 @@
 |**2023-02-14**|**Lessons from the Development of an Anomaly Detection Interface on the Mars Perseverance Rover using the ISHMAP Framework**|Austin P. Wright et.al.|[2302.07187v1](http://arxiv.org/abs/2302.07187v1)|
 |**2023-02-14**|**Heterogeneous Anomaly Detection for Software Systems via Semi-supervised Cross-modal Attention**|Cheryl Lee et.al.|[2302.06914v1](http://arxiv.org/abs/2302.06914v1)|
 |**2023-02-13**|**Towards Explainable Visual Anomaly Detection**|Yizhou Wang et.al.|[2302.06670v1](http://arxiv.org/abs/2302.06670v1)|
-|**2023-02-13**|**Deep Graph-Level Orthogonal Hypersphere Compression for Anomaly Detection**|Yunhe Zhang et.al.|[2302.06430v1](http://arxiv.org/abs/2302.06430v1)|
 
