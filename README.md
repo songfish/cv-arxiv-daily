@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-19**|**Guided Depth Map Super-resolution: A Survey**|Zhiwei Zhong et.al.|[2302.09598v1](http://arxiv.org/abs/2302.09598v1)|
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|
 |**2022-09-27**|**Hitchhiker's Guide to Super-Resolution: Introduction and Recent Advances**|Brian Moser et.al.|[2209.13131v2](http://arxiv.org/abs/2209.13131v2)|
@@ -13,7 +14,6 @@
 |**2022-04-28**|**Generative Adversarial Networks for Image Super-Resolution: A Survey**|Chunwei Tian et.al.|[2204.13620v2](http://arxiv.org/abs/2204.13620v2)|
 |**2022-04-20**|**NTIRE 2022 Challenge on Stereo Image Super-Resolution: Methods and Results**|Longguang Wang et.al.|[2204.09197v1](http://arxiv.org/abs/2204.09197v1)|
 |**2022-03-20**|**Optical Flow for Video Super-Resolution: A Survey**|Zhigang Tu et.al.|[2203.10462v1](http://arxiv.org/abs/2203.10462v1)|
-|**2022-03-16**|**Towards True Detail Restoration for Super-Resolution: A Benchmark and a Quality Metric**|Eugene Lyapustin et.al.|[2203.08923v1](http://arxiv.org/abs/2203.08923v1)|
 
 ## cloud detection
 
@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-20**|**CNTS: Cooperative Network for Time Series**|Jinsheng Yang et.al.|[2302.09800v1](http://arxiv.org/abs/2302.09800v1)|
+|**2023-02-20**|**Two-stream Decoder Feature Normality Estimating Network for Industrial Anomaly Detection**|Chaewon Park et.al.|[2302.09794v1](http://arxiv.org/abs/2302.09794v1)|
+|**2023-02-18**|**Anomaly Detection of UAV State Data Based on Single-class Triangular Global Alignment Kernel Extreme Learning Machine**|Feisha Hu et.al.|[2302.09320v1](http://arxiv.org/abs/2302.09320v1)|
+|**2023-02-18**|**FrAug: Frequency Domain Augmentation for Time Series Forecasting**|Muxi Chen et.al.|[2302.09292v1](http://arxiv.org/abs/2302.09292v1)|
+|**2023-02-18**|**Brainomaly: Unsupervised Neurologic Disease Detection Utilizing Unannotated T1-weighted Brain MR Images**|Md Mahfuzur Rahman Siddiquee et.al.|[2302.09200v1](http://arxiv.org/abs/2302.09200v1)|
 |**2023-02-17**|**Quantile LSTM: A Robust LSTM for Anomaly Detection In Time Series Data**|Snehanshu Saha et.al.|[2302.08712v1](http://arxiv.org/abs/2302.08712v1)|
 |**2023-02-16**|**A method for incremental discovery of financial event types based on anomaly detection**|Dianyue Gu et.al.|[2302.08205v1](http://arxiv.org/abs/2302.08205v1)|
-|**2023-02-15**|**Ultrafast single-channel machine vision based on neuro-inspired photonic computing**|Tomoya Yamaguchi et.al.|[2302.07875v1](http://arxiv.org/abs/2302.07875v1)|
 |**2023-02-15**|**Zero-Shot Anomaly Detection without Foundation Models**|Aodong Li et.al.|[2302.07849v1](http://arxiv.org/abs/2302.07849v1)|
 |**2023-02-15**|**Deep Anomaly Detection under Labeling Budget Constraints**|Aodong Li et.al.|[2302.07832v1](http://arxiv.org/abs/2302.07832v1)|
 |**2023-02-15**|**A Subspace Projection Approach to Autoencoder-based Anomaly Detection**|Jinho Choi et.al.|[2302.07643v1](http://arxiv.org/abs/2302.07643v1)|
-|**2023-02-14**|**Energy Transformer**|Benjamin Hoover et.al.|[2302.07253v1](http://arxiv.org/abs/2302.07253v1)|
-|**2023-02-14**|**Lessons from the Development of an Anomaly Detection Interface on the Mars Perseverance Rover using the ISHMAP Framework**|Austin P. Wright et.al.|[2302.07187v1](http://arxiv.org/abs/2302.07187v1)|
-|**2023-02-14**|**Heterogeneous Anomaly Detection for Software Systems via Semi-supervised Cross-modal Attention**|Cheryl Lee et.al.|[2302.06914v1](http://arxiv.org/abs/2302.06914v1)|
-|**2023-02-13**|**Towards Explainable Visual Anomaly Detection**|Yizhou Wang et.al.|[2302.06670v1](http://arxiv.org/abs/2302.06670v1)|
 
