@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-20**|**Deep Reinforcement Learning for Cost-Effective Medical Diagnosis**|Zheng Yu et.al.|[2302.10261v1](http://arxiv.org/abs/2302.10261v1)|
 |**2023-02-06**|**Integrating Eye-Gaze Data into CXR DL Approaches: A Preliminary study**|André Luís et.al.|[2302.02940v1](http://arxiv.org/abs/2302.02940v1)|
 |**2023-02-04**|**Conformalized semi-supervised random forest for classification and abnormality detection**|Yujin Han et.al.|[2302.02237v1](http://arxiv.org/abs/2302.02237v1)|
 |**2023-01-30**|**Exploring Image Augmentations for Siamese Representation Learning with Chest X-Rays**|Rogier van der Sluijs et.al.|[2301.12636v1](http://arxiv.org/abs/2301.12636v1)|
@@ -43,20 +44,19 @@
 |**2022-10-14**|**Surface abnormality detection in medical and inspection systems using energy variations in co-occurrence matrixes**|Nandara K. Krishnand et.al.|[2210.07812v1](http://arxiv.org/abs/2210.07812v1)|
 |**2022-09-29**|**Cardiotocography Signal Abnormality Detection based on Deep Unsupervised Models**|Julien Bertieaux et.al.|[2209.15085v1](http://arxiv.org/abs/2209.15085v1)|
 |**2022-09-14**|**Federated Learning based on Defending Against Data Poisoning Attacks in IoT**|Jiayin Li et.al.|[2209.06397v1](http://arxiv.org/abs/2209.06397v1)|
-|**2022-07-20**|**A Hybrid Convolutional Neural Network with Meta Feature Learning for Abnormality Detection in Wireless Capsule Endoscopy Images**|Samir Jain et.al.|[2207.09769v1](http://arxiv.org/abs/2207.09769v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-17**|**DTAAD: Dual Tcn-Attention Networks for Anomaly Detection in Multivariate Time Series Data**|Lingrui Yu et.al.|[2302.10753v1](http://arxiv.org/abs/2302.10753v1)|
+|**2023-02-21**|**Memory-augmented Online Video Anomaly Detection**|Leonardo Rossi et.al.|[2302.10719v1](http://arxiv.org/abs/2302.10719v1)|
+|**2023-02-21**|**Few-shot Detection of Anomalies in Industrial Cyber-Physical System via Prototypical Network and Contrastive Learning**|Haili Sun et.al.|[2302.10601v1](http://arxiv.org/abs/2302.10601v1)|
+|**2023-02-21**|**Preliminary Results of a Deep Learning Anomaly Detection Method to Identify Gamma-Ray Bursts in the AGILE Anticoincidence System**|N. Parmiggiani et.al.|[2302.10551v1](http://arxiv.org/abs/2302.10551v1)|
 |**2023-02-20**|**CNTS: Cooperative Network for Time Series**|Jinsheng Yang et.al.|[2302.09800v1](http://arxiv.org/abs/2302.09800v1)|
 |**2023-02-20**|**Two-stream Decoder Feature Normality Estimating Network for Industrial Anomaly Detection**|Chaewon Park et.al.|[2302.09794v1](http://arxiv.org/abs/2302.09794v1)|
 |**2023-02-18**|**Anomaly Detection of UAV State Data Based on Single-class Triangular Global Alignment Kernel Extreme Learning Machine**|Feisha Hu et.al.|[2302.09320v1](http://arxiv.org/abs/2302.09320v1)|
 |**2023-02-18**|**FrAug: Frequency Domain Augmentation for Time Series Forecasting**|Muxi Chen et.al.|[2302.09292v1](http://arxiv.org/abs/2302.09292v1)|
 |**2023-02-18**|**Brainomaly: Unsupervised Neurologic Disease Detection Utilizing Unannotated T1-weighted Brain MR Images**|Md Mahfuzur Rahman Siddiquee et.al.|[2302.09200v1](http://arxiv.org/abs/2302.09200v1)|
 |**2023-02-17**|**Quantile LSTM: A Robust LSTM for Anomaly Detection In Time Series Data**|Snehanshu Saha et.al.|[2302.08712v1](http://arxiv.org/abs/2302.08712v1)|
-|**2023-02-16**|**A method for incremental discovery of financial event types based on anomaly detection**|Dianyue Gu et.al.|[2302.08205v1](http://arxiv.org/abs/2302.08205v1)|
-|**2023-02-15**|**Zero-Shot Anomaly Detection without Foundation Models**|Aodong Li et.al.|[2302.07849v1](http://arxiv.org/abs/2302.07849v1)|
-|**2023-02-15**|**Deep Anomaly Detection under Labeling Budget Constraints**|Aodong Li et.al.|[2302.07832v1](http://arxiv.org/abs/2302.07832v1)|
-|**2023-02-15**|**A Subspace Projection Approach to Autoencoder-based Anomaly Detection**|Jinho Choi et.al.|[2302.07643v1](http://arxiv.org/abs/2302.07643v1)|
 
