@@ -49,7 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-02-17**|**DTAAD: Dual Tcn-Attention Networks for Anomaly Detection in Multivariate Time Series Data**|Lingrui Yu et.al.|[2302.10753v1](http://arxiv.org/abs/2302.10753v1)|
+|**2023-02-22**|**Robust and Explainable Contextual Anomaly Detection using Quantile Regression Forests**|Zhong Li et.al.|[2302.11239v1](http://arxiv.org/abs/2302.11239v1)|
+|**2023-02-21**|**Using Semantic Information for Defining and Detecting OOD Inputs**|Ramneet Kaur et.al.|[2302.11019v1](http://arxiv.org/abs/2302.11019v1)|
 |**2023-02-21**|**Memory-augmented Online Video Anomaly Detection**|Leonardo Rossi et.al.|[2302.10719v1](http://arxiv.org/abs/2302.10719v1)|
 |**2023-02-21**|**Few-shot Detection of Anomalies in Industrial Cyber-Physical System via Prototypical Network and Contrastive Learning**|Haili Sun et.al.|[2302.10601v1](http://arxiv.org/abs/2302.10601v1)|
 |**2023-02-21**|**Preliminary Results of a Deep Learning Anomaly Detection Method to Identify Gamma-Ray Bursts in the AGILE Anticoincidence System**|N. Parmiggiani et.al.|[2302.10551v1](http://arxiv.org/abs/2302.10551v1)|
@@ -58,5 +59,4 @@
 |**2023-02-18**|**Anomaly Detection of UAV State Data Based on Single-class Triangular Global Alignment Kernel Extreme Learning Machine**|Feisha Hu et.al.|[2302.09320v1](http://arxiv.org/abs/2302.09320v1)|
 |**2023-02-18**|**FrAug: Frequency Domain Augmentation for Time Series Forecasting**|Muxi Chen et.al.|[2302.09292v1](http://arxiv.org/abs/2302.09292v1)|
 |**2023-02-18**|**Brainomaly: Unsupervised Neurologic Disease Detection Utilizing Unannotated T1-weighted Brain MR Images**|Md Mahfuzur Rahman Siddiquee et.al.|[2302.09200v1](http://arxiv.org/abs/2302.09200v1)|
-|**2023-02-17**|**Quantile LSTM: A Robust LSTM for Anomaly Detection In Time Series Data**|Snehanshu Saha et.al.|[2302.08712v1](http://arxiv.org/abs/2302.08712v1)|
 
