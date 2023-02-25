@@ -1,4 +1,4 @@
-## Updated on 2023.02.24
+## Updated on 2023.02.25
 
 ## super-resolution
 
@@ -49,7 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-02-23**|**Set Features for Fine-grained Anomaly Detection**|Niv Cohen. Issar Tzachor et.al.|[2302.12245v1](http://arxiv.org/abs/2302.12245v1)|
+|**2023-02-23**|**Set Features for Fine-grained Anomaly Detection**|Niv Cohen et.al.|[2302.12245v1](http://arxiv.org/abs/2302.12245v1)|
 |**2023-02-23**|**AC-DC: Adaptive Ensemble Classification for Network Traffic Identification**|Xi Jiang et.al.|[2302.11718v1](http://arxiv.org/abs/2302.11718v1)|
 |**2023-02-22**|**Robust and Explainable Contextual Anomaly Detection using Quantile Regression Forests**|Zhong Li et.al.|[2302.11239v1](http://arxiv.org/abs/2302.11239v1)|
 |**2023-02-21**|**Using Semantic Information for Defining and Detecting OOD Inputs**|Ramneet Kaur et.al.|[2302.11019v1](http://arxiv.org/abs/2302.11019v1)|
