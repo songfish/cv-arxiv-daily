@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-24**|**RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection**|Shancong Mou et.al.|[2302.12464v1](http://arxiv.org/abs/2302.12464v1)|
 |**2023-02-23**|**Set Features for Fine-grained Anomaly Detection**|Niv Cohen et.al.|[2302.12245v1](http://arxiv.org/abs/2302.12245v1)|
 |**2023-02-23**|**AC-DC: Adaptive Ensemble Classification for Network Traffic Identification**|Xi Jiang et.al.|[2302.11718v1](http://arxiv.org/abs/2302.11718v1)|
 |**2023-02-22**|**Robust and Explainable Contextual Anomaly Detection using Quantile Regression Forests**|Zhong Li et.al.|[2302.11239v1](http://arxiv.org/abs/2302.11239v1)|
@@ -58,5 +59,4 @@
 |**2023-02-21**|**Preliminary Results of a Deep Learning Anomaly Detection Method to Identify Gamma-Ray Bursts in the AGILE Anticoincidence System**|N. Parmiggiani et.al.|[2302.10551v1](http://arxiv.org/abs/2302.10551v1)|
 |**2023-02-20**|**CNTS: Cooperative Network for Time Series**|Jinsheng Yang et.al.|[2302.09800v1](http://arxiv.org/abs/2302.09800v1)|
 |**2023-02-20**|**Two-stream Decoder Feature Normality Estimating Network for Industrial Anomaly Detection**|Chaewon Park et.al.|[2302.09794v1](http://arxiv.org/abs/2302.09794v1)|
-|**2023-02-18**|**Anomaly Detection of UAV State Data Based on Single-class Triangular Global Alignment Kernel Extreme Learning Machine**|Feisha Hu et.al.|[2302.09320v1](http://arxiv.org/abs/2302.09320v1)|
 
