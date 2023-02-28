@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-26**|**MDF-Net: Multimodal Dual-Fusion Network for Abnormality Detection using CXR Images and Clinical Data**|Chihcheng Hsieh et.al.|[2302.13390v1](http://arxiv.org/abs/2302.13390v1)|
 |**2023-02-20**|**Deep Reinforcement Learning for Cost-Effective Medical Diagnosis**|Zheng Yu et.al.|[2302.10261v1](http://arxiv.org/abs/2302.10261v1)|
 |**2023-02-06**|**Integrating Eye-Gaze Data into CXR DL Approaches: A Preliminary study**|André Luís et.al.|[2302.02940v1](http://arxiv.org/abs/2302.02940v1)|
 |**2023-02-04**|**Conformalized semi-supervised random forest for classification and abnormality detection**|Yujin Han et.al.|[2302.02237v1](http://arxiv.org/abs/2302.02237v1)|
@@ -43,12 +44,14 @@
 |**2022-11-02**|**Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems**|Kai Packhäuser et.al.|[2211.01323v2](http://arxiv.org/abs/2211.01323v2)|
 |**2022-10-14**|**Surface abnormality detection in medical and inspection systems using energy variations in co-occurrence matrixes**|Nandara K. Krishnand et.al.|[2210.07812v1](http://arxiv.org/abs/2210.07812v1)|
 |**2022-09-29**|**Cardiotocography Signal Abnormality Detection based on Deep Unsupervised Models**|Julien Bertieaux et.al.|[2209.15085v1](http://arxiv.org/abs/2209.15085v1)|
-|**2022-09-14**|**Federated Learning based on Defending Against Data Poisoning Attacks in IoT**|Jiayin Li et.al.|[2209.06397v1](http://arxiv.org/abs/2209.06397v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-27**|**Unsupervised Video Anomaly Detection for Stereotypical Behaviours in Autism**|Jiaqi Gao et.al.|[2302.13748v1](http://arxiv.org/abs/2302.13748v1)|
+|**2023-02-27**|**Brain subtle anomaly detection based on auto-encoders latent space analysis : application to de novo parkinson patients**|Nicolas Pinon et.al.|[2302.13593v1](http://arxiv.org/abs/2302.13593v1)|
+|**2023-02-24**|**Deep Graph Stream SVDD: Anomaly Detection in Cyber-Physical Systems**|Ehtesamul Azim et.al.|[2302.12918v1](http://arxiv.org/abs/2302.12918v1)|
 |**2023-02-24**|**RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection**|Shancong Mou et.al.|[2302.12464v1](http://arxiv.org/abs/2302.12464v1)|
 |**2023-02-23**|**Set Features for Fine-grained Anomaly Detection**|Niv Cohen et.al.|[2302.12245v1](http://arxiv.org/abs/2302.12245v1)|
 |**2023-02-23**|**AC-DC: Adaptive Ensemble Classification for Network Traffic Identification**|Xi Jiang et.al.|[2302.11718v1](http://arxiv.org/abs/2302.11718v1)|
@@ -56,7 +59,4 @@
 |**2023-02-21**|**Using Semantic Information for Defining and Detecting OOD Inputs**|Ramneet Kaur et.al.|[2302.11019v1](http://arxiv.org/abs/2302.11019v1)|
 |**2023-02-21**|**Memory-augmented Online Video Anomaly Detection**|Leonardo Rossi et.al.|[2302.10719v1](http://arxiv.org/abs/2302.10719v1)|
 |**2023-02-21**|**Few-shot Detection of Anomalies in Industrial Cyber-Physical System via Prototypical Network and Contrastive Learning**|Haili Sun et.al.|[2302.10601v1](http://arxiv.org/abs/2302.10601v1)|
-|**2023-02-21**|**Preliminary Results of a Deep Learning Anomaly Detection Method to Identify Gamma-Ray Bursts in the AGILE Anticoincidence System**|N. Parmiggiani et.al.|[2302.10551v1](http://arxiv.org/abs/2302.10551v1)|
-|**2023-02-20**|**CNTS: Cooperative Network for Time Series**|Jinsheng Yang et.al.|[2302.09800v1](http://arxiv.org/abs/2302.09800v1)|
-|**2023-02-20**|**Two-stream Decoder Feature Normality Estimating Network for Industrial Anomaly Detection**|Chaewon Park et.al.|[2302.09794v1](http://arxiv.org/abs/2302.09794v1)|
 
