@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-02-28**|**Time Series Anomaly Detection in Smart Homes: A Deep Learning Approach**|Somayeh Zamani et.al.|[2302.14781v1](http://arxiv.org/abs/2302.14781v1)|
+|**2023-02-28**|**Dissolving Is Amplifying: Towards Fine-Grained Anomaly Detection**|Jian Shi et.al.|[2302.14696v1](http://arxiv.org/abs/2302.14696v1)|
 |**2023-02-27**|**Unsupervised Video Anomaly Detection for Stereotypical Behaviours in Autism**|Jiaqi Gao et.al.|[2302.13748v1](http://arxiv.org/abs/2302.13748v1)|
 |**2023-02-27**|**Brain subtle anomaly detection based on auto-encoders latent space analysis : application to de novo parkinson patients**|Nicolas Pinon et.al.|[2302.13593v1](http://arxiv.org/abs/2302.13593v1)|
 |**2023-02-24**|**Deep Graph Stream SVDD: Anomaly Detection in Cyber-Physical Systems**|Ehtesamul Azim et.al.|[2302.12918v1](http://arxiv.org/abs/2302.12918v1)|
@@ -57,6 +59,4 @@
 |**2023-02-23**|**AC-DC: Adaptive Ensemble Classification for Network Traffic Identification**|Xi Jiang et.al.|[2302.11718v1](http://arxiv.org/abs/2302.11718v1)|
 |**2023-02-22**|**Robust and Explainable Contextual Anomaly Detection using Quantile Regression Forests**|Zhong Li et.al.|[2302.11239v1](http://arxiv.org/abs/2302.11239v1)|
 |**2023-02-21**|**Using Semantic Information for Defining and Detecting OOD Inputs**|Ramneet Kaur et.al.|[2302.11019v1](http://arxiv.org/abs/2302.11019v1)|
-|**2023-02-21**|**Memory-augmented Online Video Anomaly Detection**|Leonardo Rossi et.al.|[2302.10719v1](http://arxiv.org/abs/2302.10719v1)|
-|**2023-02-21**|**Few-shot Detection of Anomalies in Industrial Cyber-Physical System via Prototypical Network and Contrastive Learning**|Haili Sun et.al.|[2302.10601v1](http://arxiv.org/abs/2302.10601v1)|
 
