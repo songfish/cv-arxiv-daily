@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-01**|**Unsupervised Pathology Detection: A Deep Dive Into the State of the Art**|Ioannis Lagogiannis et.al.|[2303.00609v1](http://arxiv.org/abs/2303.00609v1)|
+|**2023-03-01**|**Multimodal Industrial Anomaly Detection via Hybrid Fusion**|Yue Wang et.al.|[2303.00601v1](http://arxiv.org/abs/2303.00601v1)|
+|**2023-03-01**|**First-shot anomaly sound detection for machine condition monitoring: A domain generalization baseline**|Noboru Harada et.al.|[2303.00455v1](http://arxiv.org/abs/2303.00455v1)|
+|**2023-03-01**|**RePAD2: Real-Time, Lightweight, and Adaptive Anomaly Detection for Open-Ended Time Series**|Ming-Chang Lee et.al.|[2303.00409v1](http://arxiv.org/abs/2303.00409v1)|
+|**2023-02-28**|**Video Pose Track with Graph-Guided Sparse Motion Estimation**|Yalong Jiang et.al.|[2303.00138v1](http://arxiv.org/abs/2303.00138v1)|
 |**2023-02-28**|**Time Series Anomaly Detection in Smart Homes: A Deep Learning Approach**|Somayeh Zamani et.al.|[2302.14781v1](http://arxiv.org/abs/2302.14781v1)|
 |**2023-02-28**|**Dissolving Is Amplifying: Towards Fine-Grained Anomaly Detection**|Jian Shi et.al.|[2302.14696v1](http://arxiv.org/abs/2302.14696v1)|
 |**2023-02-27**|**Unsupervised Video Anomaly Detection for Stereotypical Behaviours in Autism**|Jiaqi Gao et.al.|[2302.13748v1](http://arxiv.org/abs/2302.13748v1)|
 |**2023-02-27**|**Brain subtle anomaly detection based on auto-encoders latent space analysis : application to de novo parkinson patients**|Nicolas Pinon et.al.|[2302.13593v1](http://arxiv.org/abs/2302.13593v1)|
 |**2023-02-24**|**Deep Graph Stream SVDD: Anomaly Detection in Cyber-Physical Systems**|Ehtesamul Azim et.al.|[2302.12918v1](http://arxiv.org/abs/2302.12918v1)|
-|**2023-02-24**|**RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection**|Shancong Mou et.al.|[2302.12464v1](http://arxiv.org/abs/2302.12464v1)|
-|**2023-02-23**|**Set Features for Fine-grained Anomaly Detection**|Niv Cohen et.al.|[2302.12245v1](http://arxiv.org/abs/2302.12245v1)|
-|**2023-02-23**|**AC-DC: Adaptive Ensemble Classification for Network Traffic Identification**|Xi Jiang et.al.|[2302.11718v1](http://arxiv.org/abs/2302.11718v1)|
-|**2023-02-22**|**Robust and Explainable Contextual Anomaly Detection using Quantile Regression Forests**|Zhong Li et.al.|[2302.11239v1](http://arxiv.org/abs/2302.11239v1)|
-|**2023-02-21**|**Using Semantic Information for Defining and Detecting OOD Inputs**|Ramneet Kaur et.al.|[2302.11019v1](http://arxiv.org/abs/2302.11019v1)|
 
