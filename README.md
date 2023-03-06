@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-03**|**Unsupervised Recycled FPGA Detection Using Symmetry Analysis**|Tanvir Ahmad Tarique et.al.|[2303.01807v1](http://arxiv.org/abs/2303.01807v1)|
+|**2023-03-03**|**Observational Data on several close single Dwarfs of late spectral Classes where obtaned by the RATAN-600 Radio Telescope in Spring 2018**|Grigory M. Beskin et.al.|[2303.01791v1](http://arxiv.org/abs/2303.01791v1)|
 |**2023-03-02**|**Navigating the Metric Maze: A Taxonomy of Evaluation Metrics for Anomaly Detection in Time Series**|Sondre Sørbø et.al.|[2303.01272v1](http://arxiv.org/abs/2303.01272v1)|
 |**2023-03-02**|**Multi-Task Self-Supervised Time-Series Representation Learning**|Heejeong Choi et.al.|[2303.01034v1](http://arxiv.org/abs/2303.01034v1)|
 |**2023-03-02**|**CADeSH: Collaborative Anomaly Detection for Smart Homes**|Yair Meidan et.al.|[2303.01021v1](http://arxiv.org/abs/2303.01021v1)|
@@ -57,6 +59,4 @@
 |**2023-03-01**|**Multimodal Industrial Anomaly Detection via Hybrid Fusion**|Yue Wang et.al.|[2303.00601v1](http://arxiv.org/abs/2303.00601v1)|
 |**2023-03-01**|**First-shot anomaly sound detection for machine condition monitoring: A domain generalization baseline**|Noboru Harada et.al.|[2303.00455v1](http://arxiv.org/abs/2303.00455v1)|
 |**2023-03-01**|**RePAD2: Real-Time, Lightweight, and Adaptive Anomaly Detection for Open-Ended Time Series**|Ming-Chang Lee et.al.|[2303.00409v2](http://arxiv.org/abs/2303.00409v2)|
-|**2023-02-28**|**Video Pose Track with Graph-Guided Sparse Motion Estimation**|Yalong Jiang et.al.|[2303.00138v1](http://arxiv.org/abs/2303.00138v1)|
-|**2023-02-28**|**Time Series Anomaly Detection in Smart Homes: A Deep Learning Approach**|Somayeh Zamani et.al.|[2302.14781v1](http://arxiv.org/abs/2302.14781v1)|
 
