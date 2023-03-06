@@ -52,7 +52,7 @@
 |**2023-03-02**|**Navigating the Metric Maze: A Taxonomy of Evaluation Metrics for Anomaly Detection in Time Series**|Sondre Sørbø et.al.|[2303.01272v1](http://arxiv.org/abs/2303.01272v1)|
 |**2023-03-02**|**Multi-Task Self-Supervised Time-Series Representation Learning**|Heejeong Choi et.al.|[2303.01034v1](http://arxiv.org/abs/2303.01034v1)|
 |**2023-03-02**|**CADeSH: Collaborative Anomaly Detection for Smart Homes**|Yair Meidan et.al.|[2303.01021v1](http://arxiv.org/abs/2303.01021v1)|
-|**2023-03-01**|**Implementing Active Learning in Cybersecurity: Detecting Anomalies in Redacted Emails**|Mu-Huan et.al.|[2303.00870v1](http://arxiv.org/abs/2303.00870v1)|
+|**2023-03-01**|**Implementing Active Learning in Cybersecurity: Detecting Anomalies in Redacted Emails**|Mu-Huan Chung et.al.|[2303.00870v2](http://arxiv.org/abs/2303.00870v2)|
 |**2023-03-01**|**Unsupervised Pathology Detection: A Deep Dive Into the State of the Art**|Ioannis Lagogiannis et.al.|[2303.00609v1](http://arxiv.org/abs/2303.00609v1)|
 |**2023-03-01**|**Multimodal Industrial Anomaly Detection via Hybrid Fusion**|Yue Wang et.al.|[2303.00601v1](http://arxiv.org/abs/2303.00601v1)|
 |**2023-03-01**|**First-shot anomaly sound detection for machine condition monitoring: A domain generalization baseline**|Noboru Harada et.al.|[2303.00455v1](http://arxiv.org/abs/2303.00455v1)|
