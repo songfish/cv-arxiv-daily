@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-06**|**Combination of Single and Multi-frame Image Super-resolution: An Analytical Perspective**|Mohammad Mahdi Afrasiabi et.al.|[2303.03212v1](http://arxiv.org/abs/2303.03212v1)|
 |**2023-02-19**|**Guided Depth Map Super-resolution: A Survey**|Zhiwei Zhong et.al.|[2302.09598v1](http://arxiv.org/abs/2302.09598v1)|
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|
@@ -13,7 +14,6 @@
 |**2022-05-10**|**A Closer Look at Blind Super-Resolution: Degradation Models, Baselines, and Performance Upper Bounds**|Wenlong Zhang et.al.|[2205.04910v1](http://arxiv.org/abs/2205.04910v1)|
 |**2022-04-28**|**Generative Adversarial Networks for Image Super-Resolution: A Survey**|Chunwei Tian et.al.|[2204.13620v2](http://arxiv.org/abs/2204.13620v2)|
 |**2022-04-20**|**NTIRE 2022 Challenge on Stereo Image Super-Resolution: Methods and Results**|Longguang Wang et.al.|[2204.09197v1](http://arxiv.org/abs/2204.09197v1)|
-|**2022-03-20**|**Optical Flow for Video Super-Resolution: A Survey**|Zhigang Tu et.al.|[2203.10462v1](http://arxiv.org/abs/2203.10462v1)|
 
 ## cloud detection
 
@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-06**|**Time series anomaly detection with sequence reconstruction based state-space model**|Fan Wang et.al.|[2303.03324v1](http://arxiv.org/abs/2303.03324v1)|
+|**2023-03-06**|**A VHetNet-Enabled Asynchronous Federated Learning-Based Anomaly Detection Framework for Ubiquitous IoT**|Weili Wang et.al.|[2303.02948v1](http://arxiv.org/abs/2303.02948v1)|
+|**2023-03-06**|**Quickest Change Detection in Statistically Periodic Processes with Unknown Post-Change Distribution**|Yousef Oleyaeimotlagh et.al.|[2303.02826v1](http://arxiv.org/abs/2303.02826v1)|
+|**2023-03-04**|**Seq-HyGAN: Sequence Classification via Hypergraph Attention Network**|Khaled Mohammed Saifuddin et.al.|[2303.02393v1](http://arxiv.org/abs/2303.02393v1)|
+|**2023-03-04**|**Achieving Counterfactual Fairness for Anomaly Detection**|Xiao Han et.al.|[2303.02318v1](http://arxiv.org/abs/2303.02318v1)|
 |**2023-03-03**|**Unsupervised Recycled FPGA Detection Using Symmetry Analysis**|Tanvir Ahmad Tarique et.al.|[2303.01807v1](http://arxiv.org/abs/2303.01807v1)|
 |**2023-03-03**|**Observational Data on several close single Dwarfs of late spectral Classes where obtaned by the RATAN-600 Radio Telescope in Spring 2018**|Grigory M. Beskin et.al.|[2303.01791v1](http://arxiv.org/abs/2303.01791v1)|
 |**2023-03-02**|**Navigating the Metric Maze: A Taxonomy of Evaluation Metrics for Anomaly Detection in Time Series**|Sondre Sørbø et.al.|[2303.01272v1](http://arxiv.org/abs/2303.01272v1)|
 |**2023-03-02**|**Multi-Task Self-Supervised Time-Series Representation Learning**|Heejeong Choi et.al.|[2303.01034v1](http://arxiv.org/abs/2303.01034v1)|
 |**2023-03-02**|**CADeSH: Collaborative Anomaly Detection for Smart Homes**|Yair Meidan et.al.|[2303.01021v1](http://arxiv.org/abs/2303.01021v1)|
-|**2023-03-01**|**Implementing Active Learning in Cybersecurity: Detecting Anomalies in Redacted Emails**|Mu-Huan Chung et.al.|[2303.00870v2](http://arxiv.org/abs/2303.00870v2)|
-|**2023-03-01**|**Unsupervised Pathology Detection: A Deep Dive Into the State of the Art**|Ioannis Lagogiannis et.al.|[2303.00609v1](http://arxiv.org/abs/2303.00609v1)|
-|**2023-03-01**|**Multimodal Industrial Anomaly Detection via Hybrid Fusion**|Yue Wang et.al.|[2303.00601v1](http://arxiv.org/abs/2303.00601v1)|
-|**2023-03-01**|**First-shot anomaly sound detection for machine condition monitoring: A domain generalization baseline**|Noboru Harada et.al.|[2303.00455v1](http://arxiv.org/abs/2303.00455v1)|
-|**2023-03-01**|**RePAD2: Real-Time, Lightweight, and Adaptive Anomaly Detection for Open-Ended Time Series**|Ming-Chang Lee et.al.|[2303.00409v2](http://arxiv.org/abs/2303.00409v2)|
 
