@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-07**|**Region and Spatial Aware Anomaly Detection for Fundus Images**|Jingqi Niu et.al.|[2303.03817v1](http://arxiv.org/abs/2303.03817v1)|
+|**2023-03-07**|**Fast and Multi-aspect Mining of Complex Time-stamped Event Streams**|Kota Nakamura et.al.|[2303.03789v1](http://arxiv.org/abs/2303.03789v1)|
+|**2023-03-07**|**Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI**|Finn Behrendt et.al.|[2303.03758v1](http://arxiv.org/abs/2303.03758v1)|
+|**2023-03-07**|**TinyAD: Memory-efficient anomaly detection for time series data in Industrial IoT**|Yuting Sun et.al.|[2303.03611v1](http://arxiv.org/abs/2303.03611v1)|
+|**2023-03-06**|**Memory Maps for Video Object Detection and Tracking on UAVs**|Benjamin Kiefer et.al.|[2303.03508v1](http://arxiv.org/abs/2303.03508v1)|
 |**2023-03-06**|**Time series anomaly detection with sequence reconstruction based state-space model**|Fan Wang et.al.|[2303.03324v1](http://arxiv.org/abs/2303.03324v1)|
 |**2023-03-06**|**A VHetNet-Enabled Asynchronous Federated Learning-Based Anomaly Detection Framework for Ubiquitous IoT**|Weili Wang et.al.|[2303.02948v1](http://arxiv.org/abs/2303.02948v1)|
 |**2023-03-06**|**Quickest Change Detection in Statistically Periodic Processes with Unknown Post-Change Distribution**|Yousef Oleyaeimotlagh et.al.|[2303.02826v1](http://arxiv.org/abs/2303.02826v1)|
 |**2023-03-04**|**Seq-HyGAN: Sequence Classification via Hypergraph Attention Network**|Khaled Mohammed Saifuddin et.al.|[2303.02393v1](http://arxiv.org/abs/2303.02393v1)|
 |**2023-03-04**|**Achieving Counterfactual Fairness for Anomaly Detection**|Xiao Han et.al.|[2303.02318v1](http://arxiv.org/abs/2303.02318v1)|
-|**2023-03-03**|**Unsupervised Recycled FPGA Detection Using Symmetry Analysis**|Tanvir Ahmad Tarique et.al.|[2303.01807v1](http://arxiv.org/abs/2303.01807v1)|
-|**2023-03-03**|**Observational Data on several close single Dwarfs of late spectral Classes where obtaned by the RATAN-600 Radio Telescope in Spring 2018**|Grigory M. Beskin et.al.|[2303.01791v1](http://arxiv.org/abs/2303.01791v1)|
-|**2023-03-02**|**Navigating the Metric Maze: A Taxonomy of Evaluation Metrics for Anomaly Detection in Time Series**|Sondre Sørbø et.al.|[2303.01272v1](http://arxiv.org/abs/2303.01272v1)|
-|**2023-03-02**|**Multi-Task Self-Supervised Time-Series Representation Learning**|Heejeong Choi et.al.|[2303.01034v1](http://arxiv.org/abs/2303.01034v1)|
-|**2023-03-02**|**CADeSH: Collaborative Anomaly Detection for Smart Homes**|Yair Meidan et.al.|[2303.01021v1](http://arxiv.org/abs/2303.01021v1)|
 
