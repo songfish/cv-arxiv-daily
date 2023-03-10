@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-09**|**LMR: A Large-Scale Multi-Reference Dataset for Reference-based Super-Resolution**|Lin Zhang et.al.|[2303.04970v1](http://arxiv.org/abs/2303.04970v1)|
 |**2023-03-06**|**Combination of Single and Multi-frame Image Super-resolution: An Analytical Perspective**|Mohammad Mahdi Afrasiabi et.al.|[2303.03212v1](http://arxiv.org/abs/2303.03212v1)|
 |**2023-02-19**|**Guided Depth Map Super-resolution: A Survey**|Zhiwei Zhong et.al.|[2302.09598v2](http://arxiv.org/abs/2302.09598v2)|
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|
@@ -13,7 +14,6 @@
 |**2022-05-11**|**NTIRE 2022 Challenge on Efficient Super-Resolution: Methods and Results**|Yawei Li et.al.|[2205.05675v1](http://arxiv.org/abs/2205.05675v1)|
 |**2022-05-10**|**A Closer Look at Blind Super-Resolution: Degradation Models, Baselines, and Performance Upper Bounds**|Wenlong Zhang et.al.|[2205.04910v1](http://arxiv.org/abs/2205.04910v1)|
 |**2022-04-28**|**Generative Adversarial Networks for Image Super-Resolution: A Survey**|Chunwei Tian et.al.|[2204.13620v2](http://arxiv.org/abs/2204.13620v2)|
-|**2022-04-20**|**NTIRE 2022 Challenge on Stereo Image Super-Resolution: Methods and Results**|Longguang Wang et.al.|[2204.09197v1](http://arxiv.org/abs/2204.09197v1)|
 
 ## cloud detection
 
@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-09**|**Understanding the Challenges and Opportunities of Pose-based Anomaly Detection**|Ghazal Alinezhad Noghre et.al.|[2303.05463v1](http://arxiv.org/abs/2303.05463v1)|
+|**2023-03-09**|**Multi-level Memory-augmented Appearance-Motion Correspondence Framework for Video Anomaly Detection**|Xiangyu Huang et.al.|[2303.05116v1](http://arxiv.org/abs/2303.05116v1)|
+|**2023-03-09**|**Synthetic Pseudo Anomalies for Unsupervised Video Anomaly Detection: A Simple yet Efficient Framework based on Masked Autoencoder**|Xiangyu Huang et.al.|[2303.05112v1](http://arxiv.org/abs/2303.05112v1)|
+|**2023-03-09**|**Updated version: A Video Anomaly Detection Framework based on Appearance-Motion Semantics Representation Consistency**|Xiangyu Huang et.al.|[2303.05109v1](http://arxiv.org/abs/2303.05109v1)|
+|**2023-03-09**|**Diversity-Measurable Anomaly Detection**|Wenrui Liu et.al.|[2303.05047v1](http://arxiv.org/abs/2303.05047v1)|
+|**2023-03-09**|**Learning Representation for Anomaly Detection of Vehicle Trajectories**|Ruochen Jiao et.al.|[2303.05000v1](http://arxiv.org/abs/2303.05000v1)|
+|**2023-03-08**|**Computational Spectral Imaging: A Contemporary Overview**|Jorge Bacca et.al.|[2303.04848v1](http://arxiv.org/abs/2303.04848v1)|
 |**2023-03-07**|**Region and Spatial Aware Anomaly Detection for Fundus Images**|Jingqi Niu et.al.|[2303.03817v1](http://arxiv.org/abs/2303.03817v1)|
 |**2023-03-07**|**Fast and Multi-aspect Mining of Complex Time-stamped Event Streams**|Kota Nakamura et.al.|[2303.03789v1](http://arxiv.org/abs/2303.03789v1)|
 |**2023-03-07**|**Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI**|Finn Behrendt et.al.|[2303.03758v1](http://arxiv.org/abs/2303.03758v1)|
-|**2023-03-07**|**TinyAD: Memory-efficient anomaly detection for time series data in Industrial IoT**|Yuting Sun et.al.|[2303.03611v1](http://arxiv.org/abs/2303.03611v1)|
-|**2023-03-06**|**Memory Maps for Video Object Detection and Tracking on UAVs**|Benjamin Kiefer et.al.|[2303.03508v1](http://arxiv.org/abs/2303.03508v1)|
-|**2023-03-06**|**Time series anomaly detection with sequence reconstruction based state-space model**|Fan Wang et.al.|[2303.03324v1](http://arxiv.org/abs/2303.03324v1)|
-|**2023-03-06**|**A VHetNet-Enabled Asynchronous Federated Learning-Based Anomaly Detection Framework for Ubiquitous IoT**|Weili Wang et.al.|[2303.02948v1](http://arxiv.org/abs/2303.02948v1)|
-|**2023-03-06**|**Quickest Change Detection in Statistically Periodic Processes with Unknown Post-Change Distribution**|Yousef Oleyaeimotlagh et.al.|[2303.02826v1](http://arxiv.org/abs/2303.02826v1)|
-|**2023-03-04**|**Seq-HyGAN: Sequence Classification via Hypergraph Attention Network**|Khaled Mohammed Saifuddin et.al.|[2303.02393v1](http://arxiv.org/abs/2303.02393v1)|
-|**2023-03-04**|**Achieving Counterfactual Fairness for Anomaly Detection**|Xiao Han et.al.|[2303.02318v1](http://arxiv.org/abs/2303.02318v1)|
 
