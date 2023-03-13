@@ -49,14 +49,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-10**|**Deep Anomaly Detection on Tennessee Eastman Process Data**|Fabian Hartung et.al.|[2303.05904v1](http://arxiv.org/abs/2303.05904v1)|
+|**2023-03-10**|**3D Masked Autoencoders with Application to Anomaly Detection in Non-Contrast Enhanced Breast MRI**|Daniel M. Lang et.al.|[2303.05861v1](http://arxiv.org/abs/2303.05861v1)|
+|**2023-03-10**|**Contrastive Language-Image Pretrained (CLIP) Models are Powerful Out-of-Distribution Detectors**|Felix Michels et.al.|[2303.05828v1](http://arxiv.org/abs/2303.05828v1)|
+|**2023-03-10**|**Learning Global-Local Correspondence with Semantic Bottleneck for Logical Anomaly Detection**|Haiming Yao et.al.|[2303.05768v1](http://arxiv.org/abs/2303.05768v1)|
+|**2023-03-10**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|Kento Kawaharazuka et.al.|[2303.05674v1](http://arxiv.org/abs/2303.05674v1)|
 |**2023-03-09**|**Understanding the Challenges and Opportunities of Pose-based Anomaly Detection**|Ghazal Alinezhad Noghre et.al.|[2303.05463v1](http://arxiv.org/abs/2303.05463v1)|
 |**2023-03-09**|**Multi-level Memory-augmented Appearance-Motion Correspondence Framework for Video Anomaly Detection**|Xiangyu Huang et.al.|[2303.05116v1](http://arxiv.org/abs/2303.05116v1)|
 |**2023-03-09**|**Synthetic Pseudo Anomalies for Unsupervised Video Anomaly Detection: A Simple yet Efficient Framework based on Masked Autoencoder**|Xiangyu Huang et.al.|[2303.05112v1](http://arxiv.org/abs/2303.05112v1)|
 |**2023-03-09**|**Updated version: A Video Anomaly Detection Framework based on Appearance-Motion Semantics Representation Consistency**|Xiangyu Huang et.al.|[2303.05109v1](http://arxiv.org/abs/2303.05109v1)|
 |**2023-03-09**|**Diversity-Measurable Anomaly Detection**|Wenrui Liu et.al.|[2303.05047v1](http://arxiv.org/abs/2303.05047v1)|
-|**2023-03-09**|**Learning Representation for Anomaly Detection of Vehicle Trajectories**|Ruochen Jiao et.al.|[2303.05000v1](http://arxiv.org/abs/2303.05000v1)|
-|**2023-03-08**|**Computational Spectral Imaging: A Contemporary Overview**|Jorge Bacca et.al.|[2303.04848v1](http://arxiv.org/abs/2303.04848v1)|
-|**2023-03-07**|**Region and Spatial Aware Anomaly Detection for Fundus Images**|Jingqi Niu et.al.|[2303.03817v1](http://arxiv.org/abs/2303.03817v1)|
-|**2023-03-07**|**Fast and Multi-aspect Mining of Complex Time-stamped Event Streams**|Kota Nakamura et.al.|[2303.03789v1](http://arxiv.org/abs/2303.03789v1)|
-|**2023-03-07**|**Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI**|Finn Behrendt et.al.|[2303.03758v1](http://arxiv.org/abs/2303.03758v1)|
 
