@@ -139,6 +139,7 @@ if __name__ == "__main__":
     keywords["cloud detection"] =  "\"cloud detection\""
     keywords["abnormal detection"] =  "\"abnormal detection\""
     keywords["anomaly detection"] =  "\"anomaly detection\""
+    keywords["change detection"] =  "\"change detection\""
      
     for topic,keyword in keywords.items():
  
