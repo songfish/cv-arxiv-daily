@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-14**|**Lifelong Learning for Anomaly Detection: New Challenges, Perspectives, and Insights**|Kamil Faber et.al.|[2303.07557v1](http://arxiv.org/abs/2303.07557v1)|
+|**2023-03-13**|**Network Anomaly Detection Using Federated Learning**|William Marfo et.al.|[2303.07452v1](http://arxiv.org/abs/2303.07452v1)|
 |**2023-03-13**|**Spacecraft Anomaly Detection with Attention Temporal Convolution Network**|Liang Liu et.al.|[2303.06879v1](http://arxiv.org/abs/2303.06879v1)|
 |**2023-03-11**|**Hallucinated Heartbeats: Anomaly-Aware Remote Pulse Estimation**|Jeremy Speth et.al.|[2303.06452v1](http://arxiv.org/abs/2303.06452v1)|
 |**2023-03-11**|**Anomaly Detection with Ensemble of Encoder and Decoder**|Xijuan Sun et.al.|[2303.06431v1](http://arxiv.org/abs/2303.06431v1)|
@@ -57,8 +59,6 @@
 |**2023-03-10**|**3D Masked Autoencoders with Application to Anomaly Detection in Non-Contrast Enhanced Breast MRI**|Daniel M. Lang et.al.|[2303.05861v1](http://arxiv.org/abs/2303.05861v1)|
 |**2023-03-10**|**Contrastive Language-Image Pretrained (CLIP) Models are Powerful Out-of-Distribution Detectors**|Felix Michels et.al.|[2303.05828v1](http://arxiv.org/abs/2303.05828v1)|
 |**2023-03-10**|**Learning Global-Local Correspondence with Semantic Bottleneck for Logical Anomaly Detection**|Haiming Yao et.al.|[2303.05768v1](http://arxiv.org/abs/2303.05768v1)|
-|**2023-03-10**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|Kento Kawaharazuka et.al.|[2303.05674v1](http://arxiv.org/abs/2303.05674v1)|
-|**2023-03-09**|**Understanding the Challenges and Opportunities of Pose-based Anomaly Detection**|Ghazal Alinezhad Noghre et.al.|[2303.05463v1](http://arxiv.org/abs/2303.05463v1)|
 
 ## change detection
 
