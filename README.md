@@ -1,4 +1,4 @@
-## Updated on 2023.03.15
+## Updated on 2023.03.16
 
 ## super-resolution
 
@@ -54,7 +54,7 @@
 |**2023-03-13**|**Spacecraft Anomaly Detection with Attention Temporal Convolution Network**|Liang Liu et.al.|[2303.06879v1](http://arxiv.org/abs/2303.06879v1)|
 |**2023-03-11**|**Hallucinated Heartbeats: Anomaly-Aware Remote Pulse Estimation**|Jeremy Speth et.al.|[2303.06452v1](http://arxiv.org/abs/2303.06452v1)|
 |**2023-03-11**|**Anomaly Detection with Ensemble of Encoder and Decoder**|Xijuan Sun et.al.|[2303.06431v1](http://arxiv.org/abs/2303.06431v1)|
-|**2023-03-11**|**Interpretable Outlier Summarization**|Yu Wang et.al.|[2303.06261v1](http://arxiv.org/abs/2303.06261v1)|
+|**2023-03-11**|**Interpretable Outlier Summarization**|Yu Wang et.al.|[2303.06261v2](http://arxiv.org/abs/2303.06261v2)|
 |**2023-03-10**|**Deep Anomaly Detection on Tennessee Eastman Process Data**|Fabian Hartung et.al.|[2303.05904v1](http://arxiv.org/abs/2303.05904v1)|
 |**2023-03-10**|**3D Masked Autoencoders with Application to Anomaly Detection in Non-Contrast Enhanced Breast MRI**|Daniel M. Lang et.al.|[2303.05861v1](http://arxiv.org/abs/2303.05861v1)|
 |**2023-03-10**|**Contrastive Language-Image Pretrained (CLIP) Models are Powerful Out-of-Distribution Detectors**|Felix Michels et.al.|[2303.05828v1](http://arxiv.org/abs/2303.05828v1)|
