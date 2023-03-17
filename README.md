@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-15**|**Wireless Sensor Networks anomaly detection using Machine Learning: A Survey**|Ahsnaul Haque et.al.|[2303.08823v1](http://arxiv.org/abs/2303.08823v1)|
 |**2023-03-15**|**Towards Phytoplankton Parasite Detection Using Autoencoders**|Simon Bilik et.al.|[2303.08744v1](http://arxiv.org/abs/2303.08744v1)|
 |**2023-03-15**|**DiffusionAD: Denoising Diffusion for Anomaly Detection**|Hui Zhang et.al.|[2303.08730v1](http://arxiv.org/abs/2303.08730v1)|
 |**2023-03-15**|**Reversing the Abnormal: Pseudo-Healthy Generative Networks for Anomaly Detection**|Cosmin I Bercea et.al.|[2303.08452v1](http://arxiv.org/abs/2303.08452v1)|
@@ -58,12 +59,12 @@
 |**2023-03-11**|**Hallucinated Heartbeats: Anomaly-Aware Remote Pulse Estimation**|Jeremy Speth et.al.|[2303.06452v1](http://arxiv.org/abs/2303.06452v1)|
 |**2023-03-11**|**Anomaly Detection with Ensemble of Encoder and Decoder**|Xijuan Sun et.al.|[2303.06431v1](http://arxiv.org/abs/2303.06431v1)|
 |**2023-03-11**|**Interpretable Outlier Summarization**|Yu Wang et.al.|[2303.06261v2](http://arxiv.org/abs/2303.06261v2)|
-|**2023-03-10**|**Deep Anomaly Detection on Tennessee Eastman Process Data**|Fabian Hartung et.al.|[2303.05904v1](http://arxiv.org/abs/2303.05904v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-16**|**Deep Metric Learning for Unsupervised Remote Sensing Change Detection**|Wele Gedara Chaminda Bandara et.al.|[2303.09536v1](http://arxiv.org/abs/2303.09536v1)|
 |**2023-03-15**|**Mapping Urban Population Growth from Sentinel-2 MSI and Census Data Using Deep Learning: A Case Study in Kigali, Rwanda**|Sebastian Hafner et.al.|[2303.08511v1](http://arxiv.org/abs/2303.08511v1)|
 |**2023-03-13**|**Mobile Mapping Mesh Change Detection and Update**|Teng Wu et.al.|[2303.07182v1](http://arxiv.org/abs/2303.07182v1)|
 |**2023-03-08**|**SoftMatch Distance: A Novel Distance for Weakly-Supervised Trend Change Detection in Bi-Temporal Images**|Yuqun Yang et.al.|[2303.04737v1](http://arxiv.org/abs/2303.04737v1)|
@@ -73,5 +74,4 @@
 |**2023-02-28**|**FPCD: An Open Aerial VHR Dataset for Farm Pond Change Detection**|Chintan Tundia et.al.|[2302.14554v1](http://arxiv.org/abs/2302.14554v1)|
 |**2023-02-23**|**An Aligned Multi-Temporal Multi-Resolution Satellite Image Dataset for Change Detection Research**|Rahul Deshmukh et.al.|[2302.12301v2](http://arxiv.org/abs/2302.12301v2)|
 |**2023-02-21**|**HCGMNET: A Hierarchical Change Guiding Map Network For Change Detection**|Chengxi Han et.al.|[2302.10420v2](http://arxiv.org/abs/2302.10420v2)|
-|**2023-02-18**|**Speaker and Language Change Detection using Wav2vec2 and Whisper**|Tijn Berns et.al.|[2302.09381v1](http://arxiv.org/abs/2302.09381v1)|
 
