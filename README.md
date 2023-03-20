@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-17**|**GADFormer: An Attention-based Model for Group Anomaly Detection on Trajectories**|Andreas Lohrer et.al.|[2303.09841v1](http://arxiv.org/abs/2303.09841v1)|
+|**2023-03-17**|**A Bi-LSTM Autoencoder Framework for Anomaly Detection -- A Case Study of a Wind Power Dataset**|Ahmed Shoyeb Raihan et.al.|[2303.09703v1](http://arxiv.org/abs/2303.09703v1)|
 |**2023-03-15**|**Wireless Sensor Networks anomaly detection using Machine Learning: A Survey**|Ahsnaul Haque et.al.|[2303.08823v1](http://arxiv.org/abs/2303.08823v1)|
 |**2023-03-15**|**Towards Phytoplankton Parasite Detection Using Autoencoders**|Simon Bilik et.al.|[2303.08744v1](http://arxiv.org/abs/2303.08744v1)|
 |**2023-03-15**|**DiffusionAD: Denoising Diffusion for Anomaly Detection**|Hui Zhang et.al.|[2303.08730v1](http://arxiv.org/abs/2303.08730v1)|
@@ -57,8 +59,6 @@
 |**2023-03-13**|**Network Anomaly Detection Using Federated Learning**|William Marfo et.al.|[2303.07452v1](http://arxiv.org/abs/2303.07452v1)|
 |**2023-03-13**|**Spacecraft Anomaly Detection with Attention Temporal Convolution Network**|Liang Liu et.al.|[2303.06879v1](http://arxiv.org/abs/2303.06879v1)|
 |**2023-03-11**|**Hallucinated Heartbeats: Anomaly-Aware Remote Pulse Estimation**|Jeremy Speth et.al.|[2303.06452v1](http://arxiv.org/abs/2303.06452v1)|
-|**2023-03-11**|**Anomaly Detection with Ensemble of Encoder and Decoder**|Xijuan Sun et.al.|[2303.06431v1](http://arxiv.org/abs/2303.06431v1)|
-|**2023-03-11**|**Interpretable Outlier Summarization**|Yu Wang et.al.|[2303.06261v2](http://arxiv.org/abs/2303.06261v2)|
 
 ## change detection
 
