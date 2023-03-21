@@ -25,10 +25,10 @@
 |**2022-10-17**|**HALOGAS: Strong Constraints on the Neutral Gas Reservoir and Accretion Rate in Nearby Spiral Galaxies**|P. Kamphuis et.al.|[2210.09383v1](http://arxiv.org/abs/2210.09383v1)|
 |**2022-10-12**|**Common Corruption Robustness of Point Cloud Detectors: Benchmark and Enhancement**|Shuangzhi Li et.al.|[2210.05896v1](http://arxiv.org/abs/2210.05896v1)|
 |**2022-09-20**|**Rethinking Dimensionality Reduction in Grid-based 3D Object Detection**|Dihe Huang et.al.|[2209.09464v4](http://arxiv.org/abs/2209.09464v4)|
+|**2022-08-18**|**GraVoS: Voxel Selection for 3D Point-Cloud Detection**|Oren Shrout et.al.|[2208.08780v2](http://arxiv.org/abs/2208.08780v2)|
 |**2022-07-05**|**Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning**|Yuheng Lu et.al.|[2207.01987v1](http://arxiv.org/abs/2207.01987v1)|
 |**2022-05-31**|**itKD: Interchange Transfer-based Knowledge Distillation for 3D Object Detection**|Hyeon Cho et.al.|[2205.15531v1](http://arxiv.org/abs/2205.15531v1)|
 |**2022-01-26**|**Non-star-forming molecular gas in the Abell 1367 intra-cluster multiphase orphan cloud**|Pavel Jáchym et.al.|[2201.11141v1](http://arxiv.org/abs/2201.11141v1)|
-|**2022-01-07**|**Multiresolution Fully Convolutional Networks to detect Clouds and Snow through Optical Satellite Images**|Debvrat Varshney et.al.|[2201.02350v1](http://arxiv.org/abs/2201.02350v1)|
 
 ## abnormal detection
 
@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-19**|**PseudoBound: Limiting the anomaly reconstruction capability of one-class classifiers using pseudo anomalies**|Marcella Astrid et.al.|[2303.10704v1](http://arxiv.org/abs/2303.10704v1)|
 |**2023-03-17**|**GADFormer: An Attention-based Model for Group Anomaly Detection on Trajectories**|Andreas Lohrer et.al.|[2303.09841v1](http://arxiv.org/abs/2303.09841v1)|
 |**2023-03-17**|**A Bi-LSTM Autoencoder Framework for Anomaly Detection -- A Case Study of a Wind Power Dataset**|Ahmed Shoyeb Raihan et.al.|[2303.09703v1](http://arxiv.org/abs/2303.09703v1)|
 |**2023-03-15**|**Wireless Sensor Networks anomaly detection using Machine Learning: A Survey**|Ahsnaul Haque et.al.|[2303.08823v1](http://arxiv.org/abs/2303.08823v1)|
@@ -58,7 +59,6 @@
 |**2023-03-14**|**Lifelong Learning for Anomaly Detection: New Challenges, Perspectives, and Insights**|Kamil Faber et.al.|[2303.07557v1](http://arxiv.org/abs/2303.07557v1)|
 |**2023-03-13**|**Network Anomaly Detection Using Federated Learning**|William Marfo et.al.|[2303.07452v1](http://arxiv.org/abs/2303.07452v1)|
 |**2023-03-13**|**Spacecraft Anomaly Detection with Attention Temporal Convolution Network**|Liang Liu et.al.|[2303.06879v1](http://arxiv.org/abs/2303.06879v1)|
-|**2023-03-11**|**Hallucinated Heartbeats: Anomaly-Aware Remote Pulse Estimation**|Jeremy Speth et.al.|[2303.06452v1](http://arxiv.org/abs/2303.06452v1)|
 
 ## change detection
 
