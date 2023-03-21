@@ -1,4 +1,4 @@
-## Updated on 2023.03.20
+## Updated on 2023.03.21
 
 ## super-resolution
 
@@ -53,7 +53,7 @@
 |**2023-03-17**|**A Bi-LSTM Autoencoder Framework for Anomaly Detection -- A Case Study of a Wind Power Dataset**|Ahmed Shoyeb Raihan et.al.|[2303.09703v1](http://arxiv.org/abs/2303.09703v1)|
 |**2023-03-15**|**Wireless Sensor Networks anomaly detection using Machine Learning: A Survey**|Ahsnaul Haque et.al.|[2303.08823v1](http://arxiv.org/abs/2303.08823v1)|
 |**2023-03-15**|**Towards Phytoplankton Parasite Detection Using Autoencoders**|Simon Bilik et.al.|[2303.08744v1](http://arxiv.org/abs/2303.08744v1)|
-|**2023-03-15**|**DiffusionAD: Denoising Diffusion for Anomaly Detection**|Hui Zhang et.al.|[2303.08730v1](http://arxiv.org/abs/2303.08730v1)|
+|**2023-03-15**|**DiffusionAD: Denoising Diffusion for Anomaly Detection**|Hui Zhang et.al.|[2303.08730v2](http://arxiv.org/abs/2303.08730v2)|
 |**2023-03-15**|**Reversing the Abnormal: Pseudo-Healthy Generative Networks for Anomaly Detection**|Cosmin I Bercea et.al.|[2303.08452v1](http://arxiv.org/abs/2303.08452v1)|
 |**2023-03-14**|**Lifelong Learning for Anomaly Detection: New Challenges, Perspectives, and Insights**|Kamil Faber et.al.|[2303.07557v1](http://arxiv.org/abs/2303.07557v1)|
 |**2023-03-13**|**Network Anomaly Detection Using Federated Learning**|William Marfo et.al.|[2303.07452v1](http://arxiv.org/abs/2303.07452v1)|
