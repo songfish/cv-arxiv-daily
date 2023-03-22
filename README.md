@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-21**|**Defect Detection Approaches Based on Simulated Reference Image**|Nati Ofir et.al.|[2303.11971v1](http://arxiv.org/abs/2303.11971v1)|
+|**2023-03-21**|**Dens-PU: PU Learning with Density-Based Positive Labeled Augmentation**|Vasileios Sevetlidis et.al.|[2303.11848v1](http://arxiv.org/abs/2303.11848v1)|
+|**2023-03-21**|**Unlocking Layer-wise Relevance Propagation for Autoencoders**|Kenyu Kobayashi et.al.|[2303.11734v1](http://arxiv.org/abs/2303.11734v1)|
+|**2023-03-21**|**Focus or Not: A Baseline for Anomaly Event Detection On the Open Public Places with Satellite Images**|Yongjin Jeon et.al.|[2303.11668v1](http://arxiv.org/abs/2303.11668v1)|
+|**2023-03-20**|**Did You Train on My Dataset? Towards Public Dataset Protection with Clean-Label Backdoor Watermarking**|Ruixiang Tang et.al.|[2303.11470v1](http://arxiv.org/abs/2303.11470v1)|
 |**2023-03-19**|**PseudoBound: Limiting the anomaly reconstruction capability of one-class classifiers using pseudo anomalies**|Marcella Astrid et.al.|[2303.10704v1](http://arxiv.org/abs/2303.10704v1)|
 |**2023-03-17**|**GADFormer: An Attention-based Model for Group Anomaly Detection on Trajectories**|Andreas Lohrer et.al.|[2303.09841v1](http://arxiv.org/abs/2303.09841v1)|
 |**2023-03-17**|**A Bi-LSTM Autoencoder Framework for Anomaly Detection -- A Case Study of a Wind Power Dataset**|Ahmed Shoyeb Raihan et.al.|[2303.09703v1](http://arxiv.org/abs/2303.09703v1)|
-|**2023-03-15**|**Wireless Sensor Networks anomaly detection using Machine Learning: A Survey**|Ahsnaul Haque et.al.|[2303.08823v1](http://arxiv.org/abs/2303.08823v1)|
 |**2023-03-15**|**Towards Phytoplankton Parasite Detection Using Autoencoders**|Simon Bilik et.al.|[2303.08744v1](http://arxiv.org/abs/2303.08744v1)|
 |**2023-03-15**|**DiffusionAD: Denoising Diffusion for Anomaly Detection**|Hui Zhang et.al.|[2303.08730v2](http://arxiv.org/abs/2303.08730v2)|
-|**2023-03-15**|**Reversing the Abnormal: Pseudo-Healthy Generative Networks for Anomaly Detection**|Cosmin I Bercea et.al.|[2303.08452v1](http://arxiv.org/abs/2303.08452v1)|
-|**2023-03-14**|**Lifelong Learning for Anomaly Detection: New Challenges, Perspectives, and Insights**|Kamil Faber et.al.|[2303.07557v1](http://arxiv.org/abs/2303.07557v1)|
-|**2023-03-13**|**Network Anomaly Detection Using Federated Learning**|William Marfo et.al.|[2303.07452v1](http://arxiv.org/abs/2303.07452v1)|
-|**2023-03-13**|**Spacecraft Anomaly Detection with Attention Temporal Convolution Network**|Liang Liu et.al.|[2303.06879v1](http://arxiv.org/abs/2303.06879v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-21**|**Focus or Not: A Baseline for Anomaly Event Detection On the Open Public Places with Satellite Images**|Yongjin Jeon et.al.|[2303.11668v1](http://arxiv.org/abs/2303.11668v1)|
 |**2023-03-16**|**Deep Metric Learning for Unsupervised Remote Sensing Change Detection**|Wele Gedara Chaminda Bandara et.al.|[2303.09536v1](http://arxiv.org/abs/2303.09536v1)|
 |**2023-03-15**|**Mapping Urban Population Growth from Sentinel-2 MSI and Census Data Using Deep Learning: A Case Study in Kigali, Rwanda**|Sebastian Hafner et.al.|[2303.08511v1](http://arxiv.org/abs/2303.08511v1)|
 |**2023-03-13**|**Mobile Mapping Mesh Change Detection and Update**|Teng Wu et.al.|[2303.07182v1](http://arxiv.org/abs/2303.07182v1)|
@@ -73,5 +74,4 @@
 |**2023-03-01**|**DIFFQG: Generating Questions to Summarize Factual Changes**|Jeremy R. Cole et.al.|[2303.00242v1](http://arxiv.org/abs/2303.00242v1)|
 |**2023-02-28**|**FPCD: An Open Aerial VHR Dataset for Farm Pond Change Detection**|Chintan Tundia et.al.|[2302.14554v1](http://arxiv.org/abs/2302.14554v1)|
 |**2023-02-23**|**An Aligned Multi-Temporal Multi-Resolution Satellite Image Dataset for Change Detection Research**|Rahul Deshmukh et.al.|[2302.12301v2](http://arxiv.org/abs/2302.12301v2)|
-|**2023-02-21**|**HCGMNET: A Hierarchical Change Guiding Map Network For Change Detection**|Chengxi Han et.al.|[2302.10420v2](http://arxiv.org/abs/2302.10420v2)|
 
