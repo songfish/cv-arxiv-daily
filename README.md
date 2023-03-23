@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-22**|**Unbiased Multiple Instance Learning for Weakly Supervised Video Anomaly Detection**|Hui Lv et.al.|[2303.12369v1](http://arxiv.org/abs/2303.12369v1)|
+|**2023-03-22**|**One-Step Detection Paradigm for Hyperspectral Anomaly Detection via Spectral Deviation Relationship Learning**|Jingtao Li et.al.|[2303.12342v1](http://arxiv.org/abs/2303.12342v1)|
+|**2023-03-22**|**Anomaly Detection in Aeronautics Data with Quantum-compatible Discrete Deep Generative Model**|Thomas Templin et.al.|[2303.12302v1](http://arxiv.org/abs/2303.12302v1)|
 |**2023-03-21**|**Defect Detection Approaches Based on Simulated Reference Image**|Nati Ofir et.al.|[2303.11971v1](http://arxiv.org/abs/2303.11971v1)|
 |**2023-03-21**|**Dens-PU: PU Learning with Density-Based Positive Labeled Augmentation**|Vasileios Sevetlidis et.al.|[2303.11848v1](http://arxiv.org/abs/2303.11848v1)|
 |**2023-03-21**|**Unlocking Layer-wise Relevance Propagation for Autoencoders**|Kenyu Kobayashi et.al.|[2303.11734v1](http://arxiv.org/abs/2303.11734v1)|
@@ -56,9 +59,6 @@
 |**2023-03-20**|**Did You Train on My Dataset? Towards Public Dataset Protection with Clean-Label Backdoor Watermarking**|Ruixiang Tang et.al.|[2303.11470v1](http://arxiv.org/abs/2303.11470v1)|
 |**2023-03-19**|**PseudoBound: Limiting the anomaly reconstruction capability of one-class classifiers using pseudo anomalies**|Marcella Astrid et.al.|[2303.10704v1](http://arxiv.org/abs/2303.10704v1)|
 |**2023-03-17**|**GADFormer: An Attention-based Model for Group Anomaly Detection on Trajectories**|Andreas Lohrer et.al.|[2303.09841v1](http://arxiv.org/abs/2303.09841v1)|
-|**2023-03-17**|**A Bi-LSTM Autoencoder Framework for Anomaly Detection -- A Case Study of a Wind Power Dataset**|Ahmed Shoyeb Raihan et.al.|[2303.09703v1](http://arxiv.org/abs/2303.09703v1)|
-|**2023-03-15**|**Towards Phytoplankton Parasite Detection Using Autoencoders**|Simon Bilik et.al.|[2303.08744v1](http://arxiv.org/abs/2303.08744v1)|
-|**2023-03-15**|**DiffusionAD: Denoising Diffusion for Anomaly Detection**|Hui Zhang et.al.|[2303.08730v2](http://arxiv.org/abs/2303.08730v2)|
 
 ## change detection
 
