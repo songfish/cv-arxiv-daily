@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-24**|**The Mass-ive Issue: Anomaly Detection in Jet Physics**|Tobias Golling et.al.|[2303.14134v1](http://arxiv.org/abs/2303.14134v1)|
+|**2023-03-24**|**Interpretable Anomaly Detection via Discrete Optimization**|Simon Lutz et.al.|[2303.14111v1](http://arxiv.org/abs/2303.14111v1)|
+|**2023-03-24**|**Anomaly Detection under Distribution Shift**|Tri Cao et.al.|[2303.13845v1](http://arxiv.org/abs/2303.13845v1)|
 |**2023-03-23**|**Confidence-Aware and Self-Supervised Image Anomaly Localisation**|Johanna P. Müller et.al.|[2303.13227v1](http://arxiv.org/abs/2303.13227v1)|
 |**2023-03-23**|**Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection**|Yunkang Cao et.al.|[2303.13194v1](http://arxiv.org/abs/2303.13194v1)|
 |**2023-03-23**|**Hierarchical Semantic Contrast for Scene-aware Video Anomaly Detection**|Shengyang Sun et.al.|[2303.13051v1](http://arxiv.org/abs/2303.13051v1)|
@@ -56,14 +59,14 @@
 |**2023-03-22**|**TSI-GAN: Unsupervised Time Series Anomaly Detection using Convolutional Cycle-Consistent Generative Adversarial Networks**|Shyam Sundar Saravanan et.al.|[2303.12952v1](http://arxiv.org/abs/2303.12952v1)|
 |**2023-03-22**|**Unbiased Multiple Instance Learning for Weakly Supervised Video Anomaly Detection**|Hui Lv et.al.|[2303.12369v1](http://arxiv.org/abs/2303.12369v1)|
 |**2023-03-22**|**One-Step Detection Paradigm for Hyperspectral Anomaly Detection via Spectral Deviation Relationship Learning**|Jingtao Li et.al.|[2303.12342v1](http://arxiv.org/abs/2303.12342v1)|
-|**2023-03-22**|**Anomaly Detection in Aeronautics Data with Quantum-compatible Discrete Deep Generative Model**|Thomas Templin et.al.|[2303.12302v1](http://arxiv.org/abs/2303.12302v1)|
-|**2023-03-21**|**Defect Detection Approaches Based on Simulated Reference Image**|Nati Ofir et.al.|[2303.11971v1](http://arxiv.org/abs/2303.11971v1)|
-|**2023-03-21**|**Dens-PU: PU Learning with Density-Based Positive Labeled Augmentation**|Vasileios Sevetlidis et.al.|[2303.11848v1](http://arxiv.org/abs/2303.11848v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-24**|**Symbolic Music Structure Analysis with Graph Representations and Changepoint Detection Methods**|Carlos Hernandez-Olivan et.al.|[2303.13881v1](http://arxiv.org/abs/2303.13881v1)|
+|**2023-03-24**|**Exactly Optimal Quickest Change Detection of Markov Chains**|Jason J. Ford et.al.|[2303.13778v1](http://arxiv.org/abs/2303.13778v1)|
+|**2023-03-24**|**EMS-Net: Efficient Multi-Temporal Self-Attention For Hyperspectral Change Detection**|Meiqi Hu et.al.|[2303.13753v1](http://arxiv.org/abs/2303.13753v1)|
 |**2023-03-21**|**Focus or Not: A Baseline for Anomaly Event Detection On the Open Public Places with Satellite Images**|Yongjin Jeon et.al.|[2303.11668v1](http://arxiv.org/abs/2303.11668v1)|
 |**2023-03-16**|**Deep Metric Learning for Unsupervised Remote Sensing Change Detection**|Wele Gedara Chaminda Bandara et.al.|[2303.09536v1](http://arxiv.org/abs/2303.09536v1)|
 |**2023-03-15**|**Mapping Urban Population Growth from Sentinel-2 MSI and Census Data Using Deep Learning: A Case Study in Kigali, Rwanda**|Sebastian Hafner et.al.|[2303.08511v1](http://arxiv.org/abs/2303.08511v1)|
@@ -71,7 +74,4 @@
 |**2023-03-08**|**SoftMatch Distance: A Novel Distance for Weakly-Supervised Trend Change Detection in Bi-Temporal Images**|Yuqun Yang et.al.|[2303.04737v1](http://arxiv.org/abs/2303.04737v1)|
 |**2023-03-08**|**An CUSUM Test with Observation-Adjusted Control Limits in Change Detection**|Fuquan Tang et.al.|[2303.04628v1](http://arxiv.org/abs/2303.04628v1)|
 |**2023-03-06**|**Quickest Change Detection in Statistically Periodic Processes with Unknown Post-Change Distribution**|Yousef Oleyaeimotlagh et.al.|[2303.02826v1](http://arxiv.org/abs/2303.02826v1)|
-|**2023-03-01**|**DIFFQG: Generating Questions to Summarize Factual Changes**|Jeremy R. Cole et.al.|[2303.00242v1](http://arxiv.org/abs/2303.00242v1)|
-|**2023-02-28**|**FPCD: An Open Aerial VHR Dataset for Farm Pond Change Detection**|Chintan Tundia et.al.|[2302.14554v1](http://arxiv.org/abs/2302.14554v1)|
-|**2023-02-23**|**An Aligned Multi-Temporal Multi-Resolution Satellite Image Dataset for Change Detection Research**|Rahul Deshmukh et.al.|[2302.12301v2](http://arxiv.org/abs/2302.12301v2)|
 
