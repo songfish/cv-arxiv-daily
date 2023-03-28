@@ -1,4 +1,4 @@
-## Updated on 2023.03.27
+## Updated on 2023.03.28
 
 ## super-resolution
 
@@ -27,7 +27,7 @@
 |**2022-09-20**|**Rethinking Dimensionality Reduction in Grid-based 3D Object Detection**|Dihe Huang et.al.|[2209.09464v4](http://arxiv.org/abs/2209.09464v4)|
 |**2022-08-18**|**GraVoS: Voxel Selection for 3D Point-Cloud Detection**|Oren Shrout et.al.|[2208.08780v2](http://arxiv.org/abs/2208.08780v2)|
 |**2022-07-05**|**Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning**|Yuheng Lu et.al.|[2207.01987v1](http://arxiv.org/abs/2207.01987v1)|
-|**2022-05-31**|**itKD: Interchange Transfer-based Knowledge Distillation for 3D Object Detection**|Hyeon Cho et.al.|[2205.15531v1](http://arxiv.org/abs/2205.15531v1)|
+|**2022-05-31**|**itKD: Interchange Transfer-based Knowledge Distillation for 3D Object Detection**|Hyeon Cho et.al.|[2205.15531v2](http://arxiv.org/abs/2205.15531v2)|
 |**2022-01-26**|**Non-star-forming molecular gas in the Abell 1367 intra-cluster multiphase orphan cloud**|Pavel Jáchym et.al.|[2201.11141v1](http://arxiv.org/abs/2201.11141v1)|
 
 ## abnormal detection
