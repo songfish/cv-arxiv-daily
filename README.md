@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-27**|**SimpleNet: A Simple Network for Image Anomaly Detection and Localization**|Zhikang Liu et.al.|[2303.15140v1](http://arxiv.org/abs/2303.15140v1)|
+|**2023-03-27**|**Disruption Precursor Onset Time Study Based on Semi-supervised Anomaly Detection**|Xinkun Ai et.al.|[2303.14965v1](http://arxiv.org/abs/2303.14965v1)|
+|**2023-03-25**|**Topological Pooling on Graphs**|Yuzhou Chen et.al.|[2303.14543v1](http://arxiv.org/abs/2303.14543v1)|
+|**2023-03-25**|**EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies**|Kilian Batzner et.al.|[2303.14535v1](http://arxiv.org/abs/2303.14535v1)|
 |**2023-03-24**|**The Mass-ive Issue: Anomaly Detection in Jet Physics**|Tobias Golling et.al.|[2303.14134v1](http://arxiv.org/abs/2303.14134v1)|
 |**2023-03-24**|**Interpretable Anomaly Detection via Discrete Optimization**|Simon Lutz et.al.|[2303.14111v1](http://arxiv.org/abs/2303.14111v1)|
 |**2023-03-24**|**Anomaly Detection under Distribution Shift**|Tri Cao et.al.|[2303.13845v1](http://arxiv.org/abs/2303.13845v1)|
 |**2023-03-23**|**Confidence-Aware and Self-Supervised Image Anomaly Localisation**|Johanna P. Müller et.al.|[2303.13227v1](http://arxiv.org/abs/2303.13227v1)|
 |**2023-03-23**|**Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection**|Yunkang Cao et.al.|[2303.13194v1](http://arxiv.org/abs/2303.13194v1)|
 |**2023-03-23**|**Hierarchical Semantic Contrast for Scene-aware Video Anomaly Detection**|Shengyang Sun et.al.|[2303.13051v1](http://arxiv.org/abs/2303.13051v1)|
-|**2023-03-23**|**Failure-tolerant Distributed Learning for Anomaly Detection in Wireless Networks**|Marc Katzef et.al.|[2303.13015v1](http://arxiv.org/abs/2303.13015v1)|
-|**2023-03-22**|**TSI-GAN: Unsupervised Time Series Anomaly Detection using Convolutional Cycle-Consistent Generative Adversarial Networks**|Shyam Sundar Saravanan et.al.|[2303.12952v1](http://arxiv.org/abs/2303.12952v1)|
-|**2023-03-22**|**Unbiased Multiple Instance Learning for Weakly Supervised Video Anomaly Detection**|Hui Lv et.al.|[2303.12369v1](http://arxiv.org/abs/2303.12369v1)|
-|**2023-03-22**|**One-Step Detection Paradigm for Hyperspectral Anomaly Detection via Spectral Deviation Relationship Learning**|Jingtao Li et.al.|[2303.12342v1](http://arxiv.org/abs/2303.12342v1)|
 
 ## change detection
 
