@@ -1,4 +1,4 @@
-## Updated on 2023.03.28
+## Updated on 2023.03.29
 
 ## super-resolution
 
@@ -49,7 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-03-27**|**SimpleNet: A Simple Network for Image Anomaly Detection and Localization**|Zhikang Liu et.al.|[2303.15140v1](http://arxiv.org/abs/2303.15140v1)|
+|**2023-03-27**|**SimpleNet: A Simple Network for Image Anomaly Detection and Localization**|Zhikang Liu et.al.|[2303.15140v2](http://arxiv.org/abs/2303.15140v2)|
 |**2023-03-27**|**Disruption Precursor Onset Time Study Based on Semi-supervised Anomaly Detection**|Xinkun Ai et.al.|[2303.14965v1](http://arxiv.org/abs/2303.14965v1)|
 |**2023-03-25**|**Topological Pooling on Graphs**|Yuzhou Chen et.al.|[2303.14543v1](http://arxiv.org/abs/2303.14543v1)|
 |**2023-03-25**|**EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies**|Kilian Batzner et.al.|[2303.14535v1](http://arxiv.org/abs/2303.14535v1)|
