@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-29**|**PMAA: A Progressive Multi-scale Attention Autoencoder Model for High-Performance Cloud Removal from Multi-temporal Satellite Imagery**|Xuechao Zou et.al.|[2303.16565v1](http://arxiv.org/abs/2303.16565v1)|
 |**2023-02-16**|**Detecting Clouds in Multispectral Satellite Images Using Quantum-Kernel Support Vector Machines**|Artur Miroszewski et.al.|[2302.08270v1](http://arxiv.org/abs/2302.08270v1)|
 |**2022-12-21**|**MM811 Project Report: Cloud Detection and Removal in Satellite Images**|Dale Chen-Song et.al.|[2212.11369v1](http://arxiv.org/abs/2212.11369v1)|
 |**2022-10-24**|**Self-Configuring nnU-Nets Detect Clouds in Satellite Images**|Bartosz Grabowski et.al.|[2210.13659v1](http://arxiv.org/abs/2210.13659v1)|
@@ -28,12 +29,12 @@
 |**2022-08-18**|**GraVoS: Voxel Selection for 3D Point-Cloud Detection**|Oren Shrout et.al.|[2208.08780v2](http://arxiv.org/abs/2208.08780v2)|
 |**2022-07-05**|**Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning**|Yuheng Lu et.al.|[2207.01987v1](http://arxiv.org/abs/2207.01987v1)|
 |**2022-05-31**|**itKD: Interchange Transfer-based Knowledge Distillation for 3D Object Detection**|Hyeon Cho et.al.|[2205.15531v2](http://arxiv.org/abs/2205.15531v2)|
-|**2022-01-26**|**Non-star-forming molecular gas in the Abell 1367 intra-cluster multiphase orphan cloud**|Pavel Jáchym et.al.|[2201.11141v1](http://arxiv.org/abs/2201.11141v1)|
 
 ## abnormal detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-29**|**Improving Object Detection in Medical Image Analysis through Multiple Expert Annotators: An Empirical Investigation**|Hieu H. Pham et.al.|[2303.16507v1](http://arxiv.org/abs/2303.16507v1)|
 |**2023-02-26**|**MDF-Net: Multimodal Dual-Fusion Network for Abnormality Detection using CXR Images and Clinical Data**|Chihcheng Hsieh et.al.|[2302.13390v1](http://arxiv.org/abs/2302.13390v1)|
 |**2023-02-20**|**Deep Reinforcement Learning for Cost-Effective Medical Diagnosis**|Zheng Yu et.al.|[2302.10261v2](http://arxiv.org/abs/2302.10261v2)|
 |**2023-02-06**|**Integrating Eye-Gaze Data into CXR DL Approaches: A Preliminary study**|André Luís et.al.|[2302.02940v1](http://arxiv.org/abs/2302.02940v1)|
@@ -43,12 +44,12 @@
 |**2022-11-17**|**Heart Abnormality Detection from Heart Sound Signals using MFCC Feature and Dual Stream Attention Based Network**|Nayeeb Rashid et.al.|[2211.09751v1](http://arxiv.org/abs/2211.09751v1)|
 |**2022-11-02**|**Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems**|Kai Packhäuser et.al.|[2211.01323v2](http://arxiv.org/abs/2211.01323v2)|
 |**2022-10-14**|**Surface abnormality detection in medical and inspection systems using energy variations in co-occurrence matrixes**|Nandara K. Krishnand et.al.|[2210.07812v1](http://arxiv.org/abs/2210.07812v1)|
-|**2022-09-29**|**Cardiotocography Signal Abnormality Detection based on Deep Unsupervised Models**|Julien Bertieaux et.al.|[2209.15085v1](http://arxiv.org/abs/2209.15085v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-29**|**Improving Object Detection in Medical Image Analysis through Multiple Expert Annotators: An Empirical Investigation**|Hieu H. Pham et.al.|[2303.16507v1](http://arxiv.org/abs/2303.16507v1)|
 |**2023-03-28**|**Hard Nominal Example-aware Template Mutual Matching for Industrial Anomaly Detection**|Zixuan Chen et.al.|[2303.16191v2](http://arxiv.org/abs/2303.16191v2)|
 |**2023-03-28**|**Attention Boosted Autoencoder for Building Energy Anomaly Detection**|Durga Prasad Pydi et.al.|[2303.16097v1](http://arxiv.org/abs/2303.16097v1)|
 |**2023-03-28**|**Clustered Federated Learning Architecture for Network Anomaly Detection in Large Scale Heterogeneous IoT Networks**|Xabier Sáez-de-Cámara et.al.|[2303.15986v1](http://arxiv.org/abs/2303.15986v1)|
@@ -58,7 +59,6 @@
 |**2023-03-25**|**Topological Pooling on Graphs**|Yuzhou Chen et.al.|[2303.14543v1](http://arxiv.org/abs/2303.14543v1)|
 |**2023-03-25**|**EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies**|Kilian Batzner et.al.|[2303.14535v1](http://arxiv.org/abs/2303.14535v1)|
 |**2023-03-24**|**The Mass-ive Issue: Anomaly Detection in Jet Physics**|Tobias Golling et.al.|[2303.14134v1](http://arxiv.org/abs/2303.14134v1)|
-|**2023-03-24**|**Interpretable Anomaly Detection via Discrete Optimization**|Simon Lutz et.al.|[2303.14111v1](http://arxiv.org/abs/2303.14111v1)|
 
 ## change detection
 
