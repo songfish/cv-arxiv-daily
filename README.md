@@ -1,4 +1,4 @@
-## Updated on 2023.03.29
+## Updated on 2023.03.30
 
 ## super-resolution
 
@@ -49,7 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-03-28**|**Hard Nominal Example-aware Template Mutual Matching for Industrial Anomaly Detection**|Zixuan Chen et.al.|[2303.16191v1](http://arxiv.org/abs/2303.16191v1)|
+|**2023-03-28**|**Hard Nominal Example-aware Template Mutual Matching for Industrial Anomaly Detection**|Zixuan Chen et.al.|[2303.16191v2](http://arxiv.org/abs/2303.16191v2)|
 |**2023-03-28**|**Attention Boosted Autoencoder for Building Energy Anomaly Detection**|Durga Prasad Pydi et.al.|[2303.16097v1](http://arxiv.org/abs/2303.16097v1)|
 |**2023-03-28**|**Clustered Federated Learning Architecture for Network Anomaly Detection in Large Scale Heterogeneous IoT Networks**|Xabier Sáez-de-Cámara et.al.|[2303.15986v1](http://arxiv.org/abs/2303.15986v1)|
 |**2023-03-28**|**Searching for long faint astronomical high energy transients: a data driven approach**|Riccardo Crupi et.al.|[2303.15936v1](http://arxiv.org/abs/2303.15936v1)|
