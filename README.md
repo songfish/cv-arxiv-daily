@@ -49,21 +49,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-31**|**Long-Short Temporal Co-Teaching for Weakly Supervised Video Anomaly Detection**|Shengyang Sun et.al.|[2303.18044v1](http://arxiv.org/abs/2303.18044v1)|
+|**2023-03-31**|**You Only Train Once: Learning a General Anomaly Enhancement Network with Random Masks for Hyperspectral Anomaly Detection**|Zhaoxu Li et.al.|[2303.18001v1](http://arxiv.org/abs/2303.18001v1)|
+|**2023-03-31**|**Unsupervised crack detection on complex stone masonry surfaces**|Panagiotis Agrafiotis et.al.|[2303.17989v1](http://arxiv.org/abs/2303.17989v1)|
+|**2023-03-31**|**Unsupervised Anomaly Detection and Localization of Machine Audio: A GAN-based Approach**|Anbai Jiang et.al.|[2303.17949v1](http://arxiv.org/abs/2303.17949v1)|
+|**2023-03-31**|**Visual Anomaly Detection via Dual-Attention Transformer and Discriminative Flow**|Haiming Yao et.al.|[2303.17882v1](http://arxiv.org/abs/2303.17882v1)|
+|**2023-03-31**|**Time-series Anomaly Detection based on Difference Subspace between Signal Subspaces**|Takumi Kanai et.al.|[2303.17802v1](http://arxiv.org/abs/2303.17802v1)|
 |**2023-03-29**|**Unsupervised Anomaly Detection with Local-Sensitive VQVAE and Global-Sensitive Transformers**|Mingqing Wang et.al.|[2303.17505v1](http://arxiv.org/abs/2303.17505v1)|
 |**2023-03-30**|**Incremental Self-Supervised Learning Based on Transformer for Anomaly Detection and Localization**|Wenping Jin et.al.|[2303.17354v1](http://arxiv.org/abs/2303.17354v1)|
-|**2023-03-29**|**GAT-COBO: Cost-Sensitive Graph Neural Network for Telecom Fraud Detection**|Xinxin Hu et.al.|[2303.17334v1](http://arxiv.org/abs/2303.17334v1)|
 |**2023-03-30**|**Exploiting Redundancy for UWB Anomaly Detection in Infrastructure-Free Multi-Robot Relative Localization**|Sahar Salimpour et.al.|[2303.17207v1](http://arxiv.org/abs/2303.17207v1)|
 |**2023-03-29**|**Improving Object Detection in Medical Image Analysis through Multiple Expert Annotators: An Empirical Investigation**|Hieu H. Pham et.al.|[2303.16507v1](http://arxiv.org/abs/2303.16507v1)|
-|**2023-03-28**|**Hard Nominal Example-aware Template Mutual Matching for Industrial Anomaly Detection**|Zixuan Chen et.al.|[2303.16191v2](http://arxiv.org/abs/2303.16191v2)|
-|**2023-03-28**|**Attention Boosted Autoencoder for Building Energy Anomaly Detection**|Durga Prasad Pydi et.al.|[2303.16097v1](http://arxiv.org/abs/2303.16097v1)|
-|**2023-03-28**|**Clustered Federated Learning Architecture for Network Anomaly Detection in Large Scale Heterogeneous IoT Networks**|Xabier Sáez-de-Cámara et.al.|[2303.15986v1](http://arxiv.org/abs/2303.15986v1)|
-|**2023-03-28**|**Searching for long faint astronomical high energy transients: a data driven approach**|Riccardo Crupi et.al.|[2303.15936v1](http://arxiv.org/abs/2303.15936v1)|
-|**2023-03-27**|**SimpleNet: A Simple Network for Image Anomaly Detection and Localization**|Zhikang Liu et.al.|[2303.15140v2](http://arxiv.org/abs/2303.15140v2)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-03-31**|**MapFormer: Boosting Change Detection by Using Pre-change Information**|Maximilian Bernhard et.al.|[2303.17859v1](http://arxiv.org/abs/2303.17859v1)|
+|**2023-03-31**|**Improved Difference Images for Change Detection Classifiers in SAR Imagery Using Deep Learning**|Janne Alatalo et.al.|[2303.17835v1](http://arxiv.org/abs/2303.17835v1)|
 |**2023-03-30**|**NN-Copula-CD: A Copula-Guided Interpretable Neural Network for Change Detection in Heterogeneous Remote Sensing Images**|Weiming Li et.al.|[2303.17448v1](http://arxiv.org/abs/2303.17448v1)|
 |**2023-03-24**|**Symbolic Music Structure Analysis with Graph Representations and Changepoint Detection Methods**|Carlos Hernandez-Olivan et.al.|[2303.13881v1](http://arxiv.org/abs/2303.13881v1)|
 |**2023-03-24**|**Exactly Optimal Quickest Change Detection of Markov Chains**|Jason J. Ford et.al.|[2303.13778v1](http://arxiv.org/abs/2303.13778v1)|
@@ -72,6 +74,4 @@
 |**2023-03-16**|**Deep Metric Learning for Unsupervised Remote Sensing Change Detection**|Wele Gedara Chaminda Bandara et.al.|[2303.09536v1](http://arxiv.org/abs/2303.09536v1)|
 |**2023-03-15**|**Mapping Urban Population Growth from Sentinel-2 MSI and Census Data Using Deep Learning: A Case Study in Kigali, Rwanda**|Sebastian Hafner et.al.|[2303.08511v1](http://arxiv.org/abs/2303.08511v1)|
 |**2023-03-13**|**Mobile Mapping Mesh Change Detection and Update**|Teng Wu et.al.|[2303.07182v1](http://arxiv.org/abs/2303.07182v1)|
-|**2023-03-08**|**SoftMatch Distance: A Novel Distance for Weakly-Supervised Trend Change Detection in Bi-Temporal Images**|Yuqun Yang et.al.|[2303.04737v1](http://arxiv.org/abs/2303.04737v1)|
-|**2023-03-08**|**An CUSUM Test with Observation-Adjusted Control Limits in Change Detection**|Fuquan Tang et.al.|[2303.04628v1](http://arxiv.org/abs/2303.04628v1)|
 
