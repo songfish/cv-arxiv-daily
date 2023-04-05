@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-04-04**|**PAC-Based Formal Verification for Out-of-Distribution Data Detection**|Mohit Prashant et.al.|[2304.01592v1](http://arxiv.org/abs/2304.01592v1)|
+|**2023-04-04**|**OneShotSTL: One-Shot Seasonal-Trend Decomposition For Online Time Series Anomaly Detection And Forecasting**|Xiao He et.al.|[2304.01506v1](http://arxiv.org/abs/2304.01506v1)|
+|**2023-04-04**|**Searching for anomalous quartic gauge couplings at muon colliders using principle component analysis**|Yi-Fei Dong et.al.|[2304.01505v1](http://arxiv.org/abs/2304.01505v1)|
 |**2023-03-31**|**DynamoPMU: A Physics Informed Anomaly Detection and Prediction Methodology using non-linear dynamics from $μ$PMU Measurement Data**|Divyanshi Dwivedi et.al.|[2304.00092v1](http://arxiv.org/abs/2304.00092v1)|
 |**2023-03-31**|**Long-Short Temporal Co-Teaching for Weakly Supervised Video Anomaly Detection**|Shengyang Sun et.al.|[2303.18044v2](http://arxiv.org/abs/2303.18044v2)|
 |**2023-03-31**|**You Only Train Once: Learning a General Anomaly Enhancement Network with Random Masks for Hyperspectral Anomaly Detection**|Zhaoxu Li et.al.|[2303.18001v1](http://arxiv.org/abs/2303.18001v1)|
@@ -56,9 +59,6 @@
 |**2023-03-31**|**Unsupervised Anomaly Detection and Localization of Machine Audio: A GAN-based Approach**|Anbai Jiang et.al.|[2303.17949v1](http://arxiv.org/abs/2303.17949v1)|
 |**2023-03-31**|**Visual Anomaly Detection via Dual-Attention Transformer and Discriminative Flow**|Haiming Yao et.al.|[2303.17882v1](http://arxiv.org/abs/2303.17882v1)|
 |**2023-03-31**|**Time-series Anomaly Detection based on Difference Subspace between Signal Subspaces**|Takumi Kanai et.al.|[2303.17802v1](http://arxiv.org/abs/2303.17802v1)|
-|**2023-03-29**|**Unsupervised Anomaly Detection with Local-Sensitive VQVAE and Global-Sensitive Transformers**|Mingqing Wang et.al.|[2303.17505v1](http://arxiv.org/abs/2303.17505v1)|
-|**2023-03-30**|**Incremental Self-Supervised Learning Based on Transformer for Anomaly Detection and Localization**|Wenping Jin et.al.|[2303.17354v1](http://arxiv.org/abs/2303.17354v1)|
-|**2023-03-30**|**Exploiting Redundancy for UWB Anomaly Detection in Infrastructure-Free Multi-Robot Relative Localization**|Sahar Salimpour et.al.|[2303.17207v1](http://arxiv.org/abs/2303.17207v1)|
 
 ## change detection
 
