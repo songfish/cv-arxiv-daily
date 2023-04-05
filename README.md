@@ -1,4 +1,4 @@
-## Updated on 2023.04.04
+## Updated on 2023.04.05
 
 ## super-resolution
 
@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2023-03-31**|**DynamoPMU: A Physics Informed Anomaly Detection and Prediction Methodology using non-linear dynamics from $μ$PMU Measurement Data**|Divyanshi Dwivedi et.al.|[2304.00092v1](http://arxiv.org/abs/2304.00092v1)|
-|**2023-03-31**|**Long-Short Temporal Co-Teaching for Weakly Supervised Video Anomaly Detection**|Shengyang Sun et.al.|[2303.18044v1](http://arxiv.org/abs/2303.18044v1)|
+|**2023-03-31**|**Long-Short Temporal Co-Teaching for Weakly Supervised Video Anomaly Detection**|Shengyang Sun et.al.|[2303.18044v2](http://arxiv.org/abs/2303.18044v2)|
 |**2023-03-31**|**You Only Train Once: Learning a General Anomaly Enhancement Network with Random Masks for Hyperspectral Anomaly Detection**|Zhaoxu Li et.al.|[2303.18001v1](http://arxiv.org/abs/2303.18001v1)|
 |**2023-03-31**|**Unsupervised crack detection on complex stone masonry surfaces**|Panagiotis Agrafiotis et.al.|[2303.17989v1](http://arxiv.org/abs/2303.17989v1)|
 |**2023-03-31**|**Unsupervised Anomaly Detection and Localization of Machine Audio: A GAN-based Approach**|Anbai Jiang et.al.|[2303.17949v1](http://arxiv.org/abs/2303.17949v1)|
