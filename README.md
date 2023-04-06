@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-04-05**|**Zero-shot domain adaptation of anomalous samples for semi-supervised anomaly detection**|Tomoya Nishida et.al.|[2304.02221v1](http://arxiv.org/abs/2304.02221v1)|
+|**2023-04-05**|**Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction**|Zilong Zhang et.al.|[2304.02216v1](http://arxiv.org/abs/2304.02216v1)|
 |**2023-04-04**|**PAC-Based Formal Verification for Out-of-Distribution Data Detection**|Mohit Prashant et.al.|[2304.01592v1](http://arxiv.org/abs/2304.01592v1)|
 |**2023-04-04**|**OneShotSTL: One-Shot Seasonal-Trend Decomposition For Online Time Series Anomaly Detection And Forecasting**|Xiao He et.al.|[2304.01506v1](http://arxiv.org/abs/2304.01506v1)|
 |**2023-04-04**|**Searching for anomalous quartic gauge couplings at muon colliders using principle component analysis**|Yi-Fei Dong et.al.|[2304.01505v1](http://arxiv.org/abs/2304.01505v1)|
@@ -57,8 +59,6 @@
 |**2023-03-31**|**You Only Train Once: Learning a General Anomaly Enhancement Network with Random Masks for Hyperspectral Anomaly Detection**|Zhaoxu Li et.al.|[2303.18001v1](http://arxiv.org/abs/2303.18001v1)|
 |**2023-03-31**|**Unsupervised crack detection on complex stone masonry surfaces**|Panagiotis Agrafiotis et.al.|[2303.17989v1](http://arxiv.org/abs/2303.17989v1)|
 |**2023-03-31**|**Unsupervised Anomaly Detection and Localization of Machine Audio: A GAN-based Approach**|Anbai Jiang et.al.|[2303.17949v1](http://arxiv.org/abs/2303.17949v1)|
-|**2023-03-31**|**Visual Anomaly Detection via Dual-Attention Transformer and Discriminative Flow**|Haiming Yao et.al.|[2303.17882v1](http://arxiv.org/abs/2303.17882v1)|
-|**2023-03-31**|**Time-series Anomaly Detection based on Difference Subspace between Signal Subspaces**|Takumi Kanai et.al.|[2303.17802v2](http://arxiv.org/abs/2303.17802v2)|
 
 ## change detection
 
