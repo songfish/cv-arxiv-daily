@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-04-07**|**Anomalous Sound Detection using Audio Representation with Machine ID based Contrastive Learning Pretraining**|Jian Guan et.al.|[2304.03588v1](http://arxiv.org/abs/2304.03588v1)|
+|**2023-04-07**|**Toward Unsupervised 3D Point Cloud Anomaly Detection using Variational Autoencoder**|Mana Masuda et.al.|[2304.03420v1](http://arxiv.org/abs/2304.03420v1)|
+|**2023-04-06**|**From Explanation to Action: An End-to-End Human-in-the-loop Framework for Anomaly Reasoning and Management**|Xueying Ding et.al.|[2304.03368v1](http://arxiv.org/abs/2304.03368v1)|
+|**2023-04-06**|**What makes a good data augmentation for few-shot unsupervised image anomaly detection?**|Shuheng Zhang et.al.|[2304.03294v1](http://arxiv.org/abs/2304.03294v1)|
 |**2023-04-06**|**Anomaly Detection via Gumbel Noise Score Matching**|Ahsan Mahmood et.al.|[2304.03220v1](http://arxiv.org/abs/2304.03220v1)|
 |**2023-04-06**|**Adaptable and Interpretable Framework for Novelty Detection in Real-Time IoT Systems**|Marek Wadinger et.al.|[2304.02947v1](http://arxiv.org/abs/2304.02947v1)|
 |**2023-04-05**|**Zero-shot domain adaptation of anomalous samples for semi-supervised anomaly detection**|Tomoya Nishida et.al.|[2304.02221v1](http://arxiv.org/abs/2304.02221v1)|
 |**2023-04-05**|**Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction**|Zilong Zhang et.al.|[2304.02216v1](http://arxiv.org/abs/2304.02216v1)|
 |**2023-04-04**|**PAC-Based Formal Verification for Out-of-Distribution Data Detection**|Mohit Prashant et.al.|[2304.01592v1](http://arxiv.org/abs/2304.01592v1)|
 |**2023-04-04**|**OneShotSTL: One-Shot Seasonal-Trend Decomposition For Online Time Series Anomaly Detection And Forecasting**|Xiao He et.al.|[2304.01506v1](http://arxiv.org/abs/2304.01506v1)|
-|**2023-04-04**|**Searching for anomalous quartic gauge couplings at muon colliders using principle component analysis**|Yi-Fei Dong et.al.|[2304.01505v1](http://arxiv.org/abs/2304.01505v1)|
-|**2023-03-31**|**DynamoPMU: A Physics Informed Anomaly Detection and Prediction Methodology using non-linear dynamics from $μ$PMU Measurement Data**|Divyanshi Dwivedi et.al.|[2304.00092v1](http://arxiv.org/abs/2304.00092v1)|
-|**2023-03-31**|**Long-Short Temporal Co-Teaching for Weakly Supervised Video Anomaly Detection**|Shengyang Sun et.al.|[2303.18044v2](http://arxiv.org/abs/2303.18044v2)|
-|**2023-03-31**|**You Only Train Once: Learning a General Anomaly Enhancement Network with Random Masks for Hyperspectral Anomaly Detection**|Zhaoxu Li et.al.|[2303.18001v1](http://arxiv.org/abs/2303.18001v1)|
 
 ## change detection
 
