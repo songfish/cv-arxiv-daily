@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-04-09**|**Towards Arbitrary-scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework based on Implicit Self-texture Enhancement**|Linhao Qu et.al.|[2304.04238v1](http://arxiv.org/abs/2304.04238v1)|
 |**2023-03-09**|**LMR: A Large-Scale Multi-Reference Dataset for Reference-based Super-Resolution**|Lin Zhang et.al.|[2303.04970v1](http://arxiv.org/abs/2303.04970v1)|
 |**2023-03-06**|**Combination of Single and Multi-frame Image Super-resolution: An Analytical Perspective**|Mohammad Mahdi Afrasiabi et.al.|[2303.03212v1](http://arxiv.org/abs/2303.03212v1)|
 |**2023-02-19**|**Guided Depth Map Super-resolution: A Survey**|Zhiwei Zhong et.al.|[2302.09598v2](http://arxiv.org/abs/2302.09598v2)|
@@ -13,7 +14,6 @@
 |**2022-07-15**|**Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity**|Wei Zhou et.al.|[2207.08689v1](http://arxiv.org/abs/2207.08689v1)|
 |**2022-05-11**|**NTIRE 2022 Challenge on Efficient Super-Resolution: Methods and Results**|Yawei Li et.al.|[2205.05675v1](http://arxiv.org/abs/2205.05675v1)|
 |**2022-05-10**|**A Closer Look at Blind Super-Resolution: Degradation Models, Baselines, and Performance Upper Bounds**|Wenlong Zhang et.al.|[2205.04910v1](http://arxiv.org/abs/2205.04910v1)|
-|**2022-04-28**|**Generative Adversarial Networks for Image Super-Resolution: A Survey**|Chunwei Tian et.al.|[2204.13620v2](http://arxiv.org/abs/2204.13620v2)|
 
 ## cloud detection
 
@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-04-09**|**AGAD: Adversarial Generative Anomaly Detection**|Jian Shi et.al.|[2304.04211v1](http://arxiv.org/abs/2304.04211v1)|
+|**2023-04-08**|**KeyDetect --Detection of anomalies and user based on Keystroke Dynamics**|Soumyatattwa Kar et.al.|[2304.03958v1](http://arxiv.org/abs/2304.03958v1)|
+|**2023-04-07**|**Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays**|Stephen Roche et.al.|[2304.03836v1](http://arxiv.org/abs/2304.03836v1)|
 |**2023-04-07**|**Anomalous Sound Detection using Audio Representation with Machine ID based Contrastive Learning Pretraining**|Jian Guan et.al.|[2304.03588v2](http://arxiv.org/abs/2304.03588v2)|
 |**2023-04-07**|**Toward Unsupervised 3D Point Cloud Anomaly Detection using Variational Autoencoder**|Mana Masuda et.al.|[2304.03420v1](http://arxiv.org/abs/2304.03420v1)|
 |**2023-04-06**|**From Explanation to Action: An End-to-End Human-in-the-loop Framework for Anomaly Reasoning and Management**|Xueying Ding et.al.|[2304.03368v1](http://arxiv.org/abs/2304.03368v1)|
@@ -56,9 +59,6 @@
 |**2023-04-06**|**Anomaly Detection via Gumbel Noise Score Matching**|Ahsan Mahmood et.al.|[2304.03220v1](http://arxiv.org/abs/2304.03220v1)|
 |**2023-04-06**|**Adaptable and Interpretable Framework for Novelty Detection in Real-Time IoT Systems**|Marek Wadinger et.al.|[2304.02947v1](http://arxiv.org/abs/2304.02947v1)|
 |**2023-04-05**|**Zero-shot domain adaptation of anomalous samples for semi-supervised anomaly detection**|Tomoya Nishida et.al.|[2304.02221v1](http://arxiv.org/abs/2304.02221v1)|
-|**2023-04-05**|**Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction**|Zilong Zhang et.al.|[2304.02216v1](http://arxiv.org/abs/2304.02216v1)|
-|**2023-04-04**|**PAC-Based Formal Verification for Out-of-Distribution Data Detection**|Mohit Prashant et.al.|[2304.01592v1](http://arxiv.org/abs/2304.01592v1)|
-|**2023-04-04**|**OneShotSTL: One-Shot Seasonal-Trend Decomposition For Online Time Series Anomaly Detection And Forecasting**|Xiao He et.al.|[2304.01506v1](http://arxiv.org/abs/2304.01506v1)|
 
 ## change detection
 
