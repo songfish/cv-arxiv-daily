@@ -1,4 +1,4 @@
-## Updated on 2023.04.10
+## Updated on 2023.04.11
 
 ## super-resolution
 
@@ -49,7 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-04-07**|**Anomalous Sound Detection using Audio Representation with Machine ID based Contrastive Learning Pretraining**|Jian Guan et.al.|[2304.03588v1](http://arxiv.org/abs/2304.03588v1)|
+|**2023-04-07**|**Anomalous Sound Detection using Audio Representation with Machine ID based Contrastive Learning Pretraining**|Jian Guan et.al.|[2304.03588v2](http://arxiv.org/abs/2304.03588v2)|
 |**2023-04-07**|**Toward Unsupervised 3D Point Cloud Anomaly Detection using Variational Autoencoder**|Mana Masuda et.al.|[2304.03420v1](http://arxiv.org/abs/2304.03420v1)|
 |**2023-04-06**|**From Explanation to Action: An End-to-End Human-in-the-loop Framework for Anomaly Reasoning and Management**|Xueying Ding et.al.|[2304.03368v1](http://arxiv.org/abs/2304.03368v1)|
 |**2023-04-06**|**What makes a good data augmentation for few-shot unsupervised image anomaly detection?**|Shuheng Zhang et.al.|[2304.03294v1](http://arxiv.org/abs/2304.03294v1)|
