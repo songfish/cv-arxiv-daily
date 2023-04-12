@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-04-11**|**Decoupling anomaly discrimination and representation learning: self-supervised learning for anomaly detection on attributed graph**|YanMing Hu et.al.|[2304.05176v1](http://arxiv.org/abs/2304.05176v1)|
+|**2023-04-11**|**Video Event Restoration Based on Keyframes for Video Anomaly Detection**|Zhiwei Yang et.al.|[2304.05112v1](http://arxiv.org/abs/2304.05112v1)|
+|**2023-04-10**|**FINEX: A Fast Index for Exact & Flexible Density-Based Clustering (Extended Version with Proofs)***|Konstantin Emil Thiel et.al.|[2304.04817v1](http://arxiv.org/abs/2304.04817v1)|
 |**2023-04-09**|**AGAD: Adversarial Generative Anomaly Detection**|Jian Shi et.al.|[2304.04211v1](http://arxiv.org/abs/2304.04211v1)|
 |**2023-04-08**|**KeyDetect --Detection of anomalies and user based on Keystroke Dynamics**|Soumyatattwa Kar et.al.|[2304.03958v1](http://arxiv.org/abs/2304.03958v1)|
 |**2023-04-07**|**Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays**|Stephen Roche et.al.|[2304.03836v1](http://arxiv.org/abs/2304.03836v1)|
 |**2023-04-07**|**Anomalous Sound Detection using Audio Representation with Machine ID based Contrastive Learning Pretraining**|Jian Guan et.al.|[2304.03588v2](http://arxiv.org/abs/2304.03588v2)|
 |**2023-04-07**|**Toward Unsupervised 3D Point Cloud Anomaly Detection using Variational Autoencoder**|Mana Masuda et.al.|[2304.03420v1](http://arxiv.org/abs/2304.03420v1)|
 |**2023-04-06**|**From Explanation to Action: An End-to-End Human-in-the-loop Framework for Anomaly Reasoning and Management**|Xueying Ding et.al.|[2304.03368v1](http://arxiv.org/abs/2304.03368v1)|
-|**2023-04-06**|**What makes a good data augmentation for few-shot unsupervised image anomaly detection?**|Shuheng Zhang et.al.|[2304.03294v1](http://arxiv.org/abs/2304.03294v1)|
 |**2023-04-06**|**Anomaly Detection via Gumbel Noise Score Matching**|Ahsan Mahmood et.al.|[2304.03220v1](http://arxiv.org/abs/2304.03220v1)|
-|**2023-04-06**|**Adaptable and Interpretable Framework for Novelty Detection in Real-Time IoT Systems**|Marek Wadinger et.al.|[2304.02947v1](http://arxiv.org/abs/2304.02947v1)|
-|**2023-04-05**|**Zero-shot domain adaptation of anomalous samples for semi-supervised anomaly detection**|Tomoya Nishida et.al.|[2304.02221v1](http://arxiv.org/abs/2304.02221v1)|
 
 ## change detection
 
