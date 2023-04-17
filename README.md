@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-04-14**|**Cross Attention Transformers for Multi-modal Unsupervised Whole-Body PET Anomaly Detection**|Ashay Patel et.al.|[2304.07147v1](http://arxiv.org/abs/2304.07147v1)|
 |**2023-04-13**|**Brain Structure Ages -- A new biomarker for multi-disease classification**|Huy-Dung Nguyen et.al.|[2304.06591v1](http://arxiv.org/abs/2304.06591v1)|
 |**2023-04-12**|**Exploring Diffusion Models for Unsupervised Video Anomaly Detection**|Anil Osman Tur et.al.|[2304.05841v1](http://arxiv.org/abs/2304.05841v1)|
 |**2023-04-12**|**Rail Detection: An Efficient Row-based Network and A New Benchmark**|Xinpeng Li et.al.|[2304.05667v1](http://arxiv.org/abs/2304.05667v1)|
@@ -58,12 +59,12 @@
 |**2023-04-09**|**AGAD: Adversarial Generative Anomaly Detection**|Jian Shi et.al.|[2304.04211v1](http://arxiv.org/abs/2304.04211v1)|
 |**2023-04-08**|**KeyDetect --Detection of anomalies and user based on Keystroke Dynamics**|Soumyatattwa Kar et.al.|[2304.03958v1](http://arxiv.org/abs/2304.03958v1)|
 |**2023-04-07**|**Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays**|Stephen Roche et.al.|[2304.03836v1](http://arxiv.org/abs/2304.03836v1)|
-|**2023-04-07**|**Anomalous Sound Detection using Audio Representation with Machine ID based Contrastive Learning Pretraining**|Jian Guan et.al.|[2304.03588v2](http://arxiv.org/abs/2304.03588v2)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-04-14**|**BCE-Net: Reliable Building Footprints Change Extraction based on Historical Map and Up-to-Date Images using Contrastive Learning**|Cheng Liao et.al.|[2304.07076v1](http://arxiv.org/abs/2304.07076v1)|
 |**2023-04-13**|**Remote Sensing Change Detection With Transformers Trained from Scratch**|Mubashir Noman et.al.|[2304.06710v1](http://arxiv.org/abs/2304.06710v1)|
 |**2023-04-03**|**Dsfer-Net: A Deep Supervision and Feature Retrieval Network for Bitemporal Change Detection Using Modern Hopfield Networks**|Shizhen Chang et.al.|[2304.01101v1](http://arxiv.org/abs/2304.01101v1)|
 |**2023-04-03**|**COMIC: An Unsupervised Change Detection Method for Heterogeneous Remote Sensing Images Based on Copula Mixtures and Cycle-Consistent Adversarial Networks**|Chengxi Li et.al.|[2304.00721v1](http://arxiv.org/abs/2304.00721v1)|
@@ -73,5 +74,4 @@
 |**2023-03-24**|**Symbolic Music Structure Analysis with Graph Representations and Changepoint Detection Methods**|Carlos Hernandez-Olivan et.al.|[2303.13881v1](http://arxiv.org/abs/2303.13881v1)|
 |**2023-03-24**|**Exactly Optimal Quickest Change Detection of Markov Chains**|Jason J. Ford et.al.|[2303.13778v1](http://arxiv.org/abs/2303.13778v1)|
 |**2023-03-24**|**EMS-Net: Efficient Multi-Temporal Self-Attention For Hyperspectral Change Detection**|Meiqi Hu et.al.|[2303.13753v1](http://arxiv.org/abs/2303.13753v1)|
-|**2023-03-21**|**Focus or Not: A Baseline for Anomaly Event Detection On the Open Public Places with Satellite Images**|Yongjin Jeon et.al.|[2303.11668v2](http://arxiv.org/abs/2303.11668v2)|
 
