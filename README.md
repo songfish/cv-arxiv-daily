@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-04-17**|**One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities**|Nicolas Pinon et.al.|[2304.08058v1](http://arxiv.org/abs/2304.08058v1)|
+|**2023-04-16**|**Time-series Anomaly Detection via Contextual Discriminative Contrastive Learning**|Katrina Chen et.al.|[2304.07898v1](http://arxiv.org/abs/2304.07898v1)|
+|**2023-04-16**|**Regularized Complete Cycle Consistent GAN for Anomaly Detection**|Zahra Dehghanian et.al.|[2304.07769v1](http://arxiv.org/abs/2304.07769v1)|
+|**2023-04-15**|**Few-shot Weakly-supervised Cybersecurity Anomaly Detection**|Rahul Kale et.al.|[2304.07470v1](http://arxiv.org/abs/2304.07470v1)|
+|**2023-04-15**|**Context-aware Domain Adaptation for Time Series Anomaly Detection**|Kwei-Herng Lai et.al.|[2304.07453v1](http://arxiv.org/abs/2304.07453v1)|
 |**2023-04-14**|**Cross Attention Transformers for Multi-modal Unsupervised Whole-Body PET Anomaly Detection**|Ashay Patel et.al.|[2304.07147v1](http://arxiv.org/abs/2304.07147v1)|
 |**2023-04-13**|**Brain Structure Ages -- A new biomarker for multi-disease classification**|Huy-Dung Nguyen et.al.|[2304.06591v1](http://arxiv.org/abs/2304.06591v1)|
 |**2023-04-12**|**Exploring Diffusion Models for Unsupervised Video Anomaly Detection**|Anil Osman Tur et.al.|[2304.05841v1](http://arxiv.org/abs/2304.05841v1)|
 |**2023-04-12**|**Rail Detection: An Efficient Row-based Network and A New Benchmark**|Xinpeng Li et.al.|[2304.05667v1](http://arxiv.org/abs/2304.05667v1)|
 |**2023-04-11**|**Decoupling anomaly discrimination and representation learning: self-supervised learning for anomaly detection on attributed graph**|YanMing Hu et.al.|[2304.05176v1](http://arxiv.org/abs/2304.05176v1)|
-|**2023-04-11**|**Video Event Restoration Based on Keyframes for Video Anomaly Detection**|Zhiwei Yang et.al.|[2304.05112v1](http://arxiv.org/abs/2304.05112v1)|
-|**2023-04-10**|**FINEX: A Fast Index for Exact & Flexible Density-Based Clustering (Extended Version with Proofs)***|Konstantin Emil Thiel et.al.|[2304.04817v1](http://arxiv.org/abs/2304.04817v1)|
-|**2023-04-09**|**AGAD: Adversarial Generative Anomaly Detection**|Jian Shi et.al.|[2304.04211v1](http://arxiv.org/abs/2304.04211v1)|
-|**2023-04-08**|**KeyDetect --Detection of anomalies and user based on Keystroke Dynamics**|Soumyatattwa Kar et.al.|[2304.03958v1](http://arxiv.org/abs/2304.03958v1)|
-|**2023-04-07**|**Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays**|Stephen Roche et.al.|[2304.03836v1](http://arxiv.org/abs/2304.03836v1)|
 
 ## change detection
 
