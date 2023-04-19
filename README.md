@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-04-18**|**Quantum Algorithm for Unsupervised Anomaly Detection**|MingChao Guo et.al.|[2304.08710v1](http://arxiv.org/abs/2304.08710v1)|
+|**2023-04-17**|**Exploring exotic configurations with anomalous features with deep learning: Application of classical and quantum-classical hybrid anomaly detection**|Kumar J. B. Ghosh et.al.|[2304.08616v1](http://arxiv.org/abs/2304.08616v1)|
 |**2023-04-17**|**One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities**|Nicolas Pinon et.al.|[2304.08058v1](http://arxiv.org/abs/2304.08058v1)|
 |**2023-04-16**|**Time-series Anomaly Detection via Contextual Discriminative Contrastive Learning**|Katrina Chen et.al.|[2304.07898v1](http://arxiv.org/abs/2304.07898v1)|
 |**2023-04-16**|**Regularized Complete Cycle Consistent GAN for Anomaly Detection**|Zahra Dehghanian et.al.|[2304.07769v1](http://arxiv.org/abs/2304.07769v1)|
@@ -57,13 +59,12 @@
 |**2023-04-14**|**Cross Attention Transformers for Multi-modal Unsupervised Whole-Body PET Anomaly Detection**|Ashay Patel et.al.|[2304.07147v1](http://arxiv.org/abs/2304.07147v1)|
 |**2023-04-13**|**Brain Structure Ages -- A new biomarker for multi-disease classification**|Huy-Dung Nguyen et.al.|[2304.06591v1](http://arxiv.org/abs/2304.06591v1)|
 |**2023-04-12**|**Exploring Diffusion Models for Unsupervised Video Anomaly Detection**|Anil Osman Tur et.al.|[2304.05841v1](http://arxiv.org/abs/2304.05841v1)|
-|**2023-04-12**|**Rail Detection: An Efficient Row-based Network and A New Benchmark**|Xinpeng Li et.al.|[2304.05667v1](http://arxiv.org/abs/2304.05667v1)|
-|**2023-04-11**|**Decoupling anomaly discrimination and representation learning: self-supervised learning for anomaly detection on attributed graph**|YanMing Hu et.al.|[2304.05176v1](http://arxiv.org/abs/2304.05176v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-04-18**|**GlobalMind: Global Multi-head Interactive Self-attention Network for Hyperspectral Change Detection**|Meiqi Hu et.al.|[2304.08687v1](http://arxiv.org/abs/2304.08687v1)|
 |**2023-04-14**|**BCE-Net: Reliable Building Footprints Change Extraction based on Historical Map and Up-to-Date Images using Contrastive Learning**|Cheng Liao et.al.|[2304.07076v1](http://arxiv.org/abs/2304.07076v1)|
 |**2023-04-13**|**Remote Sensing Change Detection With Transformers Trained from Scratch**|Mubashir Noman et.al.|[2304.06710v1](http://arxiv.org/abs/2304.06710v1)|
 |**2023-04-03**|**Dsfer-Net: A Deep Supervision and Feature Retrieval Network for Bitemporal Change Detection Using Modern Hopfield Networks**|Shizhen Chang et.al.|[2304.01101v1](http://arxiv.org/abs/2304.01101v1)|
@@ -73,5 +74,4 @@
 |**2023-03-30**|**NN-Copula-CD: A Copula-Guided Interpretable Neural Network for Change Detection in Heterogeneous Remote Sensing Images**|Weiming Li et.al.|[2303.17448v1](http://arxiv.org/abs/2303.17448v1)|
 |**2023-03-24**|**Symbolic Music Structure Analysis with Graph Representations and Changepoint Detection Methods**|Carlos Hernandez-Olivan et.al.|[2303.13881v1](http://arxiv.org/abs/2303.13881v1)|
 |**2023-03-24**|**Exactly Optimal Quickest Change Detection of Markov Chains**|Jason J. Ford et.al.|[2303.13778v1](http://arxiv.org/abs/2303.13778v1)|
-|**2023-03-24**|**EMS-Net: Efficient Multi-Temporal Self-Attention For Hyperspectral Change Detection**|Meiqi Hu et.al.|[2303.13753v1](http://arxiv.org/abs/2303.13753v1)|
 
