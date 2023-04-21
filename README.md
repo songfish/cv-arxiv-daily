@@ -1,4 +1,4 @@
-## Updated on 2023.04.20
+## Updated on 2023.04.21
 
 ## super-resolution
 
@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2023-04-19**|**Automatic Interaction and Activity Recognition from Videos of Human Manual Demonstrations with Application to Anomaly Detection**|Elena Merlo et.al.|[2304.09789v1](http://arxiv.org/abs/2304.09789v1)|
-|**2023-04-19**|**Graph Neural Network-Based Anomaly Detection for River Network Systems**|Katie Buchhorn et.al.|[2304.09367v1](http://arxiv.org/abs/2304.09367v1)|
+|**2023-04-19**|**Graph Neural Network-Based Anomaly Detection for River Network Systems**|Katie Buchhorn et.al.|[2304.09367v2](http://arxiv.org/abs/2304.09367v2)|
 |**2023-04-18**|**Quantum Algorithm for Unsupervised Anomaly Detection**|MingChao Guo et.al.|[2304.08710v1](http://arxiv.org/abs/2304.08710v1)|
 |**2023-04-17**|**Exploring exotic configurations with anomalous features with deep learning: Application of classical and quantum-classical hybrid anomaly detection**|Kumar J. B. Ghosh et.al.|[2304.08616v1](http://arxiv.org/abs/2304.08616v1)|
 |**2023-04-17**|**One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities**|Nicolas Pinon et.al.|[2304.08058v1](http://arxiv.org/abs/2304.08058v1)|
