@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-04-21**|**An Optimization Framework For Anomaly Detection Scores Refinement With Side Information**|Ali Maatouk et.al.|[2304.11039v1](http://arxiv.org/abs/2304.11039v1)|
+|**2023-04-21**|**Interactive System-wise Anomaly Detection**|Guanchu Wang et.al.|[2304.10704v1](http://arxiv.org/abs/2304.10704v1)|
+|**2023-04-20**|**An Attention Free Conditional Autoencoder For Anomaly Detection in Cryptocurrencies**|Hugo Inzirillo et.al.|[2304.10614v1](http://arxiv.org/abs/2304.10614v1)|
 |**2023-04-19**|**Weakly Supervised Detection of Baby Cry**|Weijun Tan et.al.|[2304.10001v1](http://arxiv.org/abs/2304.10001v1)|
 |**2023-04-19**|**Automatic Interaction and Activity Recognition from Videos of Human Manual Demonstrations with Application to Anomaly Detection**|Elena Merlo et.al.|[2304.09789v1](http://arxiv.org/abs/2304.09789v1)|
 |**2023-04-19**|**Graph Neural Network-Based Anomaly Detection for River Network Systems**|Katie Buchhorn et.al.|[2304.09367v2](http://arxiv.org/abs/2304.09367v2)|
@@ -56,9 +59,6 @@
 |**2023-04-17**|**Exploring exotic configurations with anomalous features with deep learning: Application of classical and quantum-classical hybrid anomaly detection**|Kumar J. B. Ghosh et.al.|[2304.08616v1](http://arxiv.org/abs/2304.08616v1)|
 |**2023-04-17**|**One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities**|Nicolas Pinon et.al.|[2304.08058v1](http://arxiv.org/abs/2304.08058v1)|
 |**2023-04-16**|**Time-series Anomaly Detection via Contextual Discriminative Contrastive Learning**|Katrina Chen et.al.|[2304.07898v1](http://arxiv.org/abs/2304.07898v1)|
-|**2023-04-16**|**Regularized Complete Cycle Consistent GAN for Anomaly Detection**|Zahra Dehghanian et.al.|[2304.07769v1](http://arxiv.org/abs/2304.07769v1)|
-|**2023-04-15**|**Few-shot Weakly-supervised Cybersecurity Anomaly Detection**|Rahul Kale et.al.|[2304.07470v1](http://arxiv.org/abs/2304.07470v1)|
-|**2023-04-15**|**Context-aware Domain Adaptation for Time Series Anomaly Detection**|Kwei-Herng Lai et.al.|[2304.07453v1](http://arxiv.org/abs/2304.07453v1)|
 
 ## change detection
 
