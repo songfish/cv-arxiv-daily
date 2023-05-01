@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-04-27**|**Quantum Generative Adversarial Networks For Anomaly Detection In High Energy Physics**|Elie Bermot et.al.|[2304.14439v1](http://arxiv.org/abs/2304.14439v1)|
 |**2023-04-27**|**Detecting inner-LAN anomalies using hierarchical forecasting**|Sevvandi Kandanaarachchi et.al.|[2304.13941v1](http://arxiv.org/abs/2304.13941v1)|
 |**2023-04-26**|**Synthetic Aperture Anomaly Imaging**|Rakesh John Amala Arokia Nathan et.al.|[2304.13590v1](http://arxiv.org/abs/2304.13590v1)|
 |**2023-04-25**|**Blockchain Large Language Models**|Yu Gai et.al.|[2304.12749v1](http://arxiv.org/abs/2304.12749v1)|
@@ -58,7 +59,6 @@
 |**2023-04-22**|**Constructing a meta-learner for unsupervised anomaly detection**|Małgorzata Gutowska et.al.|[2304.11438v1](http://arxiv.org/abs/2304.11438v1)|
 |**2023-04-21**|**An Optimization Framework For Anomaly Detection Scores Refinement With Side Information**|Ali Maatouk et.al.|[2304.11039v1](http://arxiv.org/abs/2304.11039v1)|
 |**2023-04-21**|**Interactive System-wise Anomaly Detection**|Guanchu Wang et.al.|[2304.10704v1](http://arxiv.org/abs/2304.10704v1)|
-|**2023-04-20**|**An Attention Free Conditional Autoencoder For Anomaly Detection in Cryptocurrencies**|Hugo Inzirillo et.al.|[2304.10614v1](http://arxiv.org/abs/2304.10614v1)|
 
 ## change detection
 
