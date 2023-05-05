@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-04**|**In-situ Anomaly Detection in Additive Manufacturing with Graph Neural Networks**|Sebastian Larsen et.al.|[2305.02695v1](http://arxiv.org/abs/2305.02695v1)|
+|**2023-05-04**|**Revisiting Graph Contrastive Learning for Anomaly Detection**|Zhiyuan Liu et.al.|[2305.02496v1](http://arxiv.org/abs/2305.02496v1)|
+|**2023-05-01**|**Correlation-Driven Multi-Level Multimodal Learning for Anomaly Detection on Multiple Energy Sources**|Taehee Kim et.al.|[2305.02323v1](http://arxiv.org/abs/2305.02323v1)|
 |**2023-04-30**|**Detecting Novelties with Empty Classes**|Svenja Uhlemeyer et.al.|[2305.00983v1](http://arxiv.org/abs/2305.00983v1)|
 |**2023-04-30**|**Two-phase Dual COPOD Method for Anomaly Detection in Industrial Control System**|Emmanuel Aboah Boateng et.al.|[2305.00982v1](http://arxiv.org/abs/2305.00982v1)|
 |**2023-05-01**|**MLAnalysis: An open-source program for high energy physics analyses**|Yu-Chen Guo et.al.|[2305.00964v1](http://arxiv.org/abs/2305.00964v1)|
@@ -56,9 +59,6 @@
 |**2023-04-30**|**Impact of Deep Learning Libraries on Online Adaptive Lightweight Time Series Anomaly Detection**|Ming-Chang Lee et.al.|[2305.00595v1](http://arxiv.org/abs/2305.00595v1)|
 |**2023-04-30**|**SLSG: Industrial Image Anomaly Detection by Learning Better Feature Embeddings and One-Class Classification**|Minghui Yang et.al.|[2305.00398v1](http://arxiv.org/abs/2305.00398v1)|
 |**2023-04-29**|**Model-Based Monitoring and State Estimation for Digital Twins: The Kalman Filter**|Hao Feng et.al.|[2305.00252v1](http://arxiv.org/abs/2305.00252v1)|
-|**2023-04-27**|**Quantum Generative Adversarial Networks For Anomaly Detection In High Energy Physics**|Elie Bermot et.al.|[2304.14439v1](http://arxiv.org/abs/2304.14439v1)|
-|**2023-04-27**|**Detecting inner-LAN anomalies using hierarchical forecasting**|Sevvandi Kandanaarachchi et.al.|[2304.13941v1](http://arxiv.org/abs/2304.13941v1)|
-|**2023-04-26**|**Synthetic Aperture Anomaly Imaging**|Rakesh John Amala Arokia Nathan et.al.|[2304.13590v1](http://arxiv.org/abs/2304.13590v1)|
 
 ## change detection
 
