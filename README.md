@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-08**|**Compressed Video Quality Assessment for Super-Resolution: a Benchmark and a Quality Metric**|Evgeney Bogatyrev et.al.|[2305.04844v1](http://arxiv.org/abs/2305.04844v1)|
 |**2023-04-20**|**NTIRE 2023 Challenge on Light Field Image Super-Resolution: Dataset, Methods and Results**|Yingqian Wang et.al.|[2304.10415v1](http://arxiv.org/abs/2304.10415v1)|
 |**2023-04-09**|**Towards Arbitrary-scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework based on Implicit Self-texture Enhancement**|Linhao Qu et.al.|[2304.04238v1](http://arxiv.org/abs/2304.04238v1)|
 |**2023-03-09**|**LMR: A Large-Scale Multi-Reference Dataset for Reference-based Super-Resolution**|Lin Zhang et.al.|[2303.04970v1](http://arxiv.org/abs/2303.04970v1)|
@@ -13,7 +14,6 @@
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|
 |**2022-09-27**|**Hitchhiker's Guide to Super-Resolution: Introduction and Recent Advances**|Brian Moser et.al.|[2209.13131v2](http://arxiv.org/abs/2209.13131v2)|
 |**2022-07-15**|**Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity**|Wei Zhou et.al.|[2207.08689v1](http://arxiv.org/abs/2207.08689v1)|
-|**2022-05-11**|**NTIRE 2022 Challenge on Efficient Super-Resolution: Methods and Results**|Yawei Li et.al.|[2205.05675v1](http://arxiv.org/abs/2205.05675v1)|
 
 ## cloud detection
 
@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-08**|**Is AUC the best measure for practical comparison of anomaly detectors?**|Vít Škvára et.al.|[2305.04754v1](http://arxiv.org/abs/2305.04754v1)|
+|**2023-05-08**|**CURTAINs Flows For Flows: Constructing Unobserved Regions with Maximum Likelihood Estimation**|Debajyoti Sengupta et.al.|[2305.04646v1](http://arxiv.org/abs/2305.04646v1)|
+|**2023-05-08**|**AnomalyBERT: Self-Supervised Transformer for Time Series Anomaly Detection using Data Degradation Scheme**|Yungi Jeong et.al.|[2305.04468v1](http://arxiv.org/abs/2305.04468v1)|
+|**2023-05-05**|**Weakly-Supervised Anomaly Detection in the Milky Way**|Mariel Pettee et.al.|[2305.03761v1](http://arxiv.org/abs/2305.03761v1)|
 |**2023-05-05**|**Advances on the classification of radio image cubes**|Steven Ndung'u et.al.|[2305.03435v1](http://arxiv.org/abs/2305.03435v1)|
 |**2023-05-04**|**NEUROPULS: NEUROmorphic energy-efficient secure accelerators based on Phase change materials aUgmented siLicon photonicS**|Fabio Pavanello et.al.|[2305.03139v1](http://arxiv.org/abs/2305.03139v1)|
 |**2023-05-04**|**Unsupervised anomaly localization in high-resolution breast scans using deep pluralistic image completion**|Nicholas Konz et.al.|[2305.03098v1](http://arxiv.org/abs/2305.03098v1)|
 |**2023-05-04**|**In-situ Anomaly Detection in Additive Manufacturing with Graph Neural Networks**|Sebastian Larsen et.al.|[2305.02695v1](http://arxiv.org/abs/2305.02695v1)|
 |**2023-05-04**|**Revisiting Graph Contrastive Learning for Anomaly Detection**|Zhiyuan Liu et.al.|[2305.02496v1](http://arxiv.org/abs/2305.02496v1)|
-|**2023-05-01**|**Correlation-Driven Multi-Level Multimodal Learning for Anomaly Detection on Multiple Energy Sources**|Taehee Kim et.al.|[2305.02323v1](http://arxiv.org/abs/2305.02323v1)|
-|**2023-04-30**|**Detecting Novelties with Empty Classes**|Svenja Uhlemeyer et.al.|[2305.00983v1](http://arxiv.org/abs/2305.00983v1)|
 |**2023-05-01**|**MLAnalysis: An open-source program for high energy physics analyses**|Yu-Chen Guo et.al.|[2305.00964v1](http://arxiv.org/abs/2305.00964v1)|
-|**2023-05-01**|**Unsupervised anomaly detection algorithms on real-world data: how many do we need?**|Roel Bouman et.al.|[2305.00735v1](http://arxiv.org/abs/2305.00735v1)|
-|**2023-04-30**|**Impact of Deep Learning Libraries on Online Adaptive Lightweight Time Series Anomaly Detection**|Ming-Chang Lee et.al.|[2305.00595v1](http://arxiv.org/abs/2305.00595v1)|
 
 ## change detection
 
