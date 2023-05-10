@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-07**|**Efficient pattern-based anomaly detection in a network of multivariate devices**|Len Feremans et.al.|[2305.05538v1](http://arxiv.org/abs/2305.05538v1)|
+|**2023-05-09**|**Self-Supervised Anomaly Detection of Rogue Soil Moisture Sensors**|Boje Deforce et.al.|[2305.05495v1](http://arxiv.org/abs/2305.05495v1)|
 |**2023-05-08**|**Is AUC the best measure for practical comparison of anomaly detectors?**|Vít Škvára et.al.|[2305.04754v1](http://arxiv.org/abs/2305.04754v1)|
 |**2023-05-08**|**CURTAINs Flows For Flows: Constructing Unobserved Regions with Maximum Likelihood Estimation**|Debajyoti Sengupta et.al.|[2305.04646v1](http://arxiv.org/abs/2305.04646v1)|
 |**2023-05-08**|**AnomalyBERT: Self-Supervised Transformer for Time Series Anomaly Detection using Data Degradation Scheme**|Yungi Jeong et.al.|[2305.04468v1](http://arxiv.org/abs/2305.04468v1)|
@@ -57,13 +59,12 @@
 |**2023-05-04**|**NEUROPULS: NEUROmorphic energy-efficient secure accelerators based on Phase change materials aUgmented siLicon photonicS**|Fabio Pavanello et.al.|[2305.03139v1](http://arxiv.org/abs/2305.03139v1)|
 |**2023-05-04**|**Unsupervised anomaly localization in high-resolution breast scans using deep pluralistic image completion**|Nicholas Konz et.al.|[2305.03098v1](http://arxiv.org/abs/2305.03098v1)|
 |**2023-05-04**|**In-situ Anomaly Detection in Additive Manufacturing with Graph Neural Networks**|Sebastian Larsen et.al.|[2305.02695v1](http://arxiv.org/abs/2305.02695v1)|
-|**2023-05-04**|**Revisiting Graph Contrastive Learning for Anomaly Detection**|Zhiyuan Liu et.al.|[2305.02496v1](http://arxiv.org/abs/2305.02496v1)|
-|**2023-05-01**|**MLAnalysis: An open-source program for high energy physics analyses**|Yu-Chen Guo et.al.|[2305.00964v1](http://arxiv.org/abs/2305.00964v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-09**|**DC3DCD: unsupervised learning for multiclass 3D point cloud change detection**|Iris de Gélis et.al.|[2305.05421v1](http://arxiv.org/abs/2305.05421v1)|
 |**2023-05-05**|**Deep Unsupervised Learning for 3D ALS Point Clouds Change Detection**|Iris de Gélis et.al.|[2305.03529v1](http://arxiv.org/abs/2305.03529v1)|
 |**2023-04-25**|**Change detection needs change information: improving deep 3D point cloud change detection**|Iris de Gélis et.al.|[2304.12639v1](http://arxiv.org/abs/2304.12639v1)|
 |**2023-04-22**|**Reinforcement Learning with an Abrupt Model Change**|Wuxia Chen et.al.|[2304.11460v1](http://arxiv.org/abs/2304.11460v1)|
@@ -73,5 +74,4 @@
 |**2023-04-19**|**CMID: A Unified Self-Supervised Learning Framework for Remote Sensing Image Understanding**|Dilxat Muhtar et.al.|[2304.09670v1](http://arxiv.org/abs/2304.09670v1)|
 |**2023-04-18**|**GlobalMind: Global Multi-head Interactive Self-attention Network for Hyperspectral Change Detection**|Meiqi Hu et.al.|[2304.08687v1](http://arxiv.org/abs/2304.08687v1)|
 |**2023-04-14**|**BCE-Net: Reliable Building Footprints Change Extraction based on Historical Map and Up-to-Date Images using Contrastive Learning**|Cheng Liao et.al.|[2304.07076v1](http://arxiv.org/abs/2304.07076v1)|
-|**2023-04-13**|**Remote Sensing Change Detection With Transformers Trained from Scratch**|Mubashir Noman et.al.|[2304.06710v1](http://arxiv.org/abs/2304.06710v1)|
 
