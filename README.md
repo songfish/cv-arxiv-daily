@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-12**|**Configurable Spatial-Temporal Hierarchical Analysis for Flexible Video Anomaly Detection**|Kai Cheng et.al.|[2305.07328v1](http://arxiv.org/abs/2305.07328v1)|
 |**2023-05-11**|**Dendritic Computation through Exploiting Resistive Memory as both Delays and Weights**|Melika Payvand et.al.|[2305.06941v1](http://arxiv.org/abs/2305.06941v1)|
 |**2023-05-11**|**ns-O-RAN: Simulating O-RAN 5G Systems in ns-3**|Andrea Lacava et.al.|[2305.06906v1](http://arxiv.org/abs/2305.06906v1)|
 |**2023-05-07**|**Efficient pattern-based anomaly detection in a network of multivariate devices**|Len Feremans et.al.|[2305.05538v1](http://arxiv.org/abs/2305.05538v1)|
@@ -58,7 +59,6 @@
 |**2023-05-08**|**AnomalyBERT: Self-Supervised Transformer for Time Series Anomaly Detection using Data Degradation Scheme**|Yungi Jeong et.al.|[2305.04468v1](http://arxiv.org/abs/2305.04468v1)|
 |**2023-05-05**|**Weakly-Supervised Anomaly Detection in the Milky Way**|Mariel Pettee et.al.|[2305.03761v1](http://arxiv.org/abs/2305.03761v1)|
 |**2023-05-05**|**Advances on the classification of radio image cubes**|Steven Ndung'u et.al.|[2305.03435v1](http://arxiv.org/abs/2305.03435v1)|
-|**2023-05-04**|**NEUROPULS: NEUROmorphic energy-efficient secure accelerators based on Phase change materials aUgmented siLicon photonicS**|Fabio Pavanello et.al.|[2305.03139v1](http://arxiv.org/abs/2305.03139v1)|
 
 ## change detection
 
