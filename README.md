@@ -49,21 +49,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-15**|**Component-aware anomaly detection framework for adjustable and logical industrial visual inspection**|Tongkun Liu et.al.|[2305.08509v1](http://arxiv.org/abs/2305.08509v1)|
+|**2023-05-14**|**A Dataset Fusion Algorithm for Generalised Anomaly Detection in Homogeneous Periodic Time Series Datasets**|Ayman Elhalwagy et.al.|[2305.08197v1](http://arxiv.org/abs/2305.08197v1)|
+|**2023-05-13**|**Voxel-wise classification for porosity investigation of additive manufactured parts with 3D unsupervised and (deeply) supervised neural networks**|Domenico Iuso et.al.|[2305.07894v1](http://arxiv.org/abs/2305.07894v1)|
+|**2023-05-13**|**Description and Discussion on DCASE 2023 Challenge Task 2: First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring**|Kota Dohi et.al.|[2305.07828v1](http://arxiv.org/abs/2305.07828v1)|
 |**2023-05-12**|**Configurable Spatial-Temporal Hierarchical Analysis for Flexible Video Anomaly Detection**|Kai Cheng et.al.|[2305.07328v1](http://arxiv.org/abs/2305.07328v1)|
 |**2023-05-11**|**Dendritic Computation through Exploiting Resistive Memory as both Delays and Weights**|Melika Payvand et.al.|[2305.06941v1](http://arxiv.org/abs/2305.06941v1)|
 |**2023-05-11**|**ns-O-RAN: Simulating O-RAN 5G Systems in ns-3**|Andrea Lacava et.al.|[2305.06906v1](http://arxiv.org/abs/2305.06906v1)|
-|**2023-05-07**|**Efficient pattern-based anomaly detection in a network of multivariate devices**|Len Feremans et.al.|[2305.05538v1](http://arxiv.org/abs/2305.05538v1)|
 |**2023-05-09**|**Self-Supervised Anomaly Detection of Rogue Soil Moisture Sensors**|Boje Deforce et.al.|[2305.05495v1](http://arxiv.org/abs/2305.05495v1)|
 |**2023-05-08**|**Is AUC the best measure for practical comparison of anomaly detectors?**|Vít Škvára et.al.|[2305.04754v1](http://arxiv.org/abs/2305.04754v1)|
 |**2023-05-08**|**CURTAINs Flows For Flows: Constructing Unobserved Regions with Maximum Likelihood Estimation**|Debajyoti Sengupta et.al.|[2305.04646v1](http://arxiv.org/abs/2305.04646v1)|
-|**2023-05-08**|**AnomalyBERT: Self-Supervised Transformer for Time Series Anomaly Detection using Data Degradation Scheme**|Yungi Jeong et.al.|[2305.04468v1](http://arxiv.org/abs/2305.04468v1)|
-|**2023-05-05**|**Weakly-Supervised Anomaly Detection in the Milky Way**|Mariel Pettee et.al.|[2305.03761v1](http://arxiv.org/abs/2305.03761v1)|
-|**2023-05-05**|**Advances on the classification of radio image cubes**|Steven Ndung'u et.al.|[2305.03435v1](http://arxiv.org/abs/2305.03435v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-15**|**DA-LSTM: A Dynamic Drift-Adaptive Learning Framework for Interval Load Forecasting with LSTM Networks**|Firas Bayram et.al.|[2305.08767v1](http://arxiv.org/abs/2305.08767v1)|
+|**2023-05-15**|**Fast and Attributed Change Detection on Dynamic Graphs with Density of States**|Shenyang Huang et.al.|[2305.08750v1](http://arxiv.org/abs/2305.08750v1)|
 |**2023-05-09**|**Change Detection Methods for Remote Sensing in the Last Decade: A Comprehensive Review**|Guangliang Cheng et.al.|[2305.05813v1](http://arxiv.org/abs/2305.05813v1)|
 |**2023-05-09**|**DC3DCD: unsupervised learning for multiclass 3D point cloud change detection**|Iris de Gélis et.al.|[2305.05421v1](http://arxiv.org/abs/2305.05421v1)|
 |**2023-05-05**|**Deep Unsupervised Learning for 3D ALS Point Clouds Change Detection**|Iris de Gélis et.al.|[2305.03529v1](http://arxiv.org/abs/2305.03529v1)|
@@ -72,6 +74,4 @@
 |**2023-04-22**|**STNet: Spatial and Temporal feature fusion network for change detection in remote sensing images**|Xiaowen Ma et.al.|[2304.11422v1](http://arxiv.org/abs/2304.11422v1)|
 |**2023-04-22**|**SSN: Stockwell Scattering Network for SAR Image Change Detection**|Gong Chen et.al.|[2304.11404v1](http://arxiv.org/abs/2304.11404v1)|
 |**2023-04-22**|**Unsupervised CD in satellite image time series by contrastive learning and feature tracking**|Yuxing Chen et.al.|[2304.11375v1](http://arxiv.org/abs/2304.11375v1)|
-|**2023-04-19**|**CMID: A Unified Self-Supervised Learning Framework for Remote Sensing Image Understanding**|Dilxat Muhtar et.al.|[2304.09670v1](http://arxiv.org/abs/2304.09670v1)|
-|**2023-04-18**|**GlobalMind: Global Multi-head Interactive Self-attention Network for Hyperspectral Change Detection**|Meiqi Hu et.al.|[2304.08687v1](http://arxiv.org/abs/2304.08687v1)|
 
