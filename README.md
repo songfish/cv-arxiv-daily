@@ -1,4 +1,4 @@
-## Updated on 2023.05.17
+## Updated on 2023.05.18
 
 ## super-resolution
 
@@ -20,7 +20,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2023-04-13**|**Direct observations of the atomic-molecular phase transition in the Milky Way's nuclear wind**|Karlie A. Noon et.al.|[2304.06356v1](http://arxiv.org/abs/2304.06356v1)|
-|**2023-04-03**|**Open-Vocabulary Point-Cloud Object Detection without 3D Annotation**|Yuheng Lu et.al.|[2304.00788v1](http://arxiv.org/abs/2304.00788v1)|
+|**2023-04-03**|**Open-Vocabulary Point-Cloud Object Detection without 3D Annotation**|Yuheng Lu et.al.|[2304.00788v2](http://arxiv.org/abs/2304.00788v2)|
 |**2023-03-29**|**PMAA: A Progressive Multi-scale Attention Autoencoder Model for High-Performance Cloud Removal from Multi-temporal Satellite Imagery**|Xuechao Zou et.al.|[2303.16565v1](http://arxiv.org/abs/2303.16565v1)|
 |**2023-02-16**|**Detecting Clouds in Multispectral Satellite Images Using Quantum-Kernel Support Vector Machines**|Artur Miroszewski et.al.|[2302.08270v1](http://arxiv.org/abs/2302.08270v1)|
 |**2022-12-21**|**MM811 Project Report: Cloud Detection and Removal in Satellite Images**|Dale Chen-Song et.al.|[2212.11369v1](http://arxiv.org/abs/2212.11369v1)|
