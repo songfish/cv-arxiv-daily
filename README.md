@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-17**|**Imbalanced Aircraft Data Anomaly Detection**|Hao Yang et.al.|[2305.10082v1](http://arxiv.org/abs/2305.10082v1)|
+|**2023-05-15**|**Evaluation Strategy of Time-series Anomaly Detection with Decay Function**|Yongwan Gim et.al.|[2305.09691v1](http://arxiv.org/abs/2305.09691v1)|
 |**2023-05-15**|**Autoencoder-based Anomaly Detection in Streaming Data with Incremental Learning and Concept Drift Adaptation**|Jin Li et.al.|[2305.08977v1](http://arxiv.org/abs/2305.08977v1)|
 |**2023-05-15**|**Component-aware anomaly detection framework for adjustable and logical industrial visual inspection**|Tongkun Liu et.al.|[2305.08509v1](http://arxiv.org/abs/2305.08509v1)|
 |**2023-05-14**|**A Dataset Fusion Algorithm for Generalised Anomaly Detection in Homogeneous Periodic Time Series Datasets**|Ayman Elhalwagy et.al.|[2305.08197v1](http://arxiv.org/abs/2305.08197v1)|
@@ -57,13 +59,12 @@
 |**2023-05-12**|**Configurable Spatial-Temporal Hierarchical Analysis for Flexible Video Anomaly Detection**|Kai Cheng et.al.|[2305.07328v1](http://arxiv.org/abs/2305.07328v1)|
 |**2023-05-11**|**Dendritic Computation through Exploiting Resistive Memory as both Delays and Weights**|Melika Payvand et.al.|[2305.06941v1](http://arxiv.org/abs/2305.06941v1)|
 |**2023-05-11**|**ns-O-RAN: Simulating O-RAN 5G Systems in ns-3**|Andrea Lacava et.al.|[2305.06906v1](http://arxiv.org/abs/2305.06906v1)|
-|**2023-05-09**|**Self-Supervised Anomaly Detection of Rogue Soil Moisture Sensors**|Boje Deforce et.al.|[2305.05495v1](http://arxiv.org/abs/2305.05495v1)|
-|**2023-05-08**|**Is AUC the best measure for practical comparison of anomaly detectors?**|Vít Škvára et.al.|[2305.04754v1](http://arxiv.org/abs/2305.04754v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-17**|**On-board Change Detection for Resource-efficient Earth Observation with LEO Satellites**|Van-Phuc Bui et.al.|[2305.10119v1](http://arxiv.org/abs/2305.10119v1)|
 |**2023-05-15**|**DA-LSTM: A Dynamic Drift-Adaptive Learning Framework for Interval Load Forecasting with LSTM Networks**|Firas Bayram et.al.|[2305.08767v1](http://arxiv.org/abs/2305.08767v1)|
 |**2023-05-15**|**Fast and Attributed Change Detection on Dynamic Graphs with Density of States**|Shenyang Huang et.al.|[2305.08750v1](http://arxiv.org/abs/2305.08750v1)|
 |**2023-05-09**|**Change Detection Methods for Remote Sensing in the Last Decade: A Comprehensive Review**|Guangliang Cheng et.al.|[2305.05813v1](http://arxiv.org/abs/2305.05813v1)|
@@ -73,5 +74,4 @@
 |**2023-04-22**|**Reinforcement Learning with an Abrupt Model Change**|Wuxia Chen et.al.|[2304.11460v1](http://arxiv.org/abs/2304.11460v1)|
 |**2023-04-22**|**STNet: Spatial and Temporal feature fusion network for change detection in remote sensing images**|Xiaowen Ma et.al.|[2304.11422v1](http://arxiv.org/abs/2304.11422v1)|
 |**2023-04-22**|**SSN: Stockwell Scattering Network for SAR Image Change Detection**|Gong Chen et.al.|[2304.11404v1](http://arxiv.org/abs/2304.11404v1)|
-|**2023-04-22**|**Unsupervised CD in satellite image time series by contrastive learning and feature tracking**|Yuxing Chen et.al.|[2304.11375v1](http://arxiv.org/abs/2304.11375v1)|
 
