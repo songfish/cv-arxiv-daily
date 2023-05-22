@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-18**|**Semantic Anomaly Detection with Large Language Models**|Amine Elhafsi et.al.|[2305.11307v1](http://arxiv.org/abs/2305.11307v1)|
 |**2023-05-18**|**MetaGAD: Learning to Meta Transfer for Few-shot Graph Anomaly Detection**|Xiongxiao Xu et.al.|[2305.10668v1](http://arxiv.org/abs/2305.10668v1)|
 |**2023-05-17**|**Reconstruction Error-based Anomaly Detection with Few Outlying Examples**|Fabrizio Angiulli et.al.|[2305.10464v1](http://arxiv.org/abs/2305.10464v1)|
 |**2023-05-17**|**Imbalanced Aircraft Data Anomaly Detection**|Hao Yang et.al.|[2305.10082v1](http://arxiv.org/abs/2305.10082v1)|
@@ -58,7 +59,6 @@
 |**2023-05-14**|**A Dataset Fusion Algorithm for Generalised Anomaly Detection in Homogeneous Periodic Time Series Datasets**|Ayman Elhalwagy et.al.|[2305.08197v1](http://arxiv.org/abs/2305.08197v1)|
 |**2023-05-13**|**Voxel-wise classification for porosity investigation of additive manufactured parts with 3D unsupervised and (deeply) supervised neural networks**|Domenico Iuso et.al.|[2305.07894v1](http://arxiv.org/abs/2305.07894v1)|
 |**2023-05-13**|**Description and Discussion on DCASE 2023 Challenge Task 2: First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring**|Kota Dohi et.al.|[2305.07828v1](http://arxiv.org/abs/2305.07828v1)|
-|**2023-05-12**|**Configurable Spatial-Temporal Hierarchical Analysis for Flexible Video Anomaly Detection**|Kai Cheng et.al.|[2305.07328v1](http://arxiv.org/abs/2305.07328v1)|
 
 ## change detection
 
