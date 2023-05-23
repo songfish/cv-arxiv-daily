@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-22**|**Unsupervised Anomaly Detection with Rejection**|Lorenzo Perini et.al.|[2305.13189v1](http://arxiv.org/abs/2305.13189v1)|
+|**2023-05-22**|**AD-MERCS: Modeling Normality and Abnormality in Unsupervised Anomaly Detection**|Jonas Soenen et.al.|[2305.12958v1](http://arxiv.org/abs/2305.12958v1)|
+|**2023-05-21**|**AutoPaint: A Self-Inpainting Method for Unsupervised Anomaly Detection**|Mehdi Astaraki et.al.|[2305.12358v1](http://arxiv.org/abs/2305.12358v1)|
+|**2023-05-21**|**Anomaly Detection Using One-Class SVM for Logs of Juniper Router Devices**|Tat-Bao-Thien Nguyen et.al.|[2305.12329v1](http://arxiv.org/abs/2305.12329v1)|
+|**2023-05-20**|**LightESD: Fully-Automated and Lightweight Anomaly Detection Framework for Edge Computing**|Ronit Das et.al.|[2305.12266v1](http://arxiv.org/abs/2305.12266v1)|
 |**2023-05-18**|**Semantic Anomaly Detection with Large Language Models**|Amine Elhafsi et.al.|[2305.11307v1](http://arxiv.org/abs/2305.11307v1)|
 |**2023-05-18**|**MetaGAD: Learning to Meta Transfer for Few-shot Graph Anomaly Detection**|Xiongxiao Xu et.al.|[2305.10668v1](http://arxiv.org/abs/2305.10668v1)|
 |**2023-05-17**|**Reconstruction Error-based Anomaly Detection with Few Outlying Examples**|Fabrizio Angiulli et.al.|[2305.10464v1](http://arxiv.org/abs/2305.10464v1)|
 |**2023-05-17**|**Imbalanced Aircraft Data Anomaly Detection**|Hao Yang et.al.|[2305.10082v1](http://arxiv.org/abs/2305.10082v1)|
 |**2023-05-15**|**Evaluation Strategy of Time-series Anomaly Detection with Decay Function**|Yongwan Gim et.al.|[2305.09691v1](http://arxiv.org/abs/2305.09691v1)|
-|**2023-05-15**|**Autoencoder-based Anomaly Detection in Streaming Data with Incremental Learning and Concept Drift Adaptation**|Jin Li et.al.|[2305.08977v1](http://arxiv.org/abs/2305.08977v1)|
-|**2023-05-15**|**Component-aware anomaly detection framework for adjustable and logical industrial visual inspection**|Tongkun Liu et.al.|[2305.08509v1](http://arxiv.org/abs/2305.08509v1)|
-|**2023-05-14**|**A Dataset Fusion Algorithm for Generalised Anomaly Detection in Homogeneous Periodic Time Series Datasets**|Ayman Elhalwagy et.al.|[2305.08197v1](http://arxiv.org/abs/2305.08197v1)|
-|**2023-05-13**|**Voxel-wise classification for porosity investigation of additive manufactured parts with 3D unsupervised and (deeply) supervised neural networks**|Domenico Iuso et.al.|[2305.07894v1](http://arxiv.org/abs/2305.07894v1)|
-|**2023-05-13**|**Description and Discussion on DCASE 2023 Challenge Task 2: First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring**|Kota Dohi et.al.|[2305.07828v1](http://arxiv.org/abs/2305.07828v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-21**|**DiffUCD:Unsupervised Hyperspectral Image Change Detection with Semantic Correlation Diffusion Model**|Xiangrong Zhang et.al.|[2305.12410v1](http://arxiv.org/abs/2305.12410v1)|
 |**2023-05-17**|**On-board Change Detection for Resource-efficient Earth Observation with LEO Satellites**|Van-Phuc Bui et.al.|[2305.10119v1](http://arxiv.org/abs/2305.10119v1)|
 |**2023-05-15**|**DA-LSTM: A Dynamic Drift-Adaptive Learning Framework for Interval Load Forecasting with LSTM Networks**|Firas Bayram et.al.|[2305.08767v1](http://arxiv.org/abs/2305.08767v1)|
 |**2023-05-15**|**Fast and Attributed Change Detection on Dynamic Graphs with Density of States**|Shenyang Huang et.al.|[2305.08750v1](http://arxiv.org/abs/2305.08750v1)|
@@ -73,5 +74,4 @@
 |**2023-04-25**|**Change detection needs change information: improving deep 3D point cloud change detection**|Iris de Gélis et.al.|[2304.12639v1](http://arxiv.org/abs/2304.12639v1)|
 |**2023-04-22**|**Reinforcement Learning with an Abrupt Model Change**|Wuxia Chen et.al.|[2304.11460v1](http://arxiv.org/abs/2304.11460v1)|
 |**2023-04-22**|**STNet: Spatial and Temporal feature fusion network for change detection in remote sensing images**|Xiaowen Ma et.al.|[2304.11422v1](http://arxiv.org/abs/2304.11422v1)|
-|**2023-04-22**|**SSN: Stockwell Scattering Network for SAR Image Change Detection**|Gong Chen et.al.|[2304.11404v1](http://arxiv.org/abs/2304.11404v1)|
 
