@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-24**|**Real time dense anomaly detection by learning on synthetic negative data**|Anja Delić et.al.|[2305.15227v1](http://arxiv.org/abs/2305.15227v1)|
+|**2023-05-24**|**GAN-AE : An anomaly detection algorithm for New Physics search in LHC data**|Louis Vaslin et.al.|[2305.15179v1](http://arxiv.org/abs/2305.15179v1)|
+|**2023-05-24**|**Beyond Individual Input for Deep Anomaly Detection on Tabular Data**|Hugo Thimonier et.al.|[2305.15121v1](http://arxiv.org/abs/2305.15121v1)|
+|**2023-05-24**|**Audio-Visual Dataset and Method for Anomaly Detection in Traffic Videos**|Błażej Leporowski et.al.|[2305.15084v1](http://arxiv.org/abs/2305.15084v1)|
+|**2023-05-24**|**Multiresolution Feature Guidance Based Transformer for Anomaly Detection**|Shuting Yan et.al.|[2305.14880v1](http://arxiv.org/abs/2305.14880v1)|
+|**2023-05-23**|**AutoSourceID-FeatureExtractor. Optical images analysis using a Two-Step MVE Network for feature estimation and uncertainty characterization**|F. Stoppa et.al.|[2305.14495v1](http://arxiv.org/abs/2305.14495v1)|
 |**2023-05-23**|**A New Comprehensive Benchmark for Semi-supervised Video Anomaly Detection and Anticipation**|Congqi Cao et.al.|[2305.13611v1](http://arxiv.org/abs/2305.13611v1)|
 |**2023-05-23**|**SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs**|Sheng Tian et.al.|[2305.13573v1](http://arxiv.org/abs/2305.13573v1)|
 |**2023-05-22**|**Unsupervised Anomaly Detection with Rejection**|Lorenzo Perini et.al.|[2305.13189v1](http://arxiv.org/abs/2305.13189v1)|
 |**2023-05-22**|**AD-MERCS: Modeling Normality and Abnormality in Unsupervised Anomaly Detection**|Jonas Soenen et.al.|[2305.12958v1](http://arxiv.org/abs/2305.12958v1)|
-|**2023-05-21**|**AutoPaint: A Self-Inpainting Method for Unsupervised Anomaly Detection**|Mehdi Astaraki et.al.|[2305.12358v1](http://arxiv.org/abs/2305.12358v1)|
-|**2023-05-21**|**Anomaly Detection Using One-Class SVM for Logs of Juniper Router Devices**|Tat-Bao-Thien Nguyen et.al.|[2305.12329v1](http://arxiv.org/abs/2305.12329v1)|
-|**2023-05-20**|**LightESD: Fully-Automated and Lightweight Anomaly Detection Framework for Edge Computing**|Ronit Das et.al.|[2305.12266v1](http://arxiv.org/abs/2305.12266v1)|
-|**2023-05-18**|**Semantic Anomaly Detection with Large Language Models**|Amine Elhafsi et.al.|[2305.11307v1](http://arxiv.org/abs/2305.11307v1)|
-|**2023-05-18**|**MetaGAD: Learning to Meta Transfer for Few-shot Graph Anomaly Detection**|Xiongxiao Xu et.al.|[2305.10668v1](http://arxiv.org/abs/2305.10668v1)|
-|**2023-05-17**|**Imbalanced Aircraft Data Anomaly Detection**|Hao Yang et.al.|[2305.10082v1](http://arxiv.org/abs/2305.10082v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-24**|**Remote Sensing Image Change Detection Towards Continuous Bitemporal Resolution Differences**|Hao Chen et.al.|[2305.14722v1](http://arxiv.org/abs/2305.14722v1)|
 |**2023-05-23**|**BA-SOT: Boundary-Aware Serialized Output Training for Multi-Talker ASR**|Yuhao Liang et.al.|[2305.13716v1](http://arxiv.org/abs/2305.13716v1)|
 |**2023-05-21**|**DiffUCD:Unsupervised Hyperspectral Image Change Detection with Semantic Correlation Diffusion Model**|Xiangrong Zhang et.al.|[2305.12410v1](http://arxiv.org/abs/2305.12410v1)|
 |**2023-05-17**|**On-board Change Detection for Resource-efficient Earth Observation with LEO Satellites**|Van-Phuc Bui et.al.|[2305.10119v1](http://arxiv.org/abs/2305.10119v1)|
@@ -73,5 +74,4 @@
 |**2023-05-09**|**DC3DCD: unsupervised learning for multiclass 3D point cloud change detection**|Iris de Gélis et.al.|[2305.05421v1](http://arxiv.org/abs/2305.05421v1)|
 |**2023-05-05**|**Deep Unsupervised Learning for 3D ALS Point Clouds Change Detection**|Iris de Gélis et.al.|[2305.03529v1](http://arxiv.org/abs/2305.03529v1)|
 |**2023-04-25**|**Change detection needs change information: improving deep 3D point cloud change detection**|Iris de Gélis et.al.|[2304.12639v1](http://arxiv.org/abs/2304.12639v1)|
-|**2023-04-22**|**Reinforcement Learning with an Abrupt Model Change**|Wuxia Chen et.al.|[2304.11460v1](http://arxiv.org/abs/2304.11460v1)|
 
