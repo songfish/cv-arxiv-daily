@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-24**|**Detection of an X-ray quasar in a gravitationally-lensed z=10.3 galaxy suggests that early supermassive black holes originate from heavy seeds**|Akos Bogdan et.al.|[2305.15458v1](http://arxiv.org/abs/2305.15458v1)|
 |**2023-05-23**|**Hierarchical Adaptive Voxel-guided Sampling for Real-time Applications in Large-scale Point Clouds**|Junyuan Ouyang et.al.|[2305.14306v1](http://arxiv.org/abs/2305.14306v1)|
 |**2023-04-13**|**Direct observations of the atomic-molecular phase transition in the Milky Way's nuclear wind**|Karlie A. Noon et.al.|[2304.06356v1](http://arxiv.org/abs/2304.06356v1)|
 |**2023-04-03**|**Open-Vocabulary Point-Cloud Object Detection without 3D Annotation**|Yuheng Lu et.al.|[2304.00788v2](http://arxiv.org/abs/2304.00788v2)|
@@ -28,7 +29,6 @@
 |**2022-10-24**|**Self-Configuring nnU-Nets Detect Clouds in Satellite Images**|Bartosz Grabowski et.al.|[2210.13659v1](http://arxiv.org/abs/2210.13659v1)|
 |**2022-10-17**|**HALOGAS: Strong Constraints on the Neutral Gas Reservoir and Accretion Rate in Nearby Spiral Galaxies**|P. Kamphuis et.al.|[2210.09383v1](http://arxiv.org/abs/2210.09383v1)|
 |**2022-10-12**|**Common Corruption Robustness of Point Cloud Detectors: Benchmark and Enhancement**|Shuangzhi Li et.al.|[2210.05896v1](http://arxiv.org/abs/2210.05896v1)|
-|**2022-09-20**|**Rethinking Dimensionality Reduction in Grid-based 3D Object Detection**|Dihe Huang et.al.|[2209.09464v4](http://arxiv.org/abs/2209.09464v4)|
 
 ## abnormal detection
 
@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-25**|**Fascinating Supervisory Signals and Where to Find Them: Deep Anomaly Detection with Scale Learning**|Hongzuo Xu et.al.|[2305.16114v1](http://arxiv.org/abs/2305.16114v1)|
+|**2023-05-25**|**Anomaly Detection with Conditioned Denoising Diffusion Models**|Arian Mousakhan et.al.|[2305.15956v1](http://arxiv.org/abs/2305.15956v1)|
+|**2023-05-25**|**Impact of Log Parsing on Log-based Anomaly Detection**|Zanis Ali Khan et.al.|[2305.15897v1](http://arxiv.org/abs/2305.15897v1)|
+|**2023-05-25**|**Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision**|Han Gao et.al.|[2305.15652v1](http://arxiv.org/abs/2305.15652v1)|
 |**2023-05-24**|**Real time dense anomaly detection by learning on synthetic negative data**|Anja Delić et.al.|[2305.15227v1](http://arxiv.org/abs/2305.15227v1)|
 |**2023-05-24**|**GAN-AE : An anomaly detection algorithm for New Physics search in LHC data**|Louis Vaslin et.al.|[2305.15179v1](http://arxiv.org/abs/2305.15179v1)|
 |**2023-05-24**|**Beyond Individual Input for Deep Anomaly Detection on Tabular Data**|Hugo Thimonier et.al.|[2305.15121v1](http://arxiv.org/abs/2305.15121v1)|
 |**2023-05-24**|**Audio-Visual Dataset and Method for Anomaly Detection in Traffic Videos**|Błażej Leporowski et.al.|[2305.15084v1](http://arxiv.org/abs/2305.15084v1)|
 |**2023-05-24**|**Multiresolution Feature Guidance Based Transformer for Anomaly Detection**|Shuting Yan et.al.|[2305.14880v1](http://arxiv.org/abs/2305.14880v1)|
 |**2023-05-23**|**AutoSourceID-FeatureExtractor. Optical images analysis using a Two-Step MVE Network for feature estimation and uncertainty characterization**|F. Stoppa et.al.|[2305.14495v1](http://arxiv.org/abs/2305.14495v1)|
-|**2023-05-23**|**A New Comprehensive Benchmark for Semi-supervised Video Anomaly Detection and Anticipation**|Congqi Cao et.al.|[2305.13611v1](http://arxiv.org/abs/2305.13611v1)|
-|**2023-05-23**|**SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs**|Sheng Tian et.al.|[2305.13573v1](http://arxiv.org/abs/2305.13573v1)|
-|**2023-05-22**|**Unsupervised Anomaly Detection with Rejection**|Lorenzo Perini et.al.|[2305.13189v1](http://arxiv.org/abs/2305.13189v1)|
-|**2023-05-22**|**AD-MERCS: Modeling Normality and Abnormality in Unsupervised Anomaly Detection**|Jonas Soenen et.al.|[2305.12958v1](http://arxiv.org/abs/2305.12958v1)|
 
 ## change detection
 
