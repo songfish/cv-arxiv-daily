@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-05-26**|**ReConPatch : Contrastive Patch Representation Learning for Industrial Anomaly Detection**|Jeeho Hyun et.al.|[2305.16713v1](http://arxiv.org/abs/2305.16713v1)|
+|**2023-05-26**|**Improving Position Encoding of Transformers for Multivariate Time Series Classification**|Navid Mohammadi Foumani et.al.|[2305.16642v1](http://arxiv.org/abs/2305.16642v1)|
+|**2023-05-25**|**RoLA: A Real-Time Online Lightweight Anomaly Detection System for Multivariate Time Series**|Ming-Chang Lee et.al.|[2305.16509v1](http://arxiv.org/abs/2305.16509v1)|
+|**2023-05-25**|**AD-NEV: A Scalable Multi-level Neuroevolution Framework for Multivariate Anomaly Detection**|Marcin Pietron et.al.|[2305.16497v1](http://arxiv.org/abs/2305.16497v1)|
 |**2023-05-25**|**Fascinating Supervisory Signals and Where to Find Them: Deep Anomaly Detection with Scale Learning**|Hongzuo Xu et.al.|[2305.16114v1](http://arxiv.org/abs/2305.16114v1)|
 |**2023-05-25**|**Anomaly Detection with Conditioned Denoising Diffusion Models**|Arian Mousakhan et.al.|[2305.15956v1](http://arxiv.org/abs/2305.15956v1)|
 |**2023-05-25**|**Impact of Log Parsing on Log-based Anomaly Detection**|Zanis Ali Khan et.al.|[2305.15897v1](http://arxiv.org/abs/2305.15897v1)|
 |**2023-05-25**|**Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision**|Han Gao et.al.|[2305.15652v1](http://arxiv.org/abs/2305.15652v1)|
 |**2023-05-24**|**Real time dense anomaly detection by learning on synthetic negative data**|Anja Delić et.al.|[2305.15227v1](http://arxiv.org/abs/2305.15227v1)|
 |**2023-05-24**|**GAN-AE : An anomaly detection algorithm for New Physics search in LHC data**|Louis Vaslin et.al.|[2305.15179v1](http://arxiv.org/abs/2305.15179v1)|
-|**2023-05-24**|**Beyond Individual Input for Deep Anomaly Detection on Tabular Data**|Hugo Thimonier et.al.|[2305.15121v1](http://arxiv.org/abs/2305.15121v1)|
-|**2023-05-24**|**Audio-Visual Dataset and Method for Anomaly Detection in Traffic Videos**|Błażej Leporowski et.al.|[2305.15084v1](http://arxiv.org/abs/2305.15084v1)|
-|**2023-05-24**|**Multiresolution Feature Guidance Based Transformer for Anomaly Detection**|Shuting Yan et.al.|[2305.14880v1](http://arxiv.org/abs/2305.14880v1)|
-|**2023-05-23**|**AutoSourceID-FeatureExtractor. Optical images analysis using a Two-Step MVE Network for feature estimation and uncertainty characterization**|F. Stoppa et.al.|[2305.14495v1](http://arxiv.org/abs/2305.14495v1)|
 
 ## change detection
 
