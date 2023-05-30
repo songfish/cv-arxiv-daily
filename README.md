@@ -1,4 +1,4 @@
-## Updated on 2023.05.29
+## Updated on 2023.05.30
 
 ## super-resolution
 
@@ -36,7 +36,7 @@
 |---|---|---|---|
 |**2023-05-18**|**Prevention is better than cure: a case study of the abnormalities detection in the chest**|Weronika Hryniewska et.al.|[2305.10961v1](http://arxiv.org/abs/2305.10961v1)|
 |**2023-03-29**|**Improving Object Detection in Medical Image Analysis through Multiple Expert Annotators: An Empirical Investigation**|Hieu H. Pham et.al.|[2303.16507v1](http://arxiv.org/abs/2303.16507v1)|
-|**2023-02-26**|**MDF-Net: Multimodal Dual-Fusion Network for Abnormality Detection using CXR Images and Clinical Data**|Chihcheng Hsieh et.al.|[2302.13390v1](http://arxiv.org/abs/2302.13390v1)|
+|**2023-02-26**|**MDF-Net for Abnormality Detection by Fusing X-Rays with Clinical Data**|Chihcheng Hsieh et.al.|[2302.13390v2](http://arxiv.org/abs/2302.13390v2)|
 |**2023-02-20**|**Deep Reinforcement Learning for Cost-Effective Medical Diagnosis**|Zheng Yu et.al.|[2302.10261v2](http://arxiv.org/abs/2302.10261v2)|
 |**2023-02-06**|**Integrating Eye-Gaze Data into CXR DL Approaches: A Preliminary study**|André Luís et.al.|[2302.02940v1](http://arxiv.org/abs/2302.02940v1)|
 |**2023-02-04**|**Conformalized semi-supervised random forest for classification and abnormality detection**|Yujin Han et.al.|[2302.02237v1](http://arxiv.org/abs/2302.02237v1)|
