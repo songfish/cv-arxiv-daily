@@ -1,4 +1,4 @@
-## Updated on 2023.05.30
+## Updated on 2023.05.31
 
 ## super-resolution
 
@@ -67,7 +67,7 @@
 |**2023-05-29**|**Stepwise correlation of multivariate IoT event data based on first-order Markov chains**|Vassilis Papataxiarhis et.al.|[2305.18082v1](http://arxiv.org/abs/2305.18082v1)|
 |**2023-05-28**|**Heterogeneous Matrix Factorization: When Features Differ by Datasets**|Naichen Shi et.al.|[2305.17744v1](http://arxiv.org/abs/2305.17744v1)|
 |**2023-05-24**|**Remote Sensing Image Change Detection Towards Continuous Bitemporal Resolution Differences**|Hao Chen et.al.|[2305.14722v1](http://arxiv.org/abs/2305.14722v1)|
-|**2023-05-23**|**BA-SOT: Boundary-Aware Serialized Output Training for Multi-Talker ASR**|Yuhao Liang et.al.|[2305.13716v1](http://arxiv.org/abs/2305.13716v1)|
+|**2023-05-23**|**BA-SOT: Boundary-Aware Serialized Output Training for Multi-Talker ASR**|Yuhao Liang et.al.|[2305.13716v2](http://arxiv.org/abs/2305.13716v2)|
 |**2023-05-21**|**DiffUCD:Unsupervised Hyperspectral Image Change Detection with Semantic Correlation Diffusion Model**|Xiangrong Zhang et.al.|[2305.12410v1](http://arxiv.org/abs/2305.12410v1)|
 |**2023-05-17**|**On-board Change Detection for Resource-efficient Earth Observation with LEO Satellites**|Van-Phuc Bui et.al.|[2305.10119v1](http://arxiv.org/abs/2305.10119v1)|
 |**2023-05-15**|**DA-LSTM: A Dynamic Drift-Adaptive Learning Framework for Interval Load Forecasting with LSTM Networks**|Firas Bayram et.al.|[2305.08767v1](http://arxiv.org/abs/2305.08767v1)|
