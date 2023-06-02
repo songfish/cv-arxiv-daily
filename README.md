@@ -1,4 +1,4 @@
-## Updated on 2023.06.01
+## Updated on 2023.06.02
 
 ## super-resolution
 
@@ -52,7 +52,7 @@
 |**2023-05-31**|**Unsupervised Anomaly Detection in Medical Images Using Masked Diffusion Model**|Hasan Iqbal et.al.|[2305.19867v1](http://arxiv.org/abs/2305.19867v1)|
 |**2023-05-31**|**Quality In / Quality Out: Assessing Data quality in an Anomaly Detection Benchmark**|José Camacho et.al.|[2305.19770v1](http://arxiv.org/abs/2305.19770v1)|
 |**2023-05-31**|**Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models**|Cosmin I. Bercea et.al.|[2305.19643v1](http://arxiv.org/abs/2305.19643v1)|
-|**2023-05-30**|**Contrastive Shapelet Learning for Unsupervised Multivariate Time Series Representation Learning**|Zhiyu Liang et.al.|[2305.18888v1](http://arxiv.org/abs/2305.18888v1)|
+|**2023-05-30**|**Contrastive Shapelet Learning for Unsupervised Multivariate Time Series Representation Learning**|Zhiyu Liang et.al.|[2305.18888v2](http://arxiv.org/abs/2305.18888v2)|
 |**2023-05-30**|**AnoOnly: Semi-Supervised Anomaly Detection without Loss on Normal Data**|Yixuan Zhou et.al.|[2305.18798v1](http://arxiv.org/abs/2305.18798v1)|
 |**2023-05-29**|**On Diffusion Modeling for Anomaly Detection**|Victor Livernoche et.al.|[2305.18593v1](http://arxiv.org/abs/2305.18593v1)|
 |**2023-05-28**|**AnoRand: A Semi Supervised Deep Learning Anomaly Detection Method by Random Labeling**|Mansour Zoubeirou A Mayaki et.al.|[2305.18389v1](http://arxiv.org/abs/2305.18389v1)|
