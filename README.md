@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-02**|**Quantifying Sample Anonymity in Score-Based Generative Models with Adversarial Fingerprinting**|Mischa Dombrowski et.al.|[2306.01363v1](http://arxiv.org/abs/2306.01363v1)|
+|**2023-06-01**|**Evaluating the Capabilities of Multi-modal Reasoning Models with Synthetic Task Data**|Nathan Vaska et.al.|[2306.01144v1](http://arxiv.org/abs/2306.01144v1)|
+|**2023-06-01**|**Graph-Level Embedding for Time-Evolving Graphs**|Lili Wang et.al.|[2306.01012v1](http://arxiv.org/abs/2306.01012v1)|
 |**2023-06-01**|**Anomaly Detection with Variance Stabilized Density Estimation**|Amit Rozner et.al.|[2306.00582v1](http://arxiv.org/abs/2306.00582v1)|
-|**2023-05-29**|**Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection**|Hezhe Qiao et.al.|[2306.00006v2](http://arxiv.org/abs/2306.00006v2)|
 |**2023-05-31**|**Unsupervised Anomaly Detection in Medical Images Using Masked Diffusion Model**|Hasan Iqbal et.al.|[2305.19867v1](http://arxiv.org/abs/2305.19867v1)|
 |**2023-05-31**|**Quality In / Quality Out: Assessing Data quality in an Anomaly Detection Benchmark**|José Camacho et.al.|[2305.19770v1](http://arxiv.org/abs/2305.19770v1)|
 |**2023-05-31**|**Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models**|Cosmin I. Bercea et.al.|[2305.19643v1](http://arxiv.org/abs/2305.19643v1)|
 |**2023-05-30**|**Contrastive Shapelet Learning for Unsupervised Multivariate Time Series Representation Learning**|Zhiyu Liang et.al.|[2305.18888v3](http://arxiv.org/abs/2305.18888v3)|
 |**2023-05-30**|**AnoOnly: Semi-Supervised Anomaly Detection without Loss on Normal Data**|Yixuan Zhou et.al.|[2305.18798v1](http://arxiv.org/abs/2305.18798v1)|
 |**2023-05-29**|**On Diffusion Modeling for Anomaly Detection**|Victor Livernoche et.al.|[2305.18593v1](http://arxiv.org/abs/2305.18593v1)|
-|**2023-05-28**|**AnoRand: A Semi Supervised Deep Learning Anomaly Detection Method by Random Labeling**|Mansour Zoubeirou A Mayaki et.al.|[2305.18389v1](http://arxiv.org/abs/2305.18389v1)|
-|**2023-05-28**|**k-NNN: Nearest Neighbors of Neighbors for Anomaly Detection**|Ori Nizan et.al.|[2305.17695v1](http://arxiv.org/abs/2305.17695v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-02**|**Fatigue detection via sequential testing of biomechanical data using martingale statistic**|Rupsa Basu et.al.|[2306.01566v1](http://arxiv.org/abs/2306.01566v1)|
 |**2023-06-01**|**Encoder-decoder multimodal speaker change detection**|Jee-weon Jung et.al.|[2306.00680v1](http://arxiv.org/abs/2306.00680v1)|
 |**2023-05-31**|**Towards Accurate and Reliable Change Detection of Remote Sensing Images via Knowledge Review and Online Uncertainty Estimation**|Zhenglai Li et.al.|[2305.19513v1](http://arxiv.org/abs/2305.19513v1)|
 |**2023-05-30**|**A Tale of Two Laws of Semantic Change: Predicting Synonym Changes with Distributional Semantic Models**|Bastien Liétard et.al.|[2305.19143v1](http://arxiv.org/abs/2305.19143v1)|
@@ -73,5 +74,4 @@
 |**2023-05-24**|**Remote Sensing Image Change Detection Towards Continuous Bitemporal Resolution Differences**|Hao Chen et.al.|[2305.14722v1](http://arxiv.org/abs/2305.14722v1)|
 |**2023-05-23**|**BA-SOT: Boundary-Aware Serialized Output Training for Multi-Talker ASR**|Yuhao Liang et.al.|[2305.13716v2](http://arxiv.org/abs/2305.13716v2)|
 |**2023-05-21**|**DiffUCD:Unsupervised Hyperspectral Image Change Detection with Semantic Correlation Diffusion Model**|Xiangrong Zhang et.al.|[2305.12410v1](http://arxiv.org/abs/2305.12410v1)|
-|**2023-05-17**|**On-board Change Detection for Resource-efficient Earth Observation with LEO Satellites**|Van-Phuc Bui et.al.|[2305.10119v1](http://arxiv.org/abs/2305.10119v1)|
 
