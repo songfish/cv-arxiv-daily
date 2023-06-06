@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-05**|**Comparative Study on Semi-supervised Learning Applied for Anomaly Detection in Hydraulic Condition Monitoring System**|Yongqi Dong et.al.|[2306.02709v1](http://arxiv.org/abs/2306.02709v1)|
+|**2023-06-05**|**ReContrast: Domain-Specific Anomaly Detection via Contrastive Reconstruction**|Jia Guo et.al.|[2306.02602v1](http://arxiv.org/abs/2306.02602v1)|
+|**2023-06-05**|**Disaster Anomaly Detector via Deeper FCDDs for Explainable Initial Responses**|Takato Yasuno et.al.|[2306.02517v1](http://arxiv.org/abs/2306.02517v1)|
+|**2023-06-04**|**Anomaly Detection Techniques in Smart Grid Systems: A Review**|Shampa Banik et.al.|[2306.02473v1](http://arxiv.org/abs/2306.02473v1)|
+|**2023-06-03**|**Exploring Global and Local Information for Anomaly Detection with Normal Samples**|Fan Xu et.al.|[2306.02025v1](http://arxiv.org/abs/2306.02025v1)|
+|**2023-06-03**|**UADB: Unsupervised Anomaly Detection Booster**|Hangting Ye et.al.|[2306.01997v1](http://arxiv.org/abs/2306.01997v1)|
+|**2023-06-03**|**AlerTiger: Deep Learning for AI Model Health Monitoring at LinkedIn**|Zhentao Xu et.al.|[2306.01977v1](http://arxiv.org/abs/2306.01977v1)|
+|**2023-06-02**|**GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction**|Amit Roy et.al.|[2306.01951v1](http://arxiv.org/abs/2306.01951v1)|
 |**2023-06-02**|**Quantifying Sample Anonymity in Score-Based Generative Models with Adversarial Fingerprinting**|Mischa Dombrowski et.al.|[2306.01363v1](http://arxiv.org/abs/2306.01363v1)|
 |**2023-06-01**|**Evaluating the Capabilities of Multi-modal Reasoning Models with Synthetic Task Data**|Nathan Vaska et.al.|[2306.01144v1](http://arxiv.org/abs/2306.01144v1)|
-|**2023-06-01**|**Graph-Level Embedding for Time-Evolving Graphs**|Lili Wang et.al.|[2306.01012v1](http://arxiv.org/abs/2306.01012v1)|
-|**2023-06-01**|**Anomaly Detection with Variance Stabilized Density Estimation**|Amit Rozner et.al.|[2306.00582v1](http://arxiv.org/abs/2306.00582v1)|
-|**2023-05-31**|**Unsupervised Anomaly Detection in Medical Images Using Masked Diffusion Model**|Hasan Iqbal et.al.|[2305.19867v1](http://arxiv.org/abs/2305.19867v1)|
-|**2023-05-31**|**Quality In / Quality Out: Assessing Data quality in an Anomaly Detection Benchmark**|José Camacho et.al.|[2305.19770v1](http://arxiv.org/abs/2305.19770v1)|
-|**2023-05-31**|**Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models**|Cosmin I. Bercea et.al.|[2305.19643v1](http://arxiv.org/abs/2305.19643v1)|
-|**2023-05-30**|**Contrastive Shapelet Learning for Unsupervised Multivariate Time Series Representation Learning**|Zhiyu Liang et.al.|[2305.18888v3](http://arxiv.org/abs/2305.18888v3)|
-|**2023-05-30**|**AnoOnly: Semi-Supervised Anomaly Detection without Loss on Normal Data**|Yixuan Zhou et.al.|[2305.18798v1](http://arxiv.org/abs/2305.18798v1)|
-|**2023-05-29**|**On Diffusion Modeling for Anomaly Detection**|Victor Livernoche et.al.|[2305.18593v1](http://arxiv.org/abs/2305.18593v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-03**|**Lightweight Structure-aware Transformer Network for VHR Remote Sensing Image Change Detection**|Tao Lei et.al.|[2306.01988v1](http://arxiv.org/abs/2306.01988v1)|
 |**2023-06-02**|**Fatigue detection via sequential testing of biomechanical data using martingale statistic**|Rupsa Basu et.al.|[2306.01566v1](http://arxiv.org/abs/2306.01566v1)|
 |**2023-06-01**|**Encoder-decoder multimodal speaker change detection**|Jee-weon Jung et.al.|[2306.00680v1](http://arxiv.org/abs/2306.00680v1)|
 |**2023-05-31**|**Towards Accurate and Reliable Change Detection of Remote Sensing Images via Knowledge Review and Online Uncertainty Estimation**|Zhenglai Li et.al.|[2305.19513v1](http://arxiv.org/abs/2305.19513v1)|
@@ -73,5 +74,4 @@
 |**2023-05-28**|**Heterogeneous Matrix Factorization: When Features Differ by Datasets**|Naichen Shi et.al.|[2305.17744v1](http://arxiv.org/abs/2305.17744v1)|
 |**2023-05-24**|**Remote Sensing Image Change Detection Towards Continuous Bitemporal Resolution Differences**|Hao Chen et.al.|[2305.14722v1](http://arxiv.org/abs/2305.14722v1)|
 |**2023-05-23**|**BA-SOT: Boundary-Aware Serialized Output Training for Multi-Talker ASR**|Yuhao Liang et.al.|[2305.13716v2](http://arxiv.org/abs/2305.13716v2)|
-|**2023-05-21**|**DiffUCD:Unsupervised Hyperspectral Image Change Detection with Semantic Correlation Diffusion Model**|Xiangrong Zhang et.al.|[2305.12410v1](http://arxiv.org/abs/2305.12410v1)|
 
