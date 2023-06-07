@@ -1,4 +1,4 @@
-## Updated on 2023.06.06
+## Updated on 2023.06.07
 
 ## super-resolution
 
@@ -56,7 +56,7 @@
 |**2023-06-03**|**Exploring Global and Local Information for Anomaly Detection with Normal Samples**|Fan Xu et.al.|[2306.02025v1](http://arxiv.org/abs/2306.02025v1)|
 |**2023-06-03**|**UADB: Unsupervised Anomaly Detection Booster**|Hangting Ye et.al.|[2306.01997v1](http://arxiv.org/abs/2306.01997v1)|
 |**2023-06-03**|**AlerTiger: Deep Learning for AI Model Health Monitoring at LinkedIn**|Zhentao Xu et.al.|[2306.01977v1](http://arxiv.org/abs/2306.01977v1)|
-|**2023-06-02**|**GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction**|Amit Roy et.al.|[2306.01951v1](http://arxiv.org/abs/2306.01951v1)|
+|**2023-06-02**|**GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction**|Amit Roy et.al.|[2306.01951v2](http://arxiv.org/abs/2306.01951v2)|
 |**2023-06-02**|**Quantifying Sample Anonymity in Score-Based Generative Models with Adversarial Fingerprinting**|Mischa Dombrowski et.al.|[2306.01363v1](http://arxiv.org/abs/2306.01363v1)|
 |**2023-06-01**|**Evaluating the Capabilities of Multi-modal Reasoning Models with Synthetic Task Data**|Nathan Vaska et.al.|[2306.01144v1](http://arxiv.org/abs/2306.01144v1)|
 
