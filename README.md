@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-07**|**Permutation invariant Gaussian matrix models for financial correlation matrices**|George Barnes et.al.|[2306.04569v1](http://arxiv.org/abs/2306.04569v1)|
+|**2023-06-07**|**Improving neural network representations using human similarity judgments**|Lukas Muttenthaler et.al.|[2306.04507v1](http://arxiv.org/abs/2306.04507v1)|
+|**2023-06-05**|**Sustainable Adaptive Security**|Liliana Pasquale et.al.|[2306.04481v1](http://arxiv.org/abs/2306.04481v1)|
+|**2023-06-06**|**High-dimensional and Permutation Invariant Anomaly Detection**|Vinicius Mikuni et.al.|[2306.03933v1](http://arxiv.org/abs/2306.03933v1)|
 |**2023-06-06**|**Anomaly detection search for new resonances decaying into a Higgs boson and a generic new particle $X$ in hadronic final states using $\sqrt{s} = 13$ TeV $pp$ collisions with the ATLAS detector**|ATLAS Collaboration et.al.|[2306.03637v1](http://arxiv.org/abs/2306.03637v1)|
 |**2023-06-06**|**A Functional Data Perspective and Baseline On Multi-Layer Out-of-Distribution Detection**|Eduardo Dadalto et.al.|[2306.03522v1](http://arxiv.org/abs/2306.03522v1)|
 |**2023-06-06**|**Efficient Anomaly Detection with Budget Annotation Using Semi-Supervised Residual Transformer**|Hanxi Li et.al.|[2306.03492v1](http://arxiv.org/abs/2306.03492v1)|
 |**2023-06-06**|**A Robust Likelihood Model for Novelty Detection**|Ranya Almohsen et.al.|[2306.03331v1](http://arxiv.org/abs/2306.03331v1)|
 |**2023-06-05**|**Comparative Study on Semi-supervised Learning Applied for Anomaly Detection in Hydraulic Condition Monitoring System**|Yongqi Dong et.al.|[2306.02709v1](http://arxiv.org/abs/2306.02709v1)|
 |**2023-06-05**|**ReContrast: Domain-Specific Anomaly Detection via Contrastive Reconstruction**|Jia Guo et.al.|[2306.02602v1](http://arxiv.org/abs/2306.02602v1)|
-|**2023-06-05**|**Disaster Anomaly Detector via Deeper FCDDs for Explainable Initial Responses**|Takato Yasuno et.al.|[2306.02517v1](http://arxiv.org/abs/2306.02517v1)|
-|**2023-06-04**|**Anomaly Detection Techniques in Smart Grid Systems: A Review**|Shampa Banik et.al.|[2306.02473v1](http://arxiv.org/abs/2306.02473v1)|
-|**2023-06-03**|**Exploring Global and Local Information for Anomaly Detection with Normal Samples**|Fan Xu et.al.|[2306.02025v1](http://arxiv.org/abs/2306.02025v1)|
-|**2023-06-03**|**UADB: Unsupervised Anomaly Detection Booster**|Hangting Ye et.al.|[2306.01997v1](http://arxiv.org/abs/2306.01997v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-07**|**Multi-microphone Automatic Speech Segmentation in Meetings Based on Circular Harmonics Features**|Théo Mariotte et.al.|[2306.04268v1](http://arxiv.org/abs/2306.04268v1)|
 |**2023-06-06**|**Change Diffusion: Change Detection Map Generation Based on Difference-Feature Guided DDPM**|Yihan Wen et.al.|[2306.03424v1](http://arxiv.org/abs/2306.03424v1)|
 |**2023-06-03**|**Lightweight Structure-aware Transformer Network for VHR Remote Sensing Image Change Detection**|Tao Lei et.al.|[2306.01988v1](http://arxiv.org/abs/2306.01988v1)|
 |**2023-06-02**|**Fatigue detection via sequential testing of biomechanical data using martingale statistic**|Rupsa Basu et.al.|[2306.01566v1](http://arxiv.org/abs/2306.01566v1)|
@@ -73,5 +74,4 @@
 |**2023-05-30**|**Align, Perturb and Decouple: Toward Better Leverage of Difference Information for RSI Change Detection**|Supeng Wang et.al.|[2305.18714v1](http://arxiv.org/abs/2305.18714v1)|
 |**2023-05-29**|**Stepwise correlation of multivariate IoT event data based on first-order Markov chains**|Vassilis Papataxiarhis et.al.|[2305.18082v1](http://arxiv.org/abs/2305.18082v1)|
 |**2023-05-28**|**Heterogeneous Matrix Factorization: When Features Differ by Datasets**|Naichen Shi et.al.|[2305.17744v1](http://arxiv.org/abs/2305.17744v1)|
-|**2023-05-24**|**Remote Sensing Image Change Detection Towards Continuous Bitemporal Resolution Differences**|Hao Chen et.al.|[2305.14722v1](http://arxiv.org/abs/2305.14722v1)|
 
