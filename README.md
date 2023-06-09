@@ -49,21 +49,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-08**|**Scalable and Adaptive Log-based Anomaly Detection with Expert in the Loop**|Jinyang Liu et.al.|[2306.05032v1](http://arxiv.org/abs/2306.05032v1)|
+|**2023-06-08**|**Exploring Unsupervised Anomaly Detection with Quantum Boltzmann Machines in Fraud Detection**|Jonas Stein et.al.|[2306.04998v1](http://arxiv.org/abs/2306.04998v1)|
+|**2023-06-08**|**G$^2$uardFL: Safeguarding Federated Learning Against Backdoor Attacks through Attributed Client Graph Clustering**|Hao Yu et.al.|[2306.04984v1](http://arxiv.org/abs/2306.04984v1)|
 |**2023-06-07**|**Permutation invariant Gaussian matrix models for financial correlation matrices**|George Barnes et.al.|[2306.04569v1](http://arxiv.org/abs/2306.04569v1)|
 |**2023-06-07**|**Improving neural network representations using human similarity judgments**|Lukas Muttenthaler et.al.|[2306.04507v1](http://arxiv.org/abs/2306.04507v1)|
-|**2023-06-05**|**Sustainable Adaptive Security**|Liliana Pasquale et.al.|[2306.04481v1](http://arxiv.org/abs/2306.04481v1)|
 |**2023-06-06**|**High-dimensional and Permutation Invariant Anomaly Detection**|Vinicius Mikuni et.al.|[2306.03933v1](http://arxiv.org/abs/2306.03933v1)|
 |**2023-06-06**|**Anomaly detection search for new resonances decaying into a Higgs boson and a generic new particle $X$ in hadronic final states using $\sqrt{s} = 13$ TeV $pp$ collisions with the ATLAS detector**|ATLAS Collaboration et.al.|[2306.03637v1](http://arxiv.org/abs/2306.03637v1)|
 |**2023-06-06**|**A Functional Data Perspective and Baseline On Multi-Layer Out-of-Distribution Detection**|Eduardo Dadalto et.al.|[2306.03522v1](http://arxiv.org/abs/2306.03522v1)|
 |**2023-06-06**|**Efficient Anomaly Detection with Budget Annotation Using Semi-Supervised Residual Transformer**|Hanxi Li et.al.|[2306.03492v1](http://arxiv.org/abs/2306.03492v1)|
 |**2023-06-06**|**A Robust Likelihood Model for Novelty Detection**|Ranya Almohsen et.al.|[2306.03331v1](http://arxiv.org/abs/2306.03331v1)|
-|**2023-06-05**|**Comparative Study on Semi-supervised Learning Applied for Anomaly Detection in Hydraulic Condition Monitoring System**|Yongqi Dong et.al.|[2306.02709v1](http://arxiv.org/abs/2306.02709v1)|
-|**2023-06-05**|**ReContrast: Domain-Specific Anomaly Detection via Contrastive Reconstruction**|Jia Guo et.al.|[2306.02602v1](http://arxiv.org/abs/2306.02602v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-08**|**Language-specific Acoustic Boundary Learning for Mandarin-English Code-switching Speech Recognition**|Zhiyun Fan et.al.|[2306.05279v1](http://arxiv.org/abs/2306.05279v1)|
+|**2023-06-08**|**Robust Quickest Change Detection for Unnormalized Models**|Suya Wu et.al.|[2306.05091v1](http://arxiv.org/abs/2306.05091v1)|
 |**2023-06-07**|**Multi-microphone Automatic Speech Segmentation in Meetings Based on Circular Harmonics Features**|Théo Mariotte et.al.|[2306.04268v1](http://arxiv.org/abs/2306.04268v1)|
 |**2023-06-06**|**Change Diffusion: Change Detection Map Generation Based on Difference-Feature Guided DDPM**|Yihan Wen et.al.|[2306.03424v1](http://arxiv.org/abs/2306.03424v1)|
 |**2023-06-03**|**Lightweight Structure-aware Transformer Network for VHR Remote Sensing Image Change Detection**|Tao Lei et.al.|[2306.01988v1](http://arxiv.org/abs/2306.01988v1)|
@@ -72,6 +74,4 @@
 |**2023-05-31**|**Towards Accurate and Reliable Change Detection of Remote Sensing Images via Knowledge Review and Online Uncertainty Estimation**|Zhenglai Li et.al.|[2305.19513v1](http://arxiv.org/abs/2305.19513v1)|
 |**2023-05-30**|**A Tale of Two Laws of Semantic Change: Predicting Synonym Changes with Distributional Semantic Models**|Bastien Liétard et.al.|[2305.19143v1](http://arxiv.org/abs/2305.19143v1)|
 |**2023-05-30**|**Align, Perturb and Decouple: Toward Better Leverage of Difference Information for RSI Change Detection**|Supeng Wang et.al.|[2305.18714v1](http://arxiv.org/abs/2305.18714v1)|
-|**2023-05-29**|**Stepwise correlation of multivariate IoT event data based on first-order Markov chains**|Vassilis Papataxiarhis et.al.|[2305.18082v1](http://arxiv.org/abs/2305.18082v1)|
-|**2023-05-28**|**Heterogeneous Matrix Factorization: When Features Differ by Datasets**|Naichen Shi et.al.|[2305.17744v1](http://arxiv.org/abs/2305.17744v1)|
 
