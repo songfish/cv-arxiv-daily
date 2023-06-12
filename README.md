@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-09**|**Quartile-Based Seasonality Decomposition for Time Series Forecasting and Anomaly Detection**|Ebenezer RHP Isaac et.al.|[2306.05989v1](http://arxiv.org/abs/2306.05989v1)|
+|**2023-06-09**|**DETECTA: Investigación de metodologías no intrusivas apoyadas en tecnologías habilitadoras 4.0 para abordar un mantenimiento predictivo y ciberseguro en pymes industriales**|Alvaro García et.al.|[2306.05799v1](http://arxiv.org/abs/2306.05799v1)|
 |**2023-06-08**|**Scalable and Adaptive Log-based Anomaly Detection with Expert in the Loop**|Jinyang Liu et.al.|[2306.05032v1](http://arxiv.org/abs/2306.05032v1)|
 |**2023-06-08**|**Exploring Unsupervised Anomaly Detection with Quantum Boltzmann Machines in Fraud Detection**|Jonas Stein et.al.|[2306.04998v1](http://arxiv.org/abs/2306.04998v1)|
 |**2023-06-08**|**G$^2$uardFL: Safeguarding Federated Learning Against Backdoor Attacks through Attributed Client Graph Clustering**|Hao Yu et.al.|[2306.04984v1](http://arxiv.org/abs/2306.04984v1)|
@@ -57,8 +59,6 @@
 |**2023-06-06**|**High-dimensional and Permutation Invariant Anomaly Detection**|Vinicius Mikuni et.al.|[2306.03933v1](http://arxiv.org/abs/2306.03933v1)|
 |**2023-06-06**|**Anomaly detection search for new resonances decaying into a Higgs boson and a generic new particle $X$ in hadronic final states using $\sqrt{s} = 13$ TeV $pp$ collisions with the ATLAS detector**|ATLAS Collaboration et.al.|[2306.03637v1](http://arxiv.org/abs/2306.03637v1)|
 |**2023-06-06**|**A Functional Data Perspective and Baseline On Multi-Layer Out-of-Distribution Detection**|Eduardo Dadalto et.al.|[2306.03522v1](http://arxiv.org/abs/2306.03522v1)|
-|**2023-06-06**|**Efficient Anomaly Detection with Budget Annotation Using Semi-Supervised Residual Transformer**|Hanxi Li et.al.|[2306.03492v1](http://arxiv.org/abs/2306.03492v1)|
-|**2023-06-06**|**A Robust Likelihood Model for Novelty Detection**|Ranya Almohsen et.al.|[2306.03331v1](http://arxiv.org/abs/2306.03331v1)|
 
 ## change detection
 
