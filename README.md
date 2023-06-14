@@ -64,6 +64,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-13**|**Gravitational and dark wave emission at binary merger**|Kunio Kaneta et.al.|[2306.07592v1](http://arxiv.org/abs/2306.07592v1)|
 |**2023-06-08**|**Language-specific Acoustic Boundary Learning for Mandarin-English Code-switching Speech Recognition**|Zhiyun Fan et.al.|[2306.05279v1](http://arxiv.org/abs/2306.05279v1)|
 |**2023-06-08**|**Robust Quickest Change Detection for Unnormalized Models**|Suya Wu et.al.|[2306.05091v1](http://arxiv.org/abs/2306.05091v1)|
 |**2023-06-07**|**Multi-microphone Automatic Speech Segmentation in Meetings Based on Circular Harmonics Features**|Théo Mariotte et.al.|[2306.04268v1](http://arxiv.org/abs/2306.04268v1)|
@@ -73,5 +74,4 @@
 |**2023-06-01**|**Encoder-decoder multimodal speaker change detection**|Jee-weon Jung et.al.|[2306.00680v1](http://arxiv.org/abs/2306.00680v1)|
 |**2023-05-31**|**Towards Accurate and Reliable Change Detection of Remote Sensing Images via Knowledge Review and Online Uncertainty Estimation**|Zhenglai Li et.al.|[2305.19513v1](http://arxiv.org/abs/2305.19513v1)|
 |**2023-05-30**|**A Tale of Two Laws of Semantic Change: Predicting Synonym Changes with Distributional Semantic Models**|Bastien Liétard et.al.|[2305.19143v1](http://arxiv.org/abs/2305.19143v1)|
-|**2023-05-30**|**Align, Perturb and Decouple: Toward Better Leverage of Difference Information for RSI Change Detection**|Supeng Wang et.al.|[2305.18714v1](http://arxiv.org/abs/2305.18714v1)|
 
