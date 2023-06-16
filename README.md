@@ -1,4 +1,4 @@
-## Updated on 2023.06.15
+## Updated on 2023.06.16
 
 ## super-resolution
 
@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-15**|**Zero-Shot Anomaly Detection with Pre-trained Segmentation Models**|Matthew Baugh et.al.|[2306.09269v1](http://arxiv.org/abs/2306.09269v1)|
+|**2023-06-15**|**Winning Solution for the CVPR2023 Visual Anomaly and Novelty Detection Challenge: Multimodal Prompting for Data-centric Anomaly Detection**|Yunkang Cao et.al.|[2306.09067v1](http://arxiv.org/abs/2306.09067v1)|
+|**2023-06-14**|**Adaptive Modeling of Satellite-Derived Nighttime Lights Time-Series for Tracking Urban Change Processes Using Machine Learning**|Srija Chakraborty et.al.|[2306.08501v1](http://arxiv.org/abs/2306.08501v1)|
+|**2023-06-14**|**Flexible Krylov Methods for Group Sparsity Regularization**|Julianne Chung et.al.|[2306.08499v1](http://arxiv.org/abs/2306.08499v1)|
+|**2023-06-14**|**Single-board Device Individual Authentication based on Hardware Performance and Anomaly Detection for Crowdsensing Platforms**|Pedro Miguel Sánchez Sánchez et.al.|[2306.08495v1](http://arxiv.org/abs/2306.08495v1)|
+|**2023-06-14**|**SaliencyCut: Augmenting Plausible Anomalies for Open-set Fine-Grained Anomaly Detection**|Jianan Ye et.al.|[2306.08366v1](http://arxiv.org/abs/2306.08366v1)|
+|**2023-06-14**|**Learning on Graphs under Label Noise**|Jingyang Yuan et.al.|[2306.08194v1](http://arxiv.org/abs/2306.08194v1)|
 |**2023-06-12**|**No Free Lunch: The Hazards of Over-Expressive Representations in Anomaly Detection**|Tal Reiss et.al.|[2306.07284v1](http://arxiv.org/abs/2306.07284v1)|
 |**2023-06-12**|**Coupled Attention Networks for Multivariate Time Series Anomaly Detection**|Feng Xia et.al.|[2306.07114v1](http://arxiv.org/abs/2306.07114v1)|
 |**2023-06-12**|**A Computational Theory and Semi-Supervised Algorithm for Clustering**|Nassir Mohammad et.al.|[2306.06974v1](http://arxiv.org/abs/2306.06974v1)|
-|**2023-06-09**|**Quartile-Based Seasonality Decomposition for Time Series Forecasting and Anomaly Detection**|Ebenezer RHP Isaac et.al.|[2306.05989v1](http://arxiv.org/abs/2306.05989v1)|
-|**2023-06-09**|**DETECTA: Investigación de metodologías no intrusivas apoyadas en tecnologías habilitadoras 4.0 para abordar un mantenimiento predictivo y ciberseguro en pymes industriales**|Alvaro García et.al.|[2306.05799v1](http://arxiv.org/abs/2306.05799v1)|
-|**2023-06-08**|**Scalable and Adaptive Log-based Anomaly Detection with Expert in the Loop**|Jinyang Liu et.al.|[2306.05032v1](http://arxiv.org/abs/2306.05032v1)|
-|**2023-06-08**|**Exploring Unsupervised Anomaly Detection with Quantum Boltzmann Machines in Fraud Detection**|Jonas Stein et.al.|[2306.04998v1](http://arxiv.org/abs/2306.04998v1)|
-|**2023-06-08**|**G$^2$uardFL: Safeguarding Federated Learning Against Backdoor Attacks through Attributed Client Graph Clustering**|Hao Yu et.al.|[2306.04984v1](http://arxiv.org/abs/2306.04984v1)|
-|**2023-06-07**|**Permutation invariant Gaussian matrix models for financial correlation matrices**|George Barnes et.al.|[2306.04569v1](http://arxiv.org/abs/2306.04569v1)|
-|**2023-06-07**|**Improving neural network representations using human similarity judgments**|Lukas Muttenthaler et.al.|[2306.04507v1](http://arxiv.org/abs/2306.04507v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-15**|**Context-Aware Change Detection With Semi-Supervised Learning**|Ritu Yadav et.al.|[2306.08935v1](http://arxiv.org/abs/2306.08935v1)|
 |**2023-06-13**|**Gravitational and dark wave emission at binary merger**|Kunio Kaneta et.al.|[2306.07592v1](http://arxiv.org/abs/2306.07592v1)|
 |**2023-06-08**|**Language-specific Acoustic Boundary Learning for Mandarin-English Code-switching Speech Recognition**|Zhiyun Fan et.al.|[2306.05279v1](http://arxiv.org/abs/2306.05279v1)|
 |**2023-06-08**|**Robust Quickest Change Detection for Unnormalized Models**|Suya Wu et.al.|[2306.05091v1](http://arxiv.org/abs/2306.05091v1)|
@@ -73,5 +74,4 @@
 |**2023-06-02**|**Fatigue detection via sequential testing of biomechanical data using martingale statistic**|Rupsa Basu et.al.|[2306.01566v1](http://arxiv.org/abs/2306.01566v1)|
 |**2023-06-01**|**Encoder-decoder multimodal speaker change detection**|Jee-weon Jung et.al.|[2306.00680v1](http://arxiv.org/abs/2306.00680v1)|
 |**2023-05-31**|**Towards Accurate and Reliable Change Detection of Remote Sensing Images via Knowledge Review and Online Uncertainty Estimation**|Zhenglai Li et.al.|[2305.19513v1](http://arxiv.org/abs/2305.19513v1)|
-|**2023-05-30**|**A Tale of Two Laws of Semantic Change: Predicting Synonym Changes with Distributional Semantic Models**|Bastien Liétard et.al.|[2305.19143v1](http://arxiv.org/abs/2305.19143v1)|
 
