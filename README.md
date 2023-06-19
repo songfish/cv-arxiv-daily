@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-15**|**Deep learning techniques for blind image super-resolution: A high-scale multi-domain perspective evaluation**|Valdivino Alexandre de Santiago Júnior et.al.|[2306.09426v1](http://arxiv.org/abs/2306.09426v1)|
 |**2023-05-08**|**Compressed Video Quality Assessment for Super-Resolution: a Benchmark and a Quality Metric**|Evgeney Bogatyrev et.al.|[2305.04844v1](http://arxiv.org/abs/2305.04844v1)|
 |**2023-04-20**|**NTIRE 2023 Challenge on Light Field Image Super-Resolution: Dataset, Methods and Results**|Yingqian Wang et.al.|[2304.10415v1](http://arxiv.org/abs/2304.10415v1)|
 |**2023-04-09**|**Towards Arbitrary-scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework based on Implicit Self-texture Enhancement**|Linhao Qu et.al.|[2304.04238v1](http://arxiv.org/abs/2304.04238v1)|
@@ -13,12 +14,13 @@
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|
 |**2022-09-27**|**Hitchhiker's Guide to Super-Resolution: Introduction and Recent Advances**|Brian Moser et.al.|[2209.13131v2](http://arxiv.org/abs/2209.13131v2)|
-|**2022-07-15**|**Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity**|Wei Zhou et.al.|[2207.08689v1](http://arxiv.org/abs/2207.08689v1)|
 
 ## cloud detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-16**|**Squeezing nnU-Nets with Knowledge Distillation for On-Board Cloud Detection**|Bartosz Grabowski et.al.|[2306.09886v1](http://arxiv.org/abs/2306.09886v1)|
+|**2023-06-15**|**SSL4EO-L: Datasets and Foundation Models for Landsat Imagery**|Adam J. Stewart et.al.|[2306.09424v1](http://arxiv.org/abs/2306.09424v1)|
 |**2023-06-12**|**CD-CTFM: A Lightweight CNN-Transformer Network for Remote Sensing Cloud Detection Fusing Multiscale Features**|Wenxuan Ge et.al.|[2306.07186v1](http://arxiv.org/abs/2306.07186v1)|
 |**2023-05-24**|**Detection of an X-ray quasar in a gravitationally-lensed z=10.3 galaxy suggests that early supermassive black holes originate from heavy seeds**|Akos Bogdan et.al.|[2305.15458v1](http://arxiv.org/abs/2305.15458v1)|
 |**2023-05-23**|**Hierarchical Adaptive Voxel-guided Sampling for Real-time Applications in Large-scale Point Clouds**|Junyuan Ouyang et.al.|[2305.14306v1](http://arxiv.org/abs/2305.14306v1)|
@@ -27,8 +29,6 @@
 |**2023-03-29**|**PMAA: A Progressive Multi-scale Attention Autoencoder Model for High-Performance Cloud Removal from Multi-temporal Satellite Imagery**|Xuechao Zou et.al.|[2303.16565v1](http://arxiv.org/abs/2303.16565v1)|
 |**2023-02-16**|**Detecting Clouds in Multispectral Satellite Images Using Quantum-Kernel Support Vector Machines**|Artur Miroszewski et.al.|[2302.08270v1](http://arxiv.org/abs/2302.08270v1)|
 |**2022-12-21**|**MM811 Project Report: Cloud Detection and Removal in Satellite Images**|Dale Chen-Song et.al.|[2212.11369v1](http://arxiv.org/abs/2212.11369v1)|
-|**2022-10-24**|**Self-Configuring nnU-Nets Detect Clouds in Satellite Images**|Bartosz Grabowski et.al.|[2210.13659v1](http://arxiv.org/abs/2210.13659v1)|
-|**2022-10-17**|**HALOGAS: Strong Constraints on the Neutral Gas Reservoir and Accretion Rate in Nearby Spiral Galaxies**|P. Kamphuis et.al.|[2210.09383v1](http://arxiv.org/abs/2210.09383v1)|
 
 ## abnormal detection
 
@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-16**|**Flow-Bench: A Dataset for Computational Workflow Anomaly Detection**|George Papadimitriou et.al.|[2306.09930v1](http://arxiv.org/abs/2306.09930v1)|
+|**2023-06-16**|**MixedTeacher : Knowledge Distillation for fast inference textural anomaly detection**|Simon Thomine et.al.|[2306.09859v1](http://arxiv.org/abs/2306.09859v1)|
+|**2023-06-15**|**Prevention of cyberattacks in WSN and packet drop by CI framework and information processing protocol using AI and Big Data**|Shreyanth S et.al.|[2306.09448v1](http://arxiv.org/abs/2306.09448v1)|
+|**2023-06-15**|**Unsupervised Anomaly Detection via Nonlinear Manifold Learning**|Amin Yousefpour et.al.|[2306.09441v1](http://arxiv.org/abs/2306.09441v1)|
 |**2023-06-15**|**Zero-Shot Anomaly Detection with Pre-trained Segmentation Models**|Matthew Baugh et.al.|[2306.09269v1](http://arxiv.org/abs/2306.09269v1)|
 |**2023-06-15**|**Winning Solution for the CVPR2023 Visual Anomaly and Novelty Detection Challenge: Multimodal Prompting for Data-centric Anomaly Detection**|Yunkang Cao et.al.|[2306.09067v1](http://arxiv.org/abs/2306.09067v1)|
 |**2023-06-14**|**Adaptive Modeling of Satellite-Derived Nighttime Lights Time-Series for Tracking Urban Change Processes Using Machine Learning**|Srija Chakraborty et.al.|[2306.08501v1](http://arxiv.org/abs/2306.08501v1)|
 |**2023-06-14**|**Flexible Krylov Methods for Group Sparsity Regularization**|Julianne Chung et.al.|[2306.08499v1](http://arxiv.org/abs/2306.08499v1)|
 |**2023-06-14**|**Single-board Device Individual Authentication based on Hardware Performance and Anomaly Detection for Crowdsensing Platforms**|Pedro Miguel Sánchez Sánchez et.al.|[2306.08495v1](http://arxiv.org/abs/2306.08495v1)|
 |**2023-06-14**|**SaliencyCut: Augmenting Plausible Anomalies for Open-set Fine-Grained Anomaly Detection**|Jianan Ye et.al.|[2306.08366v1](http://arxiv.org/abs/2306.08366v1)|
-|**2023-06-14**|**Learning on Graphs under Label Noise**|Jingyang Yuan et.al.|[2306.08194v1](http://arxiv.org/abs/2306.08194v1)|
-|**2023-06-12**|**No Free Lunch: The Hazards of Over-Expressive Representations in Anomaly Detection**|Tal Reiss et.al.|[2306.07284v1](http://arxiv.org/abs/2306.07284v1)|
-|**2023-06-12**|**Coupled Attention Networks for Multivariate Time Series Anomaly Detection**|Feng Xia et.al.|[2306.07114v1](http://arxiv.org/abs/2306.07114v1)|
-|**2023-06-12**|**A Computational Theory and Semi-Supervised Algorithm for Clustering**|Nassir Mohammad et.al.|[2306.06974v1](http://arxiv.org/abs/2306.06974v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-16**|**DisasterNets: Embedding Machine Learning in Disaster Mapping**|Qingsong Xu et.al.|[2306.09815v1](http://arxiv.org/abs/2306.09815v1)|
 |**2023-06-15**|**Context-Aware Change Detection With Semi-Supervised Learning**|Ritu Yadav et.al.|[2306.08935v1](http://arxiv.org/abs/2306.08935v1)|
 |**2023-06-13**|**Gravitational and dark wave emission at binary merger**|Kunio Kaneta et.al.|[2306.07592v1](http://arxiv.org/abs/2306.07592v1)|
 |**2023-06-08**|**Language-specific Acoustic Boundary Learning for Mandarin-English Code-switching Speech Recognition**|Zhiyun Fan et.al.|[2306.05279v1](http://arxiv.org/abs/2306.05279v1)|
@@ -73,5 +74,4 @@
 |**2023-06-03**|**Lightweight Structure-aware Transformer Network for VHR Remote Sensing Image Change Detection**|Tao Lei et.al.|[2306.01988v1](http://arxiv.org/abs/2306.01988v1)|
 |**2023-06-02**|**Fatigue detection via sequential testing of biomechanical data using martingale statistic**|Rupsa Basu et.al.|[2306.01566v1](http://arxiv.org/abs/2306.01566v1)|
 |**2023-06-01**|**Encoder-decoder multimodal speaker change detection**|Jee-weon Jung et.al.|[2306.00680v1](http://arxiv.org/abs/2306.00680v1)|
-|**2023-05-31**|**Towards Accurate and Reliable Change Detection of Remote Sensing Images via Knowledge Review and Online Uncertainty Estimation**|Zhenglai Li et.al.|[2305.19513v1](http://arxiv.org/abs/2305.19513v1)|
 
