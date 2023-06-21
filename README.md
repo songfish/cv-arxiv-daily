@@ -1,4 +1,4 @@
-## Updated on 2023.06.20
+## Updated on 2023.06.21
 
 ## super-resolution
 
@@ -70,7 +70,7 @@
 |**2023-06-08**|**Language-specific Acoustic Boundary Learning for Mandarin-English Code-switching Speech Recognition**|Zhiyun Fan et.al.|[2306.05279v1](http://arxiv.org/abs/2306.05279v1)|
 |**2023-06-08**|**Robust Quickest Change Detection for Unnormalized Models**|Suya Wu et.al.|[2306.05091v1](http://arxiv.org/abs/2306.05091v1)|
 |**2023-06-07**|**Multi-microphone Automatic Speech Segmentation in Meetings Based on Circular Harmonics Features**|Théo Mariotte et.al.|[2306.04268v1](http://arxiv.org/abs/2306.04268v1)|
-|**2023-06-06**|**Change Diffusion: Change Detection Map Generation Based on Difference-Feature Guided DDPM**|Yihan Wen et.al.|[2306.03424v1](http://arxiv.org/abs/2306.03424v1)|
+|**2023-06-06**|**A Generative Change Detection Model Based on Difference-Feature Guided DDPM**|Yihan Wen et.al.|[2306.03424v2](http://arxiv.org/abs/2306.03424v2)|
 |**2023-06-03**|**Lightweight Structure-aware Transformer Network for VHR Remote Sensing Image Change Detection**|Tao Lei et.al.|[2306.01988v1](http://arxiv.org/abs/2306.01988v1)|
 |**2023-06-02**|**Fatigue detection via sequential testing of biomechanical data using martingale statistic**|Rupsa Basu et.al.|[2306.01566v1](http://arxiv.org/abs/2306.01566v1)|
 |**2023-06-01**|**Encoder-decoder multimodal speaker change detection**|Jee-weon Jung et.al.|[2306.00680v1](http://arxiv.org/abs/2306.00680v1)|
