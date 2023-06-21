@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-19**|**Pattern Mining for Anomaly Detection in Graphs: Application to Fraud in Public Procurement**|Lucas Potin et.al.|[2306.10857v1](http://arxiv.org/abs/2306.10857v1)|
+|**2023-06-19**|**Non-contact Sensing for Anomaly Detection in Wind Turbine Blades: A focus-SVDD with Complex-Valued Auto-Encoder Approach**|Gaëtan Frusque et.al.|[2306.10808v1](http://arxiv.org/abs/2306.10808v1)|
+|**2023-06-19**|**Machine Learning for Real-Time Anomaly Detection in Optical Networks**|Sadananda Behera et.al.|[2306.10741v1](http://arxiv.org/abs/2306.10741v1)|
+|**2023-06-18**|**Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation**|Shuang Zhou et.al.|[2306.10534v1](http://arxiv.org/abs/2306.10534v1)|
+|**2023-06-18**|**Concept-Based Visual Analysis of Dynamic Textual Data**|Xiang Shouxing et.al.|[2306.10462v1](http://arxiv.org/abs/2306.10462v1)|
+|**2023-06-17**|**DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection**|Yiyuan Yang et.al.|[2306.10347v1](http://arxiv.org/abs/2306.10347v1)|
+|**2023-06-17**|**Tailoring Machine Learning for Process Mining**|Paolo Ceravolo et.al.|[2306.10341v1](http://arxiv.org/abs/2306.10341v1)|
+|**2023-06-17**|**Multi-scale Spatial-temporal Interaction Network for Video Anomaly Detection**|Zhiyuan Ning et.al.|[2306.10239v1](http://arxiv.org/abs/2306.10239v1)|
+|**2023-06-16**|**Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects**|Kexin Zhang et.al.|[2306.10125v1](http://arxiv.org/abs/2306.10125v1)|
 |**2023-06-16**|**Flow-Bench: A Dataset for Computational Workflow Anomaly Detection**|George Papadimitriou et.al.|[2306.09930v1](http://arxiv.org/abs/2306.09930v1)|
-|**2023-06-16**|**MixedTeacher : Knowledge Distillation for fast inference textural anomaly detection**|Simon Thomine et.al.|[2306.09859v1](http://arxiv.org/abs/2306.09859v1)|
-|**2023-06-15**|**Prevention of cyberattacks in WSN and packet drop by CI framework and information processing protocol using AI and Big Data**|Shreyanth S et.al.|[2306.09448v1](http://arxiv.org/abs/2306.09448v1)|
-|**2023-06-15**|**Unsupervised Anomaly Detection via Nonlinear Manifold Learning**|Amin Yousefpour et.al.|[2306.09441v1](http://arxiv.org/abs/2306.09441v1)|
-|**2023-06-15**|**Zero-Shot Anomaly Detection with Pre-trained Segmentation Models**|Matthew Baugh et.al.|[2306.09269v1](http://arxiv.org/abs/2306.09269v1)|
-|**2023-06-15**|**Winning Solution for the CVPR2023 Visual Anomaly and Novelty Detection Challenge: Multimodal Prompting for Data-centric Anomaly Detection**|Yunkang Cao et.al.|[2306.09067v1](http://arxiv.org/abs/2306.09067v1)|
-|**2023-06-14**|**Adaptive Modeling of Satellite-Derived Nighttime Lights Time-Series for Tracking Urban Change Processes Using Machine Learning**|Srija Chakraborty et.al.|[2306.08501v1](http://arxiv.org/abs/2306.08501v1)|
-|**2023-06-14**|**Flexible Krylov Methods for Group Sparsity Regularization**|Julianne Chung et.al.|[2306.08499v1](http://arxiv.org/abs/2306.08499v1)|
-|**2023-06-14**|**Single-board Device Individual Authentication based on Hardware Performance and Anomaly Detection for Crowdsensing Platforms**|Pedro Miguel Sánchez Sánchez et.al.|[2306.08495v1](http://arxiv.org/abs/2306.08495v1)|
-|**2023-06-14**|**SaliencyCut: Augmenting Plausible Anomalies for Open-set Fine-Grained Anomaly Detection**|Jianan Ye et.al.|[2306.08366v1](http://arxiv.org/abs/2306.08366v1)|
 
 ## change detection
 
