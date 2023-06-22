@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-21**|**GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection**|Jianheng Tang et.al.|[2306.12251v1](http://arxiv.org/abs/2306.12251v1)|
+|**2023-06-21**|**Chili Pepper Disease Diagnosis via Image Reconstruction Using GrabCut and Generative Adversarial Serial Autoencoder**|Jongwook Si et.al.|[2306.12057v1](http://arxiv.org/abs/2306.12057v1)|
+|**2023-06-21**|**Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors**|Nicolae-Catalin Ristea et.al.|[2306.12041v1](http://arxiv.org/abs/2306.12041v1)|
+|**2023-06-21**|**End-to-End Augmentation Hyperparameter Tuning for Self-Supervised Anomaly Detection**|Jaemin Yoo et.al.|[2306.12033v1](http://arxiv.org/abs/2306.12033v1)|
+|**2023-06-20**|**BMAD: Benchmarks for Medical Anomaly Detection**|Jinan Bao et.al.|[2306.11876v1](http://arxiv.org/abs/2306.11876v1)|
 |**2023-06-19**|**Pattern Mining for Anomaly Detection in Graphs: Application to Fraud in Public Procurement**|Lucas Potin et.al.|[2306.10857v1](http://arxiv.org/abs/2306.10857v1)|
 |**2023-06-19**|**Non-contact Sensing for Anomaly Detection in Wind Turbine Blades: A focus-SVDD with Complex-Valued Auto-Encoder Approach**|Gaëtan Frusque et.al.|[2306.10808v1](http://arxiv.org/abs/2306.10808v1)|
 |**2023-06-19**|**Machine Learning for Real-Time Anomaly Detection in Optical Networks**|Sadananda Behera et.al.|[2306.10741v1](http://arxiv.org/abs/2306.10741v1)|
 |**2023-06-18**|**Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation**|Shuang Zhou et.al.|[2306.10534v1](http://arxiv.org/abs/2306.10534v1)|
 |**2023-06-18**|**Concept-Based Visual Analysis of Dynamic Textual Data**|Xiang Shouxing et.al.|[2306.10462v1](http://arxiv.org/abs/2306.10462v1)|
-|**2023-06-17**|**DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection**|Yiyuan Yang et.al.|[2306.10347v1](http://arxiv.org/abs/2306.10347v1)|
-|**2023-06-17**|**Tailoring Machine Learning for Process Mining**|Paolo Ceravolo et.al.|[2306.10341v1](http://arxiv.org/abs/2306.10341v1)|
-|**2023-06-17**|**Multi-scale Spatial-temporal Interaction Network for Video Anomaly Detection**|Zhiyuan Ning et.al.|[2306.10239v1](http://arxiv.org/abs/2306.10239v1)|
-|**2023-06-16**|**Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects**|Kexin Zhang et.al.|[2306.10125v1](http://arxiv.org/abs/2306.10125v1)|
-|**2023-06-16**|**Flow-Bench: A Dataset for Computational Workflow Anomaly Detection**|George Papadimitriou et.al.|[2306.09930v1](http://arxiv.org/abs/2306.09930v1)|
 
 ## change detection
 
