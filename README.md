@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-22**|**Triggering Dark Showers with Conditional Dual Auto-Encoders**|Luca Anzalone et.al.|[2306.12955v1](http://arxiv.org/abs/2306.12955v1)|
+|**2023-06-22**|**OptIForest: Optimal Isolation Forest for Anomaly Detection**|Haolong Xiang et.al.|[2306.12703v1](http://arxiv.org/abs/2306.12703v1)|
+|**2023-06-22**|**Targeted collapse regularized autoencoder for anomaly detection: black hole at the center**|Amin Ghafourian et.al.|[2306.12627v1](http://arxiv.org/abs/2306.12627v1)|
 |**2023-06-21**|**GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection**|Jianheng Tang et.al.|[2306.12251v1](http://arxiv.org/abs/2306.12251v1)|
 |**2023-06-21**|**Chili Pepper Disease Diagnosis via Image Reconstruction Using GrabCut and Generative Adversarial Serial Autoencoder**|Jongwook Si et.al.|[2306.12057v1](http://arxiv.org/abs/2306.12057v1)|
 |**2023-06-21**|**Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors**|Nicolae-Catalin Ristea et.al.|[2306.12041v1](http://arxiv.org/abs/2306.12041v1)|
@@ -56,14 +59,12 @@
 |**2023-06-20**|**BMAD: Benchmarks for Medical Anomaly Detection**|Jinan Bao et.al.|[2306.11876v1](http://arxiv.org/abs/2306.11876v1)|
 |**2023-06-19**|**Pattern Mining for Anomaly Detection in Graphs: Application to Fraud in Public Procurement**|Lucas Potin et.al.|[2306.10857v1](http://arxiv.org/abs/2306.10857v1)|
 |**2023-06-19**|**Non-contact Sensing for Anomaly Detection in Wind Turbine Blades: A focus-SVDD with Complex-Valued Auto-Encoder Approach**|Gaëtan Frusque et.al.|[2306.10808v1](http://arxiv.org/abs/2306.10808v1)|
-|**2023-06-19**|**Machine Learning for Real-Time Anomaly Detection in Optical Networks**|Sadananda Behera et.al.|[2306.10741v1](http://arxiv.org/abs/2306.10741v1)|
-|**2023-06-18**|**Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation**|Shuang Zhou et.al.|[2306.10534v1](http://arxiv.org/abs/2306.10534v1)|
-|**2023-06-18**|**Concept-Based Visual Analysis of Dynamic Textual Data**|Xiang Shouxing et.al.|[2306.10462v1](http://arxiv.org/abs/2306.10462v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-22**|**Adaptive Bernstein Change Detector for High-Dimensional Data Streams**|Marco Heyden et.al.|[2306.12974v1](http://arxiv.org/abs/2306.12974v1)|
 |**2023-06-16**|**DisasterNets: Embedding Machine Learning in Disaster Mapping**|Qingsong Xu et.al.|[2306.09815v1](http://arxiv.org/abs/2306.09815v1)|
 |**2023-06-15**|**Context-Aware Change Detection With Semi-Supervised Learning**|Ritu Yadav et.al.|[2306.08935v1](http://arxiv.org/abs/2306.08935v1)|
 |**2023-06-13**|**Gravitational and dark wave emission at binary merger**|Kunio Kaneta et.al.|[2306.07592v1](http://arxiv.org/abs/2306.07592v1)|
@@ -73,5 +74,4 @@
 |**2023-06-06**|**A Generative Change Detection Model Based on Difference-Feature Guided DDPM**|Yihan Wen et.al.|[2306.03424v2](http://arxiv.org/abs/2306.03424v2)|
 |**2023-06-03**|**Lightweight Structure-aware Transformer Network for VHR Remote Sensing Image Change Detection**|Tao Lei et.al.|[2306.01988v1](http://arxiv.org/abs/2306.01988v1)|
 |**2023-06-02**|**Fatigue detection via sequential testing of biomechanical data using martingale statistic**|Rupsa Basu et.al.|[2306.01566v1](http://arxiv.org/abs/2306.01566v1)|
-|**2023-06-01**|**Encoder-decoder multimodal speaker change detection**|Jee-weon Jung et.al.|[2306.00680v1](http://arxiv.org/abs/2306.00680v1)|
 
