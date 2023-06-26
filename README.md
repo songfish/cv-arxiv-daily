@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-23**|**Autoencoders for Real-Time SUEP Detection**|Simranjit Singh Chhibra et.al.|[2306.13595v1](http://arxiv.org/abs/2306.13595v1)|
 |**2023-06-22**|**Triggering Dark Showers with Conditional Dual Auto-Encoders**|Luca Anzalone et.al.|[2306.12955v1](http://arxiv.org/abs/2306.12955v1)|
 |**2023-06-22**|**OptIForest: Optimal Isolation Forest for Anomaly Detection**|Haolong Xiang et.al.|[2306.12703v2](http://arxiv.org/abs/2306.12703v2)|
 |**2023-06-22**|**Targeted collapse regularized autoencoder for anomaly detection: black hole at the center**|Amin Ghafourian et.al.|[2306.12627v1](http://arxiv.org/abs/2306.12627v1)|
@@ -58,7 +59,6 @@
 |**2023-06-21**|**End-to-End Augmentation Hyperparameter Tuning for Self-Supervised Anomaly Detection**|Jaemin Yoo et.al.|[2306.12033v1](http://arxiv.org/abs/2306.12033v1)|
 |**2023-06-20**|**BMAD: Benchmarks for Medical Anomaly Detection**|Jinan Bao et.al.|[2306.11876v1](http://arxiv.org/abs/2306.11876v1)|
 |**2023-06-19**|**Pattern Mining for Anomaly Detection in Graphs: Application to Fraud in Public Procurement**|Lucas Potin et.al.|[2306.10857v1](http://arxiv.org/abs/2306.10857v1)|
-|**2023-06-19**|**Non-contact Sensing for Anomaly Detection in Wind Turbine Blades: A focus-SVDD with Complex-Valued Auto-Encoder Approach**|Gaëtan Frusque et.al.|[2306.10808v1](http://arxiv.org/abs/2306.10808v1)|
 
 ## change detection
 
