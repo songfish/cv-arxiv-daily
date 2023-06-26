@@ -1,4 +1,4 @@
-## Updated on 2023.06.25
+## Updated on 2023.06.26
 
 ## super-resolution
 
@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2023-06-22**|**Triggering Dark Showers with Conditional Dual Auto-Encoders**|Luca Anzalone et.al.|[2306.12955v1](http://arxiv.org/abs/2306.12955v1)|
-|**2023-06-22**|**OptIForest: Optimal Isolation Forest for Anomaly Detection**|Haolong Xiang et.al.|[2306.12703v1](http://arxiv.org/abs/2306.12703v1)|
+|**2023-06-22**|**OptIForest: Optimal Isolation Forest for Anomaly Detection**|Haolong Xiang et.al.|[2306.12703v2](http://arxiv.org/abs/2306.12703v2)|
 |**2023-06-22**|**Targeted collapse regularized autoencoder for anomaly detection: black hole at the center**|Amin Ghafourian et.al.|[2306.12627v1](http://arxiv.org/abs/2306.12627v1)|
 |**2023-06-21**|**GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection**|Jianheng Tang et.al.|[2306.12251v1](http://arxiv.org/abs/2306.12251v1)|
 |**2023-06-21**|**Chili Pepper Disease Diagnosis via Image Reconstruction Using GrabCut and Generative Adversarial Serial Autoencoder**|Jongwook Si et.al.|[2306.12057v1](http://arxiv.org/abs/2306.12057v1)|
