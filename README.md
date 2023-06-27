@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-26**|**Optimizing Kernel-Target Alignment for cloud detection in multispectral satellite images**|Artur Miroszewski et.al.|[2306.14515v1](http://arxiv.org/abs/2306.14515v1)|
 |**2023-06-16**|**Squeezing nnU-Nets with Knowledge Distillation for On-Board Cloud Detection**|Bartosz Grabowski et.al.|[2306.09886v1](http://arxiv.org/abs/2306.09886v1)|
 |**2023-06-15**|**SSL4EO-L: Datasets and Foundation Models for Landsat Imagery**|Adam J. Stewart et.al.|[2306.09424v1](http://arxiv.org/abs/2306.09424v1)|
 |**2023-06-12**|**CD-CTFM: A Lightweight CNN-Transformer Network for Remote Sensing Cloud Detection Fusing Multiscale Features**|Wenxuan Ge et.al.|[2306.07186v1](http://arxiv.org/abs/2306.07186v1)|
@@ -28,7 +29,6 @@
 |**2023-04-03**|**Open-Vocabulary Point-Cloud Object Detection without 3D Annotation**|Yuheng Lu et.al.|[2304.00788v2](http://arxiv.org/abs/2304.00788v2)|
 |**2023-03-29**|**PMAA: A Progressive Multi-scale Attention Autoencoder Model for High-Performance Cloud Removal from Multi-temporal Satellite Imagery**|Xuechao Zou et.al.|[2303.16565v1](http://arxiv.org/abs/2303.16565v1)|
 |**2023-02-16**|**Detecting Clouds in Multispectral Satellite Images Using Quantum-Kernel Support Vector Machines**|Artur Miroszewski et.al.|[2302.08270v1](http://arxiv.org/abs/2302.08270v1)|
-|**2022-12-21**|**MM811 Project Report: Cloud Detection and Removal in Satellite Images**|Dale Chen-Song et.al.|[2212.11369v1](http://arxiv.org/abs/2212.11369v1)|
 
 ## abnormal detection
 
@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-06-23**|**Autoencoders for Real-Time SUEP Detection**|Simranjit Singh Chhibra et.al.|[2306.13595v1](http://arxiv.org/abs/2306.13595v1)|
+|**2023-06-26**|**Application and analysis of MUSIC algorithm for anomaly detection in microwave imaging without a switching device**|Won-Kwang Park et.al.|[2306.14555v1](http://arxiv.org/abs/2306.14555v1)|
+|**2023-06-26**|**Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection**|Yujiang Pu et.al.|[2306.14451v1](http://arxiv.org/abs/2306.14451v1)|
+|**2023-06-26**|**Anomaly Detection with Score Distribution Discrimination**|Minqi Jiang et.al.|[2306.14403v1](http://arxiv.org/abs/2306.14403v1)|
+|**2023-06-23**|**Autoencoders for Real-Time SUEP Detection**|Simranjit Singh Chhibra et.al.|[2306.13595v2](http://arxiv.org/abs/2306.13595v2)|
 |**2023-06-22**|**Triggering Dark Showers with Conditional Dual Auto-Encoders**|Luca Anzalone et.al.|[2306.12955v1](http://arxiv.org/abs/2306.12955v1)|
 |**2023-06-22**|**OptIForest: Optimal Isolation Forest for Anomaly Detection**|Haolong Xiang et.al.|[2306.12703v2](http://arxiv.org/abs/2306.12703v2)|
 |**2023-06-22**|**Targeted collapse regularized autoencoder for anomaly detection: black hole at the center**|Amin Ghafourian et.al.|[2306.12627v1](http://arxiv.org/abs/2306.12627v1)|
 |**2023-06-21**|**GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection**|Jianheng Tang et.al.|[2306.12251v1](http://arxiv.org/abs/2306.12251v1)|
 |**2023-06-21**|**Chili Pepper Disease Diagnosis via Image Reconstruction Using GrabCut and Generative Adversarial Serial Autoencoder**|Jongwook Si et.al.|[2306.12057v1](http://arxiv.org/abs/2306.12057v1)|
 |**2023-06-21**|**Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors**|Nicolae-Catalin Ristea et.al.|[2306.12041v1](http://arxiv.org/abs/2306.12041v1)|
-|**2023-06-21**|**End-to-End Augmentation Hyperparameter Tuning for Self-Supervised Anomaly Detection**|Jaemin Yoo et.al.|[2306.12033v1](http://arxiv.org/abs/2306.12033v1)|
-|**2023-06-20**|**BMAD: Benchmarks for Medical Anomaly Detection**|Jinan Bao et.al.|[2306.11876v1](http://arxiv.org/abs/2306.11876v1)|
-|**2023-06-19**|**Pattern Mining for Anomaly Detection in Graphs: Application to Fraud in Public Procurement**|Lucas Potin et.al.|[2306.10857v1](http://arxiv.org/abs/2306.10857v1)|
 
 ## change detection
 
