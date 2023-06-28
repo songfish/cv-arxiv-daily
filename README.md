@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-27**|**Precursor-of-Anomaly Detection for Irregular Time Series**|Sheo Yon Jhin et.al.|[2306.15489v1](http://arxiv.org/abs/2306.15489v1)|
+|**2023-06-27**|**Anomaly Detection in Networks via Score-Based Generative Models**|Dmitrii Gavrilev et.al.|[2306.15324v1](http://arxiv.org/abs/2306.15324v1)|
 |**2023-06-26**|**Application and analysis of MUSIC algorithm for anomaly detection in microwave imaging without a switching device**|Won-Kwang Park et.al.|[2306.14555v1](http://arxiv.org/abs/2306.14555v1)|
 |**2023-06-26**|**Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection**|Yujiang Pu et.al.|[2306.14451v1](http://arxiv.org/abs/2306.14451v1)|
 |**2023-06-26**|**Anomaly Detection with Score Distribution Discrimination**|Minqi Jiang et.al.|[2306.14403v1](http://arxiv.org/abs/2306.14403v1)|
@@ -57,13 +59,12 @@
 |**2023-06-22**|**OptIForest: Optimal Isolation Forest for Anomaly Detection**|Haolong Xiang et.al.|[2306.12703v2](http://arxiv.org/abs/2306.12703v2)|
 |**2023-06-22**|**Targeted collapse regularized autoencoder for anomaly detection: black hole at the center**|Amin Ghafourian et.al.|[2306.12627v1](http://arxiv.org/abs/2306.12627v1)|
 |**2023-06-21**|**GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection**|Jianheng Tang et.al.|[2306.12251v1](http://arxiv.org/abs/2306.12251v1)|
-|**2023-06-21**|**Chili Pepper Disease Diagnosis via Image Reconstruction Using GrabCut and Generative Adversarial Serial Autoencoder**|Jongwook Si et.al.|[2306.12057v1](http://arxiv.org/abs/2306.12057v1)|
-|**2023-06-21**|**Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors**|Nicolae-Catalin Ristea et.al.|[2306.12041v1](http://arxiv.org/abs/2306.12041v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-27**|**Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison**|Nikolaos Stathoulopoulos et.al.|[2306.15416v1](http://arxiv.org/abs/2306.15416v1)|
 |**2023-06-22**|**Adaptive Bernstein Change Detector for High-Dimensional Data Streams**|Marco Heyden et.al.|[2306.12974v1](http://arxiv.org/abs/2306.12974v1)|
 |**2023-06-16**|**DisasterNets: Embedding Machine Learning in Disaster Mapping**|Qingsong Xu et.al.|[2306.09815v1](http://arxiv.org/abs/2306.09815v1)|
 |**2023-06-15**|**Context-Aware Change Detection With Semi-Supervised Learning**|Ritu Yadav et.al.|[2306.08935v1](http://arxiv.org/abs/2306.08935v1)|
@@ -73,5 +74,4 @@
 |**2023-06-07**|**Multi-microphone Automatic Speech Segmentation in Meetings Based on Circular Harmonics Features**|Théo Mariotte et.al.|[2306.04268v1](http://arxiv.org/abs/2306.04268v1)|
 |**2023-06-06**|**A Generative Change Detection Model Based on Difference-Feature Guided DDPM**|Yihan Wen et.al.|[2306.03424v2](http://arxiv.org/abs/2306.03424v2)|
 |**2023-06-03**|**Lightweight Structure-aware Transformer Network for VHR Remote Sensing Image Change Detection**|Tao Lei et.al.|[2306.01988v1](http://arxiv.org/abs/2306.01988v1)|
-|**2023-06-02**|**Fatigue detection via sequential testing of biomechanical data using martingale statistic**|Rupsa Basu et.al.|[2306.01566v1](http://arxiv.org/abs/2306.01566v1)|
 
