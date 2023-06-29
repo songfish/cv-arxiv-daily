@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-28**|**Interpretable Anomaly Detection in Cellular Networks by Learning Concepts in Variational Autoencoders**|Amandeep Singh et.al.|[2306.15938v1](http://arxiv.org/abs/2306.15938v1)|
+|**2023-06-27**|**Learning normal asymmetry representations for homologous brain structures**|Duilio Deangeli et.al.|[2306.15811v1](http://arxiv.org/abs/2306.15811v1)|
 |**2023-06-27**|**Precursor-of-Anomaly Detection for Irregular Time Series**|Sheo Yon Jhin et.al.|[2306.15489v2](http://arxiv.org/abs/2306.15489v2)|
 |**2023-06-27**|**Anomaly Detection in Networks via Score-Based Generative Models**|Dmitrii Gavrilev et.al.|[2306.15324v1](http://arxiv.org/abs/2306.15324v1)|
 |**2023-06-26**|**Application and analysis of MUSIC algorithm for anomaly detection in microwave imaging without a switching device**|Won-Kwang Park et.al.|[2306.14555v1](http://arxiv.org/abs/2306.14555v1)|
@@ -57,13 +59,12 @@
 |**2023-06-23**|**Autoencoders for Real-Time SUEP Detection**|Simranjit Singh Chhibra et.al.|[2306.13595v2](http://arxiv.org/abs/2306.13595v2)|
 |**2023-06-22**|**Triggering Dark Showers with Conditional Dual Auto-Encoders**|Luca Anzalone et.al.|[2306.12955v1](http://arxiv.org/abs/2306.12955v1)|
 |**2023-06-22**|**OptIForest: Optimal Isolation Forest for Anomaly Detection**|Haolong Xiang et.al.|[2306.12703v2](http://arxiv.org/abs/2306.12703v2)|
-|**2023-06-22**|**Targeted collapse regularized autoencoder for anomaly detection: black hole at the center**|Amin Ghafourian et.al.|[2306.12627v1](http://arxiv.org/abs/2306.12627v1)|
-|**2023-06-21**|**GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection**|Jianheng Tang et.al.|[2306.12251v1](http://arxiv.org/abs/2306.12251v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-06-28**|**Lifelong Change Detection: Continuous Domain Adaptation for Small Object Change Detection in Every Robot Navigation**|Koji Takeda et.al.|[2306.16086v1](http://arxiv.org/abs/2306.16086v1)|
 |**2023-06-27**|**Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison**|Nikolaos Stathoulopoulos et.al.|[2306.15416v1](http://arxiv.org/abs/2306.15416v1)|
 |**2023-06-22**|**Adaptive Bernstein Change Detector for High-Dimensional Data Streams**|Marco Heyden et.al.|[2306.12974v1](http://arxiv.org/abs/2306.12974v1)|
 |**2023-06-16**|**DisasterNets: Embedding Machine Learning in Disaster Mapping**|Qingsong Xu et.al.|[2306.09815v1](http://arxiv.org/abs/2306.09815v1)|
@@ -73,5 +74,4 @@
 |**2023-06-08**|**Robust Quickest Change Detection for Unnormalized Models**|Suya Wu et.al.|[2306.05091v1](http://arxiv.org/abs/2306.05091v1)|
 |**2023-06-07**|**Multi-microphone Automatic Speech Segmentation in Meetings Based on Circular Harmonics Features**|Théo Mariotte et.al.|[2306.04268v1](http://arxiv.org/abs/2306.04268v1)|
 |**2023-06-06**|**A Generative Change Detection Model Based on Difference-Feature Guided DDPM**|Yihan Wen et.al.|[2306.03424v2](http://arxiv.org/abs/2306.03424v2)|
-|**2023-06-03**|**Lightweight Structure-aware Transformer Network for VHR Remote Sensing Image Change Detection**|Tao Lei et.al.|[2306.01988v1](http://arxiv.org/abs/2306.01988v1)|
 
