@@ -1,4 +1,4 @@
-## Updated on 2023.06.28
+## Updated on 2023.06.29
 
 ## super-resolution
 
@@ -49,7 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-06-27**|**Precursor-of-Anomaly Detection for Irregular Time Series**|Sheo Yon Jhin et.al.|[2306.15489v1](http://arxiv.org/abs/2306.15489v1)|
+|**2023-06-27**|**Precursor-of-Anomaly Detection for Irregular Time Series**|Sheo Yon Jhin et.al.|[2306.15489v2](http://arxiv.org/abs/2306.15489v2)|
 |**2023-06-27**|**Anomaly Detection in Networks via Score-Based Generative Models**|Dmitrii Gavrilev et.al.|[2306.15324v1](http://arxiv.org/abs/2306.15324v1)|
 |**2023-06-26**|**Application and analysis of MUSIC algorithm for anomaly detection in microwave imaging without a switching device**|Won-Kwang Park et.al.|[2306.14555v1](http://arxiv.org/abs/2306.14555v1)|
 |**2023-06-26**|**Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection**|Yujiang Pu et.al.|[2306.14451v1](http://arxiv.org/abs/2306.14451v1)|
