@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-05**|**Data-driven Predictive Latency for 5G: A Theoretical and Experimental Analysis Using Network Measurements**|Marco Skocaj et.al.|[2307.02329v1](http://arxiv.org/abs/2307.02329v1)|
+|**2023-07-04**|**Search for new phenomena in two-body invariant mass distributions using unsupervised machine learning for anomaly detection at $\sqrt{s} = 13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2307.01612v1](http://arxiv.org/abs/2307.01612v1)|
+|**2023-07-04**|**Prototypes as Explanation for Time Series Anomaly Detection**|Bin Li et.al.|[2307.01601v1](http://arxiv.org/abs/2307.01601v1)|
+|**2023-07-04**|**Unsupervised Video Anomaly Detection with Diffusion Models Conditioned on Compact Motion Representations**|Anil Osman Tur et.al.|[2307.01533v1](http://arxiv.org/abs/2307.01533v1)|
 |**2023-07-03**|**The ROAD to discovery: machine learning-driven anomaly detection in radio astronomy spectrograms**|Michael Mesarcik et.al.|[2307.01054v1](http://arxiv.org/abs/2307.01054v1)|
 |**2023-07-03**|**Graph-level Anomaly Detection via Hierarchical Memory Networks**|Chaoxi Niu et.al.|[2307.00755v1](http://arxiv.org/abs/2307.00755v1)|
 |**2023-07-03**|**ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection**|Yuhang Chen et.al.|[2307.00754v1](http://arxiv.org/abs/2307.00754v1)|
 |**2023-07-03**|**Feasibility of Universal Anomaly Detection without Knowing the Abnormality in Medical Images**|Can Cui et.al.|[2307.00750v1](http://arxiv.org/abs/2307.00750v1)|
 |**2023-07-02**|**Morse Neural Networks for Uncertainty Quantification**|Benoit Dherin et.al.|[2307.00667v1](http://arxiv.org/abs/2307.00667v1)|
 |**2023-07-02**|**A MIL Approach for Anomaly Detection in Surveillance Videos from Multiple Camera Views**|Silas Santiago Lopes Pereira et.al.|[2307.00562v1](http://arxiv.org/abs/2307.00562v1)|
-|**2023-07-02**|**Graph Neural Network based Log Anomaly Detection and Explanation**|Zhong Li et.al.|[2307.00527v1](http://arxiv.org/abs/2307.00527v1)|
-|**2023-07-02**|**Enhanced Quantum Force Sensing by Digital Twinning of Atomic Bose-Einstein Condensates**|Tangyou Huang et.al.|[2307.00484v1](http://arxiv.org/abs/2307.00484v1)|
-|**2023-07-01**|**A Comparative Study of Machine Learning Algorithms for Anomaly Detection in Industrial Environments: Performance and Environmental Impact**|Álvaro Huertas-García et.al.|[2307.00361v1](http://arxiv.org/abs/2307.00361v1)|
-|**2023-07-01**|**Applied Bayesian Structural Health Monitoring: inclinometer data anomaly detection and forecasting**|David K. E. Green et.al.|[2307.00305v1](http://arxiv.org/abs/2307.00305v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-05**|**Remote Sensing Image Change Detection with Graph Interaction**|Chenglong Liu et.al.|[2307.02007v1](http://arxiv.org/abs/2307.02007v1)|
 |**2023-06-28**|**Lifelong Change Detection: Continuous Domain Adaptation for Small Object Change Detection in Every Robot Navigation**|Koji Takeda et.al.|[2306.16086v1](http://arxiv.org/abs/2306.16086v1)|
 |**2023-06-27**|**Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison**|Nikolaos Stathoulopoulos et.al.|[2306.15416v2](http://arxiv.org/abs/2306.15416v2)|
 |**2023-06-22**|**Adaptive Bernstein Change Detector for High-Dimensional Data Streams**|Marco Heyden et.al.|[2306.12974v1](http://arxiv.org/abs/2306.12974v1)|
@@ -73,5 +74,4 @@
 |**2023-06-08**|**Language-specific Acoustic Boundary Learning for Mandarin-English Code-switching Speech Recognition**|Zhiyun Fan et.al.|[2306.05279v1](http://arxiv.org/abs/2306.05279v1)|
 |**2023-06-08**|**Robust Quickest Change Detection for Unnormalized Models**|Suya Wu et.al.|[2306.05091v1](http://arxiv.org/abs/2306.05091v1)|
 |**2023-06-07**|**Multi-microphone Automatic Speech Segmentation in Meetings Based on Circular Harmonics Features**|Théo Mariotte et.al.|[2306.04268v1](http://arxiv.org/abs/2306.04268v1)|
-|**2023-06-06**|**A Generative Change Detection Model Based on Difference-Feature Guided DDPM**|Yihan Wen et.al.|[2306.03424v2](http://arxiv.org/abs/2306.03424v2)|
 
