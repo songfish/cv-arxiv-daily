@@ -1,4 +1,4 @@
-## Updated on 2023.07.05
+## Updated on 2023.07.06
 
 ## super-resolution
 
@@ -65,7 +65,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2023-06-28**|**Lifelong Change Detection: Continuous Domain Adaptation for Small Object Change Detection in Every Robot Navigation**|Koji Takeda et.al.|[2306.16086v1](http://arxiv.org/abs/2306.16086v1)|
-|**2023-06-27**|**Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison**|Nikolaos Stathoulopoulos et.al.|[2306.15416v1](http://arxiv.org/abs/2306.15416v1)|
+|**2023-06-27**|**Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison**|Nikolaos Stathoulopoulos et.al.|[2306.15416v2](http://arxiv.org/abs/2306.15416v2)|
 |**2023-06-22**|**Adaptive Bernstein Change Detector for High-Dimensional Data Streams**|Marco Heyden et.al.|[2306.12974v1](http://arxiv.org/abs/2306.12974v1)|
 |**2023-06-16**|**DisasterNets: Embedding Machine Learning in Disaster Mapping**|Qingsong Xu et.al.|[2306.09815v1](http://arxiv.org/abs/2306.09815v1)|
 |**2023-06-15**|**Context-Aware Change Detection With Semi-Supervised Learning**|Ritu Yadav et.al.|[2306.08935v1](http://arxiv.org/abs/2306.08935v1)|
