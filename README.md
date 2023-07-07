@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-06**|**Contextual Affinity Distillation for Image Anomaly Detection**|Jie Zhang et.al.|[2307.03101v1](http://arxiv.org/abs/2307.03101v1)|
+|**2023-07-06**|**Noise-to-Norm Reconstruction for Industrial Anomaly Detection and Localization**|Shiqi Deng et.al.|[2307.02836v1](http://arxiv.org/abs/2307.02836v1)|
+|**2023-07-05**|**TransformerG2G: Adaptive time-stepping for learning temporal graph embeddings using transformers**|Alan John Varghese et.al.|[2307.02588v1](http://arxiv.org/abs/2307.02588v1)|
+|**2023-07-04**|**Anomaly detection in image or latent space of patch-based auto-encoders for industrial image analysis**|Nicolas Pinon et.al.|[2307.02495v1](http://arxiv.org/abs/2307.02495v1)|
 |**2023-07-05**|**Data-driven Predictive Latency for 5G: A Theoretical and Experimental Analysis Using Network Measurements**|Marco Skocaj et.al.|[2307.02329v1](http://arxiv.org/abs/2307.02329v1)|
 |**2023-07-04**|**Search for new phenomena in two-body invariant mass distributions using unsupervised machine learning for anomaly detection at $\sqrt{s} = 13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2307.01612v1](http://arxiv.org/abs/2307.01612v1)|
 |**2023-07-04**|**Prototypes as Explanation for Time Series Anomaly Detection**|Bin Li et.al.|[2307.01601v1](http://arxiv.org/abs/2307.01601v1)|
 |**2023-07-04**|**Unsupervised Video Anomaly Detection with Diffusion Models Conditioned on Compact Motion Representations**|Anil Osman Tur et.al.|[2307.01533v1](http://arxiv.org/abs/2307.01533v1)|
 |**2023-07-03**|**The ROAD to discovery: machine learning-driven anomaly detection in radio astronomy spectrograms**|Michael Mesarcik et.al.|[2307.01054v1](http://arxiv.org/abs/2307.01054v1)|
 |**2023-07-03**|**Graph-level Anomaly Detection via Hierarchical Memory Networks**|Chaoxi Niu et.al.|[2307.00755v1](http://arxiv.org/abs/2307.00755v1)|
-|**2023-07-03**|**ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection**|Yuhang Chen et.al.|[2307.00754v1](http://arxiv.org/abs/2307.00754v1)|
-|**2023-07-03**|**Feasibility of Universal Anomaly Detection without Knowing the Abnormality in Medical Images**|Can Cui et.al.|[2307.00750v1](http://arxiv.org/abs/2307.00750v1)|
-|**2023-07-02**|**Morse Neural Networks for Uncertainty Quantification**|Benoit Dherin et.al.|[2307.00667v1](http://arxiv.org/abs/2307.00667v1)|
-|**2023-07-02**|**A MIL Approach for Anomaly Detection in Surveillance Videos from Multiple Camera Views**|Silas Santiago Lopes Pereira et.al.|[2307.00562v1](http://arxiv.org/abs/2307.00562v1)|
 
 ## change detection
 
