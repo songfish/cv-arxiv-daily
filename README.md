@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-07**|**CSCLog: A Component Subsequence Correlation-Aware Log Anomaly Detection Method**|Ling Chen et.al.|[2307.03359v1](http://arxiv.org/abs/2307.03359v1)|
+|**2023-07-06**|**That's BAD: Blind Anomaly Detection by Implicit Local Feature Clustering**|Jie Zhang et.al.|[2307.03243v1](http://arxiv.org/abs/2307.03243v1)|
 |**2023-07-06**|**Contextual Affinity Distillation for Image Anomaly Detection**|Jie Zhang et.al.|[2307.03101v1](http://arxiv.org/abs/2307.03101v1)|
 |**2023-07-06**|**Noise-to-Norm Reconstruction for Industrial Anomaly Detection and Localization**|Shiqi Deng et.al.|[2307.02836v1](http://arxiv.org/abs/2307.02836v1)|
 |**2023-07-05**|**TransformerG2G: Adaptive time-stepping for learning temporal graph embeddings using transformers**|Alan John Varghese et.al.|[2307.02588v1](http://arxiv.org/abs/2307.02588v1)|
@@ -57,8 +59,6 @@
 |**2023-07-04**|**Search for new phenomena in two-body invariant mass distributions using unsupervised machine learning for anomaly detection at $\sqrt{s} = 13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2307.01612v1](http://arxiv.org/abs/2307.01612v1)|
 |**2023-07-04**|**Prototypes as Explanation for Time Series Anomaly Detection**|Bin Li et.al.|[2307.01601v1](http://arxiv.org/abs/2307.01601v1)|
 |**2023-07-04**|**Unsupervised Video Anomaly Detection with Diffusion Models Conditioned on Compact Motion Representations**|Anil Osman Tur et.al.|[2307.01533v1](http://arxiv.org/abs/2307.01533v1)|
-|**2023-07-03**|**The ROAD to discovery: machine learning-driven anomaly detection in radio astronomy spectrograms**|Michael Mesarcik et.al.|[2307.01054v1](http://arxiv.org/abs/2307.01054v1)|
-|**2023-07-03**|**Graph-level Anomaly Detection via Hierarchical Memory Networks**|Chaoxi Niu et.al.|[2307.00755v1](http://arxiv.org/abs/2307.00755v1)|
 
 ## change detection
 
