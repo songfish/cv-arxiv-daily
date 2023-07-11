@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-10**|**Performance comparison of timing-based anomaly detectors for Controller Area Network: a reproducible study**|Francesco Pollicino et.al.|[2307.04561v1](http://arxiv.org/abs/2307.04561v1)|
+|**2023-07-10**|**Edge Storage Management Recipe with Zero-Shot Data Compression for Road Anomaly Detection**|YeongHyeon Park et.al.|[2307.04298v1](http://arxiv.org/abs/2307.04298v1)|
+|**2023-07-09**|**Restricted Generative Projection for One-Class Classification and Anomaly Detection**|Feng Xiao et.al.|[2307.04097v1](http://arxiv.org/abs/2307.04097v1)|
+|**2023-07-07**|**Dynamic Graph Attention for Anomaly Detection in Heterogeneous Sensor Networks**|Mengjie Zhao et.al.|[2307.03761v1](http://arxiv.org/abs/2307.03761v1)|
+|**2023-07-07**|**A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection**|Ming Jin et.al.|[2307.03759v1](http://arxiv.org/abs/2307.03759v1)|
+|**2023-07-06**|**FITS: Modeling Time Series with $10k$ Parameters**|Zhijian Xu et.al.|[2307.03756v1](http://arxiv.org/abs/2307.03756v1)|
 |**2023-07-07**|**CSCLog: A Component Subsequence Correlation-Aware Log Anomaly Detection Method**|Ling Chen et.al.|[2307.03359v1](http://arxiv.org/abs/2307.03359v1)|
 |**2023-07-06**|**That's BAD: Blind Anomaly Detection by Implicit Local Feature Clustering**|Jie Zhang et.al.|[2307.03243v1](http://arxiv.org/abs/2307.03243v1)|
 |**2023-07-06**|**Contextual Affinity Distillation for Image Anomaly Detection**|Jie Zhang et.al.|[2307.03101v1](http://arxiv.org/abs/2307.03101v1)|
 |**2023-07-06**|**Noise-to-Norm Reconstruction for Industrial Anomaly Detection and Localization**|Shiqi Deng et.al.|[2307.02836v1](http://arxiv.org/abs/2307.02836v1)|
-|**2023-07-05**|**TransformerG2G: Adaptive time-stepping for learning temporal graph embeddings using transformers**|Alan John Varghese et.al.|[2307.02588v1](http://arxiv.org/abs/2307.02588v1)|
-|**2023-07-04**|**Anomaly detection in image or latent space of patch-based auto-encoders for industrial image analysis**|Nicolas Pinon et.al.|[2307.02495v1](http://arxiv.org/abs/2307.02495v1)|
-|**2023-07-05**|**Data-driven Predictive Latency for 5G: A Theoretical and Experimental Analysis Using Network Measurements**|Marco Skocaj et.al.|[2307.02329v2](http://arxiv.org/abs/2307.02329v2)|
-|**2023-07-04**|**Search for new phenomena in two-body invariant mass distributions using unsupervised machine learning for anomaly detection at $\sqrt{s} = 13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2307.01612v1](http://arxiv.org/abs/2307.01612v1)|
-|**2023-07-04**|**Prototypes as Explanation for Time Series Anomaly Detection**|Bin Li et.al.|[2307.01601v1](http://arxiv.org/abs/2307.01601v1)|
-|**2023-07-04**|**Unsupervised Video Anomaly Detection with Diffusion Models Conditioned on Compact Motion Representations**|Anil Osman Tur et.al.|[2307.01533v1](http://arxiv.org/abs/2307.01533v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-09**|**Reducing False Alarms in Video Surveillance by Deep Feature Statistical Modeling**|Xavier Bou et.al.|[2307.04159v1](http://arxiv.org/abs/2307.04159v1)|
 |**2023-07-05**|**Remote Sensing Image Change Detection with Graph Interaction**|Chenglong Liu et.al.|[2307.02007v1](http://arxiv.org/abs/2307.02007v1)|
 |**2023-06-28**|**Lifelong Change Detection: Continuous Domain Adaptation for Small Object Change Detection in Every Robot Navigation**|Koji Takeda et.al.|[2306.16086v1](http://arxiv.org/abs/2306.16086v1)|
 |**2023-06-27**|**Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison**|Nikolaos Stathoulopoulos et.al.|[2306.15416v2](http://arxiv.org/abs/2306.15416v2)|
@@ -73,5 +74,4 @@
 |**2023-06-13**|**Gravitational and dark wave emission at binary merger**|Kunio Kaneta et.al.|[2306.07592v1](http://arxiv.org/abs/2306.07592v1)|
 |**2023-06-08**|**Language-specific Acoustic Boundary Learning for Mandarin-English Code-switching Speech Recognition**|Zhiyun Fan et.al.|[2306.05279v1](http://arxiv.org/abs/2306.05279v1)|
 |**2023-06-08**|**Robust Quickest Change Detection for Unnormalized Models**|Suya Wu et.al.|[2306.05091v1](http://arxiv.org/abs/2306.05091v1)|
-|**2023-06-07**|**Multi-microphone Automatic Speech Segmentation in Meetings Based on Circular Harmonics Features**|Théo Mariotte et.al.|[2306.04268v1](http://arxiv.org/abs/2306.04268v1)|
 
