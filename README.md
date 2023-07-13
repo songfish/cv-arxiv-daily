@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-12**|**Visualization for Multivariate Gaussian Anomaly Detection in Images**|Joao P C Bertoldo et.al.|[2307.06052v1](http://arxiv.org/abs/2307.06052v1)|
+|**2023-07-11**|**A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions**|Peng Yan et.al.|[2307.05638v1](http://arxiv.org/abs/2307.05638v1)|
 |**2023-07-11**|**Temporal Graphs Anomaly Emergence Detection: Benchmarking For Social Media Interactions**|Teddy Lazebnik et.al.|[2307.05268v1](http://arxiv.org/abs/2307.05268v1)|
 |**2023-07-11**|**Unveiling the Invisible: Enhanced Detection and Analysis of Deteriorated Areas in Solar PV Modules Using Unsupervised Sensing Algorithms and 3D Augmented Reality**|Adel Oulefki et.al.|[2307.05136v2](http://arxiv.org/abs/2307.05136v2)|
 |**2023-07-11**|**PKU-GoodsAD: A Supermarket Goods Dataset for Unsupervised Anomaly Detection and Segmentation**|Jian Zhang et.al.|[2307.04956v1](http://arxiv.org/abs/2307.04956v1)|
@@ -57,8 +59,6 @@
 |**2023-07-09**|**Restricted Generative Projection for One-Class Classification and Anomaly Detection**|Feng Xiao et.al.|[2307.04097v1](http://arxiv.org/abs/2307.04097v1)|
 |**2023-07-07**|**Dynamic Graph Attention for Anomaly Detection in Heterogeneous Sensor Networks**|Mengjie Zhao et.al.|[2307.03761v1](http://arxiv.org/abs/2307.03761v1)|
 |**2023-07-07**|**A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection**|Ming Jin et.al.|[2307.03759v1](http://arxiv.org/abs/2307.03759v1)|
-|**2023-07-07**|**CSCLog: A Component Subsequence Correlation-Aware Log Anomaly Detection Method**|Ling Chen et.al.|[2307.03359v1](http://arxiv.org/abs/2307.03359v1)|
-|**2023-07-06**|**That's BAD: Blind Anomaly Detection by Implicit Local Feature Clustering**|Jie Zhang et.al.|[2307.03243v1](http://arxiv.org/abs/2307.03243v1)|
 
 ## change detection
 
