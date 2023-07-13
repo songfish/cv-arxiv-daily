@@ -1,4 +1,4 @@
-## Updated on 2023.07.12
+## Updated on 2023.07.13
 
 ## super-resolution
 
@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2023-07-11**|**Temporal Graphs Anomaly Emergence Detection: Benchmarking For Social Media Interactions**|Teddy Lazebnik et.al.|[2307.05268v1](http://arxiv.org/abs/2307.05268v1)|
-|**2023-07-11**|**Unveiling the invisible: Enhanced detection and analysis deteriorated areas in solar PV modules using unsupervised sensing algorithms and 3D augmented reality**|Adel Oulefki et.al.|[2307.05136v1](http://arxiv.org/abs/2307.05136v1)|
+|**2023-07-11**|**Unveiling the Invisible: Enhanced Detection and Analysis of Deteriorated Areas in Solar PV Modules Using Unsupervised Sensing Algorithms and 3D Augmented Reality**|Adel Oulefki et.al.|[2307.05136v2](http://arxiv.org/abs/2307.05136v2)|
 |**2023-07-11**|**PKU-GoodsAD: A Supermarket Goods Dataset for Unsupervised Anomaly Detection and Segmentation**|Jian Zhang et.al.|[2307.04956v1](http://arxiv.org/abs/2307.04956v1)|
 |**2023-07-10**|**Performance comparison of timing-based anomaly detectors for Controller Area Network: a reproducible study**|Francesco Pollicino et.al.|[2307.04561v1](http://arxiv.org/abs/2307.04561v1)|
 |**2023-07-10**|**Edge Storage Management Recipe with Zero-Shot Data Compression for Road Anomaly Detection**|YeongHyeon Park et.al.|[2307.04298v1](http://arxiv.org/abs/2307.04298v1)|
