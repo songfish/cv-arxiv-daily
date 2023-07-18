@@ -49,21 +49,24 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-17**|**Quantum Circuit AutoEncoder**|Jun Wu et.al.|[2307.08446v1](http://arxiv.org/abs/2307.08446v1)|
+|**2023-07-17**|**Correlation-aware Spatial-Temporal Graph Learning for Multivariate Time-series Anomaly Detection**|Yu Zheng et.al.|[2307.08390v1](http://arxiv.org/abs/2307.08390v1)|
+|**2023-07-16**|**LafitE: Latent Diffusion Model with Feature Editing for Unsupervised Multi-class Anomaly Detection**|Haonan Yin et.al.|[2307.08059v1](http://arxiv.org/abs/2307.08059v1)|
+|**2023-07-15**|**Anomaly Detection in Automated Fibre Placement: Learning with Data Limitations**|Assef Ghamisi et.al.|[2307.07893v1](http://arxiv.org/abs/2307.07893v1)|
+|**2023-07-15**|**Custom DNN using Reward Modulated Inverted STDP Learning for Temporal Pattern Recognition**|Vijay Shankaran Vivekanand et.al.|[2307.07869v1](http://arxiv.org/abs/2307.07869v1)|
+|**2023-07-14**|**Masked Autoencoders for Unsupervised Anomaly Detection in Medical Images**|Mariana-Iuliana Georgescu et.al.|[2307.07534v1](http://arxiv.org/abs/2307.07534v1)|
 |**2023-07-14**|**BiGSeT: Binary Mask-Guided Separation Training for DNN-based Hyperspectral Anomaly Detection**|Haijun Liu et.al.|[2307.07428v1](http://arxiv.org/abs/2307.07428v1)|
 |**2023-07-14**|**cOOpD: Reformulating COPD classification on chest CT scans as anomaly detection using contrastive representations**|Silvia D. Almeida et.al.|[2307.07254v1](http://arxiv.org/abs/2307.07254v1)|
 |**2023-07-14**|**Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection**|Alessandro Flaborea et.al.|[2307.07205v1](http://arxiv.org/abs/2307.07205v1)|
 |**2023-07-13**|**Neuro-symbolic Empowered Denoising Diffusion Probabilistic Models for Real-time Anomaly Detection in Industry 4.0**|Luigi Capogrosso et.al.|[2307.06975v1](http://arxiv.org/abs/2307.06975v1)|
-|**2023-07-13**|**Weakly supervised marine animal detection from remote sensing images using vector-quantized variational autoencoder**|Minh-Tan Pham et.al.|[2307.06720v1](http://arxiv.org/abs/2307.06720v1)|
-|**2023-07-13**|**DSV: An Alignment Validation Loss for Self-supervised Outlier Model Selection**|Jaemin Yoo et.al.|[2307.06534v1](http://arxiv.org/abs/2307.06534v1)|
-|**2023-07-12**|**Personalized Anomaly Detection in PPG Data using Representation Learning and Biometric Identification**|Ramin Ghorbani et.al.|[2307.06380v1](http://arxiv.org/abs/2307.06380v1)|
-|**2023-07-12**|**Visualization for Multivariate Gaussian Anomaly Detection in Images**|Joao P C Bertoldo et.al.|[2307.06052v1](http://arxiv.org/abs/2307.06052v1)|
-|**2023-07-11**|**A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions**|Peng Yan et.al.|[2307.05638v1](http://arxiv.org/abs/2307.05638v1)|
-|**2023-07-11**|**Temporal Graphs Anomaly Emergence Detection: Benchmarking For Social Media Interactions**|Teddy Lazebnik et.al.|[2307.05268v1](http://arxiv.org/abs/2307.05268v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-15**|**Multitemporal SAR images change detection and visualization using RABASAR and simplified GLR**|Weiying Zhao et.al.|[2307.07892v1](http://arxiv.org/abs/2307.07892v1)|
+|**2023-07-15**|**Corrected kernel principal component analysis for model structural change detection**|Luoyao Yu et.al.|[2307.07827v1](http://arxiv.org/abs/2307.07827v1)|
+|**2023-07-15**|**A Survey on Change Detection Techniques in Document Images**|Abhinandan Kumar Pun et.al.|[2307.07691v1](http://arxiv.org/abs/2307.07691v1)|
 |**2023-07-09**|**Reducing False Alarms in Video Surveillance by Deep Feature Statistical Modeling**|Xavier Bou et.al.|[2307.04159v1](http://arxiv.org/abs/2307.04159v1)|
 |**2023-07-05**|**Remote Sensing Image Change Detection with Graph Interaction**|Chenglong Liu et.al.|[2307.02007v1](http://arxiv.org/abs/2307.02007v1)|
 |**2023-06-28**|**Lifelong Change Detection: Continuous Domain Adaptation for Small Object Change Detection in Every Robot Navigation**|Koji Takeda et.al.|[2306.16086v1](http://arxiv.org/abs/2306.16086v1)|
@@ -71,7 +74,4 @@
 |**2023-06-22**|**Adaptive Bernstein Change Detector for High-Dimensional Data Streams**|Marco Heyden et.al.|[2306.12974v1](http://arxiv.org/abs/2306.12974v1)|
 |**2023-06-16**|**DisasterNets: Embedding Machine Learning in Disaster Mapping**|Qingsong Xu et.al.|[2306.09815v1](http://arxiv.org/abs/2306.09815v1)|
 |**2023-06-15**|**Context-Aware Change Detection With Semi-Supervised Learning**|Ritu Yadav et.al.|[2306.08935v1](http://arxiv.org/abs/2306.08935v1)|
-|**2023-06-13**|**Gravitational and dark wave emission at binary merger**|Kunio Kaneta et.al.|[2306.07592v1](http://arxiv.org/abs/2306.07592v1)|
-|**2023-06-08**|**Language-specific Acoustic Boundary Learning for Mandarin-English Code-switching Speech Recognition**|Zhiyun Fan et.al.|[2306.05279v1](http://arxiv.org/abs/2306.05279v1)|
-|**2023-06-08**|**Robust Quickest Change Detection for Unnormalized Models**|Suya Wu et.al.|[2306.05091v1](http://arxiv.org/abs/2306.05091v1)|
 
