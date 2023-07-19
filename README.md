@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-18**|**You've Got Two Teachers: Co-evolutionary Image and Report Distillation for Semi-supervised Anatomical Abnormality Detection in Chest X-ray**|Jinghan Sun et.al.|[2307.09184v1](http://arxiv.org/abs/2307.09184v1)|
 |**2023-06-12**|**In-context Cross-Density Adaptation on Noisy Mammogram Abnormalities Detection**|Huy T. Nguyen et.al.|[2306.06893v1](http://arxiv.org/abs/2306.06893v1)|
 |**2023-06-11**|**Learning Robust and Consistent Time Series Representations: A Dilated Inception-Based Approach**|Anh Duy Nguyen et.al.|[2306.06579v1](http://arxiv.org/abs/2306.06579v1)|
 |**2023-05-18**|**Prevention is better than cure: a case study of the abnormalities detection in the chest**|Weronika Hryniewska et.al.|[2305.10961v1](http://arxiv.org/abs/2305.10961v1)|
@@ -43,12 +44,13 @@
 |**2023-02-06**|**Integrating Eye-Gaze Data into CXR DL Approaches: A Preliminary study**|André Luís et.al.|[2302.02940v1](http://arxiv.org/abs/2302.02940v1)|
 |**2023-02-04**|**Conformalized semi-supervised random forest for classification and abnormality detection**|Yujin Han et.al.|[2302.02237v1](http://arxiv.org/abs/2302.02237v1)|
 |**2023-01-30**|**Exploring Image Augmentations for Siamese Representation Learning with Chest X-Rays**|Rogier van der Sluijs et.al.|[2301.12636v2](http://arxiv.org/abs/2301.12636v2)|
-|**2022-11-17**|**Heart Abnormality Detection from Heart Sound Signals using MFCC Feature and Dual Stream Attention Based Network**|Nayeeb Rashid et.al.|[2211.09751v1](http://arxiv.org/abs/2211.09751v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-18**|**Matrix Profile based Anomaly Detection in Streaming Gait Data for Fall Prevention**|Branislav Gerazov et.al.|[2307.09121v1](http://arxiv.org/abs/2307.09121v1)|
+|**2023-07-17**|**Anomaly Detection with Selective Dictionary Learning**|Denis C. Ilie-Ablachim et.al.|[2307.08807v1](http://arxiv.org/abs/2307.08807v1)|
 |**2023-07-17**|**Quantum Circuit AutoEncoder**|Jun Wu et.al.|[2307.08446v1](http://arxiv.org/abs/2307.08446v1)|
 |**2023-07-17**|**Correlation-aware Spatial-Temporal Graph Learning for Multivariate Time-series Anomaly Detection**|Yu Zheng et.al.|[2307.08390v1](http://arxiv.org/abs/2307.08390v1)|
 |**2023-07-16**|**LafitE: Latent Diffusion Model with Feature Editing for Unsupervised Multi-class Anomaly Detection**|Haonan Yin et.al.|[2307.08059v1](http://arxiv.org/abs/2307.08059v1)|
@@ -57,8 +59,6 @@
 |**2023-07-14**|**Masked Autoencoders for Unsupervised Anomaly Detection in Medical Images**|Mariana-Iuliana Georgescu et.al.|[2307.07534v1](http://arxiv.org/abs/2307.07534v1)|
 |**2023-07-14**|**BiGSeT: Binary Mask-Guided Separation Training for DNN-based Hyperspectral Anomaly Detection**|Haijun Liu et.al.|[2307.07428v1](http://arxiv.org/abs/2307.07428v1)|
 |**2023-07-14**|**cOOpD: Reformulating COPD classification on chest CT scans as anomaly detection using contrastive representations**|Silvia D. Almeida et.al.|[2307.07254v1](http://arxiv.org/abs/2307.07254v1)|
-|**2023-07-14**|**Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection**|Alessandro Flaborea et.al.|[2307.07205v1](http://arxiv.org/abs/2307.07205v1)|
-|**2023-07-13**|**Neuro-symbolic Empowered Denoising Diffusion Probabilistic Models for Real-time Anomaly Detection in Industry 4.0**|Luigi Capogrosso et.al.|[2307.06975v1](http://arxiv.org/abs/2307.06975v1)|
 
 ## change detection
 
