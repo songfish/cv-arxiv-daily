@@ -1,4 +1,4 @@
-## Updated on 2023.07.19
+## Updated on 2023.07.20
 
 ## super-resolution
 
@@ -26,7 +26,7 @@
 |**2023-06-12**|**CD-CTFM: A Lightweight CNN-Transformer Network for Remote Sensing Cloud Detection Fusing Multiscale Features**|Wenxuan Ge et.al.|[2306.07186v1](http://arxiv.org/abs/2306.07186v1)|
 |**2023-05-24**|**Detection of an X-ray quasar in a gravitationally-lensed z=10.3 galaxy suggests that early supermassive black holes originate from heavy seeds**|Akos Bogdan et.al.|[2305.15458v1](http://arxiv.org/abs/2305.15458v1)|
 |**2023-05-23**|**Hierarchical Adaptive Voxel-guided Sampling for Real-time Applications in Large-scale Point Clouds**|Junyuan Ouyang et.al.|[2305.14306v1](http://arxiv.org/abs/2305.14306v1)|
-|**2023-04-13**|**Direct observations of the atomic-molecular phase transition in the Milky Way's nuclear wind**|Karlie A. Noon et.al.|[2304.06356v1](http://arxiv.org/abs/2304.06356v1)|
+|**2023-04-13**|**Direct observations of the atomic-molecular phase transition in the Milky Way's nuclear wind**|Karlie A. Noon et.al.|[2304.06356v2](http://arxiv.org/abs/2304.06356v2)|
 |**2023-04-03**|**Open-Vocabulary Point-Cloud Object Detection without 3D Annotation**|Yuheng Lu et.al.|[2304.00788v2](http://arxiv.org/abs/2304.00788v2)|
 |**2023-03-29**|**PMAA: A Progressive Multi-scale Attention Autoencoder Model for High-Performance Cloud Removal from Multi-temporal Satellite Imagery**|Xuechao Zou et.al.|[2303.16565v1](http://arxiv.org/abs/2303.16565v1)|
 
