@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-19**|**BSDM: Background Suppression Diffusion Model for Hyperspectral Anomaly Detection**|Jitao Ma et.al.|[2307.09861v1](http://arxiv.org/abs/2307.09861v1)|
+|**2023-07-18**|**Assessing Taiwanese Traffic Policy on Consecutive Holidays through Forecast Reconciliation and Prediction-based Anomaly Detection Techniques**|Mahsa Ashouri et.al.|[2307.09537v1](http://arxiv.org/abs/2307.09537v1)|
 |**2023-07-18**|**Matrix Profile based Anomaly Detection in Streaming Gait Data for Fall Prevention**|Branislav Gerazov et.al.|[2307.09121v1](http://arxiv.org/abs/2307.09121v1)|
 |**2023-07-17**|**Anomaly Detection with Selective Dictionary Learning**|Denis C. Ilie-Ablachim et.al.|[2307.08807v1](http://arxiv.org/abs/2307.08807v1)|
 |**2023-07-17**|**Quantum Circuit AutoEncoder**|Jun Wu et.al.|[2307.08446v1](http://arxiv.org/abs/2307.08446v1)|
@@ -56,9 +58,7 @@
 |**2023-07-16**|**LafitE: Latent Diffusion Model with Feature Editing for Unsupervised Multi-class Anomaly Detection**|Haonan Yin et.al.|[2307.08059v1](http://arxiv.org/abs/2307.08059v1)|
 |**2023-07-15**|**Anomaly Detection in Automated Fibre Placement: Learning with Data Limitations**|Assef Ghamisi et.al.|[2307.07893v1](http://arxiv.org/abs/2307.07893v1)|
 |**2023-07-15**|**Custom DNN using Reward Modulated Inverted STDP Learning for Temporal Pattern Recognition**|Vijay Shankaran Vivekanand et.al.|[2307.07869v1](http://arxiv.org/abs/2307.07869v1)|
-|**2023-07-14**|**Masked Autoencoders for Unsupervised Anomaly Detection in Medical Images**|Mariana-Iuliana Georgescu et.al.|[2307.07534v1](http://arxiv.org/abs/2307.07534v1)|
 |**2023-07-14**|**BiGSeT: Binary Mask-Guided Separation Training for DNN-based Hyperspectral Anomaly Detection**|Haijun Liu et.al.|[2307.07428v1](http://arxiv.org/abs/2307.07428v1)|
-|**2023-07-14**|**cOOpD: Reformulating COPD classification on chest CT scans as anomaly detection using contrastive representations**|Silvia D. Almeida et.al.|[2307.07254v1](http://arxiv.org/abs/2307.07254v1)|
 
 ## change detection
 
