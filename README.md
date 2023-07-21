@@ -49,21 +49,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-20**|**Representation Learning in Anomaly Detection: Successes, Limits and a Grand Challenge**|Yedid Hoshen et.al.|[2307.11085v1](http://arxiv.org/abs/2307.11085v1)|
+|**2023-07-20**|**Performance Issue Identification in Cloud Systems with Relational-Temporal Anomaly Detection**|Wenwei Gu et.al.|[2307.10869v1](http://arxiv.org/abs/2307.10869v1)|
+|**2023-07-20**|**Spatial-Temporal Data Mining for Ocean Science: Data, Methodologies, and Opportunities**|Hanchen Yang et.al.|[2307.10803v1](http://arxiv.org/abs/2307.10803v1)|
+|**2023-07-20**|**Optimizing PatchCore for Few/many-shot Anomaly Detection**|João Santos et.al.|[2307.10792v1](http://arxiv.org/abs/2307.10792v1)|
+|**2023-07-20**|**Refining the Optimization Target for Automatic Univariate Time Series Anomaly Detection in Monitoring Services**|Manqing Dong et.al.|[2307.10653v1](http://arxiv.org/abs/2307.10653v1)|
+|**2023-07-20**|**Ensemble Learning based Anomaly Detection for IoT Cybersecurity via Bayesian Hyperparameters Sensitivity Analysis**|Tin Lai et.al.|[2307.10596v1](http://arxiv.org/abs/2307.10596v1)|
+|**2023-07-20**|**FACADE: A Framework for Adversarial Circuit Anomaly Detection and Evaluation**|Dhruv Pai et.al.|[2307.10563v1](http://arxiv.org/abs/2307.10563v1)|
 |**2023-07-19**|**BSDM: Background Suppression Diffusion Model for Hyperspectral Anomaly Detection**|Jitao Ma et.al.|[2307.09861v1](http://arxiv.org/abs/2307.09861v1)|
 |**2023-07-18**|**Assessing Taiwanese Traffic Policy on Consecutive Holidays through Forecast Reconciliation and Prediction-based Anomaly Detection Techniques**|Mahsa Ashouri et.al.|[2307.09537v1](http://arxiv.org/abs/2307.09537v1)|
 |**2023-07-18**|**Matrix Profile based Anomaly Detection in Streaming Gait Data for Fall Prevention**|Branislav Gerazov et.al.|[2307.09121v1](http://arxiv.org/abs/2307.09121v1)|
-|**2023-07-17**|**Anomaly Detection with Selective Dictionary Learning**|Denis C. Ilie-Ablachim et.al.|[2307.08807v1](http://arxiv.org/abs/2307.08807v1)|
-|**2023-07-17**|**Quantum Circuit AutoEncoder**|Jun Wu et.al.|[2307.08446v1](http://arxiv.org/abs/2307.08446v1)|
-|**2023-07-17**|**Correlation-aware Spatial-Temporal Graph Learning for Multivariate Time-series Anomaly Detection**|Yu Zheng et.al.|[2307.08390v1](http://arxiv.org/abs/2307.08390v1)|
-|**2023-07-16**|**LafitE: Latent Diffusion Model with Feature Editing for Unsupervised Multi-class Anomaly Detection**|Haonan Yin et.al.|[2307.08059v1](http://arxiv.org/abs/2307.08059v1)|
-|**2023-07-15**|**Anomaly Detection in Automated Fibre Placement: Learning with Data Limitations**|Assef Ghamisi et.al.|[2307.07893v1](http://arxiv.org/abs/2307.07893v1)|
-|**2023-07-15**|**Custom DNN using Reward Modulated Inverted STDP Learning for Temporal Pattern Recognition**|Vijay Shankaran Vivekanand et.al.|[2307.07869v1](http://arxiv.org/abs/2307.07869v1)|
-|**2023-07-14**|**BiGSeT: Binary Mask-Guided Separation Training for DNN-based Hyperspectral Anomaly Detection**|Haijun Liu et.al.|[2307.07428v1](http://arxiv.org/abs/2307.07428v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-20**|**Exploring Effective Priors and Efficient Models for Weakly-Supervised Change Detection**|Zhenghui Zhao et.al.|[2307.10853v1](http://arxiv.org/abs/2307.10853v1)|
+|**2023-07-20**|**Hybrid Feature Embedding For Automatic Building Outline Extraction**|Weihang Ran et.al.|[2307.10609v1](http://arxiv.org/abs/2307.10609v1)|
 |**2023-07-15**|**Multitemporal SAR images change detection and visualization using RABASAR and simplified GLR**|Weiying Zhao et.al.|[2307.07892v1](http://arxiv.org/abs/2307.07892v1)|
 |**2023-07-15**|**Corrected kernel principal component analysis for model structural change detection**|Luoyao Yu et.al.|[2307.07827v1](http://arxiv.org/abs/2307.07827v1)|
 |**2023-07-15**|**A Survey on Change Detection Techniques in Document Images**|Abhinandan Kumar Pun et.al.|[2307.07691v1](http://arxiv.org/abs/2307.07691v1)|
@@ -72,6 +74,4 @@
 |**2023-06-28**|**Lifelong Change Detection: Continuous Domain Adaptation for Small Object Change Detection in Every Robot Navigation**|Koji Takeda et.al.|[2306.16086v1](http://arxiv.org/abs/2306.16086v1)|
 |**2023-06-27**|**Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison**|Nikolaos Stathoulopoulos et.al.|[2306.15416v2](http://arxiv.org/abs/2306.15416v2)|
 |**2023-06-22**|**Adaptive Bernstein Change Detector for High-Dimensional Data Streams**|Marco Heyden et.al.|[2306.12974v1](http://arxiv.org/abs/2306.12974v1)|
-|**2023-06-16**|**DisasterNets: Embedding Machine Learning in Disaster Mapping**|Qingsong Xu et.al.|[2306.09815v1](http://arxiv.org/abs/2306.09815v1)|
-|**2023-06-15**|**Context-Aware Change Detection With Semi-Supervised Learning**|Ritu Yadav et.al.|[2306.08935v1](http://arxiv.org/abs/2306.08935v1)|
 
