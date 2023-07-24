@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-21**|**Integration of Domain Expert-Centric Ontology Design into the CRISP-DM for Cyber-Physical Production Systems**|Milapji Singh Gill et.al.|[2307.11637v1](http://arxiv.org/abs/2307.11637v1)|
+|**2023-07-20**|**Heuristic Hyperparameter Choice for Image Anomaly Detection**|Zeyu Jiang et.al.|[2307.11197v1](http://arxiv.org/abs/2307.11197v1)|
+|**2023-07-20**|**The Interplay of Machine Learning--based Resonant Anomaly Detection Methods**|Tobias Golling et.al.|[2307.11157v1](http://arxiv.org/abs/2307.11157v1)|
 |**2023-07-20**|**Representation Learning in Anomaly Detection: Successes, Limits and a Grand Challenge**|Yedid Hoshen et.al.|[2307.11085v1](http://arxiv.org/abs/2307.11085v1)|
 |**2023-07-20**|**Performance Issue Identification in Cloud Systems with Relational-Temporal Anomaly Detection**|Wenwei Gu et.al.|[2307.10869v1](http://arxiv.org/abs/2307.10869v1)|
 |**2023-07-20**|**Spatial-Temporal Data Mining for Ocean Science: Data, Methodologies, and Opportunities**|Hanchen Yang et.al.|[2307.10803v1](http://arxiv.org/abs/2307.10803v1)|
@@ -56,9 +59,6 @@
 |**2023-07-20**|**Refining the Optimization Target for Automatic Univariate Time Series Anomaly Detection in Monitoring Services**|Manqing Dong et.al.|[2307.10653v1](http://arxiv.org/abs/2307.10653v1)|
 |**2023-07-20**|**Ensemble Learning based Anomaly Detection for IoT Cybersecurity via Bayesian Hyperparameters Sensitivity Analysis**|Tin Lai et.al.|[2307.10596v1](http://arxiv.org/abs/2307.10596v1)|
 |**2023-07-20**|**FACADE: A Framework for Adversarial Circuit Anomaly Detection and Evaluation**|Dhruv Pai et.al.|[2307.10563v1](http://arxiv.org/abs/2307.10563v1)|
-|**2023-07-19**|**BSDM: Background Suppression Diffusion Model for Hyperspectral Anomaly Detection**|Jitao Ma et.al.|[2307.09861v1](http://arxiv.org/abs/2307.09861v1)|
-|**2023-07-18**|**Assessing Taiwanese Traffic Policy on Consecutive Holidays through Forecast Reconciliation and Prediction-based Anomaly Detection Techniques**|Mahsa Ashouri et.al.|[2307.09537v1](http://arxiv.org/abs/2307.09537v1)|
-|**2023-07-18**|**Matrix Profile based Anomaly Detection in Streaming Gait Data for Fall Prevention**|Branislav Gerazov et.al.|[2307.09121v1](http://arxiv.org/abs/2307.09121v1)|
 
 ## change detection
 
