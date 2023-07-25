@@ -1,4 +1,4 @@
-## Updated on 2023.07.24
+## Updated on 2023.07.25
 
 ## super-resolution
 
@@ -64,7 +64,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-07-20**|**Exploring Effective Priors and Efficient Models for Weakly-Supervised Change Detection**|Zhenghui Zhao et.al.|[2307.10853v1](http://arxiv.org/abs/2307.10853v1)|
+|**2023-07-20**|**Exploring Effective Priors and Efficient Models for Weakly-Supervised Change Detection**|Zhenghui Zhao et.al.|[2307.10853v2](http://arxiv.org/abs/2307.10853v2)|
 |**2023-07-20**|**Hybrid Feature Embedding For Automatic Building Outline Extraction**|Weihang Ran et.al.|[2307.10609v1](http://arxiv.org/abs/2307.10609v1)|
 |**2023-07-15**|**Multitemporal SAR images change detection and visualization using RABASAR and simplified GLR**|Weiying Zhao et.al.|[2307.07892v1](http://arxiv.org/abs/2307.07892v1)|
 |**2023-07-15**|**Corrected kernel principal component analysis for model structural change detection**|Luoyao Yu et.al.|[2307.07827v1](http://arxiv.org/abs/2307.07827v1)|
