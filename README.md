@@ -49,21 +49,24 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-24**|**AMAE: Adaptation of Pre-Trained Masked Autoencoder for Dual-Distribution Anomaly Detection in Chest X-Rays**|Behzad Bozorgtabar et.al.|[2307.12721v1](http://arxiv.org/abs/2307.12721v1)|
+|**2023-07-24**|**Addressing the Impact of Localized Training Data in Graph Neural Networks**|Singh Akansha et.al.|[2307.12689v1](http://arxiv.org/abs/2307.12689v1)|
+|**2023-07-24**|**Damage Vision Mining Opportunity for Imbalanced Anomaly Detection**|Takato Yasuno et.al.|[2307.12676v1](http://arxiv.org/abs/2307.12676v1)|
+|**2023-07-24**|**Towards Video Anomaly Retrieval from Video Anomaly Detection: New Benchmarks and Model**|Peng Wu et.al.|[2307.12545v1](http://arxiv.org/abs/2307.12545v1)|
+|**2023-07-24**|**SelFormaly: Towards Task-Agnostic Unified Anomaly Detection**|Yujin Lee et.al.|[2307.12540v1](http://arxiv.org/abs/2307.12540v1)|
+|**2023-07-23**|**TabADM: Unsupervised Tabular Anomaly Detection with Diffusion Models**|Guy Zamberg et.al.|[2307.12336v1](http://arxiv.org/abs/2307.12336v1)|
 |**2023-07-21**|**Integration of Domain Expert-Centric Ontology Design into the CRISP-DM for Cyber-Physical Production Systems**|Milapji Singh Gill et.al.|[2307.11637v1](http://arxiv.org/abs/2307.11637v1)|
 |**2023-07-20**|**Heuristic Hyperparameter Choice for Image Anomaly Detection**|Zeyu Jiang et.al.|[2307.11197v1](http://arxiv.org/abs/2307.11197v1)|
 |**2023-07-20**|**The Interplay of Machine Learning--based Resonant Anomaly Detection Methods**|Tobias Golling et.al.|[2307.11157v1](http://arxiv.org/abs/2307.11157v1)|
 |**2023-07-20**|**Representation Learning in Anomaly Detection: Successes, Limits and a Grand Challenge**|Yedid Hoshen et.al.|[2307.11085v1](http://arxiv.org/abs/2307.11085v1)|
-|**2023-07-20**|**Performance Issue Identification in Cloud Systems with Relational-Temporal Anomaly Detection**|Wenwei Gu et.al.|[2307.10869v1](http://arxiv.org/abs/2307.10869v1)|
-|**2023-07-20**|**Spatial-Temporal Data Mining for Ocean Science: Data, Methodologies, and Opportunities**|Hanchen Yang et.al.|[2307.10803v1](http://arxiv.org/abs/2307.10803v1)|
-|**2023-07-20**|**Optimizing PatchCore for Few/many-shot Anomaly Detection**|João Santos et.al.|[2307.10792v1](http://arxiv.org/abs/2307.10792v1)|
-|**2023-07-20**|**Refining the Optimization Target for Automatic Univariate Time Series Anomaly Detection in Monitoring Services**|Manqing Dong et.al.|[2307.10653v1](http://arxiv.org/abs/2307.10653v1)|
-|**2023-07-20**|**Ensemble Learning based Anomaly Detection for IoT Cybersecurity via Bayesian Hyperparameters Sensitivity Analysis**|Tin Lai et.al.|[2307.10596v1](http://arxiv.org/abs/2307.10596v1)|
-|**2023-07-20**|**FACADE: A Framework for Adversarial Circuit Anomaly Detection and Evaluation**|Dhruv Pai et.al.|[2307.10563v1](http://arxiv.org/abs/2307.10563v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-23**|**ComPtr: Towards Diverse Bi-source Dense Prediction Tasks via A Simple yet General Complementary Transformer**|Youwei Pang et.al.|[2307.12349v1](http://arxiv.org/abs/2307.12349v1)|
+|**2023-07-23**|**ES2Net: An Efficient Spectral-Spatial Network for Hyperspectral Image Change Detection**|Qingren Yao et.al.|[2307.12327v1](http://arxiv.org/abs/2307.12327v1)|
+|**2023-07-23**|**DeepCL: Deep Change Feature Learning on Remote Sensing Images in the Metric Space**|Haonan Guo et.al.|[2307.12208v1](http://arxiv.org/abs/2307.12208v1)|
 |**2023-07-20**|**Exploring Effective Priors and Efficient Models for Weakly-Supervised Change Detection**|Zhenghui Zhao et.al.|[2307.10853v2](http://arxiv.org/abs/2307.10853v2)|
 |**2023-07-20**|**Hybrid Feature Embedding For Automatic Building Outline Extraction**|Weihang Ran et.al.|[2307.10609v1](http://arxiv.org/abs/2307.10609v1)|
 |**2023-07-15**|**Multitemporal SAR images change detection and visualization using RABASAR and simplified GLR**|Weiying Zhao et.al.|[2307.07892v1](http://arxiv.org/abs/2307.07892v1)|
@@ -71,7 +74,4 @@
 |**2023-07-15**|**A Survey on Change Detection Techniques in Document Images**|Abhinandan Kumar Pun et.al.|[2307.07691v1](http://arxiv.org/abs/2307.07691v1)|
 |**2023-07-09**|**Reducing False Alarms in Video Surveillance by Deep Feature Statistical Modeling**|Xavier Bou et.al.|[2307.04159v1](http://arxiv.org/abs/2307.04159v1)|
 |**2023-07-05**|**Remote Sensing Image Change Detection with Graph Interaction**|Chenglong Liu et.al.|[2307.02007v1](http://arxiv.org/abs/2307.02007v1)|
-|**2023-06-28**|**Lifelong Change Detection: Continuous Domain Adaptation for Small Object Change Detection in Every Robot Navigation**|Koji Takeda et.al.|[2306.16086v1](http://arxiv.org/abs/2306.16086v1)|
-|**2023-06-27**|**Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison**|Nikolaos Stathoulopoulos et.al.|[2306.15416v2](http://arxiv.org/abs/2306.15416v2)|
-|**2023-06-22**|**Adaptive Bernstein Change Detector for High-Dimensional Data Streams**|Marco Heyden et.al.|[2306.12974v1](http://arxiv.org/abs/2306.12974v1)|
 
