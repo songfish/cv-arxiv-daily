@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-25**|**Unmasking Anomalies in Road-Scene Segmentation**|Shyam Nandan Rai et.al.|[2307.13316v1](http://arxiv.org/abs/2307.13316v1)|
+|**2023-07-25**|**RoSAS: Deep Semi-Supervised Anomaly Detection with Contamination-Resilient Continuous Supervision**|Hongzuo Xu et.al.|[2307.13239v1](http://arxiv.org/abs/2307.13239v1)|
 |**2023-07-24**|**AMAE: Adaptation of Pre-Trained Masked Autoencoder for Dual-Distribution Anomaly Detection in Chest X-Rays**|Behzad Bozorgtabar et.al.|[2307.12721v1](http://arxiv.org/abs/2307.12721v1)|
 |**2023-07-24**|**Addressing the Impact of Localized Training Data in Graph Neural Networks**|Singh Akansha et.al.|[2307.12689v1](http://arxiv.org/abs/2307.12689v1)|
 |**2023-07-24**|**Damage Vision Mining Opportunity for Imbalanced Anomaly Detection**|Takato Yasuno et.al.|[2307.12676v1](http://arxiv.org/abs/2307.12676v1)|
@@ -57,8 +59,6 @@
 |**2023-07-23**|**TabADM: Unsupervised Tabular Anomaly Detection with Diffusion Models**|Guy Zamberg et.al.|[2307.12336v1](http://arxiv.org/abs/2307.12336v1)|
 |**2023-07-21**|**Integration of Domain Expert-Centric Ontology Design into the CRISP-DM for Cyber-Physical Production Systems**|Milapji Singh Gill et.al.|[2307.11637v1](http://arxiv.org/abs/2307.11637v1)|
 |**2023-07-20**|**Heuristic Hyperparameter Choice for Image Anomaly Detection**|Zeyu Jiang et.al.|[2307.11197v1](http://arxiv.org/abs/2307.11197v1)|
-|**2023-07-20**|**The Interplay of Machine Learning--based Resonant Anomaly Detection Methods**|Tobias Golling et.al.|[2307.11157v1](http://arxiv.org/abs/2307.11157v1)|
-|**2023-07-20**|**Representation Learning in Anomaly Detection: Successes, Limits and a Grand Challenge**|Yedid Hoshen et.al.|[2307.11085v1](http://arxiv.org/abs/2307.11085v1)|
 
 ## change detection
 
