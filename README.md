@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-26**|**Unraveling the Complexity of Splitting Sequential Data: Tackling Challenges in Video and Time Series Analysis**|Diego Botache et.al.|[2307.14294v1](http://arxiv.org/abs/2307.14294v1)|
+|**2023-07-26**|**EasyNet: An Easy Network for 3D Industrial Anomaly Detection**|Ruitao Chen et.al.|[2307.13925v1](http://arxiv.org/abs/2307.13925v1)|
+|**2023-07-26**|**Robustness Verification of Deep Neural Networks using Star-Based Reachability Analysis with Variable-Length Time Series Input**|Neelanjana Pal et.al.|[2307.13907v1](http://arxiv.org/abs/2307.13907v1)|
+|**2023-07-25**|**Integration of Digital Twin and Federated Learning for Securing Vehicular Internet of Things**|Deepti Gupta et.al.|[2307.13794v1](http://arxiv.org/abs/2307.13794v1)|
+|**2023-07-25**|**Implicitly Normalized Explicitly Regularized Density Estimation**|Mark Kozdoba et.al.|[2307.13763v1](http://arxiv.org/abs/2307.13763v1)|
 |**2023-07-25**|**Unmasking Anomalies in Road-Scene Segmentation**|Shyam Nandan Rai et.al.|[2307.13316v1](http://arxiv.org/abs/2307.13316v1)|
 |**2023-07-25**|**RoSAS: Deep Semi-Supervised Anomaly Detection with Contamination-Resilient Continuous Supervision**|Hongzuo Xu et.al.|[2307.13239v1](http://arxiv.org/abs/2307.13239v1)|
 |**2023-07-24**|**AMAE: Adaptation of Pre-Trained Masked Autoencoder for Dual-Distribution Anomaly Detection in Chest X-Rays**|Behzad Bozorgtabar et.al.|[2307.12721v2](http://arxiv.org/abs/2307.12721v2)|
 |**2023-07-24**|**Addressing the Impact of Localized Training Data in Graph Neural Networks**|Singh Akansha et.al.|[2307.12689v1](http://arxiv.org/abs/2307.12689v1)|
 |**2023-07-24**|**Damage Vision Mining Opportunity for Imbalanced Anomaly Detection**|Takato Yasuno et.al.|[2307.12676v1](http://arxiv.org/abs/2307.12676v1)|
-|**2023-07-24**|**Towards Video Anomaly Retrieval from Video Anomaly Detection: New Benchmarks and Model**|Peng Wu et.al.|[2307.12545v1](http://arxiv.org/abs/2307.12545v1)|
-|**2023-07-24**|**SelFormaly: Towards Task-Agnostic Unified Anomaly Detection**|Yujin Lee et.al.|[2307.12540v1](http://arxiv.org/abs/2307.12540v1)|
-|**2023-07-23**|**TabADM: Unsupervised Tabular Anomaly Detection with Diffusion Models**|Guy Zamberg et.al.|[2307.12336v1](http://arxiv.org/abs/2307.12336v1)|
-|**2023-07-21**|**Integration of Domain Expert-Centric Ontology Design into the CRISP-DM for Cyber-Physical Production Systems**|Milapji Singh Gill et.al.|[2307.11637v1](http://arxiv.org/abs/2307.11637v1)|
-|**2023-07-20**|**Heuristic Hyperparameter Choice for Image Anomaly Detection**|Zeyu Jiang et.al.|[2307.11197v1](http://arxiv.org/abs/2307.11197v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-07-26**|**Active Robot Vision for Distant Object Change Detection: A Lightweight Training Simulator Inspired by Multi-Armed Bandits**|Kouki Terashima et.al.|[2307.14105v1](http://arxiv.org/abs/2307.14105v1)|
 |**2023-07-23**|**ComPtr: Towards Diverse Bi-source Dense Prediction Tasks via A Simple yet General Complementary Transformer**|Youwei Pang et.al.|[2307.12349v1](http://arxiv.org/abs/2307.12349v1)|
 |**2023-07-23**|**ES2Net: An Efficient Spectral-Spatial Network for Hyperspectral Image Change Detection**|Qingren Yao et.al.|[2307.12327v1](http://arxiv.org/abs/2307.12327v1)|
 |**2023-07-23**|**DeepCL: Deep Change Feature Learning on Remote Sensing Images in the Metric Space**|Haonan Guo et.al.|[2307.12208v1](http://arxiv.org/abs/2307.12208v1)|
@@ -73,5 +74,4 @@
 |**2023-07-15**|**Corrected kernel principal component analysis for model structural change detection**|Luoyao Yu et.al.|[2307.07827v1](http://arxiv.org/abs/2307.07827v1)|
 |**2023-07-15**|**A Survey on Change Detection Techniques in Document Images**|Abhinandan Kumar Pun et.al.|[2307.07691v1](http://arxiv.org/abs/2307.07691v1)|
 |**2023-07-09**|**Reducing False Alarms in Video Surveillance by Deep Feature Statistical Modeling**|Xavier Bou et.al.|[2307.04159v1](http://arxiv.org/abs/2307.04159v1)|
-|**2023-07-05**|**Remote Sensing Image Change Detection with Graph Interaction**|Chenglong Liu et.al.|[2307.02007v1](http://arxiv.org/abs/2307.02007v1)|
 
