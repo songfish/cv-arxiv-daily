@@ -1,4 +1,4 @@
-## Updated on 2023.07.26
+## Updated on 2023.07.27
 
 ## super-resolution
 
@@ -51,7 +51,7 @@
 |---|---|---|---|
 |**2023-07-25**|**Unmasking Anomalies in Road-Scene Segmentation**|Shyam Nandan Rai et.al.|[2307.13316v1](http://arxiv.org/abs/2307.13316v1)|
 |**2023-07-25**|**RoSAS: Deep Semi-Supervised Anomaly Detection with Contamination-Resilient Continuous Supervision**|Hongzuo Xu et.al.|[2307.13239v1](http://arxiv.org/abs/2307.13239v1)|
-|**2023-07-24**|**AMAE: Adaptation of Pre-Trained Masked Autoencoder for Dual-Distribution Anomaly Detection in Chest X-Rays**|Behzad Bozorgtabar et.al.|[2307.12721v1](http://arxiv.org/abs/2307.12721v1)|
+|**2023-07-24**|**AMAE: Adaptation of Pre-Trained Masked Autoencoder for Dual-Distribution Anomaly Detection in Chest X-Rays**|Behzad Bozorgtabar et.al.|[2307.12721v2](http://arxiv.org/abs/2307.12721v2)|
 |**2023-07-24**|**Addressing the Impact of Localized Training Data in Graph Neural Networks**|Singh Akansha et.al.|[2307.12689v1](http://arxiv.org/abs/2307.12689v1)|
 |**2023-07-24**|**Damage Vision Mining Opportunity for Imbalanced Anomaly Detection**|Takato Yasuno et.al.|[2307.12676v1](http://arxiv.org/abs/2307.12676v1)|
 |**2023-07-24**|**Towards Video Anomaly Retrieval from Video Anomaly Detection: New Benchmarks and Model**|Peng Wu et.al.|[2307.12545v1](http://arxiv.org/abs/2307.12545v1)|
