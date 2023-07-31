@@ -1,4 +1,4 @@
-## Updated on 2023.07.30
+## Updated on 2023.07.31
 
 ## super-resolution
 
@@ -49,7 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-07-27**|**Solving Data Quality Problems with Desbordante: a Demo**|George Chernishev et.al.|[2307.14935v1](http://arxiv.org/abs/2307.14935v1)|
+|**2023-07-27**|**Solving Data Quality Problems with Desbordante: a Demo**|George Chernishev et.al.|[2307.14935v2](http://arxiv.org/abs/2307.14935v2)|
 |**2023-07-26**|**Dual-Space Attacks against Random-Walk-based Anomaly Detection**|Yuni Lai et.al.|[2307.14387v1](http://arxiv.org/abs/2307.14387v1)|
 |**2023-07-26**|**Unraveling the Complexity of Splitting Sequential Data: Tackling Challenges in Video and Time Series Analysis**|Diego Botache et.al.|[2307.14294v1](http://arxiv.org/abs/2307.14294v1)|
 |**2023-07-26**|**EasyNet: An Easy Network for 3D Industrial Anomaly Detection**|Ruitao Chen et.al.|[2307.13925v2](http://arxiv.org/abs/2307.13925v2)|
@@ -58,7 +58,7 @@
 |**2023-07-25**|**Implicitly Normalized Explicitly Regularized Density Estimation**|Mark Kozdoba et.al.|[2307.13763v1](http://arxiv.org/abs/2307.13763v1)|
 |**2023-07-25**|**Unmasking Anomalies in Road-Scene Segmentation**|Shyam Nandan Rai et.al.|[2307.13316v1](http://arxiv.org/abs/2307.13316v1)|
 |**2023-07-25**|**RoSAS: Deep Semi-Supervised Anomaly Detection with Contamination-Resilient Continuous Supervision**|Hongzuo Xu et.al.|[2307.13239v1](http://arxiv.org/abs/2307.13239v1)|
-|**2023-07-24**|**AMAE: Adaptation of Pre-Trained Masked Autoencoder for Dual-Distribution Anomaly Detection in Chest X-Rays**|Behzad Bozorgtabar et.al.|[2307.12721v2](http://arxiv.org/abs/2307.12721v2)|
+|**2023-07-24**|**AMAE: Adaptation of Pre-Trained Masked Autoencoder for Dual-Distribution Anomaly Detection in Chest X-Rays**|Behzad Bozorgtabar et.al.|[2307.12721v3](http://arxiv.org/abs/2307.12721v3)|
 
 ## change detection
 
