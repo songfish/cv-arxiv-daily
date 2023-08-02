@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-01**|**Semisupervised Anomaly Detection using Support Vector Regression with Quantum Kernel**|Kilian Tscharke et.al.|[2308.00583v1](http://arxiv.org/abs/2308.00583v1)|
+|**2023-08-01**|**PressureTransferNet: Human Attribute Guided Dynamic Ground Pressure Profile Transfer using 3D simulated Pressure Maps**|Lala Shakti Swarup Ray et.al.|[2308.00538v1](http://arxiv.org/abs/2308.00538v1)|
+|**2023-08-01**|**Patch-wise Auto-Encoder for Visual Anomaly Detection**|Yajie Cui et.al.|[2308.00429v1](http://arxiv.org/abs/2308.00429v1)|
+|**2023-08-01**|**A Survey of Time Series Anomaly Detection Methods in the AIOps Domain**|Zhenyu Zhong et.al.|[2308.00393v1](http://arxiv.org/abs/2308.00393v1)|
+|**2023-07-31**|**General Anomaly Detection of Underwater Gliders Validated by Large-scale Deployment Dataset**|Ruochu Yang et.al.|[2308.00180v1](http://arxiv.org/abs/2308.00180v1)|
+|**2023-07-31**|**Using Kernel SHAP XAI Method to optimize the Network Anomaly Detection Model**|Khushnaseeb Roshan et.al.|[2308.00074v1](http://arxiv.org/abs/2308.00074v1)|
 |**2023-07-28**|**Benchmarking Anomaly Detection System on various Jetson Edge Devices**|Hoang Viet Pham et.al.|[2307.16834v1](http://arxiv.org/abs/2307.16834v1)|
 |**2023-07-31**|**An Empirical Study on Log-based Anomaly Detection Using Machine Learning**|Shan Ali et.al.|[2307.16714v1](http://arxiv.org/abs/2307.16714v1)|
 |**2023-07-28**|**Anomaly Detection in Industrial Machinery using IoT Devices and Machine Learning: a Systematic Mapping**|Sérgio F. Chevtchenko et.al.|[2307.15807v1](http://arxiv.org/abs/2307.15807v1)|
 |**2023-07-28**|**BOURNE: Bootstrapped Self-supervised Learning Framework for Unified Graph Anomaly Detection**|Jie Liu et.al.|[2307.15244v1](http://arxiv.org/abs/2307.15244v1)|
-|**2023-07-27**|**Generative AI for Medical Imaging: extending the MONAI Framework**|Walter H. L. Pinaya et.al.|[2307.15208v1](http://arxiv.org/abs/2307.15208v1)|
-|**2023-07-27**|**Solving Data Quality Problems with Desbordante: a Demo**|George Chernishev et.al.|[2307.14935v2](http://arxiv.org/abs/2307.14935v2)|
-|**2023-07-26**|**Dual-Space Attacks against Random-Walk-based Anomaly Detection**|Yuni Lai et.al.|[2307.14387v1](http://arxiv.org/abs/2307.14387v1)|
-|**2023-07-26**|**Unraveling the Complexity of Splitting Sequential Data: Tackling Challenges in Video and Time Series Analysis**|Diego Botache et.al.|[2307.14294v1](http://arxiv.org/abs/2307.14294v1)|
-|**2023-07-26**|**EasyNet: An Easy Network for 3D Industrial Anomaly Detection**|Ruitao Chen et.al.|[2307.13925v2](http://arxiv.org/abs/2307.13925v2)|
-|**2023-07-26**|**Robustness Verification of Deep Neural Networks using Star-Based Reachability Analysis with Variable-Length Time Series Input**|Neelanjana Pal et.al.|[2307.13907v1](http://arxiv.org/abs/2307.13907v1)|
 
 ## change detection
 
