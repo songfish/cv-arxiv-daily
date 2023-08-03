@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-02**|**Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach**|Xing Ai et.al.|[2308.01063v1](http://arxiv.org/abs/2308.01063v1)|
+|**2023-08-02**|**Enhancing Representation Learning for Periodic Time Series with Floss: A Frequency Domain Regularization Approach**|Chunwei Yang et.al.|[2308.01011v1](http://arxiv.org/abs/2308.01011v1)|
 |**2023-08-01**|**Semisupervised Anomaly Detection using Support Vector Regression with Quantum Kernel**|Kilian Tscharke et.al.|[2308.00583v1](http://arxiv.org/abs/2308.00583v1)|
 |**2023-08-01**|**PressureTransferNet: Human Attribute Guided Dynamic Ground Pressure Profile Transfer using 3D simulated Pressure Maps**|Lala Shakti Swarup Ray et.al.|[2308.00538v1](http://arxiv.org/abs/2308.00538v1)|
 |**2023-08-01**|**Patch-wise Auto-Encoder for Visual Anomaly Detection**|Yajie Cui et.al.|[2308.00429v1](http://arxiv.org/abs/2308.00429v1)|
 |**2023-08-01**|**A Survey of Time Series Anomaly Detection Methods in the AIOps Domain**|Zhenyu Zhong et.al.|[2308.00393v1](http://arxiv.org/abs/2308.00393v1)|
 |**2023-07-31**|**General Anomaly Detection of Underwater Gliders Validated by Large-scale Deployment Dataset**|Ruochu Yang et.al.|[2308.00180v1](http://arxiv.org/abs/2308.00180v1)|
 |**2023-07-31**|**Using Kernel SHAP XAI Method to optimize the Network Anomaly Detection Model**|Khushnaseeb Roshan et.al.|[2308.00074v1](http://arxiv.org/abs/2308.00074v1)|
-|**2023-07-28**|**Benchmarking Anomaly Detection System on various Jetson Edge Devices**|Hoang Viet Pham et.al.|[2307.16834v1](http://arxiv.org/abs/2307.16834v1)|
 |**2023-07-31**|**An Empirical Study on Log-based Anomaly Detection Using Machine Learning**|Shan Ali et.al.|[2307.16714v1](http://arxiv.org/abs/2307.16714v1)|
 |**2023-07-28**|**Anomaly Detection in Industrial Machinery using IoT Devices and Machine Learning: a Systematic Mapping**|Sérgio F. Chevtchenko et.al.|[2307.15807v1](http://arxiv.org/abs/2307.15807v1)|
-|**2023-07-28**|**BOURNE: Bootstrapped Self-supervised Learning Framework for Unified Graph Anomaly Detection**|Jie Liu et.al.|[2307.15244v1](http://arxiv.org/abs/2307.15244v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-02**|**UCDFormer: Unsupervised Change Detection Using a Transformer-driven Image Translation**|Qingsong Xu et.al.|[2308.01146v1](http://arxiv.org/abs/2308.01146v1)|
 |**2023-07-28**|**Implicit neural representation for change detection**|Peter Naylor et.al.|[2307.15428v1](http://arxiv.org/abs/2307.15428v1)|
 |**2023-07-27**|**End-to-end Remote Sensing Change Detection of Unregistered Bi-temporal Images for Natural Disasters**|Guiqin Zhao et.al.|[2307.15128v1](http://arxiv.org/abs/2307.15128v1)|
 |**2023-07-26**|**Active Robot Vision for Distant Object Change Detection: A Lightweight Training Simulator Inspired by Multi-Armed Bandits**|Kouki Terashima et.al.|[2307.14105v1](http://arxiv.org/abs/2307.14105v1)|
@@ -73,5 +74,4 @@
 |**2023-07-20**|**Exploring Effective Priors and Efficient Models for Weakly-Supervised Change Detection**|Zhenghui Zhao et.al.|[2307.10853v3](http://arxiv.org/abs/2307.10853v3)|
 |**2023-07-20**|**Hybrid Feature Embedding For Automatic Building Outline Extraction**|Weihang Ran et.al.|[2307.10609v1](http://arxiv.org/abs/2307.10609v1)|
 |**2023-07-15**|**Multitemporal SAR images change detection and visualization using RABASAR and simplified GLR**|Weiying Zhao et.al.|[2307.07892v1](http://arxiv.org/abs/2307.07892v1)|
-|**2023-07-15**|**Corrected kernel principal component analysis for model structural change detection**|Luoyao Yu et.al.|[2307.07827v1](http://arxiv.org/abs/2307.07827v1)|
 
