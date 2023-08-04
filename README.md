@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-03**|**Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection**|Aofan Jiang et.al.|[2308.01639v1](http://arxiv.org/abs/2308.01639v1)|
+|**2023-08-03**|**Learning Causality-inspired Representation Consistency for Video Anomaly Detection**|Yang Liu et.al.|[2308.01537v1](http://arxiv.org/abs/2308.01537v1)|
 |**2023-08-02**|**Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach**|Xing Ai et.al.|[2308.01063v1](http://arxiv.org/abs/2308.01063v1)|
 |**2023-08-02**|**Enhancing Representation Learning for Periodic Time Series with Floss: A Frequency Domain Regularization Approach**|Chunwei Yang et.al.|[2308.01011v1](http://arxiv.org/abs/2308.01011v1)|
 |**2023-08-01**|**Semisupervised Anomaly Detection using Support Vector Regression with Quantum Kernel**|Kilian Tscharke et.al.|[2308.00583v1](http://arxiv.org/abs/2308.00583v1)|
@@ -57,8 +59,6 @@
 |**2023-08-01**|**A Survey of Time Series Anomaly Detection Methods in the AIOps Domain**|Zhenyu Zhong et.al.|[2308.00393v1](http://arxiv.org/abs/2308.00393v1)|
 |**2023-07-31**|**General Anomaly Detection of Underwater Gliders Validated by Large-scale Deployment Dataset**|Ruochu Yang et.al.|[2308.00180v1](http://arxiv.org/abs/2308.00180v1)|
 |**2023-07-31**|**Using Kernel SHAP XAI Method to optimize the Network Anomaly Detection Model**|Khushnaseeb Roshan et.al.|[2308.00074v1](http://arxiv.org/abs/2308.00074v1)|
-|**2023-07-31**|**An Empirical Study on Log-based Anomaly Detection Using Machine Learning**|Shan Ali et.al.|[2307.16714v1](http://arxiv.org/abs/2307.16714v1)|
-|**2023-07-28**|**Anomaly Detection in Industrial Machinery using IoT Devices and Machine Learning: a Systematic Mapping**|Sérgio F. Chevtchenko et.al.|[2307.15807v1](http://arxiv.org/abs/2307.15807v1)|
 
 ## change detection
 
