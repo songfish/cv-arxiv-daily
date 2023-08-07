@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-04**|**Synthetic outlier generation for anomaly detection in autonomous driving**|Martin Bikandi et.al.|[2308.02184v1](http://arxiv.org/abs/2308.02184v1)|
+|**2023-08-03**|**Diffusion Models for Counterfactual Generation and Anomaly Detection in Brain Images**|Alessandro Fontanella et.al.|[2308.02062v1](http://arxiv.org/abs/2308.02062v1)|
+|**2023-08-03**|**Discriminative Graph-level Anomaly Detection via Dual-students-teacher Model**|Fu Lin et.al.|[2308.01947v1](http://arxiv.org/abs/2308.01947v1)|
 |**2023-08-03**|**Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection**|Aofan Jiang et.al.|[2308.01639v1](http://arxiv.org/abs/2308.01639v1)|
 |**2023-08-03**|**Learning Causality-inspired Representation Consistency for Video Anomaly Detection**|Yang Liu et.al.|[2308.01537v1](http://arxiv.org/abs/2308.01537v1)|
 |**2023-08-02**|**Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach**|Xing Ai et.al.|[2308.01063v1](http://arxiv.org/abs/2308.01063v1)|
@@ -56,14 +59,12 @@
 |**2023-08-01**|**Semisupervised Anomaly Detection using Support Vector Regression with Quantum Kernel**|Kilian Tscharke et.al.|[2308.00583v1](http://arxiv.org/abs/2308.00583v1)|
 |**2023-08-01**|**PressureTransferNet: Human Attribute Guided Dynamic Ground Pressure Profile Transfer using 3D simulated Pressure Maps**|Lala Shakti Swarup Ray et.al.|[2308.00538v1](http://arxiv.org/abs/2308.00538v1)|
 |**2023-08-01**|**Patch-wise Auto-Encoder for Visual Anomaly Detection**|Yajie Cui et.al.|[2308.00429v1](http://arxiv.org/abs/2308.00429v1)|
-|**2023-08-01**|**A Survey of Time Series Anomaly Detection Methods in the AIOps Domain**|Zhenyu Zhong et.al.|[2308.00393v1](http://arxiv.org/abs/2308.00393v1)|
-|**2023-07-31**|**General Anomaly Detection of Underwater Gliders Validated by Large-scale Deployment Dataset**|Ruochu Yang et.al.|[2308.00180v1](http://arxiv.org/abs/2308.00180v1)|
-|**2023-07-31**|**Using Kernel SHAP XAI Method to optimize the Network Anomaly Detection Model**|Khushnaseeb Roshan et.al.|[2308.00074v1](http://arxiv.org/abs/2308.00074v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-04**|**T-UNet: Triplet UNet for Change Detection in High-Resolution Remote Sensing Images**|Huan Zhong et.al.|[2308.02356v1](http://arxiv.org/abs/2308.02356v1)|
 |**2023-08-02**|**UCDFormer: Unsupervised Change Detection Using a Transformer-driven Image Translation**|Qingsong Xu et.al.|[2308.01146v1](http://arxiv.org/abs/2308.01146v1)|
 |**2023-07-28**|**Implicit neural representation for change detection**|Peter Naylor et.al.|[2307.15428v1](http://arxiv.org/abs/2307.15428v1)|
 |**2023-07-27**|**End-to-end Remote Sensing Change Detection of Unregistered Bi-temporal Images for Natural Disasters**|Guiqin Zhao et.al.|[2307.15128v1](http://arxiv.org/abs/2307.15128v1)|
@@ -73,5 +74,4 @@
 |**2023-07-23**|**DeepCL: Deep Change Feature Learning on Remote Sensing Images in the Metric Space**|Haonan Guo et.al.|[2307.12208v1](http://arxiv.org/abs/2307.12208v1)|
 |**2023-07-20**|**Exploring Effective Priors and Efficient Models for Weakly-Supervised Change Detection**|Zhenghui Zhao et.al.|[2307.10853v3](http://arxiv.org/abs/2307.10853v3)|
 |**2023-07-20**|**Hybrid Feature Embedding For Automatic Building Outline Extraction**|Weihang Ran et.al.|[2307.10609v1](http://arxiv.org/abs/2307.10609v1)|
-|**2023-07-15**|**Multitemporal SAR images change detection and visualization using RABASAR and simplified GLR**|Weiying Zhao et.al.|[2307.07892v1](http://arxiv.org/abs/2307.07892v1)|
 
