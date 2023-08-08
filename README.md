@@ -1,4 +1,4 @@
-## Updated on 2023.08.07
+## Updated on 2023.08.08
 
 ## super-resolution
 
@@ -55,7 +55,7 @@
 |**2023-08-03**|**Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection**|Aofan Jiang et.al.|[2308.01639v1](http://arxiv.org/abs/2308.01639v1)|
 |**2023-08-03**|**Learning Causality-inspired Representation Consistency for Video Anomaly Detection**|Yang Liu et.al.|[2308.01537v1](http://arxiv.org/abs/2308.01537v1)|
 |**2023-08-02**|**Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach**|Xing Ai et.al.|[2308.01063v1](http://arxiv.org/abs/2308.01063v1)|
-|**2023-08-02**|**Enhancing Representation Learning for Periodic Time Series with Floss: A Frequency Domain Regularization Approach**|Chunwei Yang et.al.|[2308.01011v1](http://arxiv.org/abs/2308.01011v1)|
+|**2023-08-02**|**Enhancing Representation Learning for Periodic Time Series with Floss: A Frequency Domain Regularization Approach**|Chunwei Yang et.al.|[2308.01011v2](http://arxiv.org/abs/2308.01011v2)|
 |**2023-08-01**|**Semisupervised Anomaly Detection using Support Vector Regression with Quantum Kernel**|Kilian Tscharke et.al.|[2308.00583v1](http://arxiv.org/abs/2308.00583v1)|
 |**2023-08-01**|**PressureTransferNet: Human Attribute Guided Dynamic Ground Pressure Profile Transfer using 3D simulated Pressure Maps**|Lala Shakti Swarup Ray et.al.|[2308.00538v1](http://arxiv.org/abs/2308.00538v1)|
 |**2023-08-01**|**Patch-wise Auto-Encoder for Visual Anomaly Detection**|Yajie Cui et.al.|[2308.00429v1](http://arxiv.org/abs/2308.00429v1)|
