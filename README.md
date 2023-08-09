@@ -1,4 +1,4 @@
-## Updated on 2023.08.08
+## Updated on 2023.08.09
 
 ## super-resolution
 
@@ -28,7 +28,7 @@
 |**2023-05-23**|**Hierarchical Adaptive Voxel-guided Sampling for Real-time Applications in Large-scale Point Clouds**|Junyuan Ouyang et.al.|[2305.14306v1](http://arxiv.org/abs/2305.14306v1)|
 |**2023-04-13**|**Direct observations of the atomic-molecular phase transition in the Milky Way's nuclear wind**|Karlie A. Noon et.al.|[2304.06356v2](http://arxiv.org/abs/2304.06356v2)|
 |**2023-04-03**|**Open-Vocabulary Point-Cloud Object Detection without 3D Annotation**|Yuheng Lu et.al.|[2304.00788v2](http://arxiv.org/abs/2304.00788v2)|
-|**2023-03-29**|**PMAA: A Progressive Multi-scale Attention Autoencoder Model for High-Performance Cloud Removal from Multi-temporal Satellite Imagery**|Xuechao Zou et.al.|[2303.16565v1](http://arxiv.org/abs/2303.16565v1)|
+|**2023-03-29**|**PMAA: A Progressive Multi-scale Attention Autoencoder Model for High-performance Cloud Removal from Multi-temporal Satellite Imagery**|Xuechao Zou et.al.|[2303.16565v2](http://arxiv.org/abs/2303.16565v2)|
 
 ## abnormal detection
 
