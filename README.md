@@ -28,7 +28,7 @@
 |**2023-05-23**|**Hierarchical Adaptive Voxel-guided Sampling for Real-time Applications in Large-scale Point Clouds**|Junyuan Ouyang et.al.|[2305.14306v1](http://arxiv.org/abs/2305.14306v1)|
 |**2023-04-13**|**Direct observations of the atomic-molecular phase transition in the Milky Way's nuclear wind**|Karlie A. Noon et.al.|[2304.06356v2](http://arxiv.org/abs/2304.06356v2)|
 |**2023-04-03**|**Open-Vocabulary Point-Cloud Object Detection without 3D Annotation**|Yuheng Lu et.al.|[2304.00788v2](http://arxiv.org/abs/2304.00788v2)|
-|**2023-03-29**|**PMAA: A Progressive Multi-scale Attention Autoencoder Model for High-performance Cloud Removal from Multi-temporal Satellite Imagery**|Xuechao Zou et.al.|[2303.16565v2](http://arxiv.org/abs/2303.16565v2)|
+|**2023-02-16**|**Detecting Clouds in Multispectral Satellite Images Using Quantum-Kernel Support Vector Machines**|Artur Miroszewski et.al.|[2302.08270v1](http://arxiv.org/abs/2302.08270v1)|
 
 ## abnormal detection
 
@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-08**|**A Deep-Learning Method Using Auto-encoder and Generative Adversarial Network for Anomaly Detection on Ancient Stone Stele Surfaces**|Yikun Liu et.al.|[2308.04426v1](http://arxiv.org/abs/2308.04426v1)|
+|**2023-08-08**|**Generative Models for Anomaly Detection and Design-Space Dimensionality Reduction in Shape Optimization**|Danny D'Agostino et.al.|[2308.04051v1](http://arxiv.org/abs/2308.04051v1)|
 |**2023-08-07**|**Implementing Immune Repertoire Models Using Weighted Finite State Machines**|Gijs Schröder et.al.|[2308.03637v1](http://arxiv.org/abs/2308.03637v1)|
 |**2023-08-07**|**TemporalFED: Detecting Cyberattacks in Industrial Time-Series Data Using Decentralized Federated Learning**|Ángel Luis Perales Gómez et.al.|[2308.03554v1](http://arxiv.org/abs/2308.03554v1)|
 |**2023-08-06**|**Detection of Anomalies in Multivariate Time Series Using Ensemble Techniques**|Anastasios Iliopoulos et.al.|[2308.03171v1](http://arxiv.org/abs/2308.03171v1)|
@@ -57,8 +59,6 @@
 |**2023-08-05**|**Crowdsourcing Fraud Detection over Heterogeneous Temporal MMMA Graph**|Zequan Xu et.al.|[2308.02793v1](http://arxiv.org/abs/2308.02793v1)|
 |**2023-08-04**|**Boosting sensitivity to new physics with unsupervised anomaly detection in dijet resonance search**|Sergei V. Chekanov et.al.|[2308.02671v1](http://arxiv.org/abs/2308.02671v1)|
 |**2023-08-04**|**Synthetic outlier generation for anomaly detection in autonomous driving**|Martin Bikandi et.al.|[2308.02184v1](http://arxiv.org/abs/2308.02184v1)|
-|**2023-08-03**|**Diffusion Models for Counterfactual Generation and Anomaly Detection in Brain Images**|Alessandro Fontanella et.al.|[2308.02062v1](http://arxiv.org/abs/2308.02062v1)|
-|**2023-08-03**|**Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection**|Aofan Jiang et.al.|[2308.01639v1](http://arxiv.org/abs/2308.01639v1)|
 
 ## change detection
 
