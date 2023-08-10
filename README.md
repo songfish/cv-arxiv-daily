@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-09**|**Multi-Class Deep SVDD: Anomaly Detection Approach in Astronomy with Distinct Inlier Categories**|Pérez-Carrasco Manuel et.al.|[2308.05011v1](http://arxiv.org/abs/2308.05011v1)|
+|**2023-08-09**|**Gaussian Image Anomaly Detection with Greedy Eigencomponent Selection**|Tetiana Gula et.al.|[2308.04944v1](http://arxiv.org/abs/2308.04944v1)|
+|**2023-08-09**|**Multi-Scale Memory Comparison for Zero-/Few-Shot Anomaly Detection**|Chaoqin Huang et.al.|[2308.04789v1](http://arxiv.org/abs/2308.04789v1)|
+|**2023-08-09**|**Sparse Binary Transformers for Multivariate Time Series Modeling**|Matt Gorbett et.al.|[2308.04637v1](http://arxiv.org/abs/2308.04637v1)|
 |**2023-08-08**|**A Deep-Learning Method Using Auto-encoder and Generative Adversarial Network for Anomaly Detection on Ancient Stone Stele Surfaces**|Yikun Liu et.al.|[2308.04426v1](http://arxiv.org/abs/2308.04426v1)|
 |**2023-08-08**|**Generative Models for Anomaly Detection and Design-Space Dimensionality Reduction in Shape Optimization**|Danny D'Agostino et.al.|[2308.04051v1](http://arxiv.org/abs/2308.04051v1)|
 |**2023-08-07**|**Implementing Immune Repertoire Models Using Weighted Finite State Machines**|Gijs Schröder et.al.|[2308.03637v1](http://arxiv.org/abs/2308.03637v1)|
 |**2023-08-07**|**TemporalFED: Detecting Cyberattacks in Industrial Time-Series Data Using Decentralized Federated Learning**|Ángel Luis Perales Gómez et.al.|[2308.03554v1](http://arxiv.org/abs/2308.03554v1)|
 |**2023-08-06**|**Detection of Anomalies in Multivariate Time Series Using Ensemble Techniques**|Anastasios Iliopoulos et.al.|[2308.03171v1](http://arxiv.org/abs/2308.03171v1)|
 |**2023-08-06**|**Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection**|Xincheng Yao et.al.|[2308.02983v1](http://arxiv.org/abs/2308.02983v1)|
-|**2023-08-05**|**Anomaly Detection in Global Financial Markets with Graph Neural Networks and Nonextensive Entropy**|Kleyton da Costa et.al.|[2308.02914v2](http://arxiv.org/abs/2308.02914v2)|
-|**2023-08-05**|**Crowdsourcing Fraud Detection over Heterogeneous Temporal MMMA Graph**|Zequan Xu et.al.|[2308.02793v1](http://arxiv.org/abs/2308.02793v1)|
-|**2023-08-04**|**Boosting sensitivity to new physics with unsupervised anomaly detection in dijet resonance search**|Sergei V. Chekanov et.al.|[2308.02671v1](http://arxiv.org/abs/2308.02671v1)|
-|**2023-08-04**|**Synthetic outlier generation for anomaly detection in autonomous driving**|Martin Bikandi et.al.|[2308.02184v1](http://arxiv.org/abs/2308.02184v1)|
 
 ## change detection
 
