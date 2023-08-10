@@ -1,4 +1,4 @@
-## Updated on 2023.08.09
+## Updated on 2023.08.10
 
 ## super-resolution
 
@@ -55,7 +55,7 @@
 |**2023-08-07**|**TemporalFED: Detecting Cyberattacks in Industrial Time-Series Data Using Decentralized Federated Learning**|Ángel Luis Perales Gómez et.al.|[2308.03554v1](http://arxiv.org/abs/2308.03554v1)|
 |**2023-08-06**|**Detection of Anomalies in Multivariate Time Series Using Ensemble Techniques**|Anastasios Iliopoulos et.al.|[2308.03171v1](http://arxiv.org/abs/2308.03171v1)|
 |**2023-08-06**|**Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection**|Xincheng Yao et.al.|[2308.02983v1](http://arxiv.org/abs/2308.02983v1)|
-|**2023-08-05**|**Anomaly Detection in Global Financial Markets with Graph Neural Networks and Nonextensive Entropy**|Kleyton da Costa et.al.|[2308.02914v1](http://arxiv.org/abs/2308.02914v1)|
+|**2023-08-05**|**Anomaly Detection in Global Financial Markets with Graph Neural Networks and Nonextensive Entropy**|Kleyton da Costa et.al.|[2308.02914v2](http://arxiv.org/abs/2308.02914v2)|
 |**2023-08-05**|**Crowdsourcing Fraud Detection over Heterogeneous Temporal MMMA Graph**|Zequan Xu et.al.|[2308.02793v1](http://arxiv.org/abs/2308.02793v1)|
 |**2023-08-04**|**Boosting sensitivity to new physics with unsupervised anomaly detection in dijet resonance search**|Sergei V. Chekanov et.al.|[2308.02671v1](http://arxiv.org/abs/2308.02671v1)|
 |**2023-08-04**|**Synthetic outlier generation for anomaly detection in autonomous driving**|Martin Bikandi et.al.|[2308.02184v1](http://arxiv.org/abs/2308.02184v1)|
