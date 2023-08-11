@@ -1,4 +1,4 @@
-## Updated on 2023.08.10
+## Updated on 2023.08.11
 
 ## super-resolution
 
@@ -49,7 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-08-09**|**Multi-Class Deep SVDD: Anomaly Detection Approach in Astronomy with Distinct Inlier Categories**|Pérez-Carrasco Manuel et.al.|[2308.05011v1](http://arxiv.org/abs/2308.05011v1)|
+|**2023-08-09**|**Multi-Class Deep SVDD: Anomaly Detection Approach in Astronomy with Distinct Inlier Categories**|Manuel Pérez-Carrasco et.al.|[2308.05011v2](http://arxiv.org/abs/2308.05011v2)|
 |**2023-08-09**|**Gaussian Image Anomaly Detection with Greedy Eigencomponent Selection**|Tetiana Gula et.al.|[2308.04944v1](http://arxiv.org/abs/2308.04944v1)|
 |**2023-08-09**|**Multi-Scale Memory Comparison for Zero-/Few-Shot Anomaly Detection**|Chaoqin Huang et.al.|[2308.04789v1](http://arxiv.org/abs/2308.04789v1)|
 |**2023-08-09**|**Sparse Binary Transformers for Multivariate Time Series Modeling**|Matt Gorbett et.al.|[2308.04637v1](http://arxiv.org/abs/2308.04637v1)|
