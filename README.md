@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-11**|**Out-of-Distribution Detection for Monocular Depth Estimation**|Julia Hornauer et.al.|[2308.06072v1](http://arxiv.org/abs/2308.06072v1)|
+|**2023-08-11**|**CyberForce: A Federated Reinforcement Learning Framework for Malware Mitigation**|Chao Feng et.al.|[2308.05978v1](http://arxiv.org/abs/2308.05978v1)|
+|**2023-08-11**|**A Deep Recurrent-Reinforcement Learning Method for Intelligent AutoScaling of Serverless Functions**|Siddharth Agarwal et.al.|[2308.05937v1](http://arxiv.org/abs/2308.05937v1)|
 |**2023-08-10**|**Exploring the Potential of World Models for Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al.|[2308.05701v1](http://arxiv.org/abs/2308.05701v1)|
 |**2023-08-10**|**Deep generative models for unsupervised delamination detection using guided waves**|Mahindra Rautela et.al.|[2308.05350v1](http://arxiv.org/abs/2308.05350v1)|
 |**2023-08-09**|**Multi-Class Deep SVDD: Anomaly Detection Approach in Astronomy with Distinct Inlier Categories**|Manuel Pérez-Carrasco et.al.|[2308.05011v2](http://arxiv.org/abs/2308.05011v2)|
@@ -56,9 +59,6 @@
 |**2023-08-09**|**Multi-Scale Memory Comparison for Zero-/Few-Shot Anomaly Detection**|Chaoqin Huang et.al.|[2308.04789v1](http://arxiv.org/abs/2308.04789v1)|
 |**2023-08-09**|**Sparse Binary Transformers for Multivariate Time Series Modeling**|Matt Gorbett et.al.|[2308.04637v1](http://arxiv.org/abs/2308.04637v1)|
 |**2023-08-08**|**A Deep-Learning Method Using Auto-encoder and Generative Adversarial Network for Anomaly Detection on Ancient Stone Stele Surfaces**|Yikun Liu et.al.|[2308.04426v1](http://arxiv.org/abs/2308.04426v1)|
-|**2023-08-08**|**Generative Models for Anomaly Detection and Design-Space Dimensionality Reduction in Shape Optimization**|Danny D'Agostino et.al.|[2308.04051v1](http://arxiv.org/abs/2308.04051v1)|
-|**2023-08-07**|**Implementing Immune Repertoire Models Using Weighted Finite State Machines**|Gijs Schröder et.al.|[2308.03637v1](http://arxiv.org/abs/2308.03637v1)|
-|**2023-08-07**|**TemporalFED: Detecting Cyberattacks in Industrial Time-Series Data Using Decentralized Federated Learning**|Ángel Luis Perales Gómez et.al.|[2308.03554v1](http://arxiv.org/abs/2308.03554v1)|
 
 ## change detection
 
