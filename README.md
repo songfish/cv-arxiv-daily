@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-14**|**Survey on video anomaly detection in dynamic scenes with moving cameras**|Runyu Jiao et.al.|[2308.07050v1](http://arxiv.org/abs/2308.07050v1)|
+|**2023-08-14**|**Digital Twin of the Radio Environment: A Novel Approach for Anomaly Detection in Wireless Networks**|Anton Krause et.al.|[2308.06980v1](http://arxiv.org/abs/2308.06980v1)|
+|**2023-08-13**|**SoK: Realistic Adversarial Attacks and Defenses for Intelligent Network Intrusion Detection**|João Vitorino et.al.|[2308.06819v1](http://arxiv.org/abs/2308.06819v1)|
+|**2023-08-13**|**Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval**|Hanxi Li et.al.|[2308.06748v1](http://arxiv.org/abs/2308.06748v1)|
+|**2023-08-13**|**ALGAN: Time Series Anomaly Detection with Adjusted-LSTM GAN**|Md Abul Bashar et.al.|[2308.06663v1](http://arxiv.org/abs/2308.06663v1)|
 |**2023-08-11**|**Out-of-Distribution Detection for Monocular Depth Estimation**|Julia Hornauer et.al.|[2308.06072v1](http://arxiv.org/abs/2308.06072v1)|
 |**2023-08-11**|**CyberForce: A Federated Reinforcement Learning Framework for Malware Mitigation**|Chao Feng et.al.|[2308.05978v1](http://arxiv.org/abs/2308.05978v1)|
 |**2023-08-11**|**A Deep Recurrent-Reinforcement Learning Method for Intelligent AutoScaling of Serverless Functions**|Siddharth Agarwal et.al.|[2308.05937v1](http://arxiv.org/abs/2308.05937v1)|
 |**2023-08-10**|**Exploring the Potential of World Models for Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al.|[2308.05701v1](http://arxiv.org/abs/2308.05701v1)|
 |**2023-08-10**|**Deep generative models for unsupervised delamination detection using guided waves**|Mahindra Rautela et.al.|[2308.05350v1](http://arxiv.org/abs/2308.05350v1)|
-|**2023-08-09**|**Multi-Class Deep SVDD: Anomaly Detection Approach in Astronomy with Distinct Inlier Categories**|Manuel Pérez-Carrasco et.al.|[2308.05011v2](http://arxiv.org/abs/2308.05011v2)|
-|**2023-08-09**|**Gaussian Image Anomaly Detection with Greedy Eigencomponent Selection**|Tetiana Gula et.al.|[2308.04944v1](http://arxiv.org/abs/2308.04944v1)|
-|**2023-08-09**|**Multi-Scale Memory Comparison for Zero-/Few-Shot Anomaly Detection**|Chaoqin Huang et.al.|[2308.04789v1](http://arxiv.org/abs/2308.04789v1)|
-|**2023-08-09**|**Sparse Binary Transformers for Multivariate Time Series Modeling**|Matt Gorbett et.al.|[2308.04637v1](http://arxiv.org/abs/2308.04637v1)|
-|**2023-08-08**|**A Deep-Learning Method Using Auto-encoder and Generative Adversarial Network for Anomaly Detection on Ancient Stone Stele Surfaces**|Yikun Liu et.al.|[2308.04426v1](http://arxiv.org/abs/2308.04426v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-14**|**Detecting changes to sub-diffraction objects with quantum-optimal speed and accuracy**|Michael R Grace et.al.|[2308.07262v1](http://arxiv.org/abs/2308.07262v1)|
 |**2023-08-04**|**T-UNet: Triplet UNet for Change Detection in High-Resolution Remote Sensing Images**|Huan Zhong et.al.|[2308.02356v1](http://arxiv.org/abs/2308.02356v1)|
 |**2023-08-02**|**UCDFormer: Unsupervised Change Detection Using a Transformer-driven Image Translation**|Qingsong Xu et.al.|[2308.01146v1](http://arxiv.org/abs/2308.01146v1)|
 |**2023-07-28**|**Implicit neural representation for change detection**|Peter Naylor et.al.|[2307.15428v1](http://arxiv.org/abs/2307.15428v1)|
@@ -73,5 +74,4 @@
 |**2023-07-23**|**ES2Net: An Efficient Spectral-Spatial Network for Hyperspectral Image Change Detection**|Qingren Yao et.al.|[2307.12327v1](http://arxiv.org/abs/2307.12327v1)|
 |**2023-07-23**|**DeepCL: Deep Change Feature Learning on Remote Sensing Images in the Metric Space**|Haonan Guo et.al.|[2307.12208v1](http://arxiv.org/abs/2307.12208v1)|
 |**2023-07-20**|**Exploring Effective Priors and Efficient Models for Weakly-Supervised Change Detection**|Zhenghui Zhao et.al.|[2307.10853v3](http://arxiv.org/abs/2307.10853v3)|
-|**2023-07-20**|**Hybrid Feature Embedding For Automatic Building Outline Extraction**|Weihang Ran et.al.|[2307.10609v1](http://arxiv.org/abs/2307.10609v1)|
 
