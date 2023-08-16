@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-15**|**ImbSAM: A Closer Look at Sharpness-Aware Minimization in Class-Imbalanced Recognition**|Yixuan Zhou et.al.|[2308.07815v1](http://arxiv.org/abs/2308.07815v1)|
+|**2023-08-15**|**Future Video Prediction from a Single Frame for Video Anomaly Detection**|Mohammad Baradaran et.al.|[2308.07783v1](http://arxiv.org/abs/2308.07783v1)|
+|**2023-08-15**|**A Graph Encoder-Decoder Network for Unsupervised Anomaly Detection**|Mahsa Mesgaran et.al.|[2308.07774v1](http://arxiv.org/abs/2308.07774v1)|
+|**2023-08-15**|**Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion**|Cheryl Lee et.al.|[2308.07676v1](http://arxiv.org/abs/2308.07676v1)|
+|**2023-08-15**|**LogPrompt: Prompt Engineering Towards Zero-Shot and Interpretable Log Analysis**|Yilun Liu et.al.|[2308.07610v1](http://arxiv.org/abs/2308.07610v1)|
+|**2023-08-15**|**Searching for Novel Chemistry in Exoplanetary Atmospheres using Machine Learning for Anomaly Detection**|Roy T. Forestano et.al.|[2308.07604v1](http://arxiv.org/abs/2308.07604v1)|
 |**2023-08-14**|**Survey on video anomaly detection in dynamic scenes with moving cameras**|Runyu Jiao et.al.|[2308.07050v1](http://arxiv.org/abs/2308.07050v1)|
 |**2023-08-14**|**Digital Twin of the Radio Environment: A Novel Approach for Anomaly Detection in Wireless Networks**|Anton Krause et.al.|[2308.06980v1](http://arxiv.org/abs/2308.06980v1)|
 |**2023-08-13**|**SoK: Realistic Adversarial Attacks and Defenses for Intelligent Network Intrusion Detection**|João Vitorino et.al.|[2308.06819v1](http://arxiv.org/abs/2308.06819v1)|
 |**2023-08-13**|**Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval**|Hanxi Li et.al.|[2308.06748v1](http://arxiv.org/abs/2308.06748v1)|
-|**2023-08-13**|**ALGAN: Time Series Anomaly Detection with Adjusted-LSTM GAN**|Md Abul Bashar et.al.|[2308.06663v1](http://arxiv.org/abs/2308.06663v1)|
-|**2023-08-11**|**Out-of-Distribution Detection for Monocular Depth Estimation**|Julia Hornauer et.al.|[2308.06072v1](http://arxiv.org/abs/2308.06072v1)|
-|**2023-08-11**|**CyberForce: A Federated Reinforcement Learning Framework for Malware Mitigation**|Chao Feng et.al.|[2308.05978v1](http://arxiv.org/abs/2308.05978v1)|
-|**2023-08-11**|**A Deep Recurrent-Reinforcement Learning Method for Intelligent AutoScaling of Serverless Functions**|Siddharth Agarwal et.al.|[2308.05937v1](http://arxiv.org/abs/2308.05937v1)|
-|**2023-08-10**|**Exploring the Potential of World Models for Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al.|[2308.05701v1](http://arxiv.org/abs/2308.05701v1)|
-|**2023-08-10**|**Deep generative models for unsupervised delamination detection using guided waves**|Mahindra Rautela et.al.|[2308.05350v1](http://arxiv.org/abs/2308.05350v1)|
 
 ## change detection
 
