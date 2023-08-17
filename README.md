@@ -1,4 +1,4 @@
-## Updated on 2023.08.16
+## Updated on 2023.08.17
 
 ## super-resolution
 
@@ -64,11 +64,11 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-08-14**|**Detecting changes to sub-diffraction objects with quantum-optimal speed and accuracy**|Michael R Grace et.al.|[2308.07262v1](http://arxiv.org/abs/2308.07262v1)|
+|**2023-08-14**|**Detecting changes to sub-diffraction objects with quantum-optimal speed and accuracy**|Michael R Grace et.al.|[2308.07262v2](http://arxiv.org/abs/2308.07262v2)|
 |**2023-08-04**|**T-UNet: Triplet UNet for Change Detection in High-Resolution Remote Sensing Images**|Huan Zhong et.al.|[2308.02356v1](http://arxiv.org/abs/2308.02356v1)|
 |**2023-08-02**|**UCDFormer: Unsupervised Change Detection Using a Transformer-driven Image Translation**|Qingsong Xu et.al.|[2308.01146v1](http://arxiv.org/abs/2308.01146v1)|
 |**2023-07-28**|**Implicit neural representation for change detection**|Peter Naylor et.al.|[2307.15428v1](http://arxiv.org/abs/2307.15428v1)|
-|**2023-07-27**|**End-to-end Remote Sensing Change Detection of Unregistered Bi-temporal Images for Natural Disasters**|Guiqin Zhao et.al.|[2307.15128v1](http://arxiv.org/abs/2307.15128v1)|
+|**2023-07-27**|**End-to-end Remote Sensing Change Detection of Unregistered Bi-temporal Images for Natural Disasters**|Guiqin Zhao et.al.|[2307.15128v2](http://arxiv.org/abs/2307.15128v2)|
 |**2023-07-26**|**Active Robot Vision for Distant Object Change Detection: A Lightweight Training Simulator Inspired by Multi-Armed Bandits**|Kouki Terashima et.al.|[2307.14105v1](http://arxiv.org/abs/2307.14105v1)|
 |**2023-07-23**|**ComPtr: Towards Diverse Bi-source Dense Prediction Tasks via A Simple yet General Complementary Transformer**|Youwei Pang et.al.|[2307.12349v1](http://arxiv.org/abs/2307.12349v1)|
 |**2023-07-23**|**ES2Net: An Efficient Spectral-Spatial Network for Hyperspectral Image Change Detection**|Qingren Yao et.al.|[2307.12327v1](http://arxiv.org/abs/2307.12327v1)|
