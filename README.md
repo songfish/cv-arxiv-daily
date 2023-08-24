@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-23**|**Unsupervised anomalies detection in IIoT edge devices networks using federated learning**|Niyomukiza Thamar et.al.|[2308.12175v1](http://arxiv.org/abs/2308.12175v1)|
+|**2023-08-23**|**Federated Semi-Supervised and Semi-Asynchronous Learning for Anomaly Detection in IoT Networks**|Wenbin Zhai et.al.|[2308.11981v1](http://arxiv.org/abs/2308.11981v1)|
+|**2023-08-23**|**Exploring the Optimization Objective of One-Class Classification for Anomaly Detection**|Han Gao et.al.|[2308.11898v1](http://arxiv.org/abs/2308.11898v1)|
+|**2023-08-22**|**Performance Comparison and Implementation of Bayesian Variants for Network Intrusion Detection**|Tosin Ige et.al.|[2308.11834v1](http://arxiv.org/abs/2308.11834v1)|
+|**2023-08-22**|**Few-shot Anomaly Detection in Text with Deviation Learning**|Anindya Sundar Das et.al.|[2308.11780v1](http://arxiv.org/abs/2308.11780v1)|
+|**2023-08-22**|**VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection**|Peng Wu et.al.|[2308.11681v1](http://arxiv.org/abs/2308.11681v1)|
+|**2023-08-22**|**Class Label-aware Graph Anomaly Detection**|Junghoon Kim et.al.|[2308.11669v1](http://arxiv.org/abs/2308.11669v1)|
 |**2023-08-22**|**Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection**|Masato Tamura et.al.|[2308.11119v1](http://arxiv.org/abs/2308.11119v1)|
 |**2023-08-21**|**TeD-SPAD: Temporal Distinctiveness for Self-supervised Privacy-preservation for video Anomaly Detection**|Joseph Fioresi et.al.|[2308.11072v1](http://arxiv.org/abs/2308.11072v1)|
-|**2023-08-21**|**Deep Semi-supervised Anomaly Detection with Metapath-based Context Knowledge**|Hwan Kim et.al.|[2308.10918v1](http://arxiv.org/abs/2308.10918v1)|
 |**2023-08-21**|**A Large-scale Benchmark for Log Parsing**|Zhihan Jiang et.al.|[2308.10828v1](http://arxiv.org/abs/2308.10828v1)|
-|**2023-08-21**|**Inferring Power Grid Information with Power Line Communications: Review and Insights**|Abdulah Jarouf et.al.|[2308.10598v1](http://arxiv.org/abs/2308.10598v1)|
-|**2023-08-21**|**Adaptive Thresholding Heuristic for KPI Anomaly Detection**|Ebenezer R. H. P. Isaac et.al.|[2308.10504v1](http://arxiv.org/abs/2308.10504v1)|
-|**2023-08-20**|**Unilaterally Aggregated Contrastive Learning with Hierarchical Augmentation for Anomaly Detection**|Guodong Wang et.al.|[2308.10155v1](http://arxiv.org/abs/2308.10155v1)|
-|**2023-08-19**|**Semi-Supervised Anomaly Detection for the Determination of Vehicle Hijacking Tweets**|Taahir Aiyoob Patel et.al.|[2308.10036v1](http://arxiv.org/abs/2308.10036v1)|
-|**2023-08-19**|**Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks**|Zhihao Wen et.al.|[2308.10028v1](http://arxiv.org/abs/2308.10028v1)|
-|**2023-08-19**|**Practical Anomaly Detection over Multivariate Monitoring Metrics for Online Services**|Jinyang Liu et.al.|[2308.09937v1](http://arxiv.org/abs/2308.09937v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-23**|**Semantic Change Detection for the Romanian Language**|Ciprian-Octavian Truică et.al.|[2308.12131v1](http://arxiv.org/abs/2308.12131v1)|
 |**2023-08-22**|**Multitemporal analysis in Google Earth Engine for detecting urban changes using optical data and machine learning algorithms**|Mariapia Rita Iandolo et.al.|[2308.11468v1](http://arxiv.org/abs/2308.11468v1)|
 |**2023-08-22**|**SwinV2DNet: Pyramid and Self-Supervision Compounded Feature Learning for Remote Sensing Images Change Detection**|Dalong Zheng et.al.|[2308.11159v1](http://arxiv.org/abs/2308.11159v1)|
 |**2023-08-21**|**The Change You Want to See (Now in 3D)**|Ragav Sachdeva et.al.|[2308.10417v1](http://arxiv.org/abs/2308.10417v1)|
@@ -73,5 +74,4 @@
 |**2023-07-28**|**Implicit neural representation for change detection**|Peter Naylor et.al.|[2307.15428v1](http://arxiv.org/abs/2307.15428v1)|
 |**2023-07-27**|**End-to-end Remote Sensing Change Detection of Unregistered Bi-temporal Images for Natural Disasters**|Guiqin Zhao et.al.|[2307.15128v2](http://arxiv.org/abs/2307.15128v2)|
 |**2023-07-26**|**Active Robot Vision for Distant Object Change Detection: A Lightweight Training Simulator Inspired by Multi-Armed Bandits**|Kouki Terashima et.al.|[2307.14105v1](http://arxiv.org/abs/2307.14105v1)|
-|**2023-07-23**|**ComPtr: Towards Diverse Bi-source Dense Prediction Tasks via A Simple yet General Complementary Transformer**|Youwei Pang et.al.|[2307.12349v1](http://arxiv.org/abs/2307.12349v1)|
 
