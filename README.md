@@ -1,4 +1,4 @@
-## Updated on 2023.08.27
+## Updated on 2023.08.28
 
 ## super-resolution
 
@@ -55,10 +55,10 @@
 |**2023-08-24**|**Multivariate Time-Series Anomaly Detection with Contaminated Data: Application to Physiological Signals**|Thi Kieu Khanh Ho et.al.|[2308.12563v1](http://arxiv.org/abs/2308.12563v1)|
 |**2023-08-23**|**Unsupervised anomalies detection in IIoT edge devices networks using federated learning**|Niyomukiza Thamar et.al.|[2308.12175v1](http://arxiv.org/abs/2308.12175v1)|
 |**2023-08-23**|**Federated Semi-Supervised and Semi-Asynchronous Learning for Anomaly Detection in IoT Networks**|Wenbin Zhai et.al.|[2308.11981v1](http://arxiv.org/abs/2308.11981v1)|
-|**2023-08-23**|**Exploring the Optimization Objective of One-Class Classification for Anomaly Detection**|Han Gao et.al.|[2308.11898v1](http://arxiv.org/abs/2308.11898v1)|
+|**2023-08-23**|**Exploring the Optimization Objective of One-Class Classification for Anomaly Detection**|Han Gao et.al.|[2308.11898v2](http://arxiv.org/abs/2308.11898v2)|
 |**2023-08-22**|**Performance Comparison and Implementation of Bayesian Variants for Network Intrusion Detection**|Tosin Ige et.al.|[2308.11834v1](http://arxiv.org/abs/2308.11834v1)|
 |**2023-08-22**|**Few-shot Anomaly Detection in Text with Deviation Learning**|Anindya Sundar Das et.al.|[2308.11780v1](http://arxiv.org/abs/2308.11780v1)|
-|**2023-08-22**|**VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection**|Peng Wu et.al.|[2308.11681v1](http://arxiv.org/abs/2308.11681v1)|
+|**2023-08-22**|**VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection**|Peng Wu et.al.|[2308.11681v2](http://arxiv.org/abs/2308.11681v2)|
 
 ## change detection
 
