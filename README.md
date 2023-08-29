@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-28**|**Neural Network Training Strategy to Enhance Anomaly Detection Performance: A Perspective on Reconstruction Loss Amplification**|YeongHyeon Park et.al.|[2308.14595v1](http://arxiv.org/abs/2308.14595v1)|
+|**2023-08-28**|**Self-Supervision for Tackling Unsupervised Anomaly Detection: Pitfalls and Opportunities**|Leman Akoglu et.al.|[2308.14380v1](http://arxiv.org/abs/2308.14380v1)|
+|**2023-08-28**|**HRGCN: Heterogeneous Graph-level Anomaly Detection with Hierarchical Relation-augmented Graph Neural Networks**|Jiaxi Li et.al.|[2308.14340v1](http://arxiv.org/abs/2308.14340v1)|
+|**2023-08-27**|**Anomalous Sound Detection Using Self-Attention-Based Frequency Pattern Analysis of Machine Sounds**|Hejing Zhang et.al.|[2308.14063v1](http://arxiv.org/abs/2308.14063v1)|
+|**2023-08-27**|**A Bayesian Non-parametric Approach to Generative Models: Integrating Variational Autoencoder and Generative Adversarial Networks using Wasserstein and Maximum Mean Discrepancy**|Forough Fazeli-Asl et.al.|[2308.14048v1](http://arxiv.org/abs/2308.14048v1)|
+|**2023-08-26**|**Exploring Human Crowd Patterns and Categorization in Video Footage for Enhanced Security and Surveillance using Computer Vision and Machine Learning**|Afnan Alazbah et.al.|[2308.13910v1](http://arxiv.org/abs/2308.13910v1)|
+|**2023-08-26**|**Bias in Unsupervised Anomaly Detection in Brain MRI**|Cosmin I. Bercea et.al.|[2308.13861v1](http://arxiv.org/abs/2308.13861v1)|
 |**2023-08-25**|**Representing Timed Automata and Timing Anomalies of Cyber-Physical Production Systems in Knowledge Graphs**|Tom Westermann et.al.|[2308.13433v1](http://arxiv.org/abs/2308.13433v1)|
 |**2023-08-25**|**Burnt area extraction from high-resolution satellite images based on anomaly detection**|Oscar David Rafael Narvaez Luces et.al.|[2308.13367v1](http://arxiv.org/abs/2308.13367v1)|
 |**2023-08-25**|**A Generic Machine Learning Framework for Fully-Unsupervised Anomaly Detection with Contaminated Data**|Markus Ulmer et.al.|[2308.13352v1](http://arxiv.org/abs/2308.13352v1)|
-|**2023-08-24**|**Multivariate Time Series Anomaly Detection: Fancy Algorithms and Flawed Evaluation Methodology**|Mohamed El Amine Sehili et.al.|[2308.13068v1](http://arxiv.org/abs/2308.13068v1)|
-|**2023-08-24**|**Low-count Time Series Anomaly Detection**|Philipp Renz et.al.|[2308.12925v1](http://arxiv.org/abs/2308.12925v1)|
-|**2023-08-24**|**Try with Simpler -- An Evaluation of Improved Principal Component Analysis in Log-based Anomaly Detection**|Lin Yang et.al.|[2308.12612v1](http://arxiv.org/abs/2308.12612v1)|
-|**2023-08-24**|**REB: Reducing Biases in Representation for Industrial Anomaly Detection**|Shuai Lyu et.al.|[2308.12577v1](http://arxiv.org/abs/2308.12577v1)|
-|**2023-08-24**|**Multivariate Time-Series Anomaly Detection with Contaminated Data: Application to Physiological Signals**|Thi Kieu Khanh Ho et.al.|[2308.12563v1](http://arxiv.org/abs/2308.12563v1)|
-|**2023-08-23**|**Unsupervised anomalies detection in IIoT edge devices networks using federated learning**|Niyomukiza Thamar et.al.|[2308.12175v1](http://arxiv.org/abs/2308.12175v1)|
-|**2023-08-23**|**Federated Semi-Supervised and Semi-Asynchronous Learning for Anomaly Detection in IoT Networks**|Wenbin Zhai et.al.|[2308.11981v1](http://arxiv.org/abs/2308.11981v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-28**|**SAAN: Similarity-aware attention flow network for change detection with VHR remote sensing images**|Haonan Guo et.al.|[2308.14570v1](http://arxiv.org/abs/2308.14570v1)|
 |**2023-08-23**|**Semantic Change Detection for the Romanian Language**|Ciprian-Octavian Truică et.al.|[2308.12131v1](http://arxiv.org/abs/2308.12131v1)|
 |**2023-08-22**|**Multitemporal analysis in Google Earth Engine for detecting urban changes using optical data and machine learning algorithms**|Mariapia Rita Iandolo et.al.|[2308.11468v1](http://arxiv.org/abs/2308.11468v1)|
 |**2023-08-22**|**SwinV2DNet: Pyramid and Self-Supervision Compounded Feature Learning for Remote Sensing Images Change Detection**|Dalong Zheng et.al.|[2308.11159v1](http://arxiv.org/abs/2308.11159v1)|
@@ -73,5 +74,4 @@
 |**2023-08-02**|**UCDFormer: Unsupervised Change Detection Using a Transformer-driven Image Translation**|Qingsong Xu et.al.|[2308.01146v1](http://arxiv.org/abs/2308.01146v1)|
 |**2023-07-28**|**Implicit neural representation for change detection**|Peter Naylor et.al.|[2307.15428v1](http://arxiv.org/abs/2307.15428v1)|
 |**2023-07-27**|**End-to-end Remote Sensing Change Detection of Unregistered Bi-temporal Images for Natural Disasters**|Guiqin Zhao et.al.|[2307.15128v2](http://arxiv.org/abs/2307.15128v2)|
-|**2023-07-26**|**Active Robot Vision for Distant Object Change Detection: A Lightweight Training Simulator Inspired by Multi-Armed Bandits**|Kouki Terashima et.al.|[2307.14105v1](http://arxiv.org/abs/2307.14105v1)|
 
