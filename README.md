@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v1](http://arxiv.org/abs/2308.16150v1)|
 |**2023-07-18**|**You've Got Two Teachers: Co-evolutionary Image and Report Distillation for Semi-supervised Anatomical Abnormality Detection in Chest X-ray**|Jinghan Sun et.al.|[2307.09184v1](http://arxiv.org/abs/2307.09184v1)|
 |**2023-06-12**|**In-context Cross-Density Adaptation on Noisy Mammogram Abnormalities Detection**|Huy T. Nguyen et.al.|[2306.06893v1](http://arxiv.org/abs/2306.06893v1)|
 |**2023-06-11**|**Learning Robust and Consistent Time Series Representations: A Dilated Inception-Based Approach**|Anh Duy Nguyen et.al.|[2306.06579v1](http://arxiv.org/abs/2306.06579v1)|
@@ -43,12 +44,14 @@
 |**2023-02-20**|**Deep Reinforcement Learning for Cost-Effective Medical Diagnosis**|Zheng Yu et.al.|[2302.10261v2](http://arxiv.org/abs/2302.10261v2)|
 |**2023-02-06**|**Integrating Eye-Gaze Data into CXR DL Approaches: A Preliminary study**|André Luís et.al.|[2302.02940v1](http://arxiv.org/abs/2302.02940v1)|
 |**2023-02-04**|**Conformalized semi-supervised random forest for classification and abnormality detection**|Yujin Han et.al.|[2302.02237v1](http://arxiv.org/abs/2302.02237v1)|
-|**2023-01-30**|**Exploring Image Augmentations for Siamese Representation Learning with Chest X-Rays**|Rogier van der Sluijs et.al.|[2301.12636v2](http://arxiv.org/abs/2301.12636v2)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-30**|**Demo: A Digital Twin of the 5G Radio Access Network for Anomaly Detection Functionality**|Peizheng Li et.al.|[2308.15973v1](http://arxiv.org/abs/2308.15973v1)|
+|**2023-08-30**|**AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization**|Hanqiu Deng et.al.|[2308.15939v1](http://arxiv.org/abs/2308.15939v1)|
+|**2023-08-30**|**Prediction and Anomaly Detection of accelerated particles in PIC simulations using neural networks**|Gabriel Torralba Paz et.al.|[2308.15835v1](http://arxiv.org/abs/2308.15835v1)|
 |**2023-08-29**|**AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models**|Zhaopeng Gu et.al.|[2308.15366v1](http://arxiv.org/abs/2308.15366v1)|
 |**2023-08-29**|**MSFlow: Multi-Scale Flow-based Framework for Unsupervised Anomaly Detection**|Yixuan Zhou et.al.|[2308.15300v1](http://arxiv.org/abs/2308.15300v1)|
 |**2023-08-29**|**ADFA: Attention-augmented Differentiable top-k Feature Adaptation for Unsupervised Medical Anomaly Detection**|Yiming Huang et.al.|[2308.15280v1](http://arxiv.org/abs/2308.15280v1)|
@@ -56,9 +59,6 @@
 |**2023-08-29**|**MadSGM: Multivariate Anomaly Detection with Score-based Generative Models**|Haksoo Lim et.al.|[2308.15069v1](http://arxiv.org/abs/2308.15069v1)|
 |**2023-08-29**|**A Comprehensive Augmentation Framework for Anomaly Detection**|Jiang Lin et.al.|[2308.15068v1](http://arxiv.org/abs/2308.15068v1)|
 |**2023-08-28**|**Tackling Diverse Minorities in Imbalanced Classification**|Kwei-Herng Lai et.al.|[2308.14838v1](http://arxiv.org/abs/2308.14838v1)|
-|**2023-08-28**|**Neural Network Training Strategy to Enhance Anomaly Detection Performance: A Perspective on Reconstruction Loss Amplification**|YeongHyeon Park et.al.|[2308.14595v1](http://arxiv.org/abs/2308.14595v1)|
-|**2023-08-28**|**Self-Supervision for Tackling Unsupervised Anomaly Detection: Pitfalls and Opportunities**|Leman Akoglu et.al.|[2308.14380v1](http://arxiv.org/abs/2308.14380v1)|
-|**2023-08-28**|**HRGCN: Heterogeneous Graph-level Anomaly Detection with Hierarchical Relation-augmented Graph Neural Networks**|Jiaxi Li et.al.|[2308.14340v1](http://arxiv.org/abs/2308.14340v1)|
 
 ## change detection
 
