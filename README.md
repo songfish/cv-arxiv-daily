@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-08-31**|**Autoencoder-based Online Data Quality Monitoring for the CMS Electromagnetic Calorimeter**|Abhirami Harilal et.al.|[2308.16659v1](http://arxiv.org/abs/2308.16659v1)|
+|**2023-08-31**|**Gravitational anomaly detection using a satellite constellation: Analysis and simulation**|Viktor T. Toth et.al.|[2308.16459v1](http://arxiv.org/abs/2308.16459v1)|
+|**2023-08-30**|**Classification of Anomalies in Telecommunication Network KPI Time Series**|Korantin Bordeau-Aubert et.al.|[2308.16279v1](http://arxiv.org/abs/2308.16279v1)|
 |**2023-08-30**|**Demo: A Digital Twin of the 5G Radio Access Network for Anomaly Detection Functionality**|Peizheng Li et.al.|[2308.15973v1](http://arxiv.org/abs/2308.15973v1)|
 |**2023-08-30**|**AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization**|Hanqiu Deng et.al.|[2308.15939v1](http://arxiv.org/abs/2308.15939v1)|
 |**2023-08-30**|**Prediction and Anomaly Detection of accelerated particles in PIC simulations using neural networks**|Gabriel Torralba Paz et.al.|[2308.15835v1](http://arxiv.org/abs/2308.15835v1)|
@@ -56,9 +59,6 @@
 |**2023-08-29**|**MSFlow: Multi-Scale Flow-based Framework for Unsupervised Anomaly Detection**|Yixuan Zhou et.al.|[2308.15300v1](http://arxiv.org/abs/2308.15300v1)|
 |**2023-08-29**|**ADFA: Attention-augmented Differentiable top-k Feature Adaptation for Unsupervised Medical Anomaly Detection**|Yiming Huang et.al.|[2308.15280v1](http://arxiv.org/abs/2308.15280v1)|
 |**2023-08-29**|**Assessing Cyclostationary Malware Detection via Feature Selection and Classification**|Mike Nkongolo et.al.|[2308.15237v1](http://arxiv.org/abs/2308.15237v1)|
-|**2023-08-29**|**MadSGM: Multivariate Anomaly Detection with Score-based Generative Models**|Haksoo Lim et.al.|[2308.15069v1](http://arxiv.org/abs/2308.15069v1)|
-|**2023-08-29**|**A Comprehensive Augmentation Framework for Anomaly Detection**|Jiang Lin et.al.|[2308.15068v1](http://arxiv.org/abs/2308.15068v1)|
-|**2023-08-28**|**Tackling Diverse Minorities in Imbalanced Classification**|Kwei-Herng Lai et.al.|[2308.14838v1](http://arxiv.org/abs/2308.14838v1)|
 
 ## change detection
 
