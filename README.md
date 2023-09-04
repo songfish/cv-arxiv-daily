@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-01**|**Anomaly detection with semi-supervised classification based on risk estimators**|Le Thi Khanh Hien et.al.|[2309.00379v1](http://arxiv.org/abs/2309.00379v1)|
+|**2023-08-31**|**Deep Semi-Supervised Anomaly Detection for Finding Fraud in the Futures Market**|Timothy DeLise et.al.|[2309.00088v1](http://arxiv.org/abs/2309.00088v1)|
 |**2023-08-31**|**Autoencoder-based Online Data Quality Monitoring for the CMS Electromagnetic Calorimeter**|Abhirami Harilal et.al.|[2308.16659v1](http://arxiv.org/abs/2308.16659v1)|
 |**2023-08-31**|**Gravitational anomaly detection using a satellite constellation: Analysis and simulation**|Viktor T. Toth et.al.|[2308.16459v1](http://arxiv.org/abs/2308.16459v1)|
 |**2023-08-30**|**Classification of Anomalies in Telecommunication Network KPI Time Series**|Korantin Bordeau-Aubert et.al.|[2308.16279v1](http://arxiv.org/abs/2308.16279v1)|
@@ -57,8 +59,6 @@
 |**2023-08-30**|**Prediction and Anomaly Detection of accelerated particles in PIC simulations using neural networks**|Gabriel Torralba Paz et.al.|[2308.15835v1](http://arxiv.org/abs/2308.15835v1)|
 |**2023-08-29**|**AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models**|Zhaopeng Gu et.al.|[2308.15366v1](http://arxiv.org/abs/2308.15366v1)|
 |**2023-08-29**|**MSFlow: Multi-Scale Flow-based Framework for Unsupervised Anomaly Detection**|Yixuan Zhou et.al.|[2308.15300v1](http://arxiv.org/abs/2308.15300v1)|
-|**2023-08-29**|**ADFA: Attention-augmented Differentiable top-k Feature Adaptation for Unsupervised Medical Anomaly Detection**|Yiming Huang et.al.|[2308.15280v1](http://arxiv.org/abs/2308.15280v1)|
-|**2023-08-29**|**Assessing Cyclostationary Malware Detection via Feature Selection and Classification**|Mike Nkongolo et.al.|[2308.15237v1](http://arxiv.org/abs/2308.15237v1)|
 
 ## change detection
 
