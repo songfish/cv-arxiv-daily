@@ -1,4 +1,4 @@
-## Updated on 2023.09.06
+## Updated on 2023.09.07
 
 ## super-resolution
 
@@ -64,7 +64,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-09-05**|**Substitution-based Semantic Change Detection using Contextual Embeddings**|Dallas Card et.al.|[2309.02403v1](http://arxiv.org/abs/2309.02403v1)|
+|**2023-09-05**|**Substitution-based Semantic Change Detection using Contextual Embeddings**|Dallas Card et.al.|[2309.02403v2](http://arxiv.org/abs/2309.02403v2)|
 |**2023-09-05**|**SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping and Building Change Detection**|Jian Song et.al.|[2309.01907v1](http://arxiv.org/abs/2309.01907v1)|
 |**2023-09-04**|**Accuracy and Consistency of Space-based Vegetation Height Maps for Forest Dynamics in Alpine Terrain**|Yuchang Jiang et.al.|[2309.01797v1](http://arxiv.org/abs/2309.01797v1)|
 |**2023-09-04**|**Adapting Segment Anything Model for Change Detection in HR Remote Sensing Images**|Lei Ding et.al.|[2309.01429v1](http://arxiv.org/abs/2309.01429v1)|
