@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-09**|**Towards Real-World Burst Image Super-Resolution: Benchmark and Method**|Pengxu Wei et.al.|[2309.04803v1](http://arxiv.org/abs/2309.04803v1)|
 |**2023-06-15**|**Deep learning techniques for blind image super-resolution: A high-scale multi-domain perspective evaluation**|Valdivino Alexandre de Santiago Júnior et.al.|[2306.09426v1](http://arxiv.org/abs/2306.09426v1)|
 |**2023-05-08**|**Compressed Video Quality Assessment for Super-Resolution: a Benchmark and a Quality Metric**|Evgeney Bogatyrev et.al.|[2305.04844v1](http://arxiv.org/abs/2305.04844v1)|
 |**2023-04-20**|**NTIRE 2023 Challenge on Light Field Image Super-Resolution: Dataset, Methods and Results**|Yingqian Wang et.al.|[2304.10415v1](http://arxiv.org/abs/2304.10415v1)|
@@ -13,7 +14,6 @@
 |**2023-02-19**|**Guided Depth Map Super-resolution: A Survey**|Zhiwei Zhong et.al.|[2302.09598v2](http://arxiv.org/abs/2302.09598v2)|
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|
-|**2022-09-27**|**Hitchhiker's Guide to Super-Resolution: Introduction and Recent Advances**|Brian Moser et.al.|[2209.13131v2](http://arxiv.org/abs/2209.13131v2)|
 
 ## cloud detection
 
@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-10**|**DAD++: Improved Data-free Test Time Adversarial Defense**|Gaurav Kumar Nayak et.al.|[2309.05132v1](http://arxiv.org/abs/2309.05132v1)|
+|**2023-09-08**|**Knowledge Distillation-Empowered Digital Twin for Anomaly Detection**|Qinghua Xu et.al.|[2309.04616v1](http://arxiv.org/abs/2309.04616v1)|
+|**2023-09-08**|**Robotic Defect Inspection with Visual and Tactile Perception for Large-scale Components**|Arpit Agarwal et.al.|[2309.04590v1](http://arxiv.org/abs/2309.04590v1)|
 |**2023-09-07**|**TSGBench: Time Series Generation Benchmark**|Yihao Ang et.al.|[2309.03755v1](http://arxiv.org/abs/2309.03755v1)|
 |**2023-09-07**|**Personalized Tucker Decomposition: Modeling Commonality and Peculiarity on Tensor Data**|Jiuyun Hu et.al.|[2309.03439v1](http://arxiv.org/abs/2309.03439v1)|
 |**2023-09-06**|**Reasonable Anomaly Detection in Long Sequences**|Yalong Jiang et.al.|[2309.03401v1](http://arxiv.org/abs/2309.03401v1)|
@@ -56,9 +59,6 @@
 |**2023-09-06**|**A Critical Review of Common Log Data Sets Used for Evaluation of Sequence-based Anomaly Detection Techniques**|Max Landauer et.al.|[2309.02854v1](http://arxiv.org/abs/2309.02854v1)|
 |**2023-09-05**|**Resilient VAE: Unsupervised Anomaly Detection at the SLAC Linac Coherent Light Source**|Ryan Humble et.al.|[2309.02333v1](http://arxiv.org/abs/2309.02333v1)|
 |**2023-09-05**|**MA-VAE: Multi-head Attention-based Variational Autoencoder Approach for Anomaly Detection in Multivariate Time-series Applied to Automotive Endurance Powertrain Testing**|Lucas Correia et.al.|[2309.02253v1](http://arxiv.org/abs/2309.02253v1)|
-|**2023-09-05**|**An LSTM-Based Predictive Monitoring Method for Data with Time-varying Variability**|Jiaqi Qiu et.al.|[2309.01978v1](http://arxiv.org/abs/2309.01978v1)|
-|**2023-09-04**|**Focusing and Calibration of Large Scale Network Sensors using GraphBLAS Anonymized Hypersparse Matrices**|Jeremy Kepner et.al.|[2309.01806v1](http://arxiv.org/abs/2309.01806v1)|
-|**2023-09-04**|**Prior Knowledge Guided Network for Video Anomaly Detection**|Zhewen Deng et.al.|[2309.01682v1](http://arxiv.org/abs/2309.01682v1)|
 
 ## change detection
 
