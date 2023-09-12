@@ -1,4 +1,4 @@
-## Updated on 2023.09.07
+## Updated on 2023.09.12
 
 ## super-resolution
 
@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-07**|**TSGBench: Time Series Generation Benchmark**|Yihao Ang et.al.|[2309.03755v1](http://arxiv.org/abs/2309.03755v1)|
+|**2023-09-07**|**Personalized Tucker Decomposition: Modeling Commonality and Peculiarity on Tensor Data**|Jiuyun Hu et.al.|[2309.03439v1](http://arxiv.org/abs/2309.03439v1)|
+|**2023-09-06**|**Reasonable Anomaly Detection in Long Sequences**|Yalong Jiang et.al.|[2309.03401v1](http://arxiv.org/abs/2309.03401v1)|
+|**2023-09-06**|**SymED: Adaptive and Online Symbolic Representation of Data on the Edge**|Daniel Hofstätter et.al.|[2309.03014v1](http://arxiv.org/abs/2309.03014v1)|
+|**2023-09-06**|**A Critical Review of Common Log Data Sets Used for Evaluation of Sequence-based Anomaly Detection Techniques**|Max Landauer et.al.|[2309.02854v1](http://arxiv.org/abs/2309.02854v1)|
 |**2023-09-05**|**Resilient VAE: Unsupervised Anomaly Detection at the SLAC Linac Coherent Light Source**|Ryan Humble et.al.|[2309.02333v1](http://arxiv.org/abs/2309.02333v1)|
 |**2023-09-05**|**MA-VAE: Multi-head Attention-based Variational Autoencoder Approach for Anomaly Detection in Multivariate Time-series Applied to Automotive Endurance Powertrain Testing**|Lucas Correia et.al.|[2309.02253v1](http://arxiv.org/abs/2309.02253v1)|
 |**2023-09-05**|**An LSTM-Based Predictive Monitoring Method for Data with Time-varying Variability**|Jiaqi Qiu et.al.|[2309.01978v1](http://arxiv.org/abs/2309.01978v1)|
 |**2023-09-04**|**Focusing and Calibration of Large Scale Network Sensors using GraphBLAS Anonymized Hypersparse Matrices**|Jeremy Kepner et.al.|[2309.01806v1](http://arxiv.org/abs/2309.01806v1)|
 |**2023-09-04**|**Prior Knowledge Guided Network for Video Anomaly Detection**|Zhewen Deng et.al.|[2309.01682v1](http://arxiv.org/abs/2309.01682v1)|
-|**2023-09-04**|**OutRank: Speeding up AutoML-based Model Search for Large Sparse Data sets with Cardinality-aware Feature Ranking**|Blaž Škrlj et.al.|[2309.01552v1](http://arxiv.org/abs/2309.01552v1)|
-|**2023-09-04**|**Are We Using Autoencoders in a Wrong Way?**|Gabriele Martino et.al.|[2309.01532v1](http://arxiv.org/abs/2309.01532v1)|
-|**2023-09-03**|**LogGPT: Exploring ChatGPT for Log-Based Anomaly Detection**|Jiaxing Qi et.al.|[2309.01189v1](http://arxiv.org/abs/2309.01189v1)|
-|**2023-09-03**|**A method based on hierarchical spatiotemporal features for trojan traffic detection**|Jiang Xie et.al.|[2309.01174v1](http://arxiv.org/abs/2309.01174v1)|
-|**2023-09-01**|**Anomaly detection with semi-supervised classification based on risk estimators**|Le Thi Khanh Hien et.al.|[2309.00379v1](http://arxiv.org/abs/2309.00379v1)|
 
 ## change detection
 
@@ -72,6 +72,6 @@
 |**2023-08-23**|**Semantic Change Detection for the Romanian Language**|Ciprian-Octavian Truică et.al.|[2308.12131v1](http://arxiv.org/abs/2308.12131v1)|
 |**2023-08-22**|**Multitemporal analysis in Google Earth Engine for detecting urban changes using optical data and machine learning algorithms**|Mariapia Rita Iandolo et.al.|[2308.11468v1](http://arxiv.org/abs/2308.11468v1)|
 |**2023-08-22**|**SwinV2DNet: Pyramid and Self-Supervision Compounded Feature Learning for Remote Sensing Images Change Detection**|Dalong Zheng et.al.|[2308.11159v1](http://arxiv.org/abs/2308.11159v1)|
-|**2023-08-21**|**The Change You Want to See (Now in 3D)**|Ragav Sachdeva et.al.|[2308.10417v1](http://arxiv.org/abs/2308.10417v1)|
+|**2023-08-21**|**The Change You Want to See (Now in 3D)**|Ragav Sachdeva et.al.|[2308.10417v2](http://arxiv.org/abs/2308.10417v2)|
 |**2023-08-14**|**Detecting changes to sub-diffraction objects with quantum-optimal speed and accuracy**|Michael R Grace et.al.|[2308.07262v2](http://arxiv.org/abs/2308.07262v2)|
 
