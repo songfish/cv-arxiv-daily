@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-12**|**Normality Learning-based Graph Anomaly Detection via Multi-Scale Contrastive Learning**|Jingcan Duan et.al.|[2309.06034v1](http://arxiv.org/abs/2309.06034v1)|
+|**2023-09-12**|**GLAD: Content-aware Dynamic Graphs For Log Anomaly Detection**|Yufei Li et.al.|[2309.05953v1](http://arxiv.org/abs/2309.05953v1)|
+|**2023-09-12**|**Introducing Shape Prior Module in Diffusion Model for Medical Image Segmentation**|Zhiqing Zhang et.al.|[2309.05929v1](http://arxiv.org/abs/2309.05929v1)|
+|**2023-09-11**|**Effective Abnormal Activity Detection on Multivariate Time Series Healthcare Data**|Mengjia Niu et.al.|[2309.05845v1](http://arxiv.org/abs/2309.05845v1)|
 |**2023-09-10**|**DAD++: Improved Data-free Test Time Adversarial Defense**|Gaurav Kumar Nayak et.al.|[2309.05132v1](http://arxiv.org/abs/2309.05132v1)|
 |**2023-09-08**|**Knowledge Distillation-Empowered Digital Twin for Anomaly Detection**|Qinghua Xu et.al.|[2309.04616v2](http://arxiv.org/abs/2309.04616v2)|
 |**2023-09-08**|**Robotic Defect Inspection with Visual and Tactile Perception for Large-scale Components**|Arpit Agarwal et.al.|[2309.04590v1](http://arxiv.org/abs/2309.04590v1)|
 |**2023-09-07**|**TSGBench: Time Series Generation Benchmark**|Yihao Ang et.al.|[2309.03755v1](http://arxiv.org/abs/2309.03755v1)|
 |**2023-09-07**|**Personalized Tucker Decomposition: Modeling Commonality and Peculiarity on Tensor Data**|Jiuyun Hu et.al.|[2309.03439v1](http://arxiv.org/abs/2309.03439v1)|
 |**2023-09-06**|**Reasonable Anomaly Detection in Long Sequences**|Yalong Jiang et.al.|[2309.03401v1](http://arxiv.org/abs/2309.03401v1)|
-|**2023-09-06**|**SymED: Adaptive and Online Symbolic Representation of Data on the Edge**|Daniel Hofstätter et.al.|[2309.03014v1](http://arxiv.org/abs/2309.03014v1)|
-|**2023-09-06**|**A Critical Review of Common Log Data Sets Used for Evaluation of Sequence-based Anomaly Detection Techniques**|Max Landauer et.al.|[2309.02854v1](http://arxiv.org/abs/2309.02854v1)|
-|**2023-09-05**|**Resilient VAE: Unsupervised Anomaly Detection at the SLAC Linac Coherent Light Source**|Ryan Humble et.al.|[2309.02333v1](http://arxiv.org/abs/2309.02333v1)|
-|**2023-09-05**|**MA-VAE: Multi-head Attention-based Variational Autoencoder Approach for Anomaly Detection in Multivariate Time-series Applied to Automotive Endurance Powertrain Testing**|Lucas Correia et.al.|[2309.02253v1](http://arxiv.org/abs/2309.02253v1)|
 
 ## change detection
 
