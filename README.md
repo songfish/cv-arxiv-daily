@@ -1,4 +1,4 @@
-## Updated on 2023.09.12
+## Updated on 2023.09.13
 
 ## super-resolution
 
@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2023-09-10**|**DAD++: Improved Data-free Test Time Adversarial Defense**|Gaurav Kumar Nayak et.al.|[2309.05132v1](http://arxiv.org/abs/2309.05132v1)|
-|**2023-09-08**|**Knowledge Distillation-Empowered Digital Twin for Anomaly Detection**|Qinghua Xu et.al.|[2309.04616v1](http://arxiv.org/abs/2309.04616v1)|
+|**2023-09-08**|**Knowledge Distillation-Empowered Digital Twin for Anomaly Detection**|Qinghua Xu et.al.|[2309.04616v2](http://arxiv.org/abs/2309.04616v2)|
 |**2023-09-08**|**Robotic Defect Inspection with Visual and Tactile Perception for Large-scale Components**|Arpit Agarwal et.al.|[2309.04590v1](http://arxiv.org/abs/2309.04590v1)|
 |**2023-09-07**|**TSGBench: Time Series Generation Benchmark**|Yihao Ang et.al.|[2309.03755v1](http://arxiv.org/abs/2309.03755v1)|
 |**2023-09-07**|**Personalized Tucker Decomposition: Modeling Commonality and Peculiarity on Tensor Data**|Jiuyun Hu et.al.|[2309.03439v1](http://arxiv.org/abs/2309.03439v1)|
