@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-14**|**Beta quantile regression for robust estimation of uncertainty in the presence of outliers**|Haleh Akrami et.al.|[2309.07374v1](http://arxiv.org/abs/2309.07374v1)|
 |**2023-09-13**|**FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection**|Tongkun Liu et.al.|[2309.07068v1](http://arxiv.org/abs/2309.07068v1)|
 |**2023-09-13**|**Manufacturing Quality Control with Autoencoder-Based Defect Localization and Unsupervised Class Selection**|Devang Mehta et.al.|[2309.06884v1](http://arxiv.org/abs/2309.06884v1)|
 |**2023-09-12**|**Quantized Non-Volatile Nanomagnetic Synapse based Autoencoder for Efficient Unsupervised Network Anomaly Detection**|Muhammad Sabbir Alam et.al.|[2309.06449v1](http://arxiv.org/abs/2309.06449v1)|
@@ -58,12 +59,12 @@
 |**2023-09-11**|**Effective Abnormal Activity Detection on Multivariate Time Series Healthcare Data**|Mengjia Niu et.al.|[2309.05845v1](http://arxiv.org/abs/2309.05845v1)|
 |**2023-09-10**|**DAD++: Improved Data-free Test Time Adversarial Defense**|Gaurav Kumar Nayak et.al.|[2309.05132v1](http://arxiv.org/abs/2309.05132v1)|
 |**2023-09-08**|**Knowledge Distillation-Empowered Digital Twin for Anomaly Detection**|Qinghua Xu et.al.|[2309.04616v2](http://arxiv.org/abs/2309.04616v2)|
-|**2023-09-08**|**Robotic Defect Inspection with Visual and Tactile Perception for Large-scale Components**|Arpit Agarwal et.al.|[2309.04590v1](http://arxiv.org/abs/2309.04590v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-14**|**Research on self-cross transformer model of point cloud change detecter**|Xiaoxu Ren et.al.|[2309.07444v1](http://arxiv.org/abs/2309.07444v1)|
 |**2023-09-05**|**Substitution-based Semantic Change Detection using Contextual Embeddings**|Dallas Card et.al.|[2309.02403v2](http://arxiv.org/abs/2309.02403v2)|
 |**2023-09-05**|**SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping and Building Change Detection**|Jian Song et.al.|[2309.01907v1](http://arxiv.org/abs/2309.01907v1)|
 |**2023-09-04**|**Accuracy and Consistency of Space-based Vegetation Height Maps for Forest Dynamics in Alpine Terrain**|Yuchang Jiang et.al.|[2309.01797v1](http://arxiv.org/abs/2309.01797v1)|
@@ -73,5 +74,4 @@
 |**2023-08-22**|**Multitemporal analysis in Google Earth Engine for detecting urban changes using optical data and machine learning algorithms**|Mariapia Rita Iandolo et.al.|[2308.11468v1](http://arxiv.org/abs/2308.11468v1)|
 |**2023-08-22**|**SwinV2DNet: Pyramid and Self-Supervision Compounded Feature Learning for Remote Sensing Images Change Detection**|Dalong Zheng et.al.|[2308.11159v1](http://arxiv.org/abs/2308.11159v1)|
 |**2023-08-21**|**The Change You Want to See (Now in 3D)**|Ragav Sachdeva et.al.|[2308.10417v2](http://arxiv.org/abs/2308.10417v2)|
-|**2023-08-14**|**Detecting changes to sub-diffraction objects with quantum-optimal speed and accuracy**|Michael R Grace et.al.|[2308.07262v2](http://arxiv.org/abs/2308.07262v2)|
 
