@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-18**|**Anomaly Detection in Spatio-Temporal Data: Theory and Application**|Ji Chen et.al.|[2309.09878v1](http://arxiv.org/abs/2309.09878v1)|
+|**2023-09-18**|**Active anomaly detection based on deep one-class classification**|Minkyung Kim et.al.|[2309.09465v1](http://arxiv.org/abs/2309.09465v1)|
+|**2023-09-18**|**An Iterative Method for Unsupervised Robust Anomaly Detection Under Data Contamination**|Minkyung Kim et.al.|[2309.09436v1](http://arxiv.org/abs/2309.09436v1)|
+|**2023-09-16**|**Enhancing Visual Perception in Novel Environments via Incremental Data Augmentation Based on Style Transfer**|Abhibha Gupta et.al.|[2309.08851v1](http://arxiv.org/abs/2309.08851v1)|
+|**2023-09-15**|**Astronomaly at Scale: Searching for Anomalies Amongst 4 Million Galaxies**|Verlon Etsebeth et.al.|[2309.08660v1](http://arxiv.org/abs/2309.08660v1)|
 |**2023-09-15**|**Understanding the limitations of self-supervised learning for tabular anomaly detection**|Kimberly T. Mai et.al.|[2309.08374v1](http://arxiv.org/abs/2309.08374v1)|
 |**2023-09-14**|**An Automated Machine Learning Approach for Detecting Anomalous Peak Patterns in Time Series Data from a Research Watershed in the Northeastern United States Critical Zone**|Ijaz Ul Haq et.al.|[2309.07992v1](http://arxiv.org/abs/2309.07992v1)|
 |**2023-09-14**|**Beta quantile regression for robust estimation of uncertainty in the presence of outliers**|Haleh Akrami et.al.|[2309.07374v1](http://arxiv.org/abs/2309.07374v1)|
 |**2023-09-13**|**FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection**|Tongkun Liu et.al.|[2309.07068v1](http://arxiv.org/abs/2309.07068v1)|
 |**2023-09-13**|**Manufacturing Quality Control with Autoencoder-Based Defect Localization and Unsupervised Class Selection**|Devang Mehta et.al.|[2309.06884v1](http://arxiv.org/abs/2309.06884v1)|
-|**2023-09-12**|**Quantized Non-Volatile Nanomagnetic Synapse based Autoencoder for Efficient Unsupervised Network Anomaly Detection**|Muhammad Sabbir Alam et.al.|[2309.06449v1](http://arxiv.org/abs/2309.06449v1)|
-|**2023-09-12**|**Normality Learning-based Graph Anomaly Detection via Multi-Scale Contrastive Learning**|Jingcan Duan et.al.|[2309.06034v1](http://arxiv.org/abs/2309.06034v1)|
-|**2023-09-12**|**GLAD: Content-aware Dynamic Graphs For Log Anomaly Detection**|Yufei Li et.al.|[2309.05953v1](http://arxiv.org/abs/2309.05953v1)|
-|**2023-09-12**|**Introducing Shape Prior Module in Diffusion Model for Medical Image Segmentation**|Zhiqing Zhang et.al.|[2309.05929v1](http://arxiv.org/abs/2309.05929v1)|
-|**2023-09-11**|**Effective Abnormal Activity Detection on Multivariate Time Series Healthcare Data**|Mengjia Niu et.al.|[2309.05845v1](http://arxiv.org/abs/2309.05845v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-16**|**Reducing sequential change detection to sequential estimation**|Shubhanshu Shekhar et.al.|[2309.09111v1](http://arxiv.org/abs/2309.09111v1)|
 |**2023-09-14**|**USM-SCD: Multilingual Speaker Change Detection Based on Large Pretrained Foundation Models**|Guanlong Zhao et.al.|[2309.08023v1](http://arxiv.org/abs/2309.08023v1)|
 |**2023-09-14**|**Research on self-cross transformer model of point cloud change detecter**|Xiaoxu Ren et.al.|[2309.07444v1](http://arxiv.org/abs/2309.07444v1)|
 |**2023-09-05**|**Substitution-based Semantic Change Detection using Contextual Embeddings**|Dallas Card et.al.|[2309.02403v2](http://arxiv.org/abs/2309.02403v2)|
@@ -73,5 +74,4 @@
 |**2023-08-28**|**SAAN: Similarity-aware attention flow network for change detection with VHR remote sensing images**|Haonan Guo et.al.|[2308.14570v1](http://arxiv.org/abs/2308.14570v1)|
 |**2023-08-23**|**Semantic Change Detection for the Romanian Language**|Ciprian-Octavian Truică et.al.|[2308.12131v1](http://arxiv.org/abs/2308.12131v1)|
 |**2023-08-22**|**Multitemporal analysis in Google Earth Engine for detecting urban changes using optical data and machine learning algorithms**|Mariapia Rita Iandolo et.al.|[2308.11468v1](http://arxiv.org/abs/2308.11468v1)|
-|**2023-08-22**|**SwinV2DNet: Pyramid and Self-Supervision Compounded Feature Learning for Remote Sensing Images Change Detection**|Dalong Zheng et.al.|[2308.11159v1](http://arxiv.org/abs/2308.11159v1)|
 
