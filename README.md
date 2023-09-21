@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-20**|**Generative Pre-Training of Time-Series Data for Unsupervised Fault Detection in Semiconductor Manufacturing**|Sewoong Lee et.al.|[2309.11427v1](http://arxiv.org/abs/2309.11427v1)|
+|**2023-09-20**|**Ano-SuPs: Multi-size anomaly detection for manufactured products by identifying suspected patches**|Hao Xu et.al.|[2309.11120v1](http://arxiv.org/abs/2309.11120v1)|
+|**2023-09-19**|**Semi-automatic staging area for high-quality structured data extraction from scientific literature**|Luca Foppiano et.al.|[2309.10923v1](http://arxiv.org/abs/2309.10923v1)|
 |**2023-09-19**|**Physics-Informed Machine Learning for Data Anomaly Detection, Classification, Localization, and Mitigation: A Review, Challenges, and Path Forward**|Mehdi Jabbari Zideh et.al.|[2309.10788v1](http://arxiv.org/abs/2309.10788v1)|
 |**2023-09-19**|**Learning Point-wise Abstaining Penalty for Point Cloud Anomaly Detection**|Shaocong Xu et.al.|[2309.10230v2](http://arxiv.org/abs/2309.10230v2)|
 |**2023-09-18**|**Autoencoder-based Anomaly Detection System for Online Data Quality Monitoring of the CMS Electromagnetic Calorimeter**|The CMS ECAL Collaboration et.al.|[2309.10157v1](http://arxiv.org/abs/2309.10157v1)|
@@ -56,14 +59,13 @@
 |**2023-09-18**|**Active anomaly detection based on deep one-class classification**|Minkyung Kim et.al.|[2309.09465v1](http://arxiv.org/abs/2309.09465v1)|
 |**2023-09-18**|**An Iterative Method for Unsupervised Robust Anomaly Detection Under Data Contamination**|Minkyung Kim et.al.|[2309.09436v1](http://arxiv.org/abs/2309.09436v1)|
 |**2023-09-16**|**Enhancing Visual Perception in Novel Environments via Incremental Data Augmentation Based on Style Transfer**|Abhibha Gupta et.al.|[2309.08851v1](http://arxiv.org/abs/2309.08851v1)|
-|**2023-09-15**|**Astronomaly at Scale: Searching for Anomalies Amongst 4 Million Galaxies**|Verlon Etsebeth et.al.|[2309.08660v1](http://arxiv.org/abs/2309.08660v1)|
-|**2023-09-15**|**Understanding the limitations of self-supervised learning for tabular anomaly detection**|Kimberly T. Mai et.al.|[2309.08374v1](http://arxiv.org/abs/2309.08374v1)|
-|**2023-09-14**|**An Automated Machine Learning Approach for Detecting Anomalous Peak Patterns in Time Series Data from a Research Watershed in the Northeastern United States Critical Zone**|Ijaz Ul Haq et.al.|[2309.07992v1](http://arxiv.org/abs/2309.07992v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-20**|**Directional Source Separation for Robust Speech Recognition on Smart Glasses**|Tiantian Feng et.al.|[2309.10993v1](http://arxiv.org/abs/2309.10993v1)|
+|**2023-09-19**|**Change of Scenery: Unsupervised LiDAR Change Detection for Mobile Robots**|Alexander Krawciw et.al.|[2309.10924v1](http://arxiv.org/abs/2309.10924v1)|
 |**2023-09-16**|**Reducing sequential change detection to sequential estimation**|Shubhanshu Shekhar et.al.|[2309.09111v1](http://arxiv.org/abs/2309.09111v1)|
 |**2023-09-14**|**USM-SCD: Multilingual Speaker Change Detection Based on Large Pretrained Foundation Models**|Guanlong Zhao et.al.|[2309.08023v1](http://arxiv.org/abs/2309.08023v1)|
 |**2023-09-14**|**Research on self-cross transformer model of point cloud change detecter**|Xiaoxu Ren et.al.|[2309.07444v1](http://arxiv.org/abs/2309.07444v1)|
@@ -72,6 +74,4 @@
 |**2023-09-04**|**Accuracy and Consistency of Space-based Vegetation Height Maps for Forest Dynamics in Alpine Terrain**|Yuchang Jiang et.al.|[2309.01797v1](http://arxiv.org/abs/2309.01797v1)|
 |**2023-09-04**|**Adapting Segment Anything Model for Change Detection in HR Remote Sensing Images**|Lei Ding et.al.|[2309.01429v1](http://arxiv.org/abs/2309.01429v1)|
 |**2023-08-28**|**SAAN: Similarity-aware attention flow network for change detection with VHR remote sensing images**|Haonan Guo et.al.|[2308.14570v1](http://arxiv.org/abs/2308.14570v1)|
-|**2023-08-23**|**Semantic Change Detection for the Romanian Language**|Ciprian-Octavian Truică et.al.|[2308.12131v1](http://arxiv.org/abs/2308.12131v1)|
-|**2023-08-22**|**Multitemporal analysis in Google Earth Engine for detecting urban changes using optical data and machine learning algorithms**|Mariapia Rita Iandolo et.al.|[2308.11468v1](http://arxiv.org/abs/2308.11468v1)|
 
