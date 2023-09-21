@@ -1,4 +1,4 @@
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 
 ## super-resolution
 
@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2023-09-19**|**Physics-Informed Machine Learning for Data Anomaly Detection, Classification, Localization, and Mitigation: A Review, Challenges, and Path Forward**|Mehdi Jabbari Zideh et.al.|[2309.10788v1](http://arxiv.org/abs/2309.10788v1)|
-|**2023-09-19**|**Learning Point-wise Abstaining Penalty for Point Cloud Anomaly Detection**|Shaocong Xu et.al.|[2309.10230v1](http://arxiv.org/abs/2309.10230v1)|
+|**2023-09-19**|**Learning Point-wise Abstaining Penalty for Point Cloud Anomaly Detection**|Shaocong Xu et.al.|[2309.10230v2](http://arxiv.org/abs/2309.10230v2)|
 |**2023-09-18**|**Autoencoder-based Anomaly Detection System for Online Data Quality Monitoring of the CMS Electromagnetic Calorimeter**|The CMS ECAL Collaboration et.al.|[2309.10157v1](http://arxiv.org/abs/2309.10157v1)|
 |**2023-09-18**|**Anomaly Detection in Spatio-Temporal Data: Theory and Application**|Ji Chen et.al.|[2309.09878v1](http://arxiv.org/abs/2309.09878v1)|
 |**2023-09-18**|**Active anomaly detection based on deep one-class classification**|Minkyung Kim et.al.|[2309.09465v1](http://arxiv.org/abs/2309.09465v1)|
