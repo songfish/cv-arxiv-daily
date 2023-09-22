@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-20**|**GWAK: Gravitational-Wave Anomalous Knowledge with Recurrent Autoencoders**|Ryan Raikman et.al.|[2309.11537v1](http://arxiv.org/abs/2309.11537v1)|
 |**2023-09-20**|**Generative Pre-Training of Time-Series Data for Unsupervised Fault Detection in Semiconductor Manufacturing**|Sewoong Lee et.al.|[2309.11427v1](http://arxiv.org/abs/2309.11427v1)|
 |**2023-09-20**|**Ano-SuPs: Multi-size anomaly detection for manufactured products by identifying suspected patches**|Hao Xu et.al.|[2309.11120v1](http://arxiv.org/abs/2309.11120v1)|
 |**2023-09-19**|**Semi-automatic staging area for high-quality structured data extraction from scientific literature**|Luca Foppiano et.al.|[2309.10923v1](http://arxiv.org/abs/2309.10923v1)|
@@ -58,12 +59,12 @@
 |**2023-09-18**|**Anomaly Detection in Spatio-Temporal Data: Theory and Application**|Ji Chen et.al.|[2309.09878v1](http://arxiv.org/abs/2309.09878v1)|
 |**2023-09-18**|**Active anomaly detection based on deep one-class classification**|Minkyung Kim et.al.|[2309.09465v1](http://arxiv.org/abs/2309.09465v1)|
 |**2023-09-18**|**An Iterative Method for Unsupervised Robust Anomaly Detection Under Data Contamination**|Minkyung Kim et.al.|[2309.09436v1](http://arxiv.org/abs/2309.09436v1)|
-|**2023-09-16**|**Enhancing Visual Perception in Novel Environments via Incremental Data Augmentation Based on Style Transfer**|Abhibha Gupta et.al.|[2309.08851v1](http://arxiv.org/abs/2309.08851v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-21**|**Convolution and Attention Mixer for Synthetic Aperture Radar Image Change Detection**|Haopeng Zhang et.al.|[2309.12010v1](http://arxiv.org/abs/2309.12010v1)|
 |**2023-09-20**|**Directional Source Separation for Robust Speech Recognition on Smart Glasses**|Tiantian Feng et.al.|[2309.10993v1](http://arxiv.org/abs/2309.10993v1)|
 |**2023-09-19**|**Change of Scenery: Unsupervised LiDAR Change Detection for Mobile Robots**|Alexander Krawciw et.al.|[2309.10924v1](http://arxiv.org/abs/2309.10924v1)|
 |**2023-09-16**|**Reducing sequential change detection to sequential estimation**|Shubhanshu Shekhar et.al.|[2309.09111v1](http://arxiv.org/abs/2309.09111v1)|
@@ -73,5 +74,4 @@
 |**2023-09-05**|**SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping and Building Change Detection**|Jian Song et.al.|[2309.01907v1](http://arxiv.org/abs/2309.01907v1)|
 |**2023-09-04**|**Accuracy and Consistency of Space-based Vegetation Height Maps for Forest Dynamics in Alpine Terrain**|Yuchang Jiang et.al.|[2309.01797v1](http://arxiv.org/abs/2309.01797v1)|
 |**2023-09-04**|**Adapting Segment Anything Model for Change Detection in HR Remote Sensing Images**|Lei Ding et.al.|[2309.01429v1](http://arxiv.org/abs/2309.01429v1)|
-|**2023-08-28**|**SAAN: Similarity-aware attention flow network for change detection with VHR remote sensing images**|Haonan Guo et.al.|[2308.14570v1](http://arxiv.org/abs/2308.14570v1)|
 
