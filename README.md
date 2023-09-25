@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-22**|**On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures**|Qingzhao Zhang et.al.|[2309.12955v1](http://arxiv.org/abs/2309.12955v1)|
+|**2023-09-22**|**Combining Resonant and Tail-based Anomaly Detection**|Gerrit Bickendorf et.al.|[2309.12918v1](http://arxiv.org/abs/2309.12918v1)|
+|**2023-09-22**|**mixed attention auto encoder for multi-class industrial anomaly detection**|Jiangqi Liu et.al.|[2309.12700v1](http://arxiv.org/abs/2309.12700v1)|
 |**2023-09-20**|**GWAK: Gravitational-Wave Anomalous Knowledge with Recurrent Autoencoders**|Ryan Raikman et.al.|[2309.11537v1](http://arxiv.org/abs/2309.11537v1)|
 |**2023-09-20**|**Generative Pre-Training of Time-Series Data for Unsupervised Fault Detection in Semiconductor Manufacturing**|Sewoong Lee et.al.|[2309.11427v1](http://arxiv.org/abs/2309.11427v1)|
 |**2023-09-20**|**Ano-SuPs: Multi-size anomaly detection for manufactured products by identifying suspected patches**|Hao Xu et.al.|[2309.11120v1](http://arxiv.org/abs/2309.11120v1)|
@@ -56,9 +59,6 @@
 |**2023-09-19**|**Physics-Informed Machine Learning for Data Anomaly Detection, Classification, Localization, and Mitigation: A Review, Challenges, and Path Forward**|Mehdi Jabbari Zideh et.al.|[2309.10788v1](http://arxiv.org/abs/2309.10788v1)|
 |**2023-09-19**|**Learning Point-wise Abstaining Penalty for Point Cloud Anomaly Detection**|Shaocong Xu et.al.|[2309.10230v2](http://arxiv.org/abs/2309.10230v2)|
 |**2023-09-18**|**Autoencoder-based Anomaly Detection System for Online Data Quality Monitoring of the CMS Electromagnetic Calorimeter**|The CMS ECAL Collaboration et.al.|[2309.10157v1](http://arxiv.org/abs/2309.10157v1)|
-|**2023-09-18**|**Anomaly Detection in Spatio-Temporal Data: Theory and Application**|Ji Chen et.al.|[2309.09878v1](http://arxiv.org/abs/2309.09878v1)|
-|**2023-09-18**|**Active anomaly detection based on deep one-class classification**|Minkyung Kim et.al.|[2309.09465v1](http://arxiv.org/abs/2309.09465v1)|
-|**2023-09-18**|**An Iterative Method for Unsupervised Robust Anomaly Detection Under Data Contamination**|Minkyung Kim et.al.|[2309.09436v1](http://arxiv.org/abs/2309.09436v1)|
 
 ## change detection
 
