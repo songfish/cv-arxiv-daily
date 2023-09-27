@@ -25,10 +25,10 @@
 |**2023-06-16**|**Squeezing nnU-Nets with Knowledge Distillation for On-Board Cloud Detection**|Bartosz Grabowski et.al.|[2306.09886v1](http://arxiv.org/abs/2306.09886v1)|
 |**2023-06-15**|**SSL4EO-L: Datasets and Foundation Models for Landsat Imagery**|Adam J. Stewart et.al.|[2306.09424v1](http://arxiv.org/abs/2306.09424v1)|
 |**2023-06-12**|**CD-CTFM: A Lightweight CNN-Transformer Network for Remote Sensing Cloud Detection Fusing Multiscale Features**|Wenxuan Ge et.al.|[2306.07186v1](http://arxiv.org/abs/2306.07186v1)|
-|**2023-05-24**|**Evidence for heavy seed origin of early supermassive black holes from a z~10 X-ray quasar**|Akos Bogdan et.al.|[2305.15458v2](http://arxiv.org/abs/2305.15458v2)|
 |**2023-05-23**|**Hierarchical Adaptive Voxel-guided Sampling for Real-time Applications in Large-scale Point Clouds**|Junyuan Ouyang et.al.|[2305.14306v1](http://arxiv.org/abs/2305.14306v1)|
 |**2023-04-13**|**Direct observations of the atomic-molecular phase transition in the Milky Way's nuclear wind**|Karlie A. Noon et.al.|[2304.06356v2](http://arxiv.org/abs/2304.06356v2)|
 |**2023-04-03**|**Open-Vocabulary Point-Cloud Object Detection without 3D Annotation**|Yuheng Lu et.al.|[2304.00788v2](http://arxiv.org/abs/2304.00788v2)|
+|**2023-02-16**|**Detecting Clouds in Multispectral Satellite Images Using Quantum-Kernel Support Vector Machines**|Artur Miroszewski et.al.|[2302.08270v1](http://arxiv.org/abs/2302.08270v1)|
 
 ## abnormal detection
 
@@ -49,21 +49,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-26**|**Learning to Assist Different Wearers in Multitasks: Efficient and Individualized Human-In-the-Loop Adaption Framework for Exoskeleton Robots**|Yu Chen et.al.|[2309.14720v1](http://arxiv.org/abs/2309.14720v1)|
+|**2023-09-26**|**Divide and Conquer in Video Anomaly Detection: A Comprehensive Review and New Approach**|Jian Xiao et.al.|[2309.14622v1](http://arxiv.org/abs/2309.14622v1)|
+|**2023-09-25**|**Asymptotically optimal sequential anomaly identification with ordering sampling rules**|Aristomenis Tsopelakos et.al.|[2309.14528v1](http://arxiv.org/abs/2309.14528v1)|
+|**2023-09-25**|**Detach-ROCKET: Sequential feature selection for time series classification with random convolutional kernels**|Gonzalo Uribarri et.al.|[2309.14518v1](http://arxiv.org/abs/2309.14518v1)|
+|**2023-09-25**|**LogGPT: Log Anomaly Detection via GPT**|Xiao Han et.al.|[2309.14482v1](http://arxiv.org/abs/2309.14482v1)|
+|**2023-09-25**|**Sampling - Variational Auto Encoder - Ensemble: In the Quest of Explainable Artificial Intelligence**|Sarit Maitra et.al.|[2309.14385v1](http://arxiv.org/abs/2309.14385v1)|
 |**2023-09-25**|**(Predictable) Performance Bias in Unsupervised Anomaly Detection**|Felix Meissen et.al.|[2309.14198v1](http://arxiv.org/abs/2309.14198v1)|
 |**2023-09-23**|**Joint Explainability and Sensitivity-Aware Federated Deep Learning for Transparent 6G RAN Slicing**|Swastika Roy et.al.|[2309.13325v1](http://arxiv.org/abs/2309.13325v1)|
 |**2023-09-23**|**Real3D-AD: A Dataset of Point Cloud Anomaly Detection**|Jiaqi Liu et.al.|[2309.13226v2](http://arxiv.org/abs/2309.13226v2)|
 |**2023-09-22**|**Back To The Roots: Tree-Based Algorithms for Weakly Supervised Anomaly Detection**|Thorben Finke et.al.|[2309.13111v1](http://arxiv.org/abs/2309.13111v1)|
-|**2023-09-22**|**On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures**|Qingzhao Zhang et.al.|[2309.12955v1](http://arxiv.org/abs/2309.12955v1)|
-|**2023-09-22**|**Combining Resonant and Tail-based Anomaly Detection**|Gerrit Bickendorf et.al.|[2309.12918v1](http://arxiv.org/abs/2309.12918v1)|
-|**2023-09-22**|**mixed attention auto encoder for multi-class industrial anomaly detection**|Jiangqi Liu et.al.|[2309.12700v1](http://arxiv.org/abs/2309.12700v1)|
-|**2023-09-20**|**GWAK: Gravitational-Wave Anomalous Knowledge with Recurrent Autoencoders**|Ryan Raikman et.al.|[2309.11537v1](http://arxiv.org/abs/2309.11537v1)|
-|**2023-09-20**|**Generative Pre-Training of Time-Series Data for Unsupervised Fault Detection in Semiconductor Manufacturing**|Sewoong Lee et.al.|[2309.11427v1](http://arxiv.org/abs/2309.11427v1)|
-|**2023-09-20**|**Ano-SuPs: Multi-size anomaly detection for manufactured products by identifying suspected patches**|Hao Xu et.al.|[2309.11120v1](http://arxiv.org/abs/2309.11120v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-26**|**Frugal Satellite Image Change Detection with Deep-Net Inversion**|Hichem Sahbi et.al.|[2309.14781v1](http://arxiv.org/abs/2309.14781v1)|
+|**2023-09-24**|**Machine-assisted mixed methods: augmenting humanities and social sciences with artificial intelligence**|Andres Karjus et.al.|[2309.14379v1](http://arxiv.org/abs/2309.14379v1)|
 |**2023-09-24**|**Changes-Aware Transformer: Learning Generalized Changes Representation**|Dan Wang et.al.|[2309.13619v1](http://arxiv.org/abs/2309.13619v1)|
 |**2023-09-21**|**Convolution and Attention Mixer for Synthetic Aperture Radar Image Change Detection**|Haopeng Zhang et.al.|[2309.12010v1](http://arxiv.org/abs/2309.12010v1)|
 |**2023-09-20**|**Directional Source Separation for Robust Speech Recognition on Smart Glasses**|Tiantian Feng et.al.|[2309.10993v1](http://arxiv.org/abs/2309.10993v1)|
@@ -72,6 +74,4 @@
 |**2023-09-14**|**USM-SCD: Multilingual Speaker Change Detection Based on Large Pretrained Foundation Models**|Guanlong Zhao et.al.|[2309.08023v1](http://arxiv.org/abs/2309.08023v1)|
 |**2023-09-14**|**Research on self-cross transformer model of point cloud change detecter**|Xiaoxu Ren et.al.|[2309.07444v1](http://arxiv.org/abs/2309.07444v1)|
 |**2023-09-05**|**Substitution-based Semantic Change Detection using Contextual Embeddings**|Dallas Card et.al.|[2309.02403v2](http://arxiv.org/abs/2309.02403v2)|
-|**2023-09-05**|**SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping and Building Change Detection**|Jian Song et.al.|[2309.01907v1](http://arxiv.org/abs/2309.01907v1)|
-|**2023-09-04**|**Accuracy and Consistency of Space-based Vegetation Height Maps for Forest Dynamics in Alpine Terrain**|Yuchang Jiang et.al.|[2309.01797v1](http://arxiv.org/abs/2309.01797v1)|
 
