@@ -1,4 +1,4 @@
-## Updated on 2023.09.26
+## Updated on 2023.09.27
 
 ## super-resolution
 
@@ -25,7 +25,7 @@
 |**2023-06-16**|**Squeezing nnU-Nets with Knowledge Distillation for On-Board Cloud Detection**|Bartosz Grabowski et.al.|[2306.09886v1](http://arxiv.org/abs/2306.09886v1)|
 |**2023-06-15**|**SSL4EO-L: Datasets and Foundation Models for Landsat Imagery**|Adam J. Stewart et.al.|[2306.09424v1](http://arxiv.org/abs/2306.09424v1)|
 |**2023-06-12**|**CD-CTFM: A Lightweight CNN-Transformer Network for Remote Sensing Cloud Detection Fusing Multiscale Features**|Wenxuan Ge et.al.|[2306.07186v1](http://arxiv.org/abs/2306.07186v1)|
-|**2023-05-24**|**Detection of an X-ray quasar in a gravitationally-lensed z=10.3 galaxy suggests that early supermassive black holes originate from heavy seeds**|Akos Bogdan et.al.|[2305.15458v1](http://arxiv.org/abs/2305.15458v1)|
+|**2023-05-24**|**Evidence for heavy seed origin of early supermassive black holes from a z~10 X-ray quasar**|Akos Bogdan et.al.|[2305.15458v2](http://arxiv.org/abs/2305.15458v2)|
 |**2023-05-23**|**Hierarchical Adaptive Voxel-guided Sampling for Real-time Applications in Large-scale Point Clouds**|Junyuan Ouyang et.al.|[2305.14306v1](http://arxiv.org/abs/2305.14306v1)|
 |**2023-04-13**|**Direct observations of the atomic-molecular phase transition in the Milky Way's nuclear wind**|Karlie A. Noon et.al.|[2304.06356v2](http://arxiv.org/abs/2304.06356v2)|
 |**2023-04-03**|**Open-Vocabulary Point-Cloud Object Detection without 3D Annotation**|Yuheng Lu et.al.|[2304.00788v2](http://arxiv.org/abs/2304.00788v2)|
@@ -51,7 +51,7 @@
 |---|---|---|---|
 |**2023-09-25**|**(Predictable) Performance Bias in Unsupervised Anomaly Detection**|Felix Meissen et.al.|[2309.14198v1](http://arxiv.org/abs/2309.14198v1)|
 |**2023-09-23**|**Joint Explainability and Sensitivity-Aware Federated Deep Learning for Transparent 6G RAN Slicing**|Swastika Roy et.al.|[2309.13325v1](http://arxiv.org/abs/2309.13325v1)|
-|**2023-09-23**|**Real3D-AD: A Dataset of Point Cloud Anomaly Detection**|Jiaqi Liu et.al.|[2309.13226v1](http://arxiv.org/abs/2309.13226v1)|
+|**2023-09-23**|**Real3D-AD: A Dataset of Point Cloud Anomaly Detection**|Jiaqi Liu et.al.|[2309.13226v2](http://arxiv.org/abs/2309.13226v2)|
 |**2023-09-22**|**Back To The Roots: Tree-Based Algorithms for Weakly Supervised Anomaly Detection**|Thorben Finke et.al.|[2309.13111v1](http://arxiv.org/abs/2309.13111v1)|
 |**2023-09-22**|**On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures**|Qingzhao Zhang et.al.|[2309.12955v1](http://arxiv.org/abs/2309.12955v1)|
 |**2023-09-22**|**Combining Resonant and Tail-based Anomaly Detection**|Gerrit Bickendorf et.al.|[2309.12918v1](http://arxiv.org/abs/2309.12918v1)|
