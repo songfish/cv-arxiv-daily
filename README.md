@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-28**|**Semantic Scene Difference Detection in Daily Life Patroling by Mobile Robots using Pre-Trained Large-Scale Vision-Language Model**|Yoshiki Obinata et.al.|[2309.16552v1](http://arxiv.org/abs/2309.16552v1)|
+|**2023-09-28**|**Weakly-Supervised Video Anomaly Detection with Snippet Anomalous Attention**|Yidan Fan et.al.|[2309.16309v1](http://arxiv.org/abs/2309.16309v1)|
+|**2023-09-27**|**HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs)**|Tarek Ali et.al.|[2309.16021v1](http://arxiv.org/abs/2309.16021v1)|
+|**2023-09-27**|**Digital Twin-based Anomaly Detection with Curriculum Learning in Cyber-physical Systems**|Qinghua Xu et.al.|[2309.15995v1](http://arxiv.org/abs/2309.15995v1)|
 |**2023-09-27**|**Human Kinematics-inspired Skeleton-based Video Anomaly Detection**|Jian Xiao et.al.|[2309.15662v1](http://arxiv.org/abs/2309.15662v1)|
 |**2023-09-27**|**ADGym: Design Choices for Deep Anomaly Detection**|Minqi Jiang et.al.|[2309.15376v1](http://arxiv.org/abs/2309.15376v1)|
 |**2023-09-26**|**SeMAnD: Self-Supervised Anomaly Detection in Multimodal Geospatial Datasets**|Daria Reshetova et.al.|[2309.15245v1](http://arxiv.org/abs/2309.15245v1)|
 |**2023-09-26**|**Learning to Assist Different Wearers in Multitasks: Efficient and Individualized Human-In-the-Loop Adaption Framework for Exoskeleton Robots**|Yu Chen et.al.|[2309.14720v1](http://arxiv.org/abs/2309.14720v1)|
 |**2023-09-26**|**Divide and Conquer in Video Anomaly Detection: A Comprehensive Review and New Approach**|Jian Xiao et.al.|[2309.14622v1](http://arxiv.org/abs/2309.14622v1)|
 |**2023-09-25**|**Asymptotically optimal sequential anomaly identification with ordering sampling rules**|Aristomenis Tsopelakos et.al.|[2309.14528v1](http://arxiv.org/abs/2309.14528v1)|
-|**2023-09-25**|**Detach-ROCKET: Sequential feature selection for time series classification with random convolutional kernels**|Gonzalo Uribarri et.al.|[2309.14518v1](http://arxiv.org/abs/2309.14518v1)|
-|**2023-09-25**|**LogGPT: Log Anomaly Detection via GPT**|Xiao Han et.al.|[2309.14482v1](http://arxiv.org/abs/2309.14482v1)|
-|**2023-09-25**|**Sampling - Variational Auto Encoder - Ensemble: In the Quest of Explainable Artificial Intelligence**|Sarit Maitra et.al.|[2309.14385v1](http://arxiv.org/abs/2309.14385v1)|
-|**2023-09-25**|**(Predictable) Performance Bias in Unsupervised Anomaly Detection**|Felix Meissen et.al.|[2309.14198v1](http://arxiv.org/abs/2309.14198v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-28**|**Distributionally Robust Quickest Change Detection using Wasserstein Uncertainty Sets**|Liyan Xie et.al.|[2309.16171v1](http://arxiv.org/abs/2309.16171v1)|
 |**2023-09-27**|**Intelligent trading strategy based on improved directional change and regime change detection**|Bing Wu et.al.|[2309.15383v1](http://arxiv.org/abs/2309.15383v1)|
 |**2023-09-26**|**Frugal Satellite Image Change Detection with Deep-Net Inversion**|Hichem Sahbi et.al.|[2309.14781v1](http://arxiv.org/abs/2309.14781v1)|
 |**2023-09-24**|**Machine-assisted mixed methods: augmenting humanities and social sciences with artificial intelligence**|Andres Karjus et.al.|[2309.14379v1](http://arxiv.org/abs/2309.14379v1)|
@@ -73,5 +74,4 @@
 |**2023-09-19**|**Change of Scenery: Unsupervised LiDAR Change Detection for Mobile Robots**|Alexander Krawciw et.al.|[2309.10924v1](http://arxiv.org/abs/2309.10924v1)|
 |**2023-09-16**|**Reducing sequential change detection to sequential estimation**|Shubhanshu Shekhar et.al.|[2309.09111v1](http://arxiv.org/abs/2309.09111v1)|
 |**2023-09-14**|**USM-SCD: Multilingual Speaker Change Detection Based on Large Pretrained Foundation Models**|Guanlong Zhao et.al.|[2309.08023v1](http://arxiv.org/abs/2309.08023v1)|
-|**2023-09-14**|**Research on self-cross transformer model of point cloud change detecter**|Xiaoxu Ren et.al.|[2309.07444v1](http://arxiv.org/abs/2309.07444v1)|
 
