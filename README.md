@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-28**|**Algorithmic Recourse for Anomaly Detection in Multivariate Time Series**|Xiao Han et.al.|[2309.16896v1](http://arxiv.org/abs/2309.16896v1)|
+|**2023-09-28**|**An Attentional Recurrent Neural Network for Occlusion-Aware Proactive Anomaly Detection in Field Robot Navigation**|Andre Schreiber et.al.|[2309.16826v1](http://arxiv.org/abs/2309.16826v1)|
 |**2023-09-28**|**Semantic Scene Difference Detection in Daily Life Patroling by Mobile Robots using Pre-Trained Large-Scale Vision-Language Model**|Yoshiki Obinata et.al.|[2309.16552v1](http://arxiv.org/abs/2309.16552v1)|
 |**2023-09-28**|**Weakly-Supervised Video Anomaly Detection with Snippet Anomalous Attention**|Yidan Fan et.al.|[2309.16309v1](http://arxiv.org/abs/2309.16309v1)|
 |**2023-09-27**|**HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs)**|Tarek Ali et.al.|[2309.16021v1](http://arxiv.org/abs/2309.16021v1)|
@@ -57,8 +59,6 @@
 |**2023-09-27**|**ADGym: Design Choices for Deep Anomaly Detection**|Minqi Jiang et.al.|[2309.15376v1](http://arxiv.org/abs/2309.15376v1)|
 |**2023-09-26**|**SeMAnD: Self-Supervised Anomaly Detection in Multimodal Geospatial Datasets**|Daria Reshetova et.al.|[2309.15245v1](http://arxiv.org/abs/2309.15245v1)|
 |**2023-09-26**|**Learning to Assist Different Wearers in Multitasks: Efficient and Individualized Human-In-the-Loop Adaption Framework for Exoskeleton Robots**|Yu Chen et.al.|[2309.14720v1](http://arxiv.org/abs/2309.14720v1)|
-|**2023-09-26**|**Divide and Conquer in Video Anomaly Detection: A Comprehensive Review and New Approach**|Jian Xiao et.al.|[2309.14622v1](http://arxiv.org/abs/2309.14622v1)|
-|**2023-09-25**|**Asymptotically optimal sequential anomaly identification with ordering sampling rules**|Aristomenis Tsopelakos et.al.|[2309.14528v1](http://arxiv.org/abs/2309.14528v1)|
 
 ## change detection
 
