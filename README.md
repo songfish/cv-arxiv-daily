@@ -49,21 +49,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904v1](http://arxiv.org/abs/2310.01904v1)|
+|**2023-10-02**|**Self-supervised Learning for Anomaly Detection in Computational Workflows**|Hongwei Jin et.al.|[2310.01247v1](http://arxiv.org/abs/2310.01247v1)|
+|**2023-10-01**|**Going Beyond Familiar Features for Deep Anomaly Detection**|Sarath Sivaprasad et.al.|[2310.00797v1](http://arxiv.org/abs/2310.00797v1)|
+|**2023-10-01**|**Active Anomaly Detection in Confined Spaces Using Ergodic Traversal of Directed Region Graphs**|Benjamin Wong et.al.|[2310.00588v1](http://arxiv.org/abs/2310.00588v1)|
+|**2023-09-30**|**Anomaly Detection in Power Generation Plants with Generative Adversarial Networks**|Marcellin Atemkeng et.al.|[2310.00335v1](http://arxiv.org/abs/2310.00335v1)|
+|**2023-09-30**|**MFL Data Preprocessing and CNN-based Oil Pipeline Defects Detection**|Iurii Katser et.al.|[2310.00332v1](http://arxiv.org/abs/2310.00332v1)|
+|**2023-09-30**|**Unravel Anomalies: An End-to-end Seasonal-Trend Decomposition Approach for Time Series Anomaly Detection**|Zhenwei Zhang et.al.|[2310.00268v1](http://arxiv.org/abs/2310.00268v1)|
+|**2023-09-29**|**Probabilistic Sampling-Enhanced Temporal-Spatial GCN: A Scalable Framework for Transaction Anomaly Detection in Ethereum Networks**|Stefan Kambiz Behfar et.al.|[2310.00144v1](http://arxiv.org/abs/2310.00144v1)|
+|**2023-09-29**|**Pretrain, Prompt, and Transfer: Evolving Digital Twins for Time-to-Event Analysis in Cyber-physical Systems**|Qinghua Xu et.al.|[2310.00032v1](http://arxiv.org/abs/2310.00032v1)|
 |**2023-09-28**|**Algorithmic Recourse for Anomaly Detection in Multivariate Time Series**|Xiao Han et.al.|[2309.16896v1](http://arxiv.org/abs/2309.16896v1)|
-|**2023-09-28**|**An Attentional Recurrent Neural Network for Occlusion-Aware Proactive Anomaly Detection in Field Robot Navigation**|Andre Schreiber et.al.|[2309.16826v1](http://arxiv.org/abs/2309.16826v1)|
-|**2023-09-28**|**Semantic Scene Difference Detection in Daily Life Patroling by Mobile Robots using Pre-Trained Large-Scale Vision-Language Model**|Yoshiki Obinata et.al.|[2309.16552v1](http://arxiv.org/abs/2309.16552v1)|
-|**2023-09-28**|**Weakly-Supervised Video Anomaly Detection with Snippet Anomalous Attention**|Yidan Fan et.al.|[2309.16309v1](http://arxiv.org/abs/2309.16309v1)|
-|**2023-09-27**|**HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs)**|Tarek Ali et.al.|[2309.16021v1](http://arxiv.org/abs/2309.16021v1)|
-|**2023-09-27**|**Digital Twin-based Anomaly Detection with Curriculum Learning in Cyber-physical Systems**|Qinghua Xu et.al.|[2309.15995v1](http://arxiv.org/abs/2309.15995v1)|
-|**2023-09-27**|**Human Kinematics-inspired Skeleton-based Video Anomaly Detection**|Jian Xiao et.al.|[2309.15662v1](http://arxiv.org/abs/2309.15662v1)|
-|**2023-09-27**|**ADGym: Design Choices for Deep Anomaly Detection**|Minqi Jiang et.al.|[2309.15376v1](http://arxiv.org/abs/2309.15376v1)|
-|**2023-09-26**|**SeMAnD: Self-Supervised Anomaly Detection in Multimodal Geospatial Datasets**|Daria Reshetova et.al.|[2309.15245v1](http://arxiv.org/abs/2309.15245v1)|
-|**2023-09-26**|**Learning to Assist Different Wearers in Multitasks: Efficient and Individualized Human-In-the-Loop Adaption Framework for Exoskeleton Robots**|Yu Chen et.al.|[2309.14720v1](http://arxiv.org/abs/2309.14720v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-03**|**A Dual Attentive Generative Adversarial Network for Remote Sensing Image Change Detection**|Luyi Qiu et.al.|[2310.01876v1](http://arxiv.org/abs/2310.01876v1)|
+|**2023-10-01**|**Exchange means change: an unsupervised single-temporal change detection framework based on intra- and inter-image patch exchange**|Hongruixuan Chen et.al.|[2310.00689v1](http://arxiv.org/abs/2310.00689v1)|
 |**2023-09-28**|**Distributionally Robust Quickest Change Detection using Wasserstein Uncertainty Sets**|Liyan Xie et.al.|[2309.16171v1](http://arxiv.org/abs/2309.16171v1)|
 |**2023-09-27**|**Intelligent trading strategy based on improved directional change and regime change detection**|Bing Wu et.al.|[2309.15383v1](http://arxiv.org/abs/2309.15383v1)|
 |**2023-09-26**|**Frugal Satellite Image Change Detection with Deep-Net Inversion**|Hichem Sahbi et.al.|[2309.14781v1](http://arxiv.org/abs/2309.14781v1)|
@@ -72,6 +74,4 @@
 |**2023-09-21**|**Convolution and Attention Mixer for Synthetic Aperture Radar Image Change Detection**|Haopeng Zhang et.al.|[2309.12010v1](http://arxiv.org/abs/2309.12010v1)|
 |**2023-09-20**|**Directional Source Separation for Robust Speech Recognition on Smart Glasses**|Tiantian Feng et.al.|[2309.10993v1](http://arxiv.org/abs/2309.10993v1)|
 |**2023-09-19**|**Change of Scenery: Unsupervised LiDAR Change Detection for Mobile Robots**|Alexander Krawciw et.al.|[2309.10924v1](http://arxiv.org/abs/2309.10924v1)|
-|**2023-09-16**|**Reducing sequential change detection to sequential estimation**|Shubhanshu Shekhar et.al.|[2309.09111v1](http://arxiv.org/abs/2309.09111v1)|
-|**2023-09-14**|**USM-SCD: Multilingual Speaker Change Detection Based on Large Pretrained Foundation Models**|Guanlong Zhao et.al.|[2309.08023v1](http://arxiv.org/abs/2309.08023v1)|
 
