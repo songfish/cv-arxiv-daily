@@ -1,4 +1,4 @@
-## Updated on 2023.10.05
+## Updated on 2023.10.06
 
 ## super-resolution
 
@@ -35,7 +35,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2023-09-19**|**OccluTrack: Rethinking Awareness of Occlusion for Enhancing Multiple Pedestrian Tracking**|Jianjun Gao et.al.|[2309.10360v1](http://arxiv.org/abs/2309.10360v1)|
-|**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v1](http://arxiv.org/abs/2308.16150v1)|
+|**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v2](http://arxiv.org/abs/2308.16150v2)|
 |**2023-07-18**|**You've Got Two Teachers: Co-evolutionary Image and Report Distillation for Semi-supervised Anatomical Abnormality Detection in Chest X-ray**|Jinghan Sun et.al.|[2307.09184v1](http://arxiv.org/abs/2307.09184v1)|
 |**2023-06-12**|**In-context Cross-Density Adaptation on Noisy Mammogram Abnormalities Detection**|Huy T. Nguyen et.al.|[2306.06893v1](http://arxiv.org/abs/2306.06893v1)|
 |**2023-06-11**|**Learning Robust and Consistent Time Series Representations: A Dilated Inception-Based Approach**|Anh Duy Nguyen et.al.|[2306.06579v1](http://arxiv.org/abs/2306.06579v1)|
@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2023-10-04**|**ELUQuant: Event-Level Uncertainty Quantification in Deep Inelastic Scattering**|Cristiano Fanelli et.al.|[2310.02913v1](http://arxiv.org/abs/2310.02913v1)|
-|**2023-10-04**|**Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection**|Xiangyu Dong et.al.|[2310.02861v1](http://arxiv.org/abs/2310.02861v1)|
+|**2023-10-04**|**Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection**|Xiangyu Dong et.al.|[2310.02861v2](http://arxiv.org/abs/2310.02861v2)|
 |**2023-10-04**|**Delving into CLIP latent space for Video Anomaly Recognition**|Luca Zanella et.al.|[2310.02835v1](http://arxiv.org/abs/2310.02835v1)|
 |**2023-10-04**|**Improving Vision Anomaly Detection with the Guidance of Language Modality**|Dong Chen et.al.|[2310.02821v1](http://arxiv.org/abs/2310.02821v1)|
 |**2023-10-04**|**A Prototype-Based Neural Network for Image Anomaly Detection and Localization**|Chao Huang et.al.|[2310.02576v1](http://arxiv.org/abs/2310.02576v1)|
