@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-05**|**Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End**|Jin Jin et.al.|[2310.03581v1](http://arxiv.org/abs/2310.03581v1)|
+|**2023-10-04**|**Creating an Atlas of Normal Tissue for Pruning WSI Patching Through Anomaly Detection**|Peyman Nejat et.al.|[2310.03106v1](http://arxiv.org/abs/2310.03106v1)|
 |**2023-10-04**|**ELUQuant: Event-Level Uncertainty Quantification in Deep Inelastic Scattering**|Cristiano Fanelli et.al.|[2310.02913v1](http://arxiv.org/abs/2310.02913v1)|
 |**2023-10-04**|**Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection**|Xiangyu Dong et.al.|[2310.02861v2](http://arxiv.org/abs/2310.02861v2)|
 |**2023-10-04**|**Delving into CLIP latent space for Video Anomaly Recognition**|Luca Zanella et.al.|[2310.02835v1](http://arxiv.org/abs/2310.02835v1)|
@@ -57,8 +59,6 @@
 |**2023-10-02**|**Expert enhanced dynamic time warping based anomaly detection**|Matej Kloska et.al.|[2310.02280v1](http://arxiv.org/abs/2310.02280v1)|
 |**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904v1](http://arxiv.org/abs/2310.01904v1)|
 |**2023-10-02**|**Self-supervised Learning for Anomaly Detection in Computational Workflows**|Hongwei Jin et.al.|[2310.01247v1](http://arxiv.org/abs/2310.01247v1)|
-|**2023-10-01**|**Going Beyond Familiar Features for Deep Anomaly Detection**|Sarath Sivaprasad et.al.|[2310.00797v1](http://arxiv.org/abs/2310.00797v1)|
-|**2023-10-01**|**Active Anomaly Detection in Confined Spaces Using Ergodic Traversal of Directed Region Graphs**|Benjamin Wong et.al.|[2310.00588v1](http://arxiv.org/abs/2310.00588v1)|
 
 ## change detection
 
