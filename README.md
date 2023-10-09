@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-06**|**A Marketplace Price Anomaly Detection System at Scale**|Akshit Sarpal et.al.|[2310.04367v1](http://arxiv.org/abs/2310.04367v1)|
+|**2023-10-06**|**Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning**|Shanshan Han et.al.|[2310.04055v1](http://arxiv.org/abs/2310.04055v1)|
+|**2023-10-06**|**Excision and Recovery: Enhancing Surface Anomaly Detection with Attention-based Single Deterministic Masking**|YeongHyeon Park et.al.|[2310.04010v1](http://arxiv.org/abs/2310.04010v1)|
 |**2023-10-05**|**Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End**|Jin Jin et.al.|[2310.03581v1](http://arxiv.org/abs/2310.03581v1)|
 |**2023-10-04**|**Creating an Atlas of Normal Tissue for Pruning WSI Patching Through Anomaly Detection**|Peyman Nejat et.al.|[2310.03106v1](http://arxiv.org/abs/2310.03106v1)|
 |**2023-10-04**|**ELUQuant: Event-Level Uncertainty Quantification in Deep Inelastic Scattering**|Cristiano Fanelli et.al.|[2310.02913v1](http://arxiv.org/abs/2310.02913v1)|
@@ -56,14 +59,12 @@
 |**2023-10-04**|**Delving into CLIP latent space for Video Anomaly Recognition**|Luca Zanella et.al.|[2310.02835v1](http://arxiv.org/abs/2310.02835v1)|
 |**2023-10-04**|**Improving Vision Anomaly Detection with the Guidance of Language Modality**|Dong Chen et.al.|[2310.02821v1](http://arxiv.org/abs/2310.02821v1)|
 |**2023-10-04**|**A Prototype-Based Neural Network for Image Anomaly Detection and Localization**|Chao Huang et.al.|[2310.02576v1](http://arxiv.org/abs/2310.02576v1)|
-|**2023-10-02**|**Expert enhanced dynamic time warping based anomaly detection**|Matej Kloska et.al.|[2310.02280v1](http://arxiv.org/abs/2310.02280v1)|
-|**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904v1](http://arxiv.org/abs/2310.01904v1)|
-|**2023-10-02**|**Self-supervised Learning for Anomaly Detection in Computational Workflows**|Hongwei Jin et.al.|[2310.01247v1](http://arxiv.org/abs/2310.01247v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-05**|**HDNA: A graph-based change detection in HTML pages(Deface Attack Detection)**|Mahdi Akhi et.al.|[2310.03891v1](http://arxiv.org/abs/2310.03891v1)|
 |**2023-10-04**|**Land-cover change detection using paired OpenStreetMap data and optical high-resolution imagery via object-guided Transformer**|Hongruixuan Chen et.al.|[2310.02674v1](http://arxiv.org/abs/2310.02674v1)|
 |**2023-10-03**|**A Dual Attentive Generative Adversarial Network for Remote Sensing Image Change Detection**|Luyi Qiu et.al.|[2310.01876v1](http://arxiv.org/abs/2310.01876v1)|
 |**2023-10-01**|**Exchange means change: an unsupervised single-temporal change detection framework based on intra- and inter-image patch exchange**|Hongruixuan Chen et.al.|[2310.00689v1](http://arxiv.org/abs/2310.00689v1)|
@@ -73,5 +74,4 @@
 |**2023-09-24**|**Machine-assisted mixed methods: augmenting humanities and social sciences with artificial intelligence**|Andres Karjus et.al.|[2309.14379v1](http://arxiv.org/abs/2309.14379v1)|
 |**2023-09-24**|**Changes-Aware Transformer: Learning Generalized Changes Representation**|Dan Wang et.al.|[2309.13619v1](http://arxiv.org/abs/2309.13619v1)|
 |**2023-09-21**|**Convolution and Attention Mixer for Synthetic Aperture Radar Image Change Detection**|Haopeng Zhang et.al.|[2309.12010v1](http://arxiv.org/abs/2309.12010v1)|
-|**2023-09-20**|**Directional Source Separation for Robust Speech Recognition on Smart Glasses**|Tiantian Feng et.al.|[2309.10993v1](http://arxiv.org/abs/2309.10993v1)|
 
