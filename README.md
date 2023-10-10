@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-10-06**|**A Marketplace Price Anomaly Detection System at Scale**|Akshit Sarpal et.al.|[2310.04367v1](http://arxiv.org/abs/2310.04367v1)|
-|**2023-10-06**|**Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning**|Shanshan Han et.al.|[2310.04055v1](http://arxiv.org/abs/2310.04055v1)|
-|**2023-10-06**|**Excision and Recovery: Enhancing Surface Anomaly Detection with Attention-based Single Deterministic Masking**|YeongHyeon Park et.al.|[2310.04010v1](http://arxiv.org/abs/2310.04010v1)|
-|**2023-10-05**|**Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End**|Jin Jin et.al.|[2310.03581v1](http://arxiv.org/abs/2310.03581v1)|
-|**2023-10-04**|**Creating an Atlas of Normal Tissue for Pruning WSI Patching Through Anomaly Detection**|Peyman Nejat et.al.|[2310.03106v1](http://arxiv.org/abs/2310.03106v1)|
-|**2023-10-04**|**ELUQuant: Event-Level Uncertainty Quantification in Deep Inelastic Scattering**|Cristiano Fanelli et.al.|[2310.02913v1](http://arxiv.org/abs/2310.02913v1)|
-|**2023-10-04**|**Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection**|Xiangyu Dong et.al.|[2310.02861v2](http://arxiv.org/abs/2310.02861v2)|
-|**2023-10-04**|**Delving into CLIP latent space for Video Anomaly Recognition**|Luca Zanella et.al.|[2310.02835v1](http://arxiv.org/abs/2310.02835v1)|
-|**2023-10-04**|**Improving Vision Anomaly Detection with the Guidance of Language Modality**|Dong Chen et.al.|[2310.02821v1](http://arxiv.org/abs/2310.02821v1)|
-|**2023-10-04**|**A Prototype-Based Neural Network for Image Anomaly Detection and Localization**|Chao Huang et.al.|[2310.02576v1](http://arxiv.org/abs/2310.02576v1)|
+|**2023-10-09**|**LARA: A Light and Anti-overfitting Retraining Approach for Unsupervised Anomaly Detection**|Feiyi Chen et.al.|[2310.05668v1](http://arxiv.org/abs/2310.05668v1)|
+|**2023-10-09**|**ExIFFI and EIF+: Interpretability and Enhanced Generalizability to Extend the Extended Isolation Forest**|Alessio Arcudi et.al.|[2310.05468v1](http://arxiv.org/abs/2310.05468v1)|
+|**2023-10-09**|**GPS Attack Detection and Mitigation for Safe Autonomous Driving using Image and Map based Lateral Direction Localization**|Qingming Chen et.al.|[2310.05407v1](http://arxiv.org/abs/2310.05407v1)|
+|**2023-10-09**|**A Lightweight Video Anomaly Detection Model with Weak Supervision and Adaptive Instance Selection**|Yang Wang et.al.|[2310.05330v1](http://arxiv.org/abs/2310.05330v1)|
+|**2023-10-09**|**Quality Assurance of A GPT-based Sentiment Analysis System: Adversarial Review Data Generation and Detection**|Tinghui Ouyang et.al.|[2310.05312v1](http://arxiv.org/abs/2310.05312v1)|
+|**2023-10-08**|**Successive Data Injection in Conditional Quantum GAN Applied to Time Series Anomaly Detection**|Benjamin Kalfon et.al.|[2310.05307v1](http://arxiv.org/abs/2310.05307v1)|
+|**2023-10-07**|**Large Language Models for Spatial Trajectory Patterns Mining**|Zheng Zhang et.al.|[2310.04942v1](http://arxiv.org/abs/2310.04942v1)|
+|**2023-10-07**|**IPMix: Label-Preserving Data Augmentation Method for Training Robust Classifiers**|Zhenglin Huang et.al.|[2310.04780v1](http://arxiv.org/abs/2310.04780v1)|
+|**2023-10-07**|**Twin Graph-based Anomaly Detection via Attentive Multi-Modal Learning for Microservice System**|Jun Huang et.al.|[2310.04701v1](http://arxiv.org/abs/2310.04701v1)|
+|**2023-10-07**|**Visual Abductive Reasoning Meets Driving Hazard Prediction: Problem Formulation and Dataset**|Korawat Charoenpitaks et.al.|[2310.04671v1](http://arxiv.org/abs/2310.04671v1)|
 
 ## change detection
 
