@@ -1,4 +1,4 @@
-## Updated on 2023.10.10
+## Updated on 2023.10.11
 
 ## super-resolution
 
@@ -58,7 +58,7 @@
 |**2023-10-07**|**Large Language Models for Spatial Trajectory Patterns Mining**|Zheng Zhang et.al.|[2310.04942v1](http://arxiv.org/abs/2310.04942v1)|
 |**2023-10-07**|**IPMix: Label-Preserving Data Augmentation Method for Training Robust Classifiers**|Zhenglin Huang et.al.|[2310.04780v1](http://arxiv.org/abs/2310.04780v1)|
 |**2023-10-07**|**Twin Graph-based Anomaly Detection via Attentive Multi-Modal Learning for Microservice System**|Jun Huang et.al.|[2310.04701v1](http://arxiv.org/abs/2310.04701v1)|
-|**2023-10-07**|**Visual Abductive Reasoning Meets Driving Hazard Prediction: Problem Formulation and Dataset**|Korawat Charoenpitaks et.al.|[2310.04671v1](http://arxiv.org/abs/2310.04671v1)|
+|**2023-10-07**|**Visual Abductive Reasoning Meets Driving Hazard Prediction: Problem Formulation and Dataset**|Korawat Charoenpitaks et.al.|[2310.04671v2](http://arxiv.org/abs/2310.04671v2)|
 
 ## change detection
 
