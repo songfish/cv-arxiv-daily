@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-09-28**|**Automated Chest X-Ray Report Generator Using Multi-Model Deep Learning Approach**|Arief Purnama Muharram et.al.|[2310.05969v1](http://arxiv.org/abs/2310.05969v1)|
 |**2023-09-19**|**OccluTrack: Rethinking Awareness of Occlusion for Enhancing Multiple Pedestrian Tracking**|Jianjun Gao et.al.|[2309.10360v1](http://arxiv.org/abs/2309.10360v1)|
 |**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v2](http://arxiv.org/abs/2308.16150v2)|
 |**2023-07-18**|**You've Got Two Teachers: Co-evolutionary Image and Report Distillation for Semi-supervised Anatomical Abnormality Detection in Chest X-ray**|Jinghan Sun et.al.|[2307.09184v1](http://arxiv.org/abs/2307.09184v1)|
@@ -43,22 +44,21 @@
 |**2023-03-29**|**Improving Object Detection in Medical Image Analysis through Multiple Expert Annotators: An Empirical Investigation**|Hieu H. Pham et.al.|[2303.16507v1](http://arxiv.org/abs/2303.16507v1)|
 |**2023-02-26**|**MDF-Net for Abnormality Detection by Fusing X-Rays with Clinical Data**|Chihcheng Hsieh et.al.|[2302.13390v2](http://arxiv.org/abs/2302.13390v2)|
 |**2023-02-20**|**Deep Reinforcement Learning for Cost-Effective Medical Diagnosis**|Zheng Yu et.al.|[2302.10261v2](http://arxiv.org/abs/2302.10261v2)|
-|**2023-02-06**|**Integrating Eye-Gaze Data into CXR DL Approaches: A Preliminary study**|André Luís et.al.|[2302.02940v1](http://arxiv.org/abs/2302.02940v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-10**|**A Supervised Embedding and Clustering Anomaly Detection method for classification of Mobile Network Faults**|R. Mosayebi et.al.|[2310.06779v1](http://arxiv.org/abs/2310.06779v1)|
+|**2023-10-10**|**Assessing the Impact of a Supervised Classification Filter on Flow-based Hybrid Network Anomaly Detection**|Dominik Macko et.al.|[2310.06656v1](http://arxiv.org/abs/2310.06656v1)|
+|**2023-10-10**|**AnoDODE: Anomaly Detection with Diffusion ODE**|Xianyao Hu et.al.|[2310.06420v1](http://arxiv.org/abs/2310.06420v1)|
+|**2023-10-10**|**Quantum support vector data description for anomaly detection**|Hyeondo Oh et.al.|[2310.06375v1](http://arxiv.org/abs/2310.06375v1)|
+|**2023-10-10**|**Self-Discriminative Modeling for Anomalous Graph Detection**|Jinyu Cai et.al.|[2310.06261v1](http://arxiv.org/abs/2310.06261v1)|
+|**2023-10-09**|**Knowledge Distillation for Anomaly Detection**|Adrian Alan Pol et.al.|[2310.06047v1](http://arxiv.org/abs/2310.06047v1)|
 |**2023-10-09**|**LARA: A Light and Anti-overfitting Retraining Approach for Unsupervised Anomaly Detection**|Feiyi Chen et.al.|[2310.05668v1](http://arxiv.org/abs/2310.05668v1)|
 |**2023-10-09**|**ExIFFI and EIF+: Interpretability and Enhanced Generalizability to Extend the Extended Isolation Forest**|Alessio Arcudi et.al.|[2310.05468v1](http://arxiv.org/abs/2310.05468v1)|
 |**2023-10-09**|**GPS Attack Detection and Mitigation for Safe Autonomous Driving using Image and Map based Lateral Direction Localization**|Qingming Chen et.al.|[2310.05407v1](http://arxiv.org/abs/2310.05407v1)|
 |**2023-10-09**|**A Lightweight Video Anomaly Detection Model with Weak Supervision and Adaptive Instance Selection**|Yang Wang et.al.|[2310.05330v1](http://arxiv.org/abs/2310.05330v1)|
-|**2023-10-09**|**Quality Assurance of A GPT-based Sentiment Analysis System: Adversarial Review Data Generation and Detection**|Tinghui Ouyang et.al.|[2310.05312v1](http://arxiv.org/abs/2310.05312v1)|
-|**2023-10-08**|**Successive Data Injection in Conditional Quantum GAN Applied to Time Series Anomaly Detection**|Benjamin Kalfon et.al.|[2310.05307v1](http://arxiv.org/abs/2310.05307v1)|
-|**2023-10-07**|**Large Language Models for Spatial Trajectory Patterns Mining**|Zheng Zhang et.al.|[2310.04942v1](http://arxiv.org/abs/2310.04942v1)|
-|**2023-10-07**|**IPMix: Label-Preserving Data Augmentation Method for Training Robust Classifiers**|Zhenglin Huang et.al.|[2310.04780v1](http://arxiv.org/abs/2310.04780v1)|
-|**2023-10-07**|**Twin Graph-based Anomaly Detection via Attentive Multi-Modal Learning for Microservice System**|Jun Huang et.al.|[2310.04701v1](http://arxiv.org/abs/2310.04701v1)|
-|**2023-10-07**|**Visual Abductive Reasoning Meets Driving Hazard Prediction: Problem Formulation and Dataset**|Korawat Charoenpitaks et.al.|[2310.04671v2](http://arxiv.org/abs/2310.04671v2)|
 
 ## change detection
 
