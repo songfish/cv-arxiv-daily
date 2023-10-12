@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-11**|**PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection**|Qiang Zhou et.al.|[2310.07716v1](http://arxiv.org/abs/2310.07716v1)|
+|**2023-10-11**|**A Discrepancy Aware Framework for Robust Anomaly Detection**|Yuxuan Cai et.al.|[2310.07585v1](http://arxiv.org/abs/2310.07585v1)|
+|**2023-10-11**|**A Unified Remote Sensing Anomaly Detector Across Modalities and Scenes via Deviation Relationship Learning**|Jingtao Li et.al.|[2310.07511v1](http://arxiv.org/abs/2310.07511v1)|
+|**2023-10-10**|**Full Phase Space Resonant Anomaly Detection**|Erik Buhmann et.al.|[2310.06897v1](http://arxiv.org/abs/2310.06897v1)|
 |**2023-10-10**|**A Supervised Embedding and Clustering Anomaly Detection method for classification of Mobile Network Faults**|R. Mosayebi et.al.|[2310.06779v1](http://arxiv.org/abs/2310.06779v1)|
 |**2023-10-10**|**Assessing the Impact of a Supervised Classification Filter on Flow-based Hybrid Network Anomaly Detection**|Dominik Macko et.al.|[2310.06656v1](http://arxiv.org/abs/2310.06656v1)|
 |**2023-10-10**|**AnoDODE: Anomaly Detection with Diffusion ODE**|Xianyao Hu et.al.|[2310.06420v1](http://arxiv.org/abs/2310.06420v1)|
 |**2023-10-10**|**Quantum support vector data description for anomaly detection**|Hyeondo Oh et.al.|[2310.06375v1](http://arxiv.org/abs/2310.06375v1)|
 |**2023-10-10**|**Self-Discriminative Modeling for Anomalous Graph Detection**|Jinyu Cai et.al.|[2310.06261v1](http://arxiv.org/abs/2310.06261v1)|
 |**2023-10-09**|**Knowledge Distillation for Anomaly Detection**|Adrian Alan Pol et.al.|[2310.06047v1](http://arxiv.org/abs/2310.06047v1)|
-|**2023-10-09**|**LARA: A Light and Anti-overfitting Retraining Approach for Unsupervised Anomaly Detection**|Feiyi Chen et.al.|[2310.05668v1](http://arxiv.org/abs/2310.05668v1)|
-|**2023-10-09**|**ExIFFI and EIF+: Interpretability and Enhanced Generalizability to Extend the Extended Isolation Forest**|Alessio Arcudi et.al.|[2310.05468v1](http://arxiv.org/abs/2310.05468v1)|
-|**2023-10-09**|**GPS Attack Detection and Mitigation for Safe Autonomous Driving using Image and Map based Lateral Direction Localization**|Qingming Chen et.al.|[2310.05407v1](http://arxiv.org/abs/2310.05407v1)|
-|**2023-10-09**|**A Lightweight Video Anomaly Detection Model with Weak Supervision and Adaptive Instance Selection**|Yang Wang et.al.|[2310.05330v1](http://arxiv.org/abs/2310.05330v1)|
 
 ## change detection
 
