@@ -1,4 +1,4 @@
-## Updated on 2023.10.12
+## Updated on 2023.10.13
 
 ## super-resolution
 
@@ -34,7 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-09-28**|**Automated Chest X-Ray Report Generator Using Multi-Model Deep Learning Approach**|Arief Purnama Muharram et.al.|[2310.05969v1](http://arxiv.org/abs/2310.05969v1)|
+|**2023-09-28**|**Automated Chest X-Ray Report Generator Using Multi-Model Deep Learning Approach**|Arief Purnama Muharram et.al.|[2310.05969v2](http://arxiv.org/abs/2310.05969v2)|
 |**2023-09-19**|**OccluTrack: Rethinking Awareness of Occlusion for Enhancing Multiple Pedestrian Tracking**|Jianjun Gao et.al.|[2309.10360v1](http://arxiv.org/abs/2309.10360v1)|
 |**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v2](http://arxiv.org/abs/2308.16150v2)|
 |**2023-07-18**|**You've Got Two Teachers: Co-evolutionary Image and Report Distillation for Semi-supervised Anatomical Abnormality Detection in Chest X-ray**|Jinghan Sun et.al.|[2307.09184v1](http://arxiv.org/abs/2307.09184v1)|
