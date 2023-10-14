@@ -64,7 +64,6 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-10-11**|**A Survey of Feature Types and Their Contributions for Camera Tampering Detection**|Pranav Mantini et.al.|[2310.07886v1](http://arxiv.org/abs/2310.07886v1)|
 |**2023-10-05**|**HDNA: A graph-based change detection in HTML pages(Deface Attack Detection)**|Mahdi Akhi et.al.|[2310.03891v1](http://arxiv.org/abs/2310.03891v1)|
 |**2023-10-04**|**Land-cover change detection using paired OpenStreetMap data and optical high-resolution imagery via object-guided Transformer**|Hongruixuan Chen et.al.|[2310.02674v1](http://arxiv.org/abs/2310.02674v1)|
 |**2023-10-03**|**A Dual Attentive Generative Adversarial Network for Remote Sensing Image Change Detection**|Luyi Qiu et.al.|[2310.01876v1](http://arxiv.org/abs/2310.01876v1)|
@@ -74,4 +73,5 @@
 |**2023-09-26**|**Frugal Satellite Image Change Detection with Deep-Net Inversion**|Hichem Sahbi et.al.|[2309.14781v1](http://arxiv.org/abs/2309.14781v1)|
 |**2023-09-24**|**Machine-assisted mixed methods: augmenting humanities and social sciences with artificial intelligence**|Andres Karjus et.al.|[2309.14379v1](http://arxiv.org/abs/2309.14379v1)|
 |**2023-09-24**|**Changes-Aware Transformer: Learning Generalized Changes Representation**|Dan Wang et.al.|[2309.13619v1](http://arxiv.org/abs/2309.13619v1)|
+|**2023-09-21**|**Convolution and Attention Mixer for Synthetic Aperture Radar Image Change Detection**|Haopeng Zhang et.al.|[2309.12010v1](http://arxiv.org/abs/2309.12010v1)|
 
