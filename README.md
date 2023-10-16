@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-10**|**Multiscale information fusion for abnormality detection and localization of battery energy storage systems**|Peng Wei et.al.|[2310.08606v1](http://arxiv.org/abs/2310.08606v1)|
 |**2023-09-28**|**Automated Chest X-Ray Report Generator Using Multi-Model Deep Learning Approach**|Arief Purnama Muharram et.al.|[2310.05969v2](http://arxiv.org/abs/2310.05969v2)|
 |**2023-09-19**|**OccluTrack: Rethinking Awareness of Occlusion for Enhancing Multiple Pedestrian Tracking**|Jianjun Gao et.al.|[2309.10360v1](http://arxiv.org/abs/2309.10360v1)|
 |**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v2](http://arxiv.org/abs/2308.16150v2)|
@@ -43,27 +44,29 @@
 |**2023-05-18**|**Prevention is better than cure: a case study of the abnormalities detection in the chest**|Weronika Hryniewska et.al.|[2305.10961v1](http://arxiv.org/abs/2305.10961v1)|
 |**2023-03-29**|**Improving Object Detection in Medical Image Analysis through Multiple Expert Annotators: An Empirical Investigation**|Hieu H. Pham et.al.|[2303.16507v1](http://arxiv.org/abs/2303.16507v1)|
 |**2023-02-26**|**MDF-Net for Abnormality Detection by Fusing X-Rays with Clinical Data**|Chihcheng Hsieh et.al.|[2302.13390v2](http://arxiv.org/abs/2302.13390v2)|
-|**2023-02-20**|**Deep Reinforcement Learning for Cost-Effective Medical Diagnosis**|Zheng Yu et.al.|[2302.10261v2](http://arxiv.org/abs/2302.10261v2)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-13**|**Does Graph Distillation See Like Vision Dataset Counterpart?**|Beining Yang et.al.|[2310.09192v1](http://arxiv.org/abs/2310.09192v1)|
+|**2023-10-13**|**Using cGANs for Anomaly Detection: Identifying Astronomical Anomalies in JWST NIRcam Imaging**|Ruby Pearce-Casey et.al.|[2310.09073v1](http://arxiv.org/abs/2310.09073v1)|
+|**2023-10-13**|**Log Anomaly Detection on EuXFEL Nodes**|Antonin Sulc et.al.|[2310.08951v1](http://arxiv.org/abs/2310.08951v1)|
+|**2023-10-13**|**DDMT: Denoising Diffusion Mask Transformer Models for Multivariate Time Series Anomaly Detection**|Chaocheng Yang et.al.|[2310.08800v1](http://arxiv.org/abs/2310.08800v1)|
+|**2023-10-12**|**Histogram- and Diffusion-Based Medical Out-of-Distribution Detection**|Evi M. C. Huijben et.al.|[2310.08654v1](http://arxiv.org/abs/2310.08654v1)|
+|**2023-10-12**|**Electrical Grid Anomaly Detection via Tensor Decomposition**|Alexander Most et.al.|[2310.08650v1](http://arxiv.org/abs/2310.08650v1)|
 |**2023-10-11**|**PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection**|Qiang Zhou et.al.|[2310.07716v1](http://arxiv.org/abs/2310.07716v1)|
 |**2023-10-11**|**A Discrepancy Aware Framework for Robust Anomaly Detection**|Yuxuan Cai et.al.|[2310.07585v1](http://arxiv.org/abs/2310.07585v1)|
 |**2023-10-11**|**A Unified Remote Sensing Anomaly Detector Across Modalities and Scenes via Deviation Relationship Learning**|Jingtao Li et.al.|[2310.07511v1](http://arxiv.org/abs/2310.07511v1)|
 |**2023-10-10**|**Full Phase Space Resonant Anomaly Detection**|Erik Buhmann et.al.|[2310.06897v1](http://arxiv.org/abs/2310.06897v1)|
-|**2023-10-10**|**A Supervised Embedding and Clustering Anomaly Detection method for classification of Mobile Network Faults**|R. Mosayebi et.al.|[2310.06779v1](http://arxiv.org/abs/2310.06779v1)|
-|**2023-10-10**|**Assessing the Impact of a Supervised Classification Filter on Flow-based Hybrid Network Anomaly Detection**|Dominik Macko et.al.|[2310.06656v1](http://arxiv.org/abs/2310.06656v1)|
-|**2023-10-10**|**AnoDODE: Anomaly Detection with Diffusion ODE**|Xianyao Hu et.al.|[2310.06420v1](http://arxiv.org/abs/2310.06420v1)|
-|**2023-10-10**|**Quantum support vector data description for anomaly detection**|Hyeondo Oh et.al.|[2310.06375v1](http://arxiv.org/abs/2310.06375v1)|
-|**2023-10-10**|**Self-Discriminative Modeling for Anomalous Graph Detection**|Jinyu Cai et.al.|[2310.06261v1](http://arxiv.org/abs/2310.06261v1)|
-|**2023-10-09**|**Knowledge Distillation for Anomaly Detection**|Adrian Alan Pol et.al.|[2310.06047v1](http://arxiv.org/abs/2310.06047v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-13**|**Transformer-based Multimodal Change Detection with Multitask Consistency Constraints**|Biyuan Liu et.al.|[2310.09276v1](http://arxiv.org/abs/2310.09276v1)|
+|**2023-10-13**|**Quickest Change Detection in Autoregressive Models**|Zhongchang Sun et.al.|[2310.08789v1](http://arxiv.org/abs/2310.08789v1)|
+|**2023-10-12**|**SSG2: A new modelling paradigm for semantic segmentation**|Foivos I. Diakogiannis et.al.|[2310.08671v1](http://arxiv.org/abs/2310.08671v1)|
 |**2023-10-11**|**A Survey of Feature Types and Their Contributions for Camera Tampering Detection**|Pranav Mantini et.al.|[2310.07886v1](http://arxiv.org/abs/2310.07886v1)|
 |**2023-10-05**|**HDNA: A graph-based change detection in HTML pages(Deface Attack Detection)**|Mahdi Akhi et.al.|[2310.03891v1](http://arxiv.org/abs/2310.03891v1)|
 |**2023-10-04**|**Land-cover change detection using paired OpenStreetMap data and optical high-resolution imagery via object-guided Transformer**|Hongruixuan Chen et.al.|[2310.02674v1](http://arxiv.org/abs/2310.02674v1)|
@@ -71,7 +74,4 @@
 |**2023-10-01**|**Exchange means change: an unsupervised single-temporal change detection framework based on intra- and inter-image patch exchange**|Hongruixuan Chen et.al.|[2310.00689v1](http://arxiv.org/abs/2310.00689v1)|
 |**2023-09-28**|**Distributionally Robust Quickest Change Detection using Wasserstein Uncertainty Sets**|Liyan Xie et.al.|[2309.16171v1](http://arxiv.org/abs/2309.16171v1)|
 |**2023-09-27**|**Intelligent trading strategy based on improved directional change and regime change detection**|Bing Wu et.al.|[2309.15383v1](http://arxiv.org/abs/2309.15383v1)|
-|**2023-09-26**|**Frugal Satellite Image Change Detection with Deep-Net Inversion**|Hichem Sahbi et.al.|[2309.14781v1](http://arxiv.org/abs/2309.14781v1)|
-|**2023-09-24**|**Machine-assisted mixed methods: augmenting humanities and social sciences with artificial intelligence**|Andres Karjus et.al.|[2309.14379v1](http://arxiv.org/abs/2309.14379v1)|
-|**2023-09-24**|**Changes-Aware Transformer: Learning Generalized Changes Representation**|Dan Wang et.al.|[2309.13619v1](http://arxiv.org/abs/2309.13619v1)|
 
