@@ -1,4 +1,4 @@
-## Updated on 2023.10.17
+## Updated on 2023.10.18
 
 ## super-resolution
 
@@ -34,7 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-10-10**|**Multiscale information fusion for abnormality detection and localization of battery energy storage systems**|Peng Wei et.al.|[2310.08606v1](http://arxiv.org/abs/2310.08606v1)|
+|**2023-10-10**|**Multiscale information fusion for fault detection and localization of battery energy storage systems**|Peng Wei et.al.|[2310.08606v2](http://arxiv.org/abs/2310.08606v2)|
 |**2023-09-28**|**Automated Chest X-Ray Report Generator Using Multi-Model Deep Learning Approach**|Arief Purnama Muharram et.al.|[2310.05969v2](http://arxiv.org/abs/2310.05969v2)|
 |**2023-09-19**|**OccluTrack: Rethinking Awareness of Occlusion for Enhancing Multiple Pedestrian Tracking**|Jianjun Gao et.al.|[2309.10360v1](http://arxiv.org/abs/2309.10360v1)|
 |**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v2](http://arxiv.org/abs/2308.16150v2)|
@@ -51,7 +51,7 @@
 |---|---|---|---|
 |**2023-10-16**|**Model Selection of Anomaly Detectors in the Absence of Labeled Validation Data**|Clement Fung et.al.|[2310.10461v1](http://arxiv.org/abs/2310.10461v1)|
 |**2023-10-16**|**A Multilayered Security Infrastructure for Connected Vehicles -- First Lessons from the Field**|Timo Häckel et.al.|[2310.10336v1](http://arxiv.org/abs/2310.10336v1)|
-|**2023-10-16**|**TRANSOM: An Efficient Fault-Tolerant System for Training LLMs**|Baodong Wu et.al.|[2310.10046v1](http://arxiv.org/abs/2310.10046v1)|
+|**2023-10-16**|**TRANSOM: An Efficient Fault-Tolerant System for Training LLMs**|Baodong Wu et.al.|[2310.10046v2](http://arxiv.org/abs/2310.10046v2)|
 |**2023-10-13**|**Does Graph Distillation See Like Vision Dataset Counterpart?**|Beining Yang et.al.|[2310.09192v1](http://arxiv.org/abs/2310.09192v1)|
 |**2023-10-13**|**Using cGANs for Anomaly Detection: Identifying Astronomical Anomalies in JWST NIRcam Imaging**|Ruby Pearce-Casey et.al.|[2310.09073v1](http://arxiv.org/abs/2310.09073v1)|
 |**2023-10-13**|**Log Anomaly Detection on EuXFEL Nodes**|Antonin Sulc et.al.|[2310.08951v1](http://arxiv.org/abs/2310.08951v1)|
@@ -66,7 +66,7 @@
 |---|---|---|---|
 |**2023-10-16**|**Can Word Sense Distribution Detect Semantic Changes of Words?**|Xiaohang Tang et.al.|[2310.10400v1](http://arxiv.org/abs/2310.10400v1)|
 |**2023-10-16**|**The Road to On-board Change Detection: A Lightweight Patch-Level Change Detection Network via Exploring the Potential of Pruning and Pooling**|Lihui Xue et.al.|[2310.10166v1](http://arxiv.org/abs/2310.10166v1)|
-|**2023-10-15**|**Prototype-oriented Unsupervised Change Detection for Disaster Management**|Youngtack Oh et.al.|[2310.09759v1](http://arxiv.org/abs/2310.09759v1)|
+|**2023-10-15**|**Prototype-oriented Unsupervised Change Detection for Disaster Management**|Youngtack Oh et.al.|[2310.09759v2](http://arxiv.org/abs/2310.09759v2)|
 |**2023-10-14**|**Robust Quickest Change Detection in Non-Stationary Processes**|Yingze Hou et.al.|[2310.09673v1](http://arxiv.org/abs/2310.09673v1)|
 |**2023-10-13**|**Transformer-based Multimodal Change Detection with Multitask Consistency Constraints**|Biyuan Liu et.al.|[2310.09276v1](http://arxiv.org/abs/2310.09276v1)|
 |**2023-10-13**|**Quickest Change Detection in Autoregressive Models**|Zhongchang Sun et.al.|[2310.08789v1](http://arxiv.org/abs/2310.08789v1)|
