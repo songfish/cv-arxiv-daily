@@ -1,4 +1,4 @@
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 
 ## super-resolution
 
@@ -56,7 +56,7 @@
 |**2023-10-16**|**Transparent Anomaly Detection via Concept-based Explanations**|Laya Rafiee Sevyeri et.al.|[2310.10702v1](http://arxiv.org/abs/2310.10702v1)|
 |**2023-10-16**|**Model Selection of Anomaly Detectors in the Absence of Labeled Validation Data**|Clement Fung et.al.|[2310.10461v1](http://arxiv.org/abs/2310.10461v1)|
 |**2023-10-16**|**A Multilayered Security Infrastructure for Connected Vehicles -- First Lessons from the Field**|Timo Häckel et.al.|[2310.10336v1](http://arxiv.org/abs/2310.10336v1)|
-|**2023-10-16**|**TRANSOM: An Efficient Fault-Tolerant System for Training LLMs**|Baodong Wu et.al.|[2310.10046v2](http://arxiv.org/abs/2310.10046v2)|
+|**2023-10-16**|**TRANSOM: An Efficient Fault-Tolerant System for Training LLMs**|Baodong Wu et.al.|[2310.10046v3](http://arxiv.org/abs/2310.10046v3)|
 |**2023-10-13**|**Does Graph Distillation See Like Vision Dataset Counterpart?**|Beining Yang et.al.|[2310.09192v1](http://arxiv.org/abs/2310.09192v1)|
 |**2023-10-13**|**Using cGANs for Anomaly Detection: Identifying Astronomical Anomalies in JWST NIRcam Imaging**|Ruby Pearce-Casey et.al.|[2310.09073v1](http://arxiv.org/abs/2310.09073v1)|
 
