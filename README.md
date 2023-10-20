@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-19**|**Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection**|Jiawen Zhu et.al.|[2310.12790v1](http://arxiv.org/abs/2310.12790v1)|
+|**2023-10-19**|**A New Time Series Similarity Measure and Its Smart Grid Applications**|Rui Yuan et.al.|[2310.12399v1](http://arxiv.org/abs/2310.12399v1)|
+|**2023-10-18**|**Open-Set Multivariate Time-Series Anomaly Detection**|Thomas Lai et.al.|[2310.12294v1](http://arxiv.org/abs/2310.12294v1)|
 |**2023-10-18**|**A Multi-Scale Decomposition MLP-Mixer for Time Series Analysis**|Shuhan Zhong et.al.|[2310.11959v1](http://arxiv.org/abs/2310.11959v1)|
 |**2023-10-18**|**PREM: A Simple Yet Effective Approach for Node-Level Graph Anomaly Detection**|Junjun Pan et.al.|[2310.11676v1](http://arxiv.org/abs/2310.11676v1)|
 |**2023-10-17**|**Detection of Malicious DNS-over-HTTPS Traffic: An Anomaly Detection Approach using Autoencoders**|Sergio Salinas Monroy et.al.|[2310.11325v1](http://arxiv.org/abs/2310.11325v1)|
 |**2023-10-17**|**Leveraging Large Language Model for Automatic Evolving of Industrial Data-Centric R&D Cycle**|Xu Yang et.al.|[2310.11249v1](http://arxiv.org/abs/2310.11249v1)|
 |**2023-10-17**|**MST-GAT: A Multimodal Spatial-Temporal Graph Attention Network for Time Series Anomaly Detection**|Chaoyue Ding et.al.|[2310.11169v1](http://arxiv.org/abs/2310.11169v1)|
 |**2023-10-17**|**Spatially-resolved hyperlocal weather prediction and anomaly detection using IoT sensor networks and machine learning techniques**|Anita B. Agarwal et.al.|[2310.11001v1](http://arxiv.org/abs/2310.11001v1)|
-|**2023-10-16**|**Transparent Anomaly Detection via Concept-based Explanations**|Laya Rafiee Sevyeri et.al.|[2310.10702v1](http://arxiv.org/abs/2310.10702v1)|
 |**2023-10-16**|**Model Selection of Anomaly Detectors in the Absence of Labeled Validation Data**|Clement Fung et.al.|[2310.10461v1](http://arxiv.org/abs/2310.10461v1)|
-|**2023-10-16**|**A Multilayered Security Infrastructure for Connected Vehicles -- First Lessons from the Field**|Timo Häckel et.al.|[2310.10336v1](http://arxiv.org/abs/2310.10336v1)|
-|**2023-10-16**|**TRANSOM: An Efficient Fault-Tolerant System for Training LLMs**|Baodong Wu et.al.|[2310.10046v3](http://arxiv.org/abs/2310.10046v3)|
 
 ## change detection
 
