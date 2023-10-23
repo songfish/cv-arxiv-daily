@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-20**|**Identification of Abnormality in Maize Plants From UAV Images Using Deep Learning Approaches**|Aminul Huq et.al.|[2310.13201v1](http://arxiv.org/abs/2310.13201v1)|
 |**2023-10-10**|**Multiscale information fusion for fault detection and localization of battery energy storage systems**|Peng Wei et.al.|[2310.08606v2](http://arxiv.org/abs/2310.08606v2)|
 |**2023-09-28**|**Automated Chest X-Ray Report Generator Using Multi-Model Deep Learning Approach**|Arief Purnama Muharram et.al.|[2310.05969v2](http://arxiv.org/abs/2310.05969v2)|
 |**2023-09-19**|**OccluTrack: Rethinking Awareness of Occlusion for Enhancing Multiple Pedestrian Tracking**|Jianjun Gao et.al.|[2309.10360v1](http://arxiv.org/abs/2309.10360v1)|
@@ -43,27 +44,27 @@
 |**2023-06-11**|**Learning Robust and Consistent Time Series Representations: A Dilated Inception-Based Approach**|Anh Duy Nguyen et.al.|[2306.06579v1](http://arxiv.org/abs/2306.06579v1)|
 |**2023-05-18**|**Prevention is better than cure: a case study of the abnormalities detection in the chest**|Weronika Hryniewska et.al.|[2305.10961v1](http://arxiv.org/abs/2305.10961v1)|
 |**2023-03-29**|**Improving Object Detection in Medical Image Analysis through Multiple Expert Annotators: An Empirical Investigation**|Hieu H. Pham et.al.|[2303.16507v1](http://arxiv.org/abs/2303.16507v1)|
-|**2023-02-26**|**MDF-Net for Abnormality Detection by Fusing X-Rays with Clinical Data**|Chihcheng Hsieh et.al.|[2302.13390v2](http://arxiv.org/abs/2302.13390v2)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-20**|**Positive-Unlabeled Node Classification with Structure-aware Graph Learning**|Hansi Yang et.al.|[2310.13538v1](http://arxiv.org/abs/2310.13538v1)|
+|**2023-10-20**|**FLTracer: Accurate Poisoning Attack Provenance in Federated Learning**|Xinyu Zhang et.al.|[2310.13424v1](http://arxiv.org/abs/2310.13424v1)|
+|**2023-10-20**|**Unsupervised learning of phase transitions via modified anomaly detection with autoencoders**|Kwai-Kong Ng et.al.|[2310.13342v1](http://arxiv.org/abs/2310.13342v1)|
+|**2023-10-20**|**Anomaly Detection of Command Shell Sessions based on DistilBERT: Unsupervised and Supervised Approaches**|Zefang Liu et.al.|[2310.13247v1](http://arxiv.org/abs/2310.13247v1)|
+|**2023-10-19**|**Anomaly Detection in Presence of Irrelevant Features**|Marat Freytsis et.al.|[2310.13057v1](http://arxiv.org/abs/2310.13057v1)|
 |**2023-10-19**|**Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection**|Jiawen Zhu et.al.|[2310.12790v1](http://arxiv.org/abs/2310.12790v1)|
 |**2023-10-19**|**A New Time Series Similarity Measure and Its Smart Grid Applications**|Rui Yuan et.al.|[2310.12399v1](http://arxiv.org/abs/2310.12399v1)|
 |**2023-10-18**|**Open-Set Multivariate Time-Series Anomaly Detection**|Thomas Lai et.al.|[2310.12294v1](http://arxiv.org/abs/2310.12294v1)|
 |**2023-10-18**|**A Multi-Scale Decomposition MLP-Mixer for Time Series Analysis**|Shuhan Zhong et.al.|[2310.11959v1](http://arxiv.org/abs/2310.11959v1)|
 |**2023-10-18**|**PREM: A Simple Yet Effective Approach for Node-Level Graph Anomaly Detection**|Junjun Pan et.al.|[2310.11676v1](http://arxiv.org/abs/2310.11676v1)|
-|**2023-10-17**|**Detection of Malicious DNS-over-HTTPS Traffic: An Anomaly Detection Approach using Autoencoders**|Sergio Salinas Monroy et.al.|[2310.11325v1](http://arxiv.org/abs/2310.11325v1)|
-|**2023-10-17**|**Leveraging Large Language Model for Automatic Evolving of Industrial Data-Centric R&D Cycle**|Xu Yang et.al.|[2310.11249v1](http://arxiv.org/abs/2310.11249v1)|
-|**2023-10-17**|**MST-GAT: A Multimodal Spatial-Temporal Graph Attention Network for Time Series Anomaly Detection**|Chaoyue Ding et.al.|[2310.11169v1](http://arxiv.org/abs/2310.11169v1)|
-|**2023-10-17**|**Spatially-resolved hyperlocal weather prediction and anomaly detection using IoT sensor networks and machine learning techniques**|Anita B. Agarwal et.al.|[2310.11001v1](http://arxiv.org/abs/2310.11001v1)|
-|**2023-10-16**|**Model Selection of Anomaly Detectors in the Absence of Labeled Validation Data**|Clement Fung et.al.|[2310.10461v1](http://arxiv.org/abs/2310.10461v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-20**|**Deep-Learning-based Change Detection with Spaceborne Hyperspectral PRISMA data**|J. F. Amieva et.al.|[2310.13627v1](http://arxiv.org/abs/2310.13627v1)|
 |**2023-10-17**|**VcT: Visual change Transformer for Remote Sensing Image Change Detection**|Bo Jiang et.al.|[2310.11417v1](http://arxiv.org/abs/2310.11417v1)|
 |**2023-10-16**|**Can Word Sense Distribution Detect Semantic Changes of Words?**|Xiaohang Tang et.al.|[2310.10400v1](http://arxiv.org/abs/2310.10400v1)|
 |**2023-10-16**|**The Road to On-board Change Detection: A Lightweight Patch-Level Change Detection Network via Exploring the Potential of Pruning and Pooling**|Lihui Xue et.al.|[2310.10166v1](http://arxiv.org/abs/2310.10166v1)|
@@ -73,5 +74,4 @@
 |**2023-10-13**|**Quickest Change Detection in Autoregressive Models**|Zhongchang Sun et.al.|[2310.08789v1](http://arxiv.org/abs/2310.08789v1)|
 |**2023-10-12**|**SSG2: A new modelling paradigm for semantic segmentation**|Foivos I. Diakogiannis et.al.|[2310.08671v1](http://arxiv.org/abs/2310.08671v1)|
 |**2023-10-11**|**A Survey of Feature Types and Their Contributions for Camera Tampering Detection**|Pranav Mantini et.al.|[2310.07886v1](http://arxiv.org/abs/2310.07886v1)|
-|**2023-10-05**|**HDNA: A graph-based change detection in HTML pages(Deface Attack Detection)**|Mahdi Akhi et.al.|[2310.03891v1](http://arxiv.org/abs/2310.03891v1)|
 
