@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-21**|**A multivariate Bayesian learning approach for improved detection of doping in athletes using urinary steroid profiles**|Dimitra Eleftheriou et.al.|[2310.13980v1](http://arxiv.org/abs/2310.13980v1)|
 |**2023-10-20**|**Identification of Abnormality in Maize Plants From UAV Images Using Deep Learning Approaches**|Aminul Huq et.al.|[2310.13201v1](http://arxiv.org/abs/2310.13201v1)|
 |**2023-10-10**|**Multiscale information fusion for fault detection and localization of battery energy storage systems**|Peng Wei et.al.|[2310.08606v2](http://arxiv.org/abs/2310.08606v2)|
 |**2023-09-28**|**Automated Chest X-Ray Report Generator Using Multi-Model Deep Learning Approach**|Arief Purnama Muharram et.al.|[2310.05969v2](http://arxiv.org/abs/2310.05969v2)|
@@ -43,27 +44,27 @@
 |**2023-06-12**|**In-context Cross-Density Adaptation on Noisy Mammogram Abnormalities Detection**|Huy T. Nguyen et.al.|[2306.06893v1](http://arxiv.org/abs/2306.06893v1)|
 |**2023-06-11**|**Learning Robust and Consistent Time Series Representations: A Dilated Inception-Based Approach**|Anh Duy Nguyen et.al.|[2306.06579v1](http://arxiv.org/abs/2306.06579v1)|
 |**2023-05-18**|**Prevention is better than cure: a case study of the abnormalities detection in the chest**|Weronika Hryniewska et.al.|[2305.10961v1](http://arxiv.org/abs/2305.10961v1)|
-|**2023-03-29**|**Improving Object Detection in Medical Image Analysis through Multiple Expert Annotators: An Empirical Investigation**|Hieu H. Pham et.al.|[2303.16507v1](http://arxiv.org/abs/2303.16507v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-23**|**Robust Outlier Detection Method Based on Local Entropy and Global Density**|Kaituo Zhang et.al.|[2310.14960v1](http://arxiv.org/abs/2310.14960v1)|
+|**2023-10-20**|**An Event based Prediction Suffix Tree**|Evie Andrew et.al.|[2310.14944v1](http://arxiv.org/abs/2310.14944v1)|
+|**2023-10-23**|**CAD-DA: Controllable Anomaly Detection after Domain Adaptation by Statistical Inference**|Vo Nguyen Le Duy et.al.|[2310.14608v1](http://arxiv.org/abs/2310.14608v1)|
+|**2023-10-23**|**ADoPT: LiDAR Spoofing Attack Detection Based on Point-Level Temporal Consistency**|Minkyoung Cho et.al.|[2310.14504v1](http://arxiv.org/abs/2310.14504v1)|
+|**2023-10-22**|**Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection**|Ruiying Lu et.al.|[2310.14228v1](http://arxiv.org/abs/2310.14228v1)|
+|**2023-10-21**|**Concept-based Anomaly Detection in Retail Stores for Automatic Correction using Mobile Robots**|Aditya Kapoor et.al.|[2310.14063v1](http://arxiv.org/abs/2310.14063v1)|
 |**2023-10-20**|**Positive-Unlabeled Node Classification with Structure-aware Graph Learning**|Hansi Yang et.al.|[2310.13538v1](http://arxiv.org/abs/2310.13538v1)|
 |**2023-10-20**|**FLTracer: Accurate Poisoning Attack Provenance in Federated Learning**|Xinyu Zhang et.al.|[2310.13424v1](http://arxiv.org/abs/2310.13424v1)|
 |**2023-10-20**|**Unsupervised learning of phase transitions via modified anomaly detection with autoencoders**|Kwai-Kong Ng et.al.|[2310.13342v1](http://arxiv.org/abs/2310.13342v1)|
 |**2023-10-20**|**Anomaly Detection of Command Shell Sessions based on DistilBERT: Unsupervised and Supervised Approaches**|Zefang Liu et.al.|[2310.13247v1](http://arxiv.org/abs/2310.13247v1)|
-|**2023-10-19**|**Anomaly Detection in Presence of Irrelevant Features**|Marat Freytsis et.al.|[2310.13057v1](http://arxiv.org/abs/2310.13057v1)|
-|**2023-10-19**|**Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection**|Jiawen Zhu et.al.|[2310.12790v2](http://arxiv.org/abs/2310.12790v2)|
-|**2023-10-19**|**A New Time Series Similarity Measure and Its Smart Grid Applications**|Rui Yuan et.al.|[2310.12399v1](http://arxiv.org/abs/2310.12399v1)|
-|**2023-10-18**|**Open-Set Multivariate Time-Series Anomaly Detection**|Thomas Lai et.al.|[2310.12294v1](http://arxiv.org/abs/2310.12294v1)|
-|**2023-10-18**|**A Multi-Scale Decomposition MLP-Mixer for Time Series Analysis**|Shuhan Zhong et.al.|[2310.11959v1](http://arxiv.org/abs/2310.11959v1)|
-|**2023-10-18**|**PREM: A Simple Yet Effective Approach for Node-Level Graph Anomaly Detection**|Junjun Pan et.al.|[2310.11676v1](http://arxiv.org/abs/2310.11676v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-22**|**TransY-Net:Learning Fully Transformer Networks for Change Detection of Remote Sensing Images**|Tianyu Yan et.al.|[2310.14214v1](http://arxiv.org/abs/2310.14214v1)|
 |**2023-10-20**|**Deep-Learning-based Change Detection with Spaceborne Hyperspectral PRISMA data**|J. F. Amieva et.al.|[2310.13627v1](http://arxiv.org/abs/2310.13627v1)|
 |**2023-10-17**|**VcT: Visual change Transformer for Remote Sensing Image Change Detection**|Bo Jiang et.al.|[2310.11417v1](http://arxiv.org/abs/2310.11417v1)|
 |**2023-10-16**|**Can Word Sense Distribution Detect Semantic Changes of Words?**|Xiaohang Tang et.al.|[2310.10400v1](http://arxiv.org/abs/2310.10400v1)|
@@ -73,5 +74,4 @@
 |**2023-10-13**|**Transformer-based Multimodal Change Detection with Multitask Consistency Constraints**|Biyuan Liu et.al.|[2310.09276v2](http://arxiv.org/abs/2310.09276v2)|
 |**2023-10-13**|**Quickest Change Detection in Autoregressive Models**|Zhongchang Sun et.al.|[2310.08789v1](http://arxiv.org/abs/2310.08789v1)|
 |**2023-10-12**|**SSG2: A new modelling paradigm for semantic segmentation**|Foivos I. Diakogiannis et.al.|[2310.08671v1](http://arxiv.org/abs/2310.08671v1)|
-|**2023-10-11**|**A Survey of Feature Types and Their Contributions for Camera Tampering Detection**|Pranav Mantini et.al.|[2310.07886v1](http://arxiv.org/abs/2310.07886v1)|
 
