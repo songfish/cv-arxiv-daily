@@ -54,7 +54,7 @@
 |**2023-10-20**|**Unsupervised learning of phase transitions via modified anomaly detection with autoencoders**|Kwai-Kong Ng et.al.|[2310.13342v1](http://arxiv.org/abs/2310.13342v1)|
 |**2023-10-20**|**Anomaly Detection of Command Shell Sessions based on DistilBERT: Unsupervised and Supervised Approaches**|Zefang Liu et.al.|[2310.13247v1](http://arxiv.org/abs/2310.13247v1)|
 |**2023-10-19**|**Anomaly Detection in Presence of Irrelevant Features**|Marat Freytsis et.al.|[2310.13057v1](http://arxiv.org/abs/2310.13057v1)|
-|**2023-10-19**|**Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection**|Jiawen Zhu et.al.|[2310.12790v1](http://arxiv.org/abs/2310.12790v1)|
+|**2023-10-19**|**Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection**|Jiawen Zhu et.al.|[2310.12790v2](http://arxiv.org/abs/2310.12790v2)|
 |**2023-10-19**|**A New Time Series Similarity Measure and Its Smart Grid Applications**|Rui Yuan et.al.|[2310.12399v1](http://arxiv.org/abs/2310.12399v1)|
 |**2023-10-18**|**Open-Set Multivariate Time-Series Anomaly Detection**|Thomas Lai et.al.|[2310.12294v1](http://arxiv.org/abs/2310.12294v1)|
 |**2023-10-18**|**A Multi-Scale Decomposition MLP-Mixer for Time Series Analysis**|Shuhan Zhong et.al.|[2310.11959v1](http://arxiv.org/abs/2310.11959v1)|
