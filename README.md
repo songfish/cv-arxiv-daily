@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-26**|**A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection**|Anas Al-lahham et.al.|[2310.17650v1](http://arxiv.org/abs/2310.17650v1)|
+|**2023-10-26**|**Detecting stealthy cyberattacks on adaptive cruise control vehicles: A machine learning approach**|Tianyi Li et.al.|[2310.17091v1](http://arxiv.org/abs/2310.17091v1)|
 |**2023-10-25**|**Towards Self-Interpretable Graph-Level Anomaly Detection**|Yixin Liu et.al.|[2310.16520v1](http://arxiv.org/abs/2310.16520v1)|
 |**2023-10-25**|**On Pixel-level Performance Assessment in Anomaly Detection**|Mehdi Rafiei et.al.|[2310.16435v1](http://arxiv.org/abs/2310.16435v1)|
 |**2023-10-25**|**GADY: Unsupervised Anomaly Detection on Dynamic Graphs**|Shiqi Lou et.al.|[2310.16376v1](http://arxiv.org/abs/2310.16376v1)|
@@ -57,13 +59,12 @@
 |**2023-10-23**|**Robust Outlier Detection Method Based on Local Entropy and Global Density**|Kaituo Zhang et.al.|[2310.14960v1](http://arxiv.org/abs/2310.14960v1)|
 |**2023-10-23**|**CAD-DA: Controllable Anomaly Detection after Domain Adaptation by Statistical Inference**|Vo Nguyen Le Duy et.al.|[2310.14608v1](http://arxiv.org/abs/2310.14608v1)|
 |**2023-10-23**|**ADoPT: LiDAR Spoofing Attack Detection Based on Point-Level Temporal Consistency**|Minkyoung Cho et.al.|[2310.14504v1](http://arxiv.org/abs/2310.14504v1)|
-|**2023-10-22**|**Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection**|Ruiying Lu et.al.|[2310.14228v1](http://arxiv.org/abs/2310.14228v1)|
-|**2023-10-21**|**Concept-based Anomaly Detection in Retail Stores for Automatic Correction using Mobile Robots**|Aditya Kapoor et.al.|[2310.14063v1](http://arxiv.org/abs/2310.14063v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-26**|**Quickest Change Detection with Controlled Sensing**|Venugopal V. Veeravalli et.al.|[2310.17223v1](http://arxiv.org/abs/2310.17223v1)|
 |**2023-10-22**|**TransY-Net:Learning Fully Transformer Networks for Change Detection of Remote Sensing Images**|Tianyu Yan et.al.|[2310.14214v1](http://arxiv.org/abs/2310.14214v1)|
 |**2023-10-20**|**Deep-Learning-based Change Detection with Spaceborne Hyperspectral PRISMA data**|J. F. Amieva et.al.|[2310.13627v1](http://arxiv.org/abs/2310.13627v1)|
 |**2023-10-17**|**VcT: Visual change Transformer for Remote Sensing Image Change Detection**|Bo Jiang et.al.|[2310.11417v1](http://arxiv.org/abs/2310.11417v1)|
@@ -73,5 +74,4 @@
 |**2023-10-14**|**Robust Quickest Change Detection in Non-Stationary Processes**|Yingze Hou et.al.|[2310.09673v1](http://arxiv.org/abs/2310.09673v1)|
 |**2023-10-13**|**Transformer-based Multimodal Change Detection with Multitask Consistency Constraints**|Biyuan Liu et.al.|[2310.09276v2](http://arxiv.org/abs/2310.09276v2)|
 |**2023-10-13**|**Quickest Change Detection in Autoregressive Models**|Zhongchang Sun et.al.|[2310.08789v1](http://arxiv.org/abs/2310.08789v1)|
-|**2023-10-12**|**SSG2: A new modelling paradigm for semantic segmentation**|Foivos I. Diakogiannis et.al.|[2310.08671v1](http://arxiv.org/abs/2310.08671v1)|
 
