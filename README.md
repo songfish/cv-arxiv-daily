@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-29**|**Myriad: Large Multimodal Model by Applying Vision Experts for Industrial Anomaly Detection**|Yuanze Li et.al.|[2310.19070v1](http://arxiv.org/abs/2310.19070v1)|
+|**2023-10-29**|**AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al.|[2310.18961v1](http://arxiv.org/abs/2310.18961v1)|
+|**2023-10-28**|**Online Multi-view Anomaly Detection with Disentangled Product-of-Experts Modeling**|Hao Wang et.al.|[2310.18728v1](http://arxiv.org/abs/2310.18728v1)|
+|**2023-10-28**|**Energy-Based Models for Anomaly Detection: A Manifold Diffusion Recovery Approach**|Sangwoong Yoon et.al.|[2310.18677v1](http://arxiv.org/abs/2310.18677v1)|
+|**2023-10-28**|**MEDAVET: Traffic Vehicle Anomaly Detection Mechanism based on spatial and temporal structures in vehicle traffic**|Ana Rosalía Huamán Reyna et.al.|[2310.18548v1](http://arxiv.org/abs/2310.18548v1)|
 |**2023-10-26**|**MIM-GAN-based Anomaly Detection for Multivariate Time Series Data**|Shan Lu et.al.|[2310.18257v1](http://arxiv.org/abs/2310.18257v1)|
 |**2023-10-27**|**Adversarial Anomaly Detection using Gaussian Priors and Nonlinear Anomaly Scores**|Fiete Lüer et.al.|[2310.18091v1](http://arxiv.org/abs/2310.18091v1)|
 |**2023-10-27**|**Understanding Parameter Saliency via Extreme Value Theory**|Shuo Wang et.al.|[2310.17951v1](http://arxiv.org/abs/2310.17951v1)|
 |**2023-10-26**|**Making the End-User a Priority in Benchmarking: OrionBench for Unsupervised Time Series Anomaly Detection**|Sarah Alnegheimish et.al.|[2310.17748v1](http://arxiv.org/abs/2310.17748v1)|
 |**2023-10-26**|**A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection**|Anas Al-lahham et.al.|[2310.17650v1](http://arxiv.org/abs/2310.17650v1)|
-|**2023-10-26**|**Detecting stealthy cyberattacks on adaptive cruise control vehicles: A machine learning approach**|Tianyi Li et.al.|[2310.17091v1](http://arxiv.org/abs/2310.17091v1)|
-|**2023-10-25**|**Towards Self-Interpretable Graph-Level Anomaly Detection**|Yixin Liu et.al.|[2310.16520v1](http://arxiv.org/abs/2310.16520v1)|
-|**2023-10-25**|**On Pixel-level Performance Assessment in Anomaly Detection**|Mehdi Rafiei et.al.|[2310.16435v1](http://arxiv.org/abs/2310.16435v1)|
-|**2023-10-25**|**GADY: Unsupervised Anomaly Detection on Dynamic Graphs**|Shiqi Lou et.al.|[2310.16376v1](http://arxiv.org/abs/2310.16376v1)|
-|**2023-10-24**|**One or Two Things We know about Concept Drift -- A Survey on Monitoring Evolving Environments**|Fabian Hinder et.al.|[2310.15826v1](http://arxiv.org/abs/2310.15826v1)|
 
 ## change detection
 
