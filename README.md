@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-31**|**Log-based Anomaly Detection of Enterprise Software: An Empirical Study**|Nadun Wijesinghe et.al.|[2310.20492v1](http://arxiv.org/abs/2310.20492v1)|
+|**2023-10-31**|**A Low-cost Strategic Monitoring Approach for Scalable and Interpretable Error Detection in Deep Neural Networks**|Florian Geissler et.al.|[2310.20349v1](http://arxiv.org/abs/2310.20349v1)|
+|**2023-10-30**|**Look At Me, No Replay! SurpriseNet: Anomaly Detection Inspired Class Incremental Learning**|Anton Lee et.al.|[2310.20052v1](http://arxiv.org/abs/2310.20052v1)|
+|**2023-10-30**|**Privacy-Preserving Federated Learning over Vertically and Horizontally Partitioned Data for Financial Anomaly Detection**|Swanand Ravindra Kadhe et.al.|[2310.19304v1](http://arxiv.org/abs/2310.19304v1)|
 |**2023-10-29**|**Myriad: Large Multimodal Model by Applying Vision Experts for Industrial Anomaly Detection**|Yuanze Li et.al.|[2310.19070v1](http://arxiv.org/abs/2310.19070v1)|
 |**2023-10-29**|**AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al.|[2310.18961v1](http://arxiv.org/abs/2310.18961v1)|
 |**2023-10-28**|**Online Multi-view Anomaly Detection with Disentangled Product-of-Experts Modeling**|Hao Wang et.al.|[2310.18728v1](http://arxiv.org/abs/2310.18728v1)|
 |**2023-10-28**|**Energy-Based Models for Anomaly Detection: A Manifold Diffusion Recovery Approach**|Sangwoong Yoon et.al.|[2310.18677v1](http://arxiv.org/abs/2310.18677v1)|
 |**2023-10-28**|**MEDAVET: Traffic Vehicle Anomaly Detection Mechanism based on spatial and temporal structures in vehicle traffic**|Ana Rosalía Huamán Reyna et.al.|[2310.18548v1](http://arxiv.org/abs/2310.18548v1)|
-|**2023-10-26**|**MIM-GAN-based Anomaly Detection for Multivariate Time Series Data**|Shan Lu et.al.|[2310.18257v1](http://arxiv.org/abs/2310.18257v1)|
 |**2023-10-27**|**Adversarial Anomaly Detection using Gaussian Priors and Nonlinear Anomaly Scores**|Fiete Lüer et.al.|[2310.18091v1](http://arxiv.org/abs/2310.18091v1)|
-|**2023-10-27**|**Understanding Parameter Saliency via Extreme Value Theory**|Shuo Wang et.al.|[2310.17951v1](http://arxiv.org/abs/2310.17951v1)|
-|**2023-10-26**|**Making the End-User a Priority in Benchmarking: OrionBench for Unsupervised Time Series Anomaly Detection**|Sarah Alnegheimish et.al.|[2310.17748v1](http://arxiv.org/abs/2310.17748v1)|
-|**2023-10-26**|**A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection**|Anas Al-lahham et.al.|[2310.17650v1](http://arxiv.org/abs/2310.17650v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-10-30**|**Measuring Behavior Change with Observational Studies: a Review**|Arianna Pera et.al.|[2310.19951v1](http://arxiv.org/abs/2310.19951v1)|
 |**2023-10-26**|**Quickest Change Detection with Controlled Sensing**|Venugopal V. Veeravalli et.al.|[2310.17223v1](http://arxiv.org/abs/2310.17223v1)|
 |**2023-10-22**|**TransY-Net:Learning Fully Transformer Networks for Change Detection of Remote Sensing Images**|Tianyu Yan et.al.|[2310.14214v1](http://arxiv.org/abs/2310.14214v1)|
 |**2023-10-20**|**Deep-Learning-based Change Detection with Spaceborne Hyperspectral PRISMA data**|J. F. Amieva et.al.|[2310.13627v1](http://arxiv.org/abs/2310.13627v1)|
@@ -73,5 +74,4 @@
 |**2023-10-15**|**Prototype-oriented Unsupervised Change Detection for Disaster Management**|Youngtack Oh et.al.|[2310.09759v2](http://arxiv.org/abs/2310.09759v2)|
 |**2023-10-14**|**Robust Quickest Change Detection in Non-Stationary Processes**|Yingze Hou et.al.|[2310.09673v1](http://arxiv.org/abs/2310.09673v1)|
 |**2023-10-13**|**Transformer-based Multimodal Change Detection with Multitask Consistency Constraints**|Biyuan Liu et.al.|[2310.09276v2](http://arxiv.org/abs/2310.09276v2)|
-|**2023-10-13**|**Quickest Change Detection in Autoregressive Models**|Zhongchang Sun et.al.|[2310.08789v1](http://arxiv.org/abs/2310.08789v1)|
 
