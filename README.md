@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-01**|**CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection**|Xuhai Chen et.al.|[2311.00453v1](http://arxiv.org/abs/2311.00453v1)|
+|**2023-11-01**|**Architecture of Data Anomaly Detection-Enhanced Decentralized Expert System for Early-Stage Alzheimer's Disease Prediction**|Stefan Kambiz Behfar et.al.|[2311.00373v1](http://arxiv.org/abs/2311.00373v1)|
+|**2023-11-01**|**Model-driven Engineering for Machine Learning Components: A Systematic Literature Review**|Hira Naveed et.al.|[2311.00284v1](http://arxiv.org/abs/2311.00284v1)|
 |**2023-10-31**|**Log-based Anomaly Detection of Enterprise Software: An Empirical Study**|Nadun Wijesinghe et.al.|[2310.20492v1](http://arxiv.org/abs/2310.20492v1)|
 |**2023-10-31**|**A Low-cost Strategic Monitoring Approach for Scalable and Interpretable Error Detection in Deep Neural Networks**|Florian Geissler et.al.|[2310.20349v1](http://arxiv.org/abs/2310.20349v1)|
 |**2023-10-30**|**Look At Me, No Replay! SurpriseNet: Anomaly Detection Inspired Class Incremental Learning**|Anton Lee et.al.|[2310.20052v1](http://arxiv.org/abs/2310.20052v1)|
@@ -56,9 +59,6 @@
 |**2023-10-29**|**Myriad: Large Multimodal Model by Applying Vision Experts for Industrial Anomaly Detection**|Yuanze Li et.al.|[2310.19070v2](http://arxiv.org/abs/2310.19070v2)|
 |**2023-10-29**|**AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al.|[2310.18961v1](http://arxiv.org/abs/2310.18961v1)|
 |**2023-10-28**|**Debunking Free Fusion Myth: Online Multi-view Anomaly Detection with Disentangled Product-of-Experts Modeling**|Hao Wang et.al.|[2310.18728v2](http://arxiv.org/abs/2310.18728v2)|
-|**2023-10-28**|**Energy-Based Models for Anomaly Detection: A Manifold Diffusion Recovery Approach**|Sangwoong Yoon et.al.|[2310.18677v1](http://arxiv.org/abs/2310.18677v1)|
-|**2023-10-28**|**MEDAVET: Traffic Vehicle Anomaly Detection Mechanism based on spatial and temporal structures in vehicle traffic**|Ana Rosalía Huamán Reyna et.al.|[2310.18548v1](http://arxiv.org/abs/2310.18548v1)|
-|**2023-10-27**|**Adversarial Anomaly Detection using Gaussian Priors and Nonlinear Anomaly Scores**|Fiete Lüer et.al.|[2310.18091v1](http://arxiv.org/abs/2310.18091v1)|
 
 ## change detection
 
