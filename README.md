@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-02**|**Time Series Anomaly Detection using Diffusion-based Models**|Ioana Pintilie et.al.|[2311.01452v1](http://arxiv.org/abs/2311.01452v1)|
+|**2023-11-02**|**Respiratory Anomaly Detection using Reflected Infrared Light-wave Signals**|Md Zobaer Islam et.al.|[2311.01367v1](http://arxiv.org/abs/2311.01367v1)|
+|**2023-11-02**|**Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation**|Vitjan Zavrtanik et.al.|[2311.01117v1](http://arxiv.org/abs/2311.01117v1)|
 |**2023-11-01**|**CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection**|Xuhai Chen et.al.|[2311.00453v1](http://arxiv.org/abs/2311.00453v1)|
 |**2023-11-01**|**Architecture of Data Anomaly Detection-Enhanced Decentralized Expert System for Early-Stage Alzheimer's Disease Prediction**|Stefan Kambiz Behfar et.al.|[2311.00373v1](http://arxiv.org/abs/2311.00373v1)|
 |**2023-11-01**|**Model-driven Engineering for Machine Learning Components: A Systematic Literature Review**|Hira Naveed et.al.|[2311.00284v1](http://arxiv.org/abs/2311.00284v1)|
@@ -56,9 +59,6 @@
 |**2023-10-31**|**A Low-cost Strategic Monitoring Approach for Scalable and Interpretable Error Detection in Deep Neural Networks**|Florian Geissler et.al.|[2310.20349v1](http://arxiv.org/abs/2310.20349v1)|
 |**2023-10-30**|**Look At Me, No Replay! SurpriseNet: Anomaly Detection Inspired Class Incremental Learning**|Anton Lee et.al.|[2310.20052v1](http://arxiv.org/abs/2310.20052v1)|
 |**2023-10-30**|**Privacy-Preserving Federated Learning over Vertically and Horizontally Partitioned Data for Financial Anomaly Detection**|Swanand Ravindra Kadhe et.al.|[2310.19304v1](http://arxiv.org/abs/2310.19304v1)|
-|**2023-10-29**|**Myriad: Large Multimodal Model by Applying Vision Experts for Industrial Anomaly Detection**|Yuanze Li et.al.|[2310.19070v2](http://arxiv.org/abs/2310.19070v2)|
-|**2023-10-29**|**AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al.|[2310.18961v1](http://arxiv.org/abs/2310.18961v1)|
-|**2023-10-28**|**Debunking Free Fusion Myth: Online Multi-view Anomaly Detection with Disentangled Product-of-Experts Modeling**|Hao Wang et.al.|[2310.18728v2](http://arxiv.org/abs/2310.18728v2)|
 
 ## change detection
 
