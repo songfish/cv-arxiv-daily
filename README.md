@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-06**|**NEURO HAND: A weakly supervised Hierarchical Attention Network for neuroimaging abnormality Detection**|David A. Wood et.al.|[2311.02992v1](http://arxiv.org/abs/2311.02992v1)|
 |**2023-10-21**|**A multivariate Bayesian learning approach for improved detection of doping in athletes using urinary steroid profiles**|Dimitra Eleftheriou et.al.|[2310.13980v1](http://arxiv.org/abs/2310.13980v1)|
 |**2023-10-20**|**Identification of Abnormality in Maize Plants From UAV Images Using Deep Learning Approaches**|Aminul Huq et.al.|[2310.13201v1](http://arxiv.org/abs/2310.13201v1)|
 |**2023-10-10**|**Multiscale information fusion for fault detection and localization of battery energy storage systems**|Peng Wei et.al.|[2310.08606v2](http://arxiv.org/abs/2310.08606v2)|
@@ -43,27 +44,29 @@
 |**2023-07-18**|**You've Got Two Teachers: Co-evolutionary Image and Report Distillation for Semi-supervised Anatomical Abnormality Detection in Chest X-ray**|Jinghan Sun et.al.|[2307.09184v1](http://arxiv.org/abs/2307.09184v1)|
 |**2023-06-12**|**In-context Cross-Density Adaptation on Noisy Mammogram Abnormalities Detection**|Huy T. Nguyen et.al.|[2306.06893v1](http://arxiv.org/abs/2306.06893v1)|
 |**2023-06-11**|**Learning Robust and Consistent Time Series Representations: A Dilated Inception-Based Approach**|Anh Duy Nguyen et.al.|[2306.06579v1](http://arxiv.org/abs/2306.06579v1)|
-|**2023-05-18**|**Prevention is better than cure: a case study of the abnormalities detection in the chest**|Weronika Hryniewska et.al.|[2305.10961v1](http://arxiv.org/abs/2305.10961v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-06**|**Quantum-inspired anomaly detection, a QUBO formulation**|Julien Mellaerts et.al.|[2311.03227v1](http://arxiv.org/abs/2311.03227v1)|
+|**2023-11-06**|**A Two-Stage Generative Model with CycleGAN and Joint Diffusion for MRI-based Brain Tumor Detection**|Wenxin Wang et.al.|[2311.03074v1](http://arxiv.org/abs/2311.03074v1)|
+|**2023-11-06**|**Temporal Shift -- Multi-Objective Loss Function for Improved Anomaly Fall Detection**|Stefan Denkovski et.al.|[2311.02863v1](http://arxiv.org/abs/2311.02863v1)|
+|**2023-11-05**|**Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead**|Yunkang Cao et.al.|[2311.02782v1](http://arxiv.org/abs/2311.02782v1)|
+|**2023-11-05**|**Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study**|André Luiz Buarque Vieira e Silva et.al.|[2311.02747v1](http://arxiv.org/abs/2311.02747v1)|
+|**2023-11-05**|**AIOps-Driven Enhancement of Log Anomaly Detection in Unsupervised Scenarios**|Daksh Dave et.al.|[2311.02621v1](http://arxiv.org/abs/2311.02621v1)|
+|**2023-11-05**|**Exploring Grounding Potential of VQA-oriented GPT-4V for Zero-shot Anomaly Detection**|Jiangning Zhang et.al.|[2311.02612v1](http://arxiv.org/abs/2311.02612v1)|
+|**2023-11-04**|**MTS-DVGAN: Anomaly Detection in Cyber-Physical Systems using a Dual Variational Generative Adversarial Network**|Haili Sun et.al.|[2311.02378v1](http://arxiv.org/abs/2311.02378v1)|
 |**2023-11-03**|**Triggerless data acquisition pipeline for Machine Learning based statistical anomaly detection**|Gaia Grosso et.al.|[2311.02038v1](http://arxiv.org/abs/2311.02038v1)|
 |**2023-11-03**|**Holistic Representation Learning for Multitask Trajectory Anomaly Detection**|Alexandros Stergiou et.al.|[2311.01851v1](http://arxiv.org/abs/2311.01851v1)|
-|**2023-11-02**|**InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images**|André Luiz Buarque Vieira e Silva et.al.|[2311.01619v1](http://arxiv.org/abs/2311.01619v1)|
-|**2023-11-02**|**Time Series Anomaly Detection using Diffusion-based Models**|Ioana Pintilie et.al.|[2311.01452v1](http://arxiv.org/abs/2311.01452v1)|
-|**2023-11-02**|**Respiratory Anomaly Detection using Reflected Infrared Light-wave Signals**|Md Zobaer Islam et.al.|[2311.01367v1](http://arxiv.org/abs/2311.01367v1)|
-|**2023-11-02**|**Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation**|Vitjan Zavrtanik et.al.|[2311.01117v1](http://arxiv.org/abs/2311.01117v1)|
-|**2023-11-01**|**CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection**|Xuhai Chen et.al.|[2311.00453v1](http://arxiv.org/abs/2311.00453v1)|
-|**2023-11-01**|**Architecture of Data Anomaly Detection-Enhanced Decentralized Expert System for Early-Stage Alzheimer's Disease Prediction**|Stefan Kambiz Behfar et.al.|[2311.00373v1](http://arxiv.org/abs/2311.00373v1)|
-|**2023-11-01**|**Model-driven Engineering for Machine Learning Components: A Systematic Literature Review**|Hira Naveed et.al.|[2311.00284v1](http://arxiv.org/abs/2311.00284v1)|
-|**2023-10-31**|**Log-based Anomaly Detection of Enterprise Software: An Empirical Study**|Nadun Wijesinghe et.al.|[2310.20492v1](http://arxiv.org/abs/2310.20492v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-06**|**FLOGA: A machine learning ready dataset, a benchmark and a novel deep learning model for burnt area mapping with Sentinel-2**|Maria Sdraka et.al.|[2311.03339v1](http://arxiv.org/abs/2311.03339v1)|
+|**2023-11-06**|**TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**|Alexander Naumann et.al.|[2311.03124v1](http://arxiv.org/abs/2311.03124v1)|
+|**2023-11-05**|**Multi-Agent 3D Map Reconstruction and Change Detection in Microgravity with Free-Flying Robots**|Holly Dinkel et.al.|[2311.02558v1](http://arxiv.org/abs/2311.02558v1)|
 |**2023-11-03**|**Efficient Cloud Pipelines for Neural Radiance Fields**|Derek Jacoby et.al.|[2311.01659v1](http://arxiv.org/abs/2311.01659v1)|
 |**2023-10-30**|**Measuring Behavior Change with Observational Studies: a Review**|Arianna Pera et.al.|[2310.19951v2](http://arxiv.org/abs/2310.19951v2)|
 |**2023-10-26**|**Quickest Change Detection with Controlled Sensing**|Venugopal V. Veeravalli et.al.|[2310.17223v1](http://arxiv.org/abs/2310.17223v1)|
@@ -71,7 +74,4 @@
 |**2023-10-20**|**Deep-Learning-based Change Detection with Spaceborne Hyperspectral PRISMA data**|J. F. Amieva et.al.|[2310.13627v1](http://arxiv.org/abs/2310.13627v1)|
 |**2023-10-17**|**VcT: Visual change Transformer for Remote Sensing Image Change Detection**|Bo Jiang et.al.|[2310.11417v1](http://arxiv.org/abs/2310.11417v1)|
 |**2023-10-16**|**Can Word Sense Distribution Detect Semantic Changes of Words?**|Xiaohang Tang et.al.|[2310.10400v1](http://arxiv.org/abs/2310.10400v1)|
-|**2023-10-16**|**The Road to On-board Change Detection: A Lightweight Patch-Level Change Detection Network via Exploring the Potential of Pruning and Pooling**|Lihui Xue et.al.|[2310.10166v1](http://arxiv.org/abs/2310.10166v1)|
-|**2023-10-15**|**Prototype-oriented Unsupervised Change Detection for Disaster Management**|Youngtack Oh et.al.|[2310.09759v2](http://arxiv.org/abs/2310.09759v2)|
-|**2023-10-14**|**Robust Quickest Change Detection in Non-Stationary Processes**|Yingze Hou et.al.|[2310.09673v1](http://arxiv.org/abs/2310.09673v1)|
 
