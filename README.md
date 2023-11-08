@@ -53,7 +53,7 @@
 |**2023-11-06**|**A Two-Stage Generative Model with CycleGAN and Joint Diffusion for MRI-based Brain Tumor Detection**|Wenxin Wang et.al.|[2311.03074v1](http://arxiv.org/abs/2311.03074v1)|
 |**2023-11-06**|**Temporal Shift -- Multi-Objective Loss Function for Improved Anomaly Fall Detection**|Stefan Denkovski et.al.|[2311.02863v1](http://arxiv.org/abs/2311.02863v1)|
 |**2023-11-05**|**Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead**|Yunkang Cao et.al.|[2311.02782v1](http://arxiv.org/abs/2311.02782v1)|
-|**2023-11-05**|**Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study**|André Luiz Buarque Vieira e Silva et.al.|[2311.02747v1](http://arxiv.org/abs/2311.02747v1)|
+|**2023-11-05**|**Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study**|André Luiz Buarque Vieira e Silva et.al.|[2311.02747v2](http://arxiv.org/abs/2311.02747v2)|
 |**2023-11-05**|**AIOps-Driven Enhancement of Log Anomaly Detection in Unsupervised Scenarios**|Daksh Dave et.al.|[2311.02621v1](http://arxiv.org/abs/2311.02621v1)|
 |**2023-11-05**|**Exploring Grounding Potential of VQA-oriented GPT-4V for Zero-shot Anomaly Detection**|Jiangning Zhang et.al.|[2311.02612v1](http://arxiv.org/abs/2311.02612v1)|
 |**2023-11-04**|**MTS-DVGAN: Anomaly Detection in Cyber-Physical Systems using a Dual Variational Generative Adversarial Network**|Haili Sun et.al.|[2311.02378v1](http://arxiv.org/abs/2311.02378v1)|
