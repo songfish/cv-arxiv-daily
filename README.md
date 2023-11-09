@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-08**|**Bilevel Relations and Their Applications to Data Insights**|Xi Wu et.al.|[2311.04824v1](http://arxiv.org/abs/2311.04824v1)|
+|**2023-11-08**|**The voraus-AD Dataset for Anomaly Detection in Robot Applications**|Jan Thieß Brockmann et.al.|[2311.04765v1](http://arxiv.org/abs/2311.04765v1)|
+|**2023-11-07**|**A Deep Learning Approach to Video Anomaly Detection using Convolutional Autoencoders**|Gopikrishna Pavuluri et.al.|[2311.04351v1](http://arxiv.org/abs/2311.04351v1)|
 |**2023-11-07**|**Spatio-Temporal Anomaly Detection with Graph Networks for Data Quality Monitoring of the Hadron Calorimeter**|Mulugeta Weldezgina Asres et.al.|[2311.04190v1](http://arxiv.org/abs/2311.04190v1)|
 |**2023-11-07**|**Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset**|Jianjian Qin et.al.|[2311.04095v1](http://arxiv.org/abs/2311.04095v1)|
-|**2023-11-05**|**Sketching Multidimensional Time Series for Fast Discord Mining**|Chin-Chia Michael Yeh et.al.|[2311.03393v1](http://arxiv.org/abs/2311.03393v1)|
 |**2023-11-06**|**Quantum-inspired anomaly detection, a QUBO formulation**|Julien Mellaerts et.al.|[2311.03227v1](http://arxiv.org/abs/2311.03227v1)|
 |**2023-11-06**|**A Two-Stage Generative Model with CycleGAN and Joint Diffusion for MRI-based Brain Tumor Detection**|Wenxin Wang et.al.|[2311.03074v1](http://arxiv.org/abs/2311.03074v1)|
 |**2023-11-06**|**Temporal Shift -- Multi-Objective Loss Function for Improved Anomaly Fall Detection**|Stefan Denkovski et.al.|[2311.02863v1](http://arxiv.org/abs/2311.02863v1)|
 |**2023-11-05**|**Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead**|Yunkang Cao et.al.|[2311.02782v1](http://arxiv.org/abs/2311.02782v1)|
 |**2023-11-05**|**Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study**|André Luiz Buarque Vieira e Silva et.al.|[2311.02747v2](http://arxiv.org/abs/2311.02747v2)|
-|**2023-11-05**|**AIOps-Driven Enhancement of Log Anomaly Detection in Unsupervised Scenarios**|Daksh Dave et.al.|[2311.02621v1](http://arxiv.org/abs/2311.02621v1)|
-|**2023-11-05**|**Exploring Grounding Potential of VQA-oriented GPT-4V for Zero-shot Anomaly Detection**|Jiangning Zhang et.al.|[2311.02612v1](http://arxiv.org/abs/2311.02612v1)|
 
 ## change detection
 
