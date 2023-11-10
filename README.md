@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-09**|**RAGLog: Log Anomaly Detection using Retrieval Augmented Generation**|Jonathan Pan et.al.|[2311.05261v1](http://arxiv.org/abs/2311.05261v1)|
+|**2023-11-09**|**RAPID: Training-free Retrieval-based Log Anomaly Detection with PLM considering Token-level information**|Gunho No et.al.|[2311.05160v1](http://arxiv.org/abs/2311.05160v1)|
+|**2023-11-08**|**Explained anomaly detection in text reviews: Can subjective scenarios be correctly evaluated?**|David Novoa-Paradela et.al.|[2311.04948v1](http://arxiv.org/abs/2311.04948v1)|
 |**2023-11-08**|**Bilevel Relations and Their Applications to Data Insights**|Xi Wu et.al.|[2311.04824v1](http://arxiv.org/abs/2311.04824v1)|
 |**2023-11-08**|**The voraus-AD Dataset for Anomaly Detection in Robot Applications**|Jan Thieß Brockmann et.al.|[2311.04765v1](http://arxiv.org/abs/2311.04765v1)|
 |**2023-11-07**|**A Deep Learning Approach to Video Anomaly Detection using Convolutional Autoencoders**|Gopikrishna Pavuluri et.al.|[2311.04351v1](http://arxiv.org/abs/2311.04351v1)|
@@ -56,14 +59,12 @@
 |**2023-11-07**|**Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset**|Jianjian Qin et.al.|[2311.04095v1](http://arxiv.org/abs/2311.04095v1)|
 |**2023-11-06**|**Quantum-inspired anomaly detection, a QUBO formulation**|Julien Mellaerts et.al.|[2311.03227v1](http://arxiv.org/abs/2311.03227v1)|
 |**2023-11-06**|**A Two-Stage Generative Model with CycleGAN and Joint Diffusion for MRI-based Brain Tumor Detection**|Wenxin Wang et.al.|[2311.03074v1](http://arxiv.org/abs/2311.03074v1)|
-|**2023-11-06**|**Temporal Shift -- Multi-Objective Loss Function for Improved Anomaly Fall Detection**|Stefan Denkovski et.al.|[2311.02863v1](http://arxiv.org/abs/2311.02863v1)|
-|**2023-11-05**|**Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead**|Yunkang Cao et.al.|[2311.02782v1](http://arxiv.org/abs/2311.02782v1)|
-|**2023-11-05**|**Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study**|André Luiz Buarque Vieira e Silva et.al.|[2311.02747v2](http://arxiv.org/abs/2311.02747v2)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-08**|**Effective Restoration of Source Knowledge in Continual Test Time Adaptation**|Fahim Faisal Niloy et.al.|[2311.04991v1](http://arxiv.org/abs/2311.04991v1)|
 |**2023-11-07**|**Efficiently Detecting Performance Changes in FaaS Application Releases**|Martin Grambow et.al.|[2311.03889v1](http://arxiv.org/abs/2311.03889v1)|
 |**2023-11-07**|**Image change detection with only a few samples**|Ke Liu et.al.|[2311.03762v1](http://arxiv.org/abs/2311.03762v1)|
 |**2023-11-07**|**Unsupervised convolutional neural network fusion approach for change detection in remote sensing images**|Weidong Yan et.al.|[2311.03679v1](http://arxiv.org/abs/2311.03679v1)|
@@ -73,5 +74,4 @@
 |**2023-11-03**|**Efficient Cloud Pipelines for Neural Radiance Fields**|Derek Jacoby et.al.|[2311.01659v1](http://arxiv.org/abs/2311.01659v1)|
 |**2023-10-30**|**Measuring Behavior Change with Observational Studies: a Review**|Arianna Pera et.al.|[2310.19951v2](http://arxiv.org/abs/2310.19951v2)|
 |**2023-10-26**|**Quickest Change Detection with Controlled Sensing**|Venugopal V. Veeravalli et.al.|[2310.17223v1](http://arxiv.org/abs/2310.17223v1)|
-|**2023-10-22**|**TransY-Net:Learning Fully Transformer Networks for Change Detection of Remote Sensing Images**|Tianyu Yan et.al.|[2310.14214v1](http://arxiv.org/abs/2310.14214v1)|
 
