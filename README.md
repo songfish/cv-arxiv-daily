@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-13**|**KnowSafe: Combined Knowledge and Data Driven Hazard Mitigation in Artificial Pancreas Systems**|Xugui Zhou et.al.|[2311.07460v1](http://arxiv.org/abs/2311.07460v1)|
+|**2023-11-13**|**ADAMM: Anomaly Detection of Attributed Multi-graphs with Metadata: A Unified Neural Network Approach**|Konstantinos Sotiropoulos et.al.|[2311.07355v1](http://arxiv.org/abs/2311.07355v1)|
+|**2023-11-13**|**Open-Vocabulary Video Anomaly Detection**|Peng Wu et.al.|[2311.07042v1](http://arxiv.org/abs/2311.07042v1)|
+|**2023-11-12**|**Open-Set Graph Anomaly Detection via Normal Structure Regularisation**|Qizhou Wang et.al.|[2311.06835v1](http://arxiv.org/abs/2311.06835v1)|
+|**2023-11-12**|**Dual-Branch Reconstruction Network for Industrial Anomaly Detection with RGB-D Data**|Chenyang Bi et.al.|[2311.06797v1](http://arxiv.org/abs/2311.06797v1)|
+|**2023-11-12**|**CL-Flow:Strengthening the Normalizing Flows by Contrastive Learning for Better Anomaly Detection**|Shunfeng Wang et.al.|[2311.06794v1](http://arxiv.org/abs/2311.06794v1)|
+|**2023-11-12**|**DeepQC: A Deep Learning System for Automatic Quality Control of In-situ Soil Moisture Sensor Time Series Data**|Lahari Bandaru et.al.|[2311.06735v1](http://arxiv.org/abs/2311.06735v1)|
+|**2023-11-11**|**VT-Former: A Transformer-based Vehicle Trajectory Prediction Approach For Intelligent Highway Transportation Systems**|Armin Danesh Pazho et.al.|[2311.06623v1](http://arxiv.org/abs/2311.06623v1)|
 |**2023-11-10**|**Interpretable Graph Anomaly Detection using Gradient Attention Maps**|Yifei Yang et.al.|[2311.06153v1](http://arxiv.org/abs/2311.06153v1)|
 |**2023-11-09**|**RAGLog: Log Anomaly Detection using Retrieval Augmented Generation**|Jonathan Pan et.al.|[2311.05261v1](http://arxiv.org/abs/2311.05261v1)|
-|**2023-11-09**|**RAPID: Training-free Retrieval-based Log Anomaly Detection with PLM considering Token-level information**|Gunho No et.al.|[2311.05160v1](http://arxiv.org/abs/2311.05160v1)|
-|**2023-11-08**|**Explained anomaly detection in text reviews: Can subjective scenarios be correctly evaluated?**|David Novoa-Paradela et.al.|[2311.04948v1](http://arxiv.org/abs/2311.04948v1)|
-|**2023-11-08**|**Bilevel Relations and Their Applications to Data Insights**|Xi Wu et.al.|[2311.04824v1](http://arxiv.org/abs/2311.04824v1)|
-|**2023-11-08**|**The voraus-AD Dataset for Anomaly Detection in Robot Applications**|Jan Thieß Brockmann et.al.|[2311.04765v1](http://arxiv.org/abs/2311.04765v1)|
-|**2023-11-07**|**A Deep Learning Approach to Video Anomaly Detection using Convolutional Autoencoders**|Gopikrishna Pavuluri et.al.|[2311.04351v1](http://arxiv.org/abs/2311.04351v1)|
-|**2023-11-07**|**Spatio-Temporal Anomaly Detection with Graph Networks for Data Quality Monitoring of the Hadron Calorimeter**|Mulugeta Weldezgina Asres et.al.|[2311.04190v1](http://arxiv.org/abs/2311.04190v1)|
-|**2023-11-07**|**Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset**|Jianjian Qin et.al.|[2311.04095v1](http://arxiv.org/abs/2311.04095v1)|
-|**2023-11-06**|**Quantum-inspired anomaly detection, a QUBO formulation**|Julien Mellaerts et.al.|[2311.03227v1](http://arxiv.org/abs/2311.03227v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-13**|**SpectralGPT: Spectral Foundation Model**|Danfeng Hong et.al.|[2311.07113v1](http://arxiv.org/abs/2311.07113v1)|
 |**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222v1](http://arxiv.org/abs/2311.06222v1)|
 |**2023-11-08**|**Effective Restoration of Source Knowledge in Continual Test Time Adaptation**|Fahim Faisal Niloy et.al.|[2311.04991v1](http://arxiv.org/abs/2311.04991v1)|
 |**2023-11-07**|**Efficiently Detecting Performance Changes in FaaS Application Releases**|Martin Grambow et.al.|[2311.03889v1](http://arxiv.org/abs/2311.03889v1)|
@@ -73,5 +74,4 @@
 |**2023-11-06**|**TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**|Alexander Naumann et.al.|[2311.03124v1](http://arxiv.org/abs/2311.03124v1)|
 |**2023-11-05**|**Multi-Agent 3D Map Reconstruction and Change Detection in Microgravity with Free-Flying Robots**|Holly Dinkel et.al.|[2311.02558v1](http://arxiv.org/abs/2311.02558v1)|
 |**2023-11-03**|**Efficient Cloud Pipelines for Neural Radiance Fields**|Derek Jacoby et.al.|[2311.01659v1](http://arxiv.org/abs/2311.01659v1)|
-|**2023-10-30**|**Measuring Behavior Change with Observational Studies: a Review**|Arianna Pera et.al.|[2310.19951v2](http://arxiv.org/abs/2310.19951v2)|
 
