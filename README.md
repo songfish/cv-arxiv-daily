@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-14**|**Identifying Light-curve Signals with a Deep Learning Based Object Detection Algorithm. II. A General Light Curve Classification Framework**|Kaiming Cui et.al.|[2311.08080v1](http://arxiv.org/abs/2311.08080v1)|
+|**2023-11-14**|**VegaEdge: Edge AI Confluence Anomaly Detection for Real-Time Highway IoT-Applications**|Vinit Katariya et.al.|[2311.07880v1](http://arxiv.org/abs/2311.07880v1)|
+|**2023-11-13**|**Synchrophasor Data Anomaly Detection on Grid Edge by 5G Communication and Adjacent Compute**|Chuan Qin et.al.|[2311.07758v1](http://arxiv.org/abs/2311.07758v1)|
 |**2023-11-13**|**KnowSafe: Combined Knowledge and Data Driven Hazard Mitigation in Artificial Pancreas Systems**|Xugui Zhou et.al.|[2311.07460v1](http://arxiv.org/abs/2311.07460v1)|
 |**2023-11-13**|**ADAMM: Anomaly Detection of Attributed Multi-graphs with Metadata: A Unified Neural Network Approach**|Konstantinos Sotiropoulos et.al.|[2311.07355v1](http://arxiv.org/abs/2311.07355v1)|
 |**2023-11-13**|**Open-Vocabulary Video Anomaly Detection**|Peng Wu et.al.|[2311.07042v1](http://arxiv.org/abs/2311.07042v1)|
@@ -56,14 +59,12 @@
 |**2023-11-12**|**Dual-Branch Reconstruction Network for Industrial Anomaly Detection with RGB-D Data**|Chenyang Bi et.al.|[2311.06797v1](http://arxiv.org/abs/2311.06797v1)|
 |**2023-11-12**|**CL-Flow:Strengthening the Normalizing Flows by Contrastive Learning for Better Anomaly Detection**|Shunfeng Wang et.al.|[2311.06794v1](http://arxiv.org/abs/2311.06794v1)|
 |**2023-11-12**|**DeepQC: A Deep Learning System for Automatic Quality Control of In-situ Soil Moisture Sensor Time Series Data**|Lahari Bandaru et.al.|[2311.06735v1](http://arxiv.org/abs/2311.06735v1)|
-|**2023-11-11**|**VT-Former: A Transformer-based Vehicle Trajectory Prediction Approach For Intelligent Highway Transportation Systems**|Armin Danesh Pazho et.al.|[2311.06623v1](http://arxiv.org/abs/2311.06623v1)|
-|**2023-11-10**|**Interpretable Graph Anomaly Detection using Gradient Attention Maps**|Yifei Yang et.al.|[2311.06153v1](http://arxiv.org/abs/2311.06153v1)|
-|**2023-11-09**|**RAGLog: Log Anomaly Detection using Retrieval Augmented Generation**|Jonathan Pan et.al.|[2311.05261v1](http://arxiv.org/abs/2311.05261v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-14**|**Explicit Change Relation Learning for Change Detection in VHR Remote Sensing Images**|Dalong Zheng et.al.|[2311.07993v1](http://arxiv.org/abs/2311.07993v1)|
 |**2023-11-13**|**SpectralGPT: Spectral Foundation Model**|Danfeng Hong et.al.|[2311.07113v1](http://arxiv.org/abs/2311.07113v1)|
 |**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222v1](http://arxiv.org/abs/2311.06222v1)|
 |**2023-11-08**|**Effective Restoration of Source Knowledge in Continual Test Time Adaptation**|Fahim Faisal Niloy et.al.|[2311.04991v1](http://arxiv.org/abs/2311.04991v1)|
@@ -73,5 +74,4 @@
 |**2023-11-06**|**FLOGA: A machine learning ready dataset, a benchmark and a novel deep learning model for burnt area mapping with Sentinel-2**|Maria Sdraka et.al.|[2311.03339v1](http://arxiv.org/abs/2311.03339v1)|
 |**2023-11-06**|**TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**|Alexander Naumann et.al.|[2311.03124v1](http://arxiv.org/abs/2311.03124v1)|
 |**2023-11-05**|**Multi-Agent 3D Map Reconstruction and Change Detection in Microgravity with Free-Flying Robots**|Holly Dinkel et.al.|[2311.02558v1](http://arxiv.org/abs/2311.02558v1)|
-|**2023-11-03**|**Efficient Cloud Pipelines for Neural Radiance Fields**|Derek Jacoby et.al.|[2311.01659v1](http://arxiv.org/abs/2311.01659v1)|
 
