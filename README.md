@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-15**|**Approaching adverse event detection utilizing transformers on clinical time-series**|Helge Fredriksen et.al.|[2311.09165v1](http://arxiv.org/abs/2311.09165v1)|
+|**2023-11-15**|**Estimation of the chances to find new phenomena at the LHC in a model-agnostic combinatorial analysis**|S. V. Chekanov et.al.|[2311.09012v1](http://arxiv.org/abs/2311.09012v1)|
 |**2023-11-14**|**Identifying Light-curve Signals with a Deep Learning Based Object Detection Algorithm. II. A General Light Curve Classification Framework**|Kaiming Cui et.al.|[2311.08080v1](http://arxiv.org/abs/2311.08080v1)|
 |**2023-11-14**|**VegaEdge: Edge AI Confluence Anomaly Detection for Real-Time Highway IoT-Applications**|Vinit Katariya et.al.|[2311.07880v1](http://arxiv.org/abs/2311.07880v1)|
 |**2023-11-13**|**Synchrophasor Data Anomaly Detection on Grid Edge by 5G Communication and Adjacent Compute**|Chuan Qin et.al.|[2311.07758v1](http://arxiv.org/abs/2311.07758v1)|
@@ -57,8 +59,6 @@
 |**2023-11-13**|**Open-Vocabulary Video Anomaly Detection**|Peng Wu et.al.|[2311.07042v2](http://arxiv.org/abs/2311.07042v2)|
 |**2023-11-12**|**Open-Set Graph Anomaly Detection via Normal Structure Regularisation**|Qizhou Wang et.al.|[2311.06835v1](http://arxiv.org/abs/2311.06835v1)|
 |**2023-11-12**|**Dual-Branch Reconstruction Network for Industrial Anomaly Detection with RGB-D Data**|Chenyang Bi et.al.|[2311.06797v1](http://arxiv.org/abs/2311.06797v1)|
-|**2023-11-12**|**CL-Flow:Strengthening the Normalizing Flows by Contrastive Learning for Better Anomaly Detection**|Shunfeng Wang et.al.|[2311.06794v1](http://arxiv.org/abs/2311.06794v1)|
-|**2023-11-12**|**DeepQC: A Deep Learning System for Automatic Quality Control of In-situ Soil Moisture Sensor Time Series Data**|Lahari Bandaru et.al.|[2311.06735v1](http://arxiv.org/abs/2311.06735v1)|
 
 ## change detection
 
