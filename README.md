@@ -12,7 +12,7 @@
 |**2023-03-09**|**LMR: A Large-Scale Multi-Reference Dataset for Reference-based Super-Resolution**|Lin Zhang et.al.|[2303.04970v1](http://arxiv.org/abs/2303.04970v1)|
 |**2023-03-06**|**Combination of Single and Multi-frame Image Super-resolution: An Analytical Perspective**|Mohammad Mahdi Afrasiabi et.al.|[2303.03212v1](http://arxiv.org/abs/2303.03212v1)|
 |**2023-02-19**|**Guided Depth Map Super-resolution: A Survey**|Zhiwei Zhong et.al.|[2302.09598v2](http://arxiv.org/abs/2302.09598v2)|
-|**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|
+|**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v2](http://arxiv.org/abs/2212.12322v2)|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|
 
 ## cloud detection
@@ -54,7 +54,7 @@
 |**2023-11-13**|**Synchrophasor Data Anomaly Detection on Grid Edge by 5G Communication and Adjacent Compute**|Chuan Qin et.al.|[2311.07758v1](http://arxiv.org/abs/2311.07758v1)|
 |**2023-11-13**|**KnowSafe: Combined Knowledge and Data Driven Hazard Mitigation in Artificial Pancreas Systems**|Xugui Zhou et.al.|[2311.07460v1](http://arxiv.org/abs/2311.07460v1)|
 |**2023-11-13**|**ADAMM: Anomaly Detection of Attributed Multi-graphs with Metadata: A Unified Neural Network Approach**|Konstantinos Sotiropoulos et.al.|[2311.07355v1](http://arxiv.org/abs/2311.07355v1)|
-|**2023-11-13**|**Open-Vocabulary Video Anomaly Detection**|Peng Wu et.al.|[2311.07042v1](http://arxiv.org/abs/2311.07042v1)|
+|**2023-11-13**|**Open-Vocabulary Video Anomaly Detection**|Peng Wu et.al.|[2311.07042v2](http://arxiv.org/abs/2311.07042v2)|
 |**2023-11-12**|**Open-Set Graph Anomaly Detection via Normal Structure Regularisation**|Qizhou Wang et.al.|[2311.06835v1](http://arxiv.org/abs/2311.06835v1)|
 |**2023-11-12**|**Dual-Branch Reconstruction Network for Industrial Anomaly Detection with RGB-D Data**|Chenyang Bi et.al.|[2311.06797v1](http://arxiv.org/abs/2311.06797v1)|
 |**2023-11-12**|**CL-Flow:Strengthening the Normalizing Flows by Contrastive Learning for Better Anomaly Detection**|Shunfeng Wang et.al.|[2311.06794v1](http://arxiv.org/abs/2311.06794v1)|
