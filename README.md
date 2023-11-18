@@ -1,10 +1,9 @@
-## Updated on 2023.11.17
+## Updated on 2023.11.18
 
 ## super-resolution
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-11-16**|**Redefining Super-Resolution: Fine-mesh PDE predictions without classical simulations**|Rajat Kumar Sarkar et.al.|[2311.09740v1](http://arxiv.org/abs/2311.09740v1)|
 |**2023-09-09**|**Towards Real-World Burst Image Super-Resolution: Benchmark and Method**|Pengxu Wei et.al.|[2309.04803v1](http://arxiv.org/abs/2309.04803v1)|
 |**2023-06-15**|**Deep learning techniques for blind image super-resolution: A high-scale multi-domain perspective evaluation**|Valdivino Alexandre de Santiago Júnior et.al.|[2306.09426v1](http://arxiv.org/abs/2306.09426v1)|
 |**2023-05-08**|**Compressed Video Quality Assessment for Super-Resolution: a Benchmark and a Quality Metric**|Evgeney Bogatyrev et.al.|[2305.04844v1](http://arxiv.org/abs/2305.04844v1)|
@@ -14,6 +13,7 @@
 |**2023-03-06**|**Combination of Single and Multi-frame Image Super-resolution: An Analytical Perspective**|Mohammad Mahdi Afrasiabi et.al.|[2303.03212v1](http://arxiv.org/abs/2303.03212v1)|
 |**2023-02-19**|**Guided Depth Map Super-resolution: A Survey**|Zhiwei Zhong et.al.|[2302.09598v2](http://arxiv.org/abs/2302.09598v2)|
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v2](http://arxiv.org/abs/2212.12322v2)|
+|**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|
 
 ## cloud detection
 
@@ -49,22 +49,21 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-11-16**|**TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection**|Matic Fučka et.al.|[2311.09999v1](http://arxiv.org/abs/2311.09999v1)|
-|**2023-11-16**|**Scan statistics for the detection of anomalies in M-dependent random fields with applications to image data**|Claudia Kirch et.al.|[2311.09961v1](http://arxiv.org/abs/2311.09961v1)|
-|**2023-11-16**|**Scoring Anomalous Vertices Through Quantum Walks**|Andrew Vlasic et.al.|[2311.09855v1](http://arxiv.org/abs/2311.09855v1)|
-|**2023-11-16**|**Weakly Supervised Anomaly Detection for Chest X-Ray Image**|Haoqi Ni et.al.|[2311.09642v1](http://arxiv.org/abs/2311.09642v1)|
 |**2023-11-15**|**Approaching adverse event detection utilizing transformers on clinical time-series**|Helge Fredriksen et.al.|[2311.09165v1](http://arxiv.org/abs/2311.09165v1)|
 |**2023-11-15**|**Estimation of the chances to find new phenomena at the LHC in a model-agnostic combinatorial analysis**|S. V. Chekanov et.al.|[2311.09012v1](http://arxiv.org/abs/2311.09012v1)|
 |**2023-11-14**|**Identifying Light-curve Signals with a Deep Learning Based Object Detection Algorithm. II. A General Light Curve Classification Framework**|Kaiming Cui et.al.|[2311.08080v1](http://arxiv.org/abs/2311.08080v1)|
 |**2023-11-14**|**VegaEdge: Edge AI Confluence Anomaly Detection for Real-Time Highway IoT-Applications**|Vinit Katariya et.al.|[2311.07880v1](http://arxiv.org/abs/2311.07880v1)|
 |**2023-11-13**|**Synchrophasor Data Anomaly Detection on Grid Edge by 5G Communication and Adjacent Compute**|Chuan Qin et.al.|[2311.07758v1](http://arxiv.org/abs/2311.07758v1)|
 |**2023-11-13**|**KnowSafe: Combined Knowledge and Data Driven Hazard Mitigation in Artificial Pancreas Systems**|Xugui Zhou et.al.|[2311.07460v1](http://arxiv.org/abs/2311.07460v1)|
+|**2023-11-13**|**ADAMM: Anomaly Detection of Attributed Multi-graphs with Metadata: A Unified Neural Network Approach**|Konstantinos Sotiropoulos et.al.|[2311.07355v1](http://arxiv.org/abs/2311.07355v1)|
+|**2023-11-13**|**Open-Vocabulary Video Anomaly Detection**|Peng Wu et.al.|[2311.07042v2](http://arxiv.org/abs/2311.07042v2)|
+|**2023-11-12**|**Open-Set Graph Anomaly Detection via Normal Structure Regularisation**|Qizhou Wang et.al.|[2311.06835v1](http://arxiv.org/abs/2311.06835v1)|
+|**2023-11-12**|**Dual-Branch Reconstruction Network for Industrial Anomaly Detection with RGB-D Data**|Chenyang Bi et.al.|[2311.06797v1](http://arxiv.org/abs/2311.06797v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-11-16**|**MS-Former: Memory-Supported Transformer for Weakly Supervised Change Detection with Patch-Level Annotations**|Zhenglai Li et.al.|[2311.09726v1](http://arxiv.org/abs/2311.09726v1)|
 |**2023-11-14**|**Explicit Change Relation Learning for Change Detection in VHR Remote Sensing Images**|Dalong Zheng et.al.|[2311.07993v1](http://arxiv.org/abs/2311.07993v1)|
 |**2023-11-13**|**SpectralGPT: Spectral Foundation Model**|Danfeng Hong et.al.|[2311.07113v1](http://arxiv.org/abs/2311.07113v1)|
 |**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222v1](http://arxiv.org/abs/2311.06222v1)|
@@ -74,4 +73,5 @@
 |**2023-11-07**|**Unsupervised convolutional neural network fusion approach for change detection in remote sensing images**|Weidong Yan et.al.|[2311.03679v1](http://arxiv.org/abs/2311.03679v1)|
 |**2023-11-06**|**FLOGA: A machine learning ready dataset, a benchmark and a novel deep learning model for burnt area mapping with Sentinel-2**|Maria Sdraka et.al.|[2311.03339v1](http://arxiv.org/abs/2311.03339v1)|
 |**2023-11-06**|**TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**|Alexander Naumann et.al.|[2311.03124v1](http://arxiv.org/abs/2311.03124v1)|
+|**2023-11-05**|**Multi-Agent 3D Map Reconstruction and Change Detection in Microgravity with Free-Flying Robots**|Holly Dinkel et.al.|[2311.02558v1](http://arxiv.org/abs/2311.02558v1)|
 
