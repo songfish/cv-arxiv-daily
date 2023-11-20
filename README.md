@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-17**|**Maintenance Techniques for Anomaly Detection AIOps Solutions**|Lorena Poenaru-Olaru et.al.|[2311.10421v1](http://arxiv.org/abs/2311.10421v1)|
+|**2023-11-17**|**Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection**|Fan Xu et.al.|[2311.10370v1](http://arxiv.org/abs/2311.10370v1)|
+|**2023-11-17**|**Disruption Predictor Based on Convolutional Autoencoder and Its Cross-tokamak Deployment Strategy Study**|Xinkun Ai et.al.|[2311.10368v1](http://arxiv.org/abs/2311.10368v1)|
+|**2023-11-17**|**Surprisal Driven $k$-NN for Robust and Interpretable Nonparametric Learning**|Amartya Banerjee et.al.|[2311.10246v1](http://arxiv.org/abs/2311.10246v1)|
 |**2023-11-16**|**TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection**|Matic Fučka et.al.|[2311.09999v1](http://arxiv.org/abs/2311.09999v1)|
 |**2023-11-16**|**Scan statistics for the detection of anomalies in M-dependent random fields with applications to image data**|Claudia Kirch et.al.|[2311.09961v1](http://arxiv.org/abs/2311.09961v1)|
 |**2023-11-16**|**Scoring Anomalous Vertices Through Quantum Walks**|Andrew Vlasic et.al.|[2311.09855v1](http://arxiv.org/abs/2311.09855v1)|
 |**2023-11-16**|**Weakly Supervised Anomaly Detection for Chest X-Ray Image**|Haoqi Ni et.al.|[2311.09642v1](http://arxiv.org/abs/2311.09642v1)|
 |**2023-11-15**|**Approaching adverse event detection utilizing transformers on clinical time-series**|Helge Fredriksen et.al.|[2311.09165v1](http://arxiv.org/abs/2311.09165v1)|
 |**2023-11-15**|**Estimation of the chances to find new phenomena at the LHC in a model-agnostic combinatorial analysis**|S. V. Chekanov et.al.|[2311.09012v1](http://arxiv.org/abs/2311.09012v1)|
-|**2023-11-14**|**Identifying Light-curve Signals with a Deep Learning Based Object Detection Algorithm. II. A General Light Curve Classification Framework**|Kaiming Cui et.al.|[2311.08080v1](http://arxiv.org/abs/2311.08080v1)|
-|**2023-11-14**|**VegaEdge: Edge AI Confluence Anomaly Detection for Real-Time Highway IoT-Applications**|Vinit Katariya et.al.|[2311.07880v1](http://arxiv.org/abs/2311.07880v1)|
-|**2023-11-13**|**Synchrophasor Data Anomaly Detection on Grid Edge by 5G Communication and Adjacent Compute**|Chuan Qin et.al.|[2311.07758v1](http://arxiv.org/abs/2311.07758v1)|
-|**2023-11-13**|**KnowSafe: Combined Knowledge and Data Driven Hazard Mitigation in Artificial Pancreas Systems**|Xugui Zhou et.al.|[2311.07460v1](http://arxiv.org/abs/2311.07460v1)|
 
 ## change detection
 
