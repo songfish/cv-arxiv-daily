@@ -56,7 +56,7 @@
 |**2023-11-16**|**TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection**|Matic Fučka et.al.|[2311.09999v1](http://arxiv.org/abs/2311.09999v1)|
 |**2023-11-16**|**Scan statistics for the detection of anomalies in M-dependent random fields with applications to image data**|Claudia Kirch et.al.|[2311.09961v1](http://arxiv.org/abs/2311.09961v1)|
 |**2023-11-16**|**Scoring Anomalous Vertices Through Quantum Walks**|Andrew Vlasic et.al.|[2311.09855v1](http://arxiv.org/abs/2311.09855v1)|
-|**2023-11-16**|**Weakly Supervised Anomaly Detection for Chest X-Ray Image**|Haoqi Ni et.al.|[2311.09642v1](http://arxiv.org/abs/2311.09642v1)|
+|**2023-11-16**|**Weakly Supervised Anomaly Detection for Chest X-Ray Image**|Haoqi Ni et.al.|[2311.09642v2](http://arxiv.org/abs/2311.09642v2)|
 |**2023-11-15**|**Approaching adverse event detection utilizing transformers on clinical time-series**|Helge Fredriksen et.al.|[2311.09165v1](http://arxiv.org/abs/2311.09165v1)|
 |**2023-11-15**|**Estimation of the chances to find new phenomena at the LHC in a model-agnostic combinatorial analysis**|S. V. Chekanov et.al.|[2311.09012v1](http://arxiv.org/abs/2311.09012v1)|
 
