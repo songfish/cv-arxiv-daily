@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-20**|**Abnormal traffic detection system in SDN based on deep learning hybrid models**|Kun Wang et.al.|[2311.11550v1](http://arxiv.org/abs/2311.11550v1)|
 |**2023-11-06**|**NEURO HAND: A weakly supervised Hierarchical Attention Network for neuroimaging abnormality Detection**|David A. Wood et.al.|[2311.02992v1](http://arxiv.org/abs/2311.02992v1)|
 |**2023-10-21**|**A multivariate Bayesian learning approach for improved detection of doping in athletes using urinary steroid profiles**|Dimitra Eleftheriou et.al.|[2310.13980v1](http://arxiv.org/abs/2310.13980v1)|
 |**2023-10-20**|**Identification of Abnormality in Maize Plants From UAV Images Using Deep Learning Approaches**|Aminul Huq et.al.|[2310.13201v1](http://arxiv.org/abs/2310.13201v1)|
@@ -43,27 +44,28 @@
 |**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v3](http://arxiv.org/abs/2308.16150v3)|
 |**2023-07-18**|**You've Got Two Teachers: Co-evolutionary Image and Report Distillation for Semi-supervised Anatomical Abnormality Detection in Chest X-ray**|Jinghan Sun et.al.|[2307.09184v1](http://arxiv.org/abs/2307.09184v1)|
 |**2023-06-12**|**In-context Cross-Density Adaptation on Noisy Mammogram Abnormalities Detection**|Huy T. Nguyen et.al.|[2306.06893v1](http://arxiv.org/abs/2306.06893v1)|
-|**2023-06-11**|**Learning Robust and Consistent Time Series Representations: A Dilated Inception-Based Approach**|Anh Duy Nguyen et.al.|[2306.06579v1](http://arxiv.org/abs/2306.06579v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-20**|**NNG-Mix: Improving Semi-supervised Anomaly Detection with Pseudo-anomaly Generation**|Hao Dong et.al.|[2311.11961v1](http://arxiv.org/abs/2311.11961v1)|
+|**2023-11-20**|**Correlated Attention in Transformers for Multivariate Time Series**|Quang Minh Nguyen et.al.|[2311.11959v1](http://arxiv.org/abs/2311.11959v1)|
+|**2023-11-20**|**Identifying the Defective: Detecting Damaged Grains for Cereal Appearance Inspection**|Lei Fan et.al.|[2311.11901v1](http://arxiv.org/abs/2311.11901v1)|
+|**2023-11-20**|**LogLead -- Fast and Integrated Log Loader, Enhancer, and Anomaly Detector**|Mika Mäntylä et.al.|[2311.11809v1](http://arxiv.org/abs/2311.11809v1)|
+|**2023-11-19**|**A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI**|Yuheng Fan et.al.|[2311.11383v1](http://arxiv.org/abs/2311.11383v1)|
+|**2023-11-19**|**Unraveling the `Anomaly' in Time Series Anomaly Detection: A Self-supervised Tri-domain Solution**|Yuting Sun et.al.|[2311.11235v1](http://arxiv.org/abs/2311.11235v1)|
+|**2023-11-18**|**SORTAD: Self-Supervised Optimized Random Transformations for Anomaly Detection in Tabular Data**|Guy Hay et.al.|[2311.11018v1](http://arxiv.org/abs/2311.11018v1)|
 |**2023-11-17**|**Maintenance Techniques for Anomaly Detection AIOps Solutions**|Lorena Poenaru-Olaru et.al.|[2311.10421v1](http://arxiv.org/abs/2311.10421v1)|
 |**2023-11-17**|**Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection**|Fan Xu et.al.|[2311.10370v1](http://arxiv.org/abs/2311.10370v1)|
 |**2023-11-17**|**Disruption Predictor Based on Convolutional Autoencoder and Its Cross-tokamak Deployment Strategy Study**|Xinkun Ai et.al.|[2311.10368v1](http://arxiv.org/abs/2311.10368v1)|
-|**2023-11-17**|**Surprisal Driven $k$-NN for Robust and Interpretable Nonparametric Learning**|Amartya Banerjee et.al.|[2311.10246v1](http://arxiv.org/abs/2311.10246v1)|
-|**2023-11-16**|**TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection**|Matic Fučka et.al.|[2311.09999v1](http://arxiv.org/abs/2311.09999v1)|
-|**2023-11-16**|**Scan statistics for the detection of anomalies in M-dependent random fields with applications to image data**|Claudia Kirch et.al.|[2311.09961v1](http://arxiv.org/abs/2311.09961v1)|
-|**2023-11-16**|**Scoring Anomalous Vertices Through Quantum Walks**|Andrew Vlasic et.al.|[2311.09855v1](http://arxiv.org/abs/2311.09855v1)|
-|**2023-11-16**|**Weakly Supervised Anomaly Detection for Chest X-Ray Image**|Haoqi Ni et.al.|[2311.09642v2](http://arxiv.org/abs/2311.09642v2)|
-|**2023-11-15**|**Approaching adverse event detection utilizing transformers on clinical time-series**|Helge Fredriksen et.al.|[2311.09165v1](http://arxiv.org/abs/2311.09165v1)|
-|**2023-11-15**|**Estimation of the chances to find new phenomena at the LHC in a model-agnostic combinatorial analysis**|S. V. Chekanov et.al.|[2311.09012v1](http://arxiv.org/abs/2311.09012v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-20**|**SeaDSC: A video-based unsupervised method for dynamic scene change detection in unmanned surface vehicles**|Linh Trinh et.al.|[2311.11580v1](http://arxiv.org/abs/2311.11580v1)|
+|**2023-11-19**|**Exchanging Dual Encoder-Decoder: A New Strategy for Change Detection with Semantic Guidance and Spatial Localization**|Sijie Zhao et.al.|[2311.11302v1](http://arxiv.org/abs/2311.11302v1)|
 |**2023-11-16**|**MS-Former: Memory-Supported Transformer for Weakly Supervised Change Detection with Patch-Level Annotations**|Zhenglai Li et.al.|[2311.09726v1](http://arxiv.org/abs/2311.09726v1)|
 |**2023-11-14**|**Explicit Change Relation Learning for Change Detection in VHR Remote Sensing Images**|Dalong Zheng et.al.|[2311.07993v1](http://arxiv.org/abs/2311.07993v1)|
 |**2023-11-13**|**SpectralGPT: Spectral Foundation Model**|Danfeng Hong et.al.|[2311.07113v1](http://arxiv.org/abs/2311.07113v1)|
@@ -72,6 +74,4 @@
 |**2023-11-07**|**Efficiently Detecting Performance Changes in FaaS Application Releases**|Martin Grambow et.al.|[2311.03889v1](http://arxiv.org/abs/2311.03889v1)|
 |**2023-11-07**|**Image change detection with only a few samples**|Ke Liu et.al.|[2311.03762v1](http://arxiv.org/abs/2311.03762v1)|
 |**2023-11-07**|**Unsupervised convolutional neural network fusion approach for change detection in remote sensing images**|Weidong Yan et.al.|[2311.03679v1](http://arxiv.org/abs/2311.03679v1)|
-|**2023-11-06**|**FLOGA: A machine learning ready dataset, a benchmark and a novel deep learning model for burnt area mapping with Sentinel-2**|Maria Sdraka et.al.|[2311.03339v1](http://arxiv.org/abs/2311.03339v1)|
-|**2023-11-06**|**TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**|Alexander Naumann et.al.|[2311.03124v1](http://arxiv.org/abs/2311.03124v1)|
 
