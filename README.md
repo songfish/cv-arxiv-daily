@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-21**|**Explainable Anomaly Detection using Masked Latent Generative Modeling**|Daesoo Lee et.al.|[2311.12550v1](http://arxiv.org/abs/2311.12550v1)|
+|**2023-11-20**|**Leveraging healthy population variability in deep learning unsupervised anomaly detection in brain FDG PET**|Maëlys Solal et.al.|[2311.12081v1](http://arxiv.org/abs/2311.12081v1)|
 |**2023-11-20**|**NNG-Mix: Improving Semi-supervised Anomaly Detection with Pseudo-anomaly Generation**|Hao Dong et.al.|[2311.11961v1](http://arxiv.org/abs/2311.11961v1)|
 |**2023-11-20**|**Correlated Attention in Transformers for Multivariate Time Series**|Quang Minh Nguyen et.al.|[2311.11959v1](http://arxiv.org/abs/2311.11959v1)|
 |**2023-11-20**|**Identifying the Defective: Detecting Damaged Grains for Cereal Appearance Inspection**|Lei Fan et.al.|[2311.11901v1](http://arxiv.org/abs/2311.11901v1)|
@@ -57,13 +59,12 @@
 |**2023-11-19**|**Unraveling the `Anomaly' in Time Series Anomaly Detection: A Self-supervised Tri-domain Solution**|Yuting Sun et.al.|[2311.11235v1](http://arxiv.org/abs/2311.11235v1)|
 |**2023-11-18**|**SORTAD: Self-Supervised Optimized Random Transformations for Anomaly Detection in Tabular Data**|Guy Hay et.al.|[2311.11018v1](http://arxiv.org/abs/2311.11018v1)|
 |**2023-11-17**|**Maintenance Techniques for Anomaly Detection AIOps Solutions**|Lorena Poenaru-Olaru et.al.|[2311.10421v1](http://arxiv.org/abs/2311.10421v1)|
-|**2023-11-17**|**Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection**|Fan Xu et.al.|[2311.10370v1](http://arxiv.org/abs/2311.10370v1)|
-|**2023-11-17**|**Disruption Predictor Based on Convolutional Autoencoder and Its Cross-tokamak Deployment Strategy Study**|Xinkun Ai et.al.|[2311.10368v1](http://arxiv.org/abs/2311.10368v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-20**|**PanBench: Towards High-Resolution and High-Performance Pansharpening**|Shiying Wang et.al.|[2311.12083v1](http://arxiv.org/abs/2311.12083v1)|
 |**2023-11-20**|**SeaDSC: A video-based unsupervised method for dynamic scene change detection in unmanned surface vehicles**|Linh Trinh et.al.|[2311.11580v1](http://arxiv.org/abs/2311.11580v1)|
 |**2023-11-19**|**Exchanging Dual Encoder-Decoder: A New Strategy for Change Detection with Semantic Guidance and Spatial Localization**|Sijie Zhao et.al.|[2311.11302v1](http://arxiv.org/abs/2311.11302v1)|
 |**2023-11-16**|**MS-Former: Memory-Supported Transformer for Weakly Supervised Change Detection with Patch-Level Annotations**|Zhenglai Li et.al.|[2311.09726v1](http://arxiv.org/abs/2311.09726v1)|
@@ -73,5 +74,4 @@
 |**2023-11-08**|**Effective Restoration of Source Knowledge in Continual Test Time Adaptation**|Fahim Faisal Niloy et.al.|[2311.04991v1](http://arxiv.org/abs/2311.04991v1)|
 |**2023-11-07**|**Efficiently Detecting Performance Changes in FaaS Application Releases**|Martin Grambow et.al.|[2311.03889v1](http://arxiv.org/abs/2311.03889v1)|
 |**2023-11-07**|**Image change detection with only a few samples**|Ke Liu et.al.|[2311.03762v1](http://arxiv.org/abs/2311.03762v1)|
-|**2023-11-07**|**Unsupervised convolutional neural network fusion approach for change detection in remote sensing images**|Weidong Yan et.al.|[2311.03679v1](http://arxiv.org/abs/2311.03679v1)|
 
