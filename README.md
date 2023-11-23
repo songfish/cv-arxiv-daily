@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-21**|**Non-resonant Anomaly Detection with Background Extrapolation**|Kehang Bai et.al.|[2311.12924v1](http://arxiv.org/abs/2311.12924v1)|
 |**2023-11-21**|**Explainable Anomaly Detection using Masked Latent Generative Modeling**|Daesoo Lee et.al.|[2311.12550v2](http://arxiv.org/abs/2311.12550v2)|
 |**2023-11-20**|**Leveraging healthy population variability in deep learning unsupervised anomaly detection in brain FDG PET**|Maëlys Solal et.al.|[2311.12081v1](http://arxiv.org/abs/2311.12081v1)|
 |**2023-11-20**|**NNG-Mix: Improving Semi-supervised Anomaly Detection with Pseudo-anomaly Generation**|Hao Dong et.al.|[2311.11961v1](http://arxiv.org/abs/2311.11961v1)|
@@ -58,7 +59,6 @@
 |**2023-11-19**|**A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI**|Yuheng Fan et.al.|[2311.11383v1](http://arxiv.org/abs/2311.11383v1)|
 |**2023-11-19**|**Unraveling the `Anomaly' in Time Series Anomaly Detection: A Self-supervised Tri-domain Solution**|Yuting Sun et.al.|[2311.11235v1](http://arxiv.org/abs/2311.11235v1)|
 |**2023-11-18**|**SORTAD: Self-Supervised Optimized Random Transformations for Anomaly Detection in Tabular Data**|Guy Hay et.al.|[2311.11018v1](http://arxiv.org/abs/2311.11018v1)|
-|**2023-11-17**|**Maintenance Techniques for Anomaly Detection AIOps Solutions**|Lorena Poenaru-Olaru et.al.|[2311.10421v1](http://arxiv.org/abs/2311.10421v1)|
 
 ## change detection
 
