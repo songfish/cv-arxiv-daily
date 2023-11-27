@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-23**|**Creating and Benchmarking a Synthetic Dataset for Cloud Optical Thickness Estimation**|Aleksis Pirinen et.al.|[2311.14024v1](http://arxiv.org/abs/2311.14024v1)|
 |**2023-09-05**|**Domain Adaptation for Satellite-Borne Hyperspectral Cloud Detection**|Andrew Du et.al.|[2309.02150v1](http://arxiv.org/abs/2309.02150v1)|
 |**2023-07-14**|**Cloud Detection in Multispectral Satellite Images Using Support Vector Machines With Quantum Kernels**|Artur Miroszewski et.al.|[2307.07281v1](http://arxiv.org/abs/2307.07281v1)|
 |**2023-06-26**|**Optimizing Kernel-Target Alignment for cloud detection in multispectral satellite images**|Artur Miroszewski et.al.|[2306.14515v1](http://arxiv.org/abs/2306.14515v1)|
@@ -28,7 +29,6 @@
 |**2023-05-23**|**Hierarchical Adaptive Voxel-guided Sampling for Real-time Applications in Large-scale Point Clouds**|Junyuan Ouyang et.al.|[2305.14306v1](http://arxiv.org/abs/2305.14306v1)|
 |**2023-04-13**|**Direct observations of the atomic-molecular phase transition in the Milky Way's nuclear wind**|Karlie A. Noon et.al.|[2304.06356v2](http://arxiv.org/abs/2304.06356v2)|
 |**2023-04-03**|**Open-Vocabulary Point-Cloud Object Detection without 3D Annotation**|Yuheng Lu et.al.|[2304.00788v2](http://arxiv.org/abs/2304.00788v2)|
-|**2023-02-16**|**Detecting Clouds in Multispectral Satellite Images Using Quantum-Kernel Support Vector Machines**|Artur Miroszewski et.al.|[2302.08270v1](http://arxiv.org/abs/2302.08270v1)|
 
 ## abnormal detection
 
@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-24**|**The Westermo test system performance data set**|Per Erik Strandberg et.al.|[2311.14510v1](http://arxiv.org/abs/2311.14510v1)|
+|**2023-11-24**|**Multi-Class Anomaly Detection based on Regularized Discriminative Coupled hypersphere-based Feature Adaptation**|Mehdi Rafiei et.al.|[2311.14506v1](http://arxiv.org/abs/2311.14506v1)|
+|**2023-11-24**|**RTPS Attack Dataset Description**|Dong Young Kim et.al.|[2311.14496v1](http://arxiv.org/abs/2311.14496v1)|
+|**2023-11-24**|**Fault Detection in Telecom Networks using Bi-level Federated Graph Neural Networks**|R. Bourgerie et.al.|[2311.14469v1](http://arxiv.org/abs/2311.14469v1)|
+|**2023-11-23**|**Enabling Unsupervised Discovery in Astronomical Images through Self-Supervised Representations**|Koketso Mohale et.al.|[2311.14157v1](http://arxiv.org/abs/2311.14157v1)|
+|**2023-11-23**|**Video Anomaly Detection using GAN**|Anikeit Sethi et.al.|[2311.14095v1](http://arxiv.org/abs/2311.14095v1)|
 |**2023-11-21**|**Non-resonant Anomaly Detection with Background Extrapolation**|Kehang Bai et.al.|[2311.12924v1](http://arxiv.org/abs/2311.12924v1)|
 |**2023-11-21**|**Explainable Anomaly Detection using Masked Latent Generative Modeling**|Daesoo Lee et.al.|[2311.12550v2](http://arxiv.org/abs/2311.12550v2)|
-|**2023-11-20**|**Leveraging healthy population variability in deep learning unsupervised anomaly detection in brain FDG PET**|Maëlys Solal et.al.|[2311.12081v1](http://arxiv.org/abs/2311.12081v1)|
 |**2023-11-20**|**NNG-Mix: Improving Semi-supervised Anomaly Detection with Pseudo-anomaly Generation**|Hao Dong et.al.|[2311.11961v1](http://arxiv.org/abs/2311.11961v1)|
 |**2023-11-20**|**Correlated Attention in Transformers for Multivariate Time Series**|Quang Minh Nguyen et.al.|[2311.11959v1](http://arxiv.org/abs/2311.11959v1)|
-|**2023-11-20**|**Identifying the Defective: Detecting Damaged Grains for Cereal Appearance Inspection**|Lei Fan et.al.|[2311.11901v1](http://arxiv.org/abs/2311.11901v1)|
-|**2023-11-20**|**LogLead -- Fast and Integrated Log Loader, Enhancer, and Anomaly Detector**|Mika Mäntylä et.al.|[2311.11809v1](http://arxiv.org/abs/2311.11809v1)|
-|**2023-11-19**|**A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI**|Yuheng Fan et.al.|[2311.11383v1](http://arxiv.org/abs/2311.11383v1)|
-|**2023-11-19**|**Unraveling the `Anomaly' in Time Series Anomaly Detection: A Self-supervised Tri-domain Solution**|Yuting Sun et.al.|[2311.11235v1](http://arxiv.org/abs/2311.11235v1)|
-|**2023-11-18**|**SORTAD: Self-Supervised Optimized Random Transformations for Anomaly Detection in Tabular Data**|Guy Hay et.al.|[2311.11018v1](http://arxiv.org/abs/2311.11018v1)|
 
 ## change detection
 
