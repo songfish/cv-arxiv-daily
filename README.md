@@ -4,7 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-11-16**|**Redefining Super-Resolution: Fine-mesh PDE predictions without classical simulations**|Rajat Kumar Sarkar et.al.|[2311.09740v2](http://arxiv.org/abs/2311.09740v2)|
+|**2023-11-16**|**Redefining Super-Resolution: Fine-mesh PDE predictions without classical simulations**|Rajat Kumar Sarkar et.al.|[2311.09740v3](http://arxiv.org/abs/2311.09740v3)|
 |**2023-09-09**|**Towards Real-World Burst Image Super-Resolution: Benchmark and Method**|Pengxu Wei et.al.|[2309.04803v1](http://arxiv.org/abs/2309.04803v1)|
 |**2023-06-15**|**Deep learning techniques for blind image super-resolution: A high-scale multi-domain perspective evaluation**|Valdivino Alexandre de Santiago Júnior et.al.|[2306.09426v1](http://arxiv.org/abs/2306.09426v1)|
 |**2023-05-08**|**Compressed Video Quality Assessment for Super-Resolution: a Benchmark and a Quality Metric**|Evgeney Bogatyrev et.al.|[2305.04844v1](http://arxiv.org/abs/2305.04844v1)|
@@ -51,7 +51,7 @@
 |---|---|---|---|
 |**2023-11-24**|**The Westermo test system performance data set**|Per Erik Strandberg et.al.|[2311.14510v1](http://arxiv.org/abs/2311.14510v1)|
 |**2023-11-24**|**Multi-Class Anomaly Detection based on Regularized Discriminative Coupled hypersphere-based Feature Adaptation**|Mehdi Rafiei et.al.|[2311.14506v1](http://arxiv.org/abs/2311.14506v1)|
-|**2023-11-24**|**RTPS Attack Dataset Description**|Dong Young Kim et.al.|[2311.14496v1](http://arxiv.org/abs/2311.14496v1)|
+|**2023-11-24**|**RTPS Attack Dataset Description**|Dong Young Kim et.al.|[2311.14496v2](http://arxiv.org/abs/2311.14496v2)|
 |**2023-11-24**|**Fault Detection in Telecom Networks using Bi-level Federated Graph Neural Networks**|R. Bourgerie et.al.|[2311.14469v1](http://arxiv.org/abs/2311.14469v1)|
 |**2023-11-23**|**Enabling Unsupervised Discovery in Astronomical Images through Self-Supervised Representations**|Koketso Mohale et.al.|[2311.14157v1](http://arxiv.org/abs/2311.14157v1)|
 |**2023-11-23**|**Video Anomaly Detection using GAN**|Anikeit Sethi et.al.|[2311.14095v1](http://arxiv.org/abs/2311.14095v1)|
@@ -69,7 +69,7 @@
 |**2023-11-19**|**Exchanging Dual Encoder-Decoder: A New Strategy for Change Detection with Semantic Guidance and Spatial Localization**|Sijie Zhao et.al.|[2311.11302v1](http://arxiv.org/abs/2311.11302v1)|
 |**2023-11-16**|**MS-Former: Memory-Supported Transformer for Weakly Supervised Change Detection with Patch-Level Annotations**|Zhenglai Li et.al.|[2311.09726v1](http://arxiv.org/abs/2311.09726v1)|
 |**2023-11-14**|**Explicit Change Relation Learning for Change Detection in VHR Remote Sensing Images**|Dalong Zheng et.al.|[2311.07993v1](http://arxiv.org/abs/2311.07993v1)|
-|**2023-11-13**|**SpectralGPT: Spectral Foundation Model**|Danfeng Hong et.al.|[2311.07113v1](http://arxiv.org/abs/2311.07113v1)|
+|**2023-11-13**|**SpectralGPT: Spectral Foundation Model**|Danfeng Hong et.al.|[2311.07113v2](http://arxiv.org/abs/2311.07113v2)|
 |**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222v1](http://arxiv.org/abs/2311.06222v1)|
 |**2023-11-08**|**Effective Restoration of Source Knowledge in Continual Test Time Adaptation**|Fahim Faisal Niloy et.al.|[2311.04991v1](http://arxiv.org/abs/2311.04991v1)|
 |**2023-11-07**|**Efficiently Detecting Performance Changes in FaaS Application Releases**|Martin Grambow et.al.|[2311.03889v1](http://arxiv.org/abs/2311.03889v1)|
