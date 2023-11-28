@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-27**|**Diagnosis driven Anomaly Detection for CPS**|Henrik S. Steude et.al.|[2311.15924v1](http://arxiv.org/abs/2311.15924v1)|
+|**2023-11-26**|**DISYRE: Diffusion-Inspired SYnthetic REstoration for Unsupervised Anomaly Detection**|Sergio Naval Marimont et.al.|[2311.15453v1](http://arxiv.org/abs/2311.15453v1)|
+|**2023-11-26**|**BatchNorm-based Weakly Supervised Video Anomaly Detection**|Yixuan Zhou et.al.|[2311.15367v1](http://arxiv.org/abs/2311.15367v1)|
+|**2023-11-26**|**OpenPerf: A Benchmarking Framework for the Sustainable Development of the Open-Source Ecosystem**|Fenglin Bi et.al.|[2311.15212v1](http://arxiv.org/abs/2311.15212v1)|
+|**2023-11-25**|**Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network**|Wenqiao Li et.al.|[2311.14897v1](http://arxiv.org/abs/2311.14897v1)|
+|**2023-11-24**|**One Fits All: Universal Time Series Analysis by Pretrained LM and Specially Designed Adaptors**|Tian Zhou et.al.|[2311.14782v1](http://arxiv.org/abs/2311.14782v1)|
+|**2023-11-24**|**Anomaly detection in cross-country money transfer temporal networks**|Salvatore Vilella et.al.|[2311.14778v1](http://arxiv.org/abs/2311.14778v1)|
 |**2023-11-24**|**The Westermo test system performance data set**|Per Erik Strandberg et.al.|[2311.14510v1](http://arxiv.org/abs/2311.14510v1)|
 |**2023-11-24**|**Multi-Class Anomaly Detection based on Regularized Discriminative Coupled hypersphere-based Feature Adaptation**|Mehdi Rafiei et.al.|[2311.14506v1](http://arxiv.org/abs/2311.14506v1)|
 |**2023-11-24**|**RTPS Attack Dataset Description**|Dong Young Kim et.al.|[2311.14496v2](http://arxiv.org/abs/2311.14496v2)|
-|**2023-11-24**|**Fault Detection in Telecom Networks using Bi-level Federated Graph Neural Networks**|R. Bourgerie et.al.|[2311.14469v1](http://arxiv.org/abs/2311.14469v1)|
-|**2023-11-23**|**Enabling Unsupervised Discovery in Astronomical Images through Self-Supervised Representations**|Koketso Mohale et.al.|[2311.14157v1](http://arxiv.org/abs/2311.14157v1)|
-|**2023-11-23**|**Video Anomaly Detection using GAN**|Anikeit Sethi et.al.|[2311.14095v1](http://arxiv.org/abs/2311.14095v1)|
-|**2023-11-21**|**Non-resonant Anomaly Detection with Background Extrapolation**|Kehang Bai et.al.|[2311.12924v1](http://arxiv.org/abs/2311.12924v1)|
-|**2023-11-21**|**Explainable Anomaly Detection using Masked Latent Generative Modeling**|Daesoo Lee et.al.|[2311.12550v2](http://arxiv.org/abs/2311.12550v2)|
-|**2023-11-20**|**NNG-Mix: Improving Semi-supervised Anomaly Detection with Pseudo-anomaly Generation**|Hao Dong et.al.|[2311.11961v1](http://arxiv.org/abs/2311.11961v1)|
-|**2023-11-20**|**Correlated Attention in Transformers for Multivariate Time Series**|Quang Minh Nguyen et.al.|[2311.11959v1](http://arxiv.org/abs/2311.11959v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-25**|**Quickest Change Detection with Post-Change Density Estimation**|Yuchen Liang et.al.|[2311.15128v1](http://arxiv.org/abs/2311.15128v1)|
 |**2023-11-20**|**PanBench: Towards High-Resolution and High-Performance Pansharpening**|Shiying Wang et.al.|[2311.12083v1](http://arxiv.org/abs/2311.12083v1)|
 |**2023-11-20**|**SeaDSC: A video-based unsupervised method for dynamic scene change detection in unmanned surface vehicles**|Linh Trinh et.al.|[2311.11580v1](http://arxiv.org/abs/2311.11580v1)|
 |**2023-11-19**|**Exchanging Dual Encoder-Decoder: A New Strategy for Change Detection with Semantic Guidance and Spatial Localization**|Sijie Zhao et.al.|[2311.11302v1](http://arxiv.org/abs/2311.11302v1)|
@@ -73,5 +74,4 @@
 |**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222v1](http://arxiv.org/abs/2311.06222v1)|
 |**2023-11-08**|**Effective Restoration of Source Knowledge in Continual Test Time Adaptation**|Fahim Faisal Niloy et.al.|[2311.04991v1](http://arxiv.org/abs/2311.04991v1)|
 |**2023-11-07**|**Efficiently Detecting Performance Changes in FaaS Application Releases**|Martin Grambow et.al.|[2311.03889v1](http://arxiv.org/abs/2311.03889v1)|
-|**2023-11-07**|**Image change detection with only a few samples**|Ke Liu et.al.|[2311.03762v1](http://arxiv.org/abs/2311.03762v1)|
 
