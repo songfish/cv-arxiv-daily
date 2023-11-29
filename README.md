@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-28**|**Super-Resolution through StyleGAN Regularized Latent Search: A Realism-Fidelity Trade-off**|Marzieh Gheisari et.al.|[2311.16923v1](http://arxiv.org/abs/2311.16923v1)|
 |**2023-11-16**|**Redefining Super-Resolution: Fine-mesh PDE predictions without classical simulations**|Rajat Kumar Sarkar et.al.|[2311.09740v3](http://arxiv.org/abs/2311.09740v3)|
 |**2023-09-09**|**Towards Real-World Burst Image Super-Resolution: Benchmark and Method**|Pengxu Wei et.al.|[2309.04803v1](http://arxiv.org/abs/2309.04803v1)|
 |**2023-06-15**|**Deep learning techniques for blind image super-resolution: A high-scale multi-domain perspective evaluation**|Valdivino Alexandre de Santiago Júnior et.al.|[2306.09426v1](http://arxiv.org/abs/2306.09426v1)|
@@ -13,7 +14,6 @@
 |**2023-03-09**|**LMR: A Large-Scale Multi-Reference Dataset for Reference-based Super-Resolution**|Lin Zhang et.al.|[2303.04970v1](http://arxiv.org/abs/2303.04970v1)|
 |**2023-03-06**|**Combination of Single and Multi-frame Image Super-resolution: An Analytical Perspective**|Mohammad Mahdi Afrasiabi et.al.|[2303.03212v1](http://arxiv.org/abs/2303.03212v1)|
 |**2023-02-19**|**Guided Depth Map Super-resolution: A Survey**|Zhiwei Zhong et.al.|[2302.09598v2](http://arxiv.org/abs/2302.09598v2)|
-|**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v2](http://arxiv.org/abs/2212.12322v2)|
 
 ## cloud detection
 
@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-28**|**Searching for gluon quartic gauge couplings at muon colliders using the auto-encoder**|Yu-Ting Zhang et.al.|[2311.16627v1](http://arxiv.org/abs/2311.16627v1)|
+|**2023-11-27**|**Video Anomaly Detection via Spatio-Temporal Pseudo-Anomaly Generation : A Unified Approach**|Ayush K. Rai et.al.|[2311.16514v1](http://arxiv.org/abs/2311.16514v1)|
+|**2023-11-26**|**MACE: A Multi-pattern Accommodated and Efficient Anomaly Detection Method in the Frequency Domain**|Feiyi Chen et.al.|[2311.16191v1](http://arxiv.org/abs/2311.16191v1)|
 |**2023-11-27**|**Diagnosis driven Anomaly Detection for CPS**|Henrik S. Steude et.al.|[2311.15924v1](http://arxiv.org/abs/2311.15924v1)|
 |**2023-11-26**|**DISYRE: Diffusion-Inspired SYnthetic REstoration for Unsupervised Anomaly Detection**|Sergio Naval Marimont et.al.|[2311.15453v1](http://arxiv.org/abs/2311.15453v1)|
 |**2023-11-26**|**BatchNorm-based Weakly Supervised Video Anomaly Detection**|Yixuan Zhou et.al.|[2311.15367v1](http://arxiv.org/abs/2311.15367v1)|
@@ -56,9 +59,6 @@
 |**2023-11-25**|**Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network**|Wenqiao Li et.al.|[2311.14897v1](http://arxiv.org/abs/2311.14897v1)|
 |**2023-11-24**|**One Fits All: Universal Time Series Analysis by Pretrained LM and Specially Designed Adaptors**|Tian Zhou et.al.|[2311.14782v1](http://arxiv.org/abs/2311.14782v1)|
 |**2023-11-24**|**Anomaly detection in cross-country money transfer temporal networks**|Salvatore Vilella et.al.|[2311.14778v1](http://arxiv.org/abs/2311.14778v1)|
-|**2023-11-24**|**The Westermo test system performance data set**|Per Erik Strandberg et.al.|[2311.14510v1](http://arxiv.org/abs/2311.14510v1)|
-|**2023-11-24**|**Multi-Class Anomaly Detection based on Regularized Discriminative Coupled hypersphere-based Feature Adaptation**|Mehdi Rafiei et.al.|[2311.14506v1](http://arxiv.org/abs/2311.14506v1)|
-|**2023-11-24**|**RTPS Attack Dataset Description**|Dong Young Kim et.al.|[2311.14496v2](http://arxiv.org/abs/2311.14496v2)|
 
 ## change detection
 
