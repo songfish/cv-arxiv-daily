@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-29**|**CLiSA: A Hierarchical Hybrid Transformer Model using Orthogonal Cross Attention for Satellite Image Cloud Segmentation**|Subhajit Paul et.al.|[2311.17475v1](http://arxiv.org/abs/2311.17475v1)|
 |**2023-11-23**|**Creating and Benchmarking a Synthetic Dataset for Cloud Optical Thickness Estimation**|Aleksis Pirinen et.al.|[2311.14024v1](http://arxiv.org/abs/2311.14024v1)|
 |**2023-09-05**|**Domain Adaptation for Satellite-Borne Hyperspectral Cloud Detection**|Andrew Du et.al.|[2309.02150v1](http://arxiv.org/abs/2309.02150v1)|
 |**2023-07-14**|**Cloud Detection in Multispectral Satellite Images Using Support Vector Machines With Quantum Kernels**|Artur Miroszewski et.al.|[2307.07281v1](http://arxiv.org/abs/2307.07281v1)|
@@ -28,7 +29,6 @@
 |**2023-06-12**|**CD-CTFM: A Lightweight CNN-Transformer Network for Remote Sensing Cloud Detection Fusing Multiscale Features**|Wenxuan Ge et.al.|[2306.07186v1](http://arxiv.org/abs/2306.07186v1)|
 |**2023-05-23**|**Hierarchical Adaptive Voxel-guided Sampling for Real-time Applications in Large-scale Point Clouds**|Junyuan Ouyang et.al.|[2305.14306v1](http://arxiv.org/abs/2305.14306v1)|
 |**2023-04-13**|**Direct observations of the atomic-molecular phase transition in the Milky Way's nuclear wind**|Karlie A. Noon et.al.|[2304.06356v2](http://arxiv.org/abs/2304.06356v2)|
-|**2023-04-03**|**Open-Vocabulary Point-Cloud Object Detection without 3D Annotation**|Yuheng Lu et.al.|[2304.00788v2](http://arxiv.org/abs/2304.00788v2)|
 
 ## abnormal detection
 
@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-29**|**Network characteristics of financial networks**|M. Boersma et.al.|[2311.17567v1](http://arxiv.org/abs/2311.17567v1)|
+|**2023-11-28**|**Fast Particle-based Anomaly Detection Algorithm with Variational Autoencoder**|Ryan Liu et.al.|[2311.17162v1](http://arxiv.org/abs/2311.17162v1)|
+|**2023-11-28**|**Anonymous Jamming Detection in 5G with Bayesian Network Model Based Inference Analysis**|Ying Wang et.al.|[2311.17097v1](http://arxiv.org/abs/2311.17097v1)|
 |**2023-11-28**|**Searching for gluon quartic gauge couplings at muon colliders using the auto-encoder**|Yu-Ting Zhang et.al.|[2311.16627v1](http://arxiv.org/abs/2311.16627v1)|
 |**2023-11-27**|**Video Anomaly Detection via Spatio-Temporal Pseudo-Anomaly Generation : A Unified Approach**|Ayush K. Rai et.al.|[2311.16514v1](http://arxiv.org/abs/2311.16514v1)|
 |**2023-11-26**|**MACE: A Multi-pattern Accommodated and Efficient Anomaly Detection Method in the Frequency Domain**|Feiyi Chen et.al.|[2311.16191v1](http://arxiv.org/abs/2311.16191v1)|
@@ -56,9 +59,6 @@
 |**2023-11-26**|**DISYRE: Diffusion-Inspired SYnthetic REstoration for Unsupervised Anomaly Detection**|Sergio Naval Marimont et.al.|[2311.15453v1](http://arxiv.org/abs/2311.15453v1)|
 |**2023-11-26**|**BatchNorm-based Weakly Supervised Video Anomaly Detection**|Yixuan Zhou et.al.|[2311.15367v1](http://arxiv.org/abs/2311.15367v1)|
 |**2023-11-26**|**OpenPerf: A Benchmarking Framework for the Sustainable Development of the Open-Source Ecosystem**|Fenglin Bi et.al.|[2311.15212v1](http://arxiv.org/abs/2311.15212v1)|
-|**2023-11-25**|**Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network**|Wenqiao Li et.al.|[2311.14897v2](http://arxiv.org/abs/2311.14897v2)|
-|**2023-11-24**|**One Fits All: Universal Time Series Analysis by Pretrained LM and Specially Designed Adaptors**|Tian Zhou et.al.|[2311.14782v1](http://arxiv.org/abs/2311.14782v1)|
-|**2023-11-24**|**Anomaly detection in cross-country money transfer temporal networks**|Salvatore Vilella et.al.|[2311.14778v1](http://arxiv.org/abs/2311.14778v1)|
 
 ## change detection
 
