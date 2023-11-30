@@ -56,7 +56,7 @@
 |**2023-11-26**|**DISYRE: Diffusion-Inspired SYnthetic REstoration for Unsupervised Anomaly Detection**|Sergio Naval Marimont et.al.|[2311.15453v1](http://arxiv.org/abs/2311.15453v1)|
 |**2023-11-26**|**BatchNorm-based Weakly Supervised Video Anomaly Detection**|Yixuan Zhou et.al.|[2311.15367v1](http://arxiv.org/abs/2311.15367v1)|
 |**2023-11-26**|**OpenPerf: A Benchmarking Framework for the Sustainable Development of the Open-Source Ecosystem**|Fenglin Bi et.al.|[2311.15212v1](http://arxiv.org/abs/2311.15212v1)|
-|**2023-11-25**|**Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network**|Wenqiao Li et.al.|[2311.14897v1](http://arxiv.org/abs/2311.14897v1)|
+|**2023-11-25**|**Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network**|Wenqiao Li et.al.|[2311.14897v2](http://arxiv.org/abs/2311.14897v2)|
 |**2023-11-24**|**One Fits All: Universal Time Series Analysis by Pretrained LM and Specially Designed Adaptors**|Tian Zhou et.al.|[2311.14782v1](http://arxiv.org/abs/2311.14782v1)|
 |**2023-11-24**|**Anomaly detection in cross-country money transfer temporal networks**|Salvatore Vilella et.al.|[2311.14778v1](http://arxiv.org/abs/2311.14778v1)|
 
