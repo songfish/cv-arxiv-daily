@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-30**|**Multilevel Saliency-Guided Self-Supervised Learning for Image Anomaly Detection**|Jianjian Qin et.al.|[2311.18332v1](http://arxiv.org/abs/2311.18332v1)|
+|**2023-11-29**|**TransNAS-TSAD: Harnessing Transformers for Multi-Objective Neural Architecture Search in Time Series Anomaly Detection**|Ijaz Ul Haq et.al.|[2311.18061v1](http://arxiv.org/abs/2311.18061v1)|
+|**2023-11-28**|**Diagnostics Algorithms in Nuclear Plant Cyber Attack Analysis Toolkit**|Japan K. Patel et.al.|[2311.17936v1](http://arxiv.org/abs/2311.17936v1)|
 |**2023-11-29**|**Network characteristics of financial networks**|M. Boersma et.al.|[2311.17567v1](http://arxiv.org/abs/2311.17567v1)|
 |**2023-11-28**|**Fast Particle-based Anomaly Detection Algorithm with Variational Autoencoder**|Ryan Liu et.al.|[2311.17162v1](http://arxiv.org/abs/2311.17162v1)|
 |**2023-11-28**|**Anonymous Jamming Detection in 5G with Bayesian Network Model Based Inference Analysis**|Ying Wang et.al.|[2311.17097v1](http://arxiv.org/abs/2311.17097v1)|
 |**2023-11-28**|**Searching for gluon quartic gauge couplings at muon colliders using the auto-encoder**|Yu-Ting Zhang et.al.|[2311.16627v1](http://arxiv.org/abs/2311.16627v1)|
 |**2023-11-27**|**Video Anomaly Detection via Spatio-Temporal Pseudo-Anomaly Generation : A Unified Approach**|Ayush K. Rai et.al.|[2311.16514v1](http://arxiv.org/abs/2311.16514v1)|
-|**2023-11-26**|**MACE: A Multi-pattern Accommodated and Efficient Anomaly Detection Method in the Frequency Domain**|Feiyi Chen et.al.|[2311.16191v1](http://arxiv.org/abs/2311.16191v1)|
 |**2023-11-27**|**Diagnosis driven Anomaly Detection for CPS**|Henrik S. Steude et.al.|[2311.15924v1](http://arxiv.org/abs/2311.15924v1)|
 |**2023-11-26**|**DISYRE: Diffusion-Inspired SYnthetic REstoration for Unsupervised Anomaly Detection**|Sergio Naval Marimont et.al.|[2311.15453v1](http://arxiv.org/abs/2311.15453v1)|
-|**2023-11-26**|**BatchNorm-based Weakly Supervised Video Anomaly Detection**|Yixuan Zhou et.al.|[2311.15367v1](http://arxiv.org/abs/2311.15367v1)|
-|**2023-11-26**|**OpenPerf: A Benchmarking Framework for the Sustainable Development of the Open-Source Ecosystem**|Fenglin Bi et.al.|[2311.15212v1](http://arxiv.org/abs/2311.15212v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-30**|**Balancing Summarization and Change Detection in Graph Streams**|Shintaro Fukushima et.al.|[2311.18694v1](http://arxiv.org/abs/2311.18694v1)|
 |**2023-11-25**|**Quickest Change Detection with Post-Change Density Estimation**|Yuchen Liang et.al.|[2311.15128v1](http://arxiv.org/abs/2311.15128v1)|
 |**2023-11-20**|**PanBench: Towards High-Resolution and High-Performance Pansharpening**|Shiying Wang et.al.|[2311.12083v1](http://arxiv.org/abs/2311.12083v1)|
 |**2023-11-20**|**SeaDSC: A video-based unsupervised method for dynamic scene change detection in unmanned surface vehicles**|Linh Trinh et.al.|[2311.11580v1](http://arxiv.org/abs/2311.11580v1)|
@@ -73,5 +74,4 @@
 |**2023-11-13**|**SpectralGPT: Spectral Foundation Model**|Danfeng Hong et.al.|[2311.07113v2](http://arxiv.org/abs/2311.07113v2)|
 |**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222v1](http://arxiv.org/abs/2311.06222v1)|
 |**2023-11-08**|**Effective Restoration of Source Knowledge in Continual Test Time Adaptation**|Fahim Faisal Niloy et.al.|[2311.04991v1](http://arxiv.org/abs/2311.04991v1)|
-|**2023-11-07**|**Efficiently Detecting Performance Changes in FaaS Application Releases**|Martin Grambow et.al.|[2311.03889v1](http://arxiv.org/abs/2311.03889v1)|
 
