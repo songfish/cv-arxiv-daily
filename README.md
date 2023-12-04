@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-11-30**|**Unsupervised textile defect detection using convolutional neural networks**|Imane Koulali et.al.|[2312.00224v1](http://arxiv.org/abs/2312.00224v1)|
+|**2023-11-30**|**Anomaly Detection in Collider Physics via Factorized Observables**|Eric M. Metodiev et.al.|[2312.00119v1](http://arxiv.org/abs/2312.00119v1)|
+|**2023-11-30**|**Anomaly Detection via Learning-Based Sequential Controlled Sensing**|Geethu Joseph et.al.|[2312.00088v1](http://arxiv.org/abs/2312.00088v1)|
 |**2023-11-30**|**Multilevel Saliency-Guided Self-Supervised Learning for Image Anomaly Detection**|Jianjian Qin et.al.|[2311.18332v1](http://arxiv.org/abs/2311.18332v1)|
 |**2023-11-29**|**TransNAS-TSAD: Harnessing Transformers for Multi-Objective Neural Architecture Search in Time Series Anomaly Detection**|Ijaz Ul Haq et.al.|[2311.18061v1](http://arxiv.org/abs/2311.18061v1)|
 |**2023-11-28**|**Diagnostics Algorithms in Nuclear Plant Cyber Attack Analysis Toolkit**|Japan K. Patel et.al.|[2311.17936v1](http://arxiv.org/abs/2311.17936v1)|
@@ -56,9 +59,6 @@
 |**2023-11-28**|**Fast Particle-based Anomaly Detection Algorithm with Variational Autoencoder**|Ryan Liu et.al.|[2311.17162v1](http://arxiv.org/abs/2311.17162v1)|
 |**2023-11-28**|**Anonymous Jamming Detection in 5G with Bayesian Network Model Based Inference Analysis**|Ying Wang et.al.|[2311.17097v1](http://arxiv.org/abs/2311.17097v1)|
 |**2023-11-28**|**Searching for gluon quartic gauge couplings at muon colliders using the auto-encoder**|Yu-Ting Zhang et.al.|[2311.16627v1](http://arxiv.org/abs/2311.16627v1)|
-|**2023-11-27**|**Video Anomaly Detection via Spatio-Temporal Pseudo-Anomaly Generation : A Unified Approach**|Ayush K. Rai et.al.|[2311.16514v1](http://arxiv.org/abs/2311.16514v1)|
-|**2023-11-27**|**Diagnosis driven Anomaly Detection for CPS**|Henrik S. Steude et.al.|[2311.15924v1](http://arxiv.org/abs/2311.15924v1)|
-|**2023-11-26**|**DISYRE: Diffusion-Inspired SYnthetic REstoration for Unsupervised Anomaly Detection**|Sergio Naval Marimont et.al.|[2311.15453v1](http://arxiv.org/abs/2311.15453v1)|
 
 ## change detection
 
