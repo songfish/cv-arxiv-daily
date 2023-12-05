@@ -53,7 +53,7 @@
 |**2023-11-30**|**Anomaly Detection in Collider Physics via Factorized Observables**|Eric M. Metodiev et.al.|[2312.00119v1](http://arxiv.org/abs/2312.00119v1)|
 |**2023-11-30**|**Anomaly Detection via Learning-Based Sequential Controlled Sensing**|Geethu Joseph et.al.|[2312.00088v1](http://arxiv.org/abs/2312.00088v1)|
 |**2023-11-30**|**Multilevel Saliency-Guided Self-Supervised Learning for Image Anomaly Detection**|Jianjian Qin et.al.|[2311.18332v1](http://arxiv.org/abs/2311.18332v1)|
-|**2023-11-29**|**TransNAS-TSAD: Harnessing Transformers for Multi-Objective Neural Architecture Search in Time Series Anomaly Detection**|Ijaz Ul Haq et.al.|[2311.18061v1](http://arxiv.org/abs/2311.18061v1)|
+|**2023-11-29**|**TransNAS-TSAD: Harnessing Transformers for Multi-Objective Neural Architecture Search in Time Series Anomaly Detection**|Ijaz Ul Haq et.al.|[2311.18061v2](http://arxiv.org/abs/2311.18061v2)|
 |**2023-11-28**|**Diagnostics Algorithms in Nuclear Plant Cyber Attack Analysis Toolkit**|Japan K. Patel et.al.|[2311.17936v1](http://arxiv.org/abs/2311.17936v1)|
 |**2023-11-29**|**Network characteristics of financial networks**|M. Boersma et.al.|[2311.17567v1](http://arxiv.org/abs/2311.17567v1)|
 |**2023-11-28**|**Fast Particle-based Anomaly Detection Algorithm with Variational Autoencoder**|Ryan Liu et.al.|[2311.17162v1](http://arxiv.org/abs/2311.17162v1)|
