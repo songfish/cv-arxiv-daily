@@ -49,21 +49,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-11-30**|**Unsupervised textile defect detection using convolutional neural networks**|Imane Koulali et.al.|[2312.00224v1](http://arxiv.org/abs/2312.00224v1)|
-|**2023-11-30**|**Anomaly Detection in Collider Physics via Factorized Observables**|Eric M. Metodiev et.al.|[2312.00119v1](http://arxiv.org/abs/2312.00119v1)|
-|**2023-11-30**|**Anomaly Detection via Learning-Based Sequential Controlled Sensing**|Geethu Joseph et.al.|[2312.00088v1](http://arxiv.org/abs/2312.00088v1)|
-|**2023-11-30**|**Multilevel Saliency-Guided Self-Supervised Learning for Image Anomaly Detection**|Jianjian Qin et.al.|[2311.18332v1](http://arxiv.org/abs/2311.18332v1)|
-|**2023-11-29**|**TransNAS-TSAD: Harnessing Transformers for Multi-Objective Neural Architecture Search in Time Series Anomaly Detection**|Ijaz Ul Haq et.al.|[2311.18061v2](http://arxiv.org/abs/2311.18061v2)|
-|**2023-11-28**|**Diagnostics Algorithms in Nuclear Plant Cyber Attack Analysis Toolkit**|Japan K. Patel et.al.|[2311.17936v1](http://arxiv.org/abs/2311.17936v1)|
-|**2023-11-29**|**Network characteristics of financial networks**|M. Boersma et.al.|[2311.17567v1](http://arxiv.org/abs/2311.17567v1)|
-|**2023-11-28**|**Fast Particle-based Anomaly Detection Algorithm with Variational Autoencoder**|Ryan Liu et.al.|[2311.17162v1](http://arxiv.org/abs/2311.17162v1)|
-|**2023-11-28**|**Anonymous Jamming Detection in 5G with Bayesian Network Model Based Inference Analysis**|Ying Wang et.al.|[2311.17097v1](http://arxiv.org/abs/2311.17097v1)|
-|**2023-11-28**|**Searching for gluon quartic gauge couplings at muon colliders using the auto-encoder**|Yu-Ting Zhang et.al.|[2311.16627v1](http://arxiv.org/abs/2311.16627v1)|
+|**2023-12-04**|**Integrating AI into CCTV Systems: A Comprehensive Evaluation of Smart Video Surveillance in Community Space**|Shanle Yao et.al.|[2312.02078v1](http://arxiv.org/abs/2312.02078v1)|
+|**2023-12-04**|**FDR Control for Online Anomaly Detection**|Etienne Krönert et.al.|[2312.01969v1](http://arxiv.org/abs/2312.01969v1)|
+|**2023-12-04**|**Efficiency of Unsupervised Anomaly Detection Methods on Software Logs**|Jesse Nyyssölä et.al.|[2312.01934v1](http://arxiv.org/abs/2312.01934v1)|
+|**2023-12-04**|**Unsupervised Anomaly Detection using Aggregated Normative Diffusion**|Alexander Frotscher et.al.|[2312.01904v1](http://arxiv.org/abs/2312.01904v1)|
+|**2023-12-04**|**Dynamic Erasing Network Based on Multi-Scale Temporal Features for Weakly Supervised Video Anomaly Detection**|Chen Zhang et.al.|[2312.01764v1](http://arxiv.org/abs/2312.01764v1)|
+|**2023-12-04**|**EdgeConvFormer: Dynamic Graph CNN and Transformer based Anomaly Detection in Multivariate Time Series**|Jie Liu et.al.|[2312.01729v1](http://arxiv.org/abs/2312.01729v1)|
+|**2023-12-04**|**Malicious Lateral Movement in 5G Core With Network Slicing And Its Detection**|Ayush Kumar et.al.|[2312.01681v1](http://arxiv.org/abs/2312.01681v1)|
+|**2023-12-04**|**OCGEC: One-class Graph Embedding Classification for DNN Backdoor Detection**|Haoyu Jiang et.al.|[2312.01585v1](http://arxiv.org/abs/2312.01585v1)|
+|**2023-12-03**|**Revisiting Non-separable Binary Classification and its Applications in Anomaly Detection**|Matthew Lau et.al.|[2312.01541v1](http://arxiv.org/abs/2312.01541v1)|
+|**2023-12-03**|**ADT: Agent-based Dynamic Thresholding for Anomaly Detection**|Xue Yang et.al.|[2312.01488v1](http://arxiv.org/abs/2312.01488v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-12-02**|**A New Learning Paradigm for Foundation Model-based Remote Sensing Change Detection**|Kaiyu Li et.al.|[2312.01163v1](http://arxiv.org/abs/2312.01163v1)|
+|**2023-12-02**|**Has Anything Changed? 3D Change Detection by 2D Segmentation Masks**|Aikaterini Adam et.al.|[2312.01148v1](http://arxiv.org/abs/2312.01148v1)|
 |**2023-11-30**|**Balancing Summarization and Change Detection in Graph Streams**|Shintaro Fukushima et.al.|[2311.18694v1](http://arxiv.org/abs/2311.18694v1)|
 |**2023-11-25**|**Quickest Change Detection with Post-Change Density Estimation**|Yuchen Liang et.al.|[2311.15128v1](http://arxiv.org/abs/2311.15128v1)|
 |**2023-11-20**|**PanBench: Towards High-Resolution and High-Performance Pansharpening**|Shiying Wang et.al.|[2311.12083v1](http://arxiv.org/abs/2311.12083v1)|
@@ -72,6 +74,4 @@
 |**2023-11-16**|**MS-Former: Memory-Supported Transformer for Weakly Supervised Change Detection with Patch-Level Annotations**|Zhenglai Li et.al.|[2311.09726v1](http://arxiv.org/abs/2311.09726v1)|
 |**2023-11-14**|**Explicit Change Relation Learning for Change Detection in VHR Remote Sensing Images**|Dalong Zheng et.al.|[2311.07993v1](http://arxiv.org/abs/2311.07993v1)|
 |**2023-11-13**|**SpectralGPT: Spectral Foundation Model**|Danfeng Hong et.al.|[2311.07113v2](http://arxiv.org/abs/2311.07113v2)|
-|**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222v1](http://arxiv.org/abs/2311.06222v1)|
-|**2023-11-08**|**Effective Restoration of Source Knowledge in Continual Test Time Adaptation**|Fahim Faisal Niloy et.al.|[2311.04991v1](http://arxiv.org/abs/2311.04991v1)|
 
