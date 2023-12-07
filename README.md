@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-12-06**|**Counting Butterflies in Fully Dynamic Bipartite Graph Streams**|Serafeim Papadias et.al.|[2312.03435v1](http://arxiv.org/abs/2312.03435v1)|
+|**2023-12-06**|**Anomaly Detection for Scalable Task Grouping in Reinforcement Learning-based RAN Optimization**|Jimmy Li et.al.|[2312.03277v1](http://arxiv.org/abs/2312.03277v1)|
 |**2023-12-05**|**Semi-Supervised Health Index Monitoring with Feature Generation and Fusion**|Gaëtan Frusque et.al.|[2312.02867v1](http://arxiv.org/abs/2312.02867v1)|
 |**2023-12-05**|**Learning Cortical Anomaly through Masked Encoding for Unsupervised Heterogeneity Mapping**|Hao-Chun Yang et.al.|[2312.02762v1](http://arxiv.org/abs/2312.02762v1)|
 |**2023-12-05**|**A Self-Commissioning Edge Computing Method for Data-Driven Anomaly Detection in Power Electronic Systems**|Pere Izquierdo Gomez et.al.|[2312.02661v1](http://arxiv.org/abs/2312.02661v1)|
@@ -57,13 +59,12 @@
 |**2023-12-05**|**Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Additive Manufacturing**|Zhangyue Shi et.al.|[2312.02491v1](http://arxiv.org/abs/2312.02491v1)|
 |**2023-12-04**|**Integrating AI into CCTV Systems: A Comprehensive Evaluation of Smart Video Surveillance in Community Space**|Shanle Yao et.al.|[2312.02078v1](http://arxiv.org/abs/2312.02078v1)|
 |**2023-12-04**|**FDR Control for Online Anomaly Detection**|Etienne Krönert et.al.|[2312.01969v1](http://arxiv.org/abs/2312.01969v1)|
-|**2023-12-04**|**Efficiency of Unsupervised Anomaly Detection Methods on Software Logs**|Jesse Nyyssölä et.al.|[2312.01934v1](http://arxiv.org/abs/2312.01934v1)|
-|**2023-12-04**|**Unsupervised Anomaly Detection using Aggregated Normative Diffusion**|Alexander Frotscher et.al.|[2312.01904v1](http://arxiv.org/abs/2312.01904v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-12-05**|**Active Learning for Abrupt Shifts Change-point Detection via Derivative-Aware Gaussian Processes**|Hao Zhao et.al.|[2312.03176v1](http://arxiv.org/abs/2312.03176v1)|
 |**2023-12-05**|**Online Change Detection in SAR Time-Series with Kronecker Product Structured Scaled Gaussian Models**|Ammar Mian et.al.|[2312.02807v1](http://arxiv.org/abs/2312.02807v1)|
 |**2023-12-05**|**C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF**|Rui Huang et.al.|[2312.02751v1](http://arxiv.org/abs/2312.02751v1)|
 |**2023-12-05**|**Graph Information Bottleneck for Remote Sensing Segmentation**|Yuntao Shou et.al.|[2312.02545v1](http://arxiv.org/abs/2312.02545v1)|
@@ -73,5 +74,4 @@
 |**2023-11-30**|**Balancing Summarization and Change Detection in Graph Streams**|Shintaro Fukushima et.al.|[2311.18694v1](http://arxiv.org/abs/2311.18694v1)|
 |**2023-11-25**|**Quickest Change Detection with Post-Change Density Estimation**|Yuchen Liang et.al.|[2311.15128v1](http://arxiv.org/abs/2311.15128v1)|
 |**2023-11-20**|**PanBench: Towards High-Resolution and High-Performance Pansharpening**|Shiying Wang et.al.|[2311.12083v1](http://arxiv.org/abs/2311.12083v1)|
-|**2023-11-20**|**SeaDSC: A video-based unsupervised method for dynamic scene change detection in unmanned surface vehicles**|Linh Trinh et.al.|[2311.11580v1](http://arxiv.org/abs/2311.11580v1)|
 
