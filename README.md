@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-12-07**|**Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping**|Alex Costanzino et.al.|[2312.04521v1](http://arxiv.org/abs/2312.04521v1)|
+|**2023-12-07**|**Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning**|Yongqi Dong et.al.|[2312.04398v1](http://arxiv.org/abs/2312.04398v1)|
+|**2023-12-07**|**Adversarial Denoising Diffusion Model for Unsupervised Anomaly Detection**|Jongmin Yu et.al.|[2312.04382v1](http://arxiv.org/abs/2312.04382v1)|
+|**2023-12-07**|**Improved Efficient Two-Stage Denoising Diffusion Power System Measurement Recovery Against False Data Injection Attacks and Data Losses**|Jianhua Pei et.al.|[2312.04346v1](http://arxiv.org/abs/2312.04346v1)|
+|**2023-12-07**|**Long-lived Particles Anomaly Detection with Parametrized Quantum Circuits**|Simone Bordoni et.al.|[2312.04238v1](http://arxiv.org/abs/2312.04238v1)|
+|**2023-12-07**|**Guided Reconstruction with Conditioned Diffusion Models for Unsupervised Anomaly Detection in Brain MRIs**|Finn Behrendt et.al.|[2312.04215v1](http://arxiv.org/abs/2312.04215v1)|
+|**2023-12-07**|**A Multilevel Guidance-Exploration Network and Behavior-Scene Matching Method for Human Behavior Anomaly Detection**|Guoqing Yang et.al.|[2312.04119v1](http://arxiv.org/abs/2312.04119v1)|
+|**2023-12-07**|**An unsupervised approach towards promptable defect segmentation in laser-based additive manufacturing by Segment Anything**|Israt Zarin Era et.al.|[2312.04063v1](http://arxiv.org/abs/2312.04063v1)|
+|**2023-12-06**|**How Low Can You Go? Surfacing Prototypical In-Distribution Samples for Unsupervised Anomaly Detection**|Felix Meissen et.al.|[2312.03804v1](http://arxiv.org/abs/2312.03804v1)|
 |**2023-12-06**|**Counting Butterflies in Fully Dynamic Bipartite Graph Streams**|Serafeim Papadias et.al.|[2312.03435v1](http://arxiv.org/abs/2312.03435v1)|
-|**2023-12-06**|**Anomaly Detection for Scalable Task Grouping in Reinforcement Learning-based RAN Optimization**|Jimmy Li et.al.|[2312.03277v1](http://arxiv.org/abs/2312.03277v1)|
-|**2023-12-05**|**Semi-Supervised Health Index Monitoring with Feature Generation and Fusion**|Gaëtan Frusque et.al.|[2312.02867v1](http://arxiv.org/abs/2312.02867v1)|
-|**2023-12-05**|**Learning Cortical Anomaly through Masked Encoding for Unsupervised Heterogeneity Mapping**|Hao-Chun Yang et.al.|[2312.02762v1](http://arxiv.org/abs/2312.02762v1)|
-|**2023-12-05**|**A Self-Commissioning Edge Computing Method for Data-Driven Anomaly Detection in Power Electronic Systems**|Pere Izquierdo Gomez et.al.|[2312.02661v1](http://arxiv.org/abs/2312.02661v1)|
-|**2023-12-05**|**A Unified Simulation Framework for Visual and Behavioral Fidelity in Crowd Analysis**|Niccolò Bisagno et.al.|[2312.02613v1](http://arxiv.org/abs/2312.02613v1)|
-|**2023-12-05**|**MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection**|Junho Song et.al.|[2312.02530v1](http://arxiv.org/abs/2312.02530v1)|
-|**2023-12-05**|**Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Additive Manufacturing**|Zhangyue Shi et.al.|[2312.02491v1](http://arxiv.org/abs/2312.02491v1)|
-|**2023-12-04**|**Integrating AI into CCTV Systems: A Comprehensive Evaluation of Smart Video Surveillance in Community Space**|Shanle Yao et.al.|[2312.02078v1](http://arxiv.org/abs/2312.02078v1)|
-|**2023-12-04**|**FDR Control for Online Anomaly Detection**|Etienne Krönert et.al.|[2312.01969v1](http://arxiv.org/abs/2312.01969v1)|
 
 ## change detection
 
