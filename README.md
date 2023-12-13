@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-12-12**|**Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection**|Jiangning Zhang et.al.|[2312.07495v1](http://arxiv.org/abs/2312.07495v1)|
+|**2023-12-12**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[2312.07424v1](http://arxiv.org/abs/2312.07424v1)|
+|**2023-12-12**|**Meta-survey on outlier and anomaly detection**|Madalina Olteanu et.al.|[2312.07101v1](http://arxiv.org/abs/2312.07101v1)|
 |**2023-12-11**|**DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection**|Haoyang He et.al.|[2312.06607v1](http://arxiv.org/abs/2312.06607v1)|
 |**2023-12-11**|**QuickQuakeBuildings: Post-earthquake SAR-Optical Dataset for Quick Damaged-building Detection**|Yao Sun et.al.|[2312.06587v1](http://arxiv.org/abs/2312.06587v1)|
 |**2023-12-11**|**Unsupervised KPIs-Based Clustering of Jobs in HPC Data Centers**|Mohamed S. Halawa et.al.|[2312.06546v1](http://arxiv.org/abs/2312.06546v1)|
@@ -56,9 +59,6 @@
 |**2023-12-09**|**Enhancing Situational Awareness in Surveillance: Leveraging Data Visualization Techniques for Machine Learning-based Video Analytics Outcomes**|Babak Rahimi Ardabili et.al.|[2312.05629v1](http://arxiv.org/abs/2312.05629v1)|
 |**2023-12-09**|**Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**|Yuanchen Bei et.al.|[2312.05526v1](http://arxiv.org/abs/2312.05526v1)|
 |**2023-12-08**|**Sparse Anomaly Detection Across Referentials: A Rank-Based Higher Criticism Approach**|Ivo V. Stoepker et.al.|[2312.04924v1](http://arxiv.org/abs/2312.04924v1)|
-|**2023-12-08**|**Physics-Informed Convolutional Autoencoder for Cyber Anomaly Detection in Power Distribution Grids**|Mehdi Jabbari Zideh et.al.|[2312.04758v1](http://arxiv.org/abs/2312.04758v1)|
-|**2023-12-07**|**MetaDetect: Metamorphic Testing Based Anomaly Detection for Multi-UAV Wireless Networks**|Boyang Yan et.al.|[2312.04747v1](http://arxiv.org/abs/2312.04747v1)|
-|**2023-12-07**|**Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping**|Alex Costanzino et.al.|[2312.04521v1](http://arxiv.org/abs/2312.04521v1)|
 
 ## change detection
 
