@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2023-12-12**|**Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection**|Jiangning Zhang et.al.|[2312.07495v1](http://arxiv.org/abs/2312.07495v1)|
-|**2023-12-12**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[2312.07424v1](http://arxiv.org/abs/2312.07424v1)|
+|**2023-12-12**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[2312.07424v2](http://arxiv.org/abs/2312.07424v2)|
 |**2023-12-12**|**Meta-survey on outlier and anomaly detection**|Madalina Olteanu et.al.|[2312.07101v1](http://arxiv.org/abs/2312.07101v1)|
 |**2023-12-11**|**DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection**|Haoyang He et.al.|[2312.06607v1](http://arxiv.org/abs/2312.06607v1)|
 |**2023-12-11**|**QuickQuakeBuildings: Post-earthquake SAR-Optical Dataset for Quick Damaged-building Detection**|Yao Sun et.al.|[2312.06587v1](http://arxiv.org/abs/2312.06587v1)|
