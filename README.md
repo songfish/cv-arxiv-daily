@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-12-13**|**Efficient Representation of the Activation Space in Deep Neural Networks**|Tanya Akumu et.al.|[2312.08143v1](http://arxiv.org/abs/2312.08143v1)|
+|**2023-12-12**|**Estimation of Dynamic Origin-Destination Matrices in a Railway Transportation Network integrating Ticket Sales and Passenger Count Data**|Greta Galliani et.al.|[2312.07732v1](http://arxiv.org/abs/2312.07732v1)|
 |**2023-12-12**|**Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection**|Jiangning Zhang et.al.|[2312.07495v1](http://arxiv.org/abs/2312.07495v1)|
 |**2023-12-12**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[2312.07424v2](http://arxiv.org/abs/2312.07424v2)|
 |**2023-12-12**|**Meta-survey on outlier and anomaly detection**|Madalina Olteanu et.al.|[2312.07101v1](http://arxiv.org/abs/2312.07101v1)|
@@ -57,8 +59,6 @@
 |**2023-12-11**|**Unsupervised KPIs-Based Clustering of Jobs in HPC Data Centers**|Mohamed S. Halawa et.al.|[2312.06546v1](http://arxiv.org/abs/2312.06546v1)|
 |**2023-12-11**|**Detecting Contextual Network Anomalies with Graph Neural Networks**|Hamid Latif-Martínez et.al.|[2312.06342v1](http://arxiv.org/abs/2312.06342v1)|
 |**2023-12-09**|**Enhancing Situational Awareness in Surveillance: Leveraging Data Visualization Techniques for Machine Learning-based Video Analytics Outcomes**|Babak Rahimi Ardabili et.al.|[2312.05629v1](http://arxiv.org/abs/2312.05629v1)|
-|**2023-12-09**|**Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**|Yuanchen Bei et.al.|[2312.05526v1](http://arxiv.org/abs/2312.05526v1)|
-|**2023-12-08**|**Sparse Anomaly Detection Across Referentials: A Rank-Based Higher Criticism Approach**|Ivo V. Stoepker et.al.|[2312.04924v1](http://arxiv.org/abs/2312.04924v1)|
 
 ## change detection
 
