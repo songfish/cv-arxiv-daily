@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2023-12-14**|**Towards Efficient Quantum Anomaly Detection: One-Class SVMs using Variable Subsampling and Randomized Measurements**|Michael Kölle et.al.|[2312.09174v1](http://arxiv.org/abs/2312.09174v1)|
-|**2023-12-14**|**F1-EV Score: Measuring the Likelihood of Estimating a Good Decision Threshold for Semi-Supervised Anomaly Detection**|Kevin Wilkinghoff et.al.|[2312.09143v1](http://arxiv.org/abs/2312.09143v1)|
-|**2023-12-14**|**Deep learning with plasma plume image sequences for anomaly detection and prediction of growth kinetics during pulsed laser deposition**|Sumner B. Harris et.al.|[2312.09133v1](http://arxiv.org/abs/2312.09133v1)|
-|**2023-12-12**|**GenDet: Towards Good Generalizations for AI-Generated Image Detection**|Mingjian Zhu et.al.|[2312.08880v1](http://arxiv.org/abs/2312.08880v1)|
-|**2023-12-14**|**Guarding the Grid: Enhancing Resilience in Automated Residential Demand Response Against False Data Injection Attacks**|Thusitha Dayaratne et.al.|[2312.08646v1](http://arxiv.org/abs/2312.08646v1)|
 |**2023-12-13**|**Efficient Representation of the Activation Space in Deep Neural Networks**|Tanya Akumu et.al.|[2312.08143v1](http://arxiv.org/abs/2312.08143v1)|
 |**2023-12-12**|**Estimation of Dynamic Origin-Destination Matrices in a Railway Transportation Network integrating Ticket Sales and Passenger Count Data**|Greta Galliani et.al.|[2312.07732v1](http://arxiv.org/abs/2312.07732v1)|
 |**2023-12-12**|**Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection**|Jiangning Zhang et.al.|[2312.07495v1](http://arxiv.org/abs/2312.07495v1)|
 |**2023-12-12**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[2312.07424v2](http://arxiv.org/abs/2312.07424v2)|
 |**2023-12-12**|**Meta-survey on outlier and anomaly detection**|Madalina Olteanu et.al.|[2312.07101v1](http://arxiv.org/abs/2312.07101v1)|
+|**2023-12-11**|**DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection**|Haoyang He et.al.|[2312.06607v1](http://arxiv.org/abs/2312.06607v1)|
+|**2023-12-11**|**QuickQuakeBuildings: Post-earthquake SAR-Optical Dataset for Quick Damaged-building Detection**|Yao Sun et.al.|[2312.06587v1](http://arxiv.org/abs/2312.06587v1)|
+|**2023-12-11**|**Unsupervised KPIs-Based Clustering of Jobs in HPC Data Centers**|Mohamed S. Halawa et.al.|[2312.06546v1](http://arxiv.org/abs/2312.06546v1)|
+|**2023-12-11**|**Detecting Contextual Network Anomalies with Graph Neural Networks**|Hamid Latif-Martínez et.al.|[2312.06342v1](http://arxiv.org/abs/2312.06342v1)|
+|**2023-12-09**|**Enhancing Situational Awareness in Surveillance: Leveraging Data Visualization Techniques for Machine Learning-based Video Analytics Outcomes**|Babak Rahimi Ardabili et.al.|[2312.05629v1](http://arxiv.org/abs/2312.05629v1)|
 
 ## change detection
 
