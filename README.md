@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-12-16**|**SubAnom: Efficient Subgraph Anomaly Detection Framework over Dynamic Graphs**|Chi Zhang et.al.|[2312.10504v1](http://arxiv.org/abs/2312.10504v1)|
+|**2023-12-15**|**TSRNet: Simple Framework for Real-time ECG Anomaly Detection with Multimodal Time and Spectrogram Restoration Network**|Nhat-Tan Bui et.al.|[2312.10187v1](http://arxiv.org/abs/2312.10187v1)|
 |**2023-12-15**|**Testing a Neural Network for Anomaly Detection in the CMS Global Trigger Test Crate during Run 3**|Noah Zipper et.al.|[2312.10009v1](http://arxiv.org/abs/2312.10009v1)|
 |**2023-12-15**|**TAB: Text-Align Anomaly Backbone Model for Industrial Inspection Tasks**|Ho-Weng Lee et.al.|[2312.09480v1](http://arxiv.org/abs/2312.09480v1)|
 |**2023-12-15**|**Entropy Causal Graphs for Multivariate Time Series Anomaly Detection**|Falih Gozi Febrinanto et.al.|[2312.09478v1](http://arxiv.org/abs/2312.09478v1)|
@@ -57,8 +59,6 @@
 |**2023-12-14**|**Deep learning with plasma plume image sequences for anomaly detection and prediction of growth kinetics during pulsed laser deposition**|Sumner B. Harris et.al.|[2312.09133v1](http://arxiv.org/abs/2312.09133v1)|
 |**2023-12-14**|**Guarding the Grid: Enhancing Resilience in Automated Residential Demand Response Against False Data Injection Attacks**|Thusitha Dayaratne et.al.|[2312.08646v1](http://arxiv.org/abs/2312.08646v1)|
 |**2023-12-13**|**Efficient Representation of the Activation Space in Deep Neural Networks**|Tanya Akumu et.al.|[2312.08143v1](http://arxiv.org/abs/2312.08143v1)|
-|**2023-12-12**|**Estimation of Dynamic Origin-Destination Matrices in a Railway Transportation Network integrating Ticket Sales and Passenger Count Data**|Greta Galliani et.al.|[2312.07732v1](http://arxiv.org/abs/2312.07732v1)|
-|**2023-12-12**|**Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection**|Jiangning Zhang et.al.|[2312.07495v1](http://arxiv.org/abs/2312.07495v1)|
 
 ## change detection
 
