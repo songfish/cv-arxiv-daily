@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-12-20**|**Learning Exhaustive Correlation for Spectral Super-Resolution: Where Unified Spatial-Spectral Attention Meets Mutual Linear Dependence**|Hongyuan Wang et.al.|[2312.12833v1](http://arxiv.org/abs/2312.12833v1)|
 |**2023-11-28**|**Super-Resolution through StyleGAN Regularized Latent Search: A Realism-Fidelity Trade-off**|Marzieh Gheisari et.al.|[2311.16923v1](http://arxiv.org/abs/2311.16923v1)|
 |**2023-11-16**|**Redefining Super-Resolution: Fine-mesh PDE predictions without classical simulations**|Rajat Kumar Sarkar et.al.|[2311.09740v3](http://arxiv.org/abs/2311.09740v3)|
 |**2023-09-09**|**Towards Real-World Burst Image Super-Resolution: Benchmark and Method**|Pengxu Wei et.al.|[2309.04803v1](http://arxiv.org/abs/2309.04803v1)|
@@ -13,7 +14,6 @@
 |**2023-04-09**|**Towards Arbitrary-scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework based on Implicit Self-texture Enhancement**|Linhao Qu et.al.|[2304.04238v1](http://arxiv.org/abs/2304.04238v1)|
 |**2023-03-09**|**LMR: A Large-Scale Multi-Reference Dataset for Reference-based Super-Resolution**|Lin Zhang et.al.|[2303.04970v1](http://arxiv.org/abs/2303.04970v1)|
 |**2023-03-06**|**Combination of Single and Multi-frame Image Super-resolution: An Analytical Perspective**|Mohammad Mahdi Afrasiabi et.al.|[2303.03212v1](http://arxiv.org/abs/2303.03212v1)|
-|**2023-02-19**|**Guided Depth Map Super-resolution: A Survey**|Zhiwei Zhong et.al.|[2302.09598v2](http://arxiv.org/abs/2302.09598v2)|
 
 ## cloud detection
 
@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-12-20**|**1D-CNN Optimization for Non-contact Respiration Pattern Classification**|Md Zobaer Islam et.al.|[2312.13035v1](http://arxiv.org/abs/2312.13035v1)|
+|**2023-12-20**|**Quantum multi-anomaly detection**|Santiago Llorens et.al.|[2312.13020v1](http://arxiv.org/abs/2312.13020v1)|
+|**2023-12-20**|**Produce Once, Utilize Twice for Anomaly Detection**|Shuyuan Wang et.al.|[2312.12913v1](http://arxiv.org/abs/2312.12913v1)|
+|**2023-12-19**|**Collective Anomaly Perception During Multi-Robot Patrol: Constrained Interactions Can Promote Accurate Consensus**|Zachary R. Madin et.al.|[2312.12639v1](http://arxiv.org/abs/2312.12639v1)|
 |**2023-12-19**|**When Model Meets New Normals: Test-time Adaptation for Unsupervised Time-series Anomaly Detection**|Dongmin Kim et.al.|[2312.11976v1](http://arxiv.org/abs/2312.11976v1)|
 |**2023-12-18**|**Residual ANODE**|Ranit Das et.al.|[2312.11629v1](http://arxiv.org/abs/2312.11629v1)|
 |**2023-12-18**|**Anomaly detection with flow-based fast calorimeter simulators**|Claudius Krause et.al.|[2312.11618v1](http://arxiv.org/abs/2312.11618v1)|
-|**2023-12-17**|**Label-Free Multivariate Time Series Anomaly Detection**|Qihang Zhou et.al.|[2312.11549v1](http://arxiv.org/abs/2312.11549v1)|
 |**2023-12-18**|**MAD-MulW: A Multi-Window Anomaly Detection Framework for BGP Security Events**|Songtao Peng et.al.|[2312.11225v1](http://arxiv.org/abs/2312.11225v1)|
 |**2023-12-18**|**PARs: Predicate-based Association Rules for Efficient and Accurate Model-Agnostic Anomaly Explanation**|Cheng Feng et.al.|[2312.10968v1](http://arxiv.org/abs/2312.10968v1)|
 |**2023-12-18**|**IoT Ground Sensing Systems for Early Wildfire Detection: Technologies, Challenges and Opportunities**|Chiu Chun Chan et.al.|[2312.10919v1](http://arxiv.org/abs/2312.10919v1)|
-|**2023-12-16**|**SubAnom: Efficient Subgraph Anomaly Detection Framework over Dynamic Graphs**|Chi Zhang et.al.|[2312.10504v1](http://arxiv.org/abs/2312.10504v1)|
-|**2023-12-15**|**TSRNet: Simple Framework for Real-time ECG Anomaly Detection with Multimodal Time and Spectrogram Restoration Network**|Nhat-Tan Bui et.al.|[2312.10187v1](http://arxiv.org/abs/2312.10187v1)|
-|**2023-12-15**|**Testing a Neural Network for Anomaly Detection in the CMS Global Trigger Test Crate during Run 3**|Noah Zipper et.al.|[2312.10009v1](http://arxiv.org/abs/2312.10009v1)|
 
 ## change detection
 
