@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-12-21**|**Fast kernel half-space depth for data with non-convex supports**|Arturo Castellanos et.al.|[2312.14136v1](http://arxiv.org/abs/2312.14136v1)|
+|**2023-12-21**|**Comparative Evaluation of Anomaly Detection Methods for Fraud Detection in Online Credit Card Payments**|Hugo Thimonier et.al.|[2312.13896v1](http://arxiv.org/abs/2312.13896v1)|
+|**2023-12-21**|**Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection**|Soopil Kim et.al.|[2312.13783v1](http://arxiv.org/abs/2312.13783v1)|
+|**2023-12-21**|**Benchmark Evaluation of Anomaly-Based Intrusion Detection Systems in the Context of Smart Grids**|Ömer Sen et.al.|[2312.13705v1](http://arxiv.org/abs/2312.13705v1)|
+|**2023-12-21**|**Investigation of Multi-stage Attack and Defense Simulation for Data Synthesis**|Ömer Sen et.al.|[2312.13697v1](http://arxiv.org/abs/2312.13697v1)|
+|**2023-12-21**|**Self-supervised Complex Network for Machine Sound Anomaly Detection**|Miseul Kim et.al.|[2312.13615v1](http://arxiv.org/abs/2312.13615v1)|
 |**2023-12-20**|**1D-CNN Optimization for Non-contact Respiration Pattern Classification**|Md Zobaer Islam et.al.|[2312.13035v1](http://arxiv.org/abs/2312.13035v1)|
 |**2023-12-20**|**Quantum multi-anomaly detection**|Santiago Llorens et.al.|[2312.13020v1](http://arxiv.org/abs/2312.13020v1)|
 |**2023-12-20**|**Produce Once, Utilize Twice for Anomaly Detection**|Shuyuan Wang et.al.|[2312.12913v1](http://arxiv.org/abs/2312.12913v1)|
 |**2023-12-19**|**Collective Anomaly Perception During Multi-Robot Patrol: Constrained Interactions Can Promote Accurate Consensus**|Zachary R. Madin et.al.|[2312.12639v1](http://arxiv.org/abs/2312.12639v1)|
-|**2023-12-19**|**When Model Meets New Normals: Test-time Adaptation for Unsupervised Time-series Anomaly Detection**|Dongmin Kim et.al.|[2312.11976v1](http://arxiv.org/abs/2312.11976v1)|
-|**2023-12-18**|**Residual ANODE**|Ranit Das et.al.|[2312.11629v1](http://arxiv.org/abs/2312.11629v1)|
-|**2023-12-18**|**Anomaly detection with flow-based fast calorimeter simulators**|Claudius Krause et.al.|[2312.11618v1](http://arxiv.org/abs/2312.11618v1)|
-|**2023-12-18**|**MAD-MulW: A Multi-Window Anomaly Detection Framework for BGP Security Events**|Songtao Peng et.al.|[2312.11225v1](http://arxiv.org/abs/2312.11225v1)|
-|**2023-12-18**|**PARs: Predicate-based Association Rules for Efficient and Accurate Model-Agnostic Anomaly Explanation**|Cheng Feng et.al.|[2312.10968v1](http://arxiv.org/abs/2312.10968v1)|
-|**2023-12-18**|**IoT Ground Sensing Systems for Early Wildfire Detection: Technologies, Challenges and Opportunities**|Chiu Chun Chan et.al.|[2312.10919v1](http://arxiv.org/abs/2312.10919v1)|
 
 ## change detection
 
