@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-12-27**|**Learn From Orientation Prior for Radiograph Super-Resolution: Orientation Operator Transformer**|Yongsong Huang et.al.|[2312.16455v1](http://arxiv.org/abs/2312.16455v1)|
 |**2023-12-24**|**Perception-Distortion Balanced Super-Resolution: A Multi-Objective Optimization Perspective**|Lingchen Sun et.al.|[2312.15408v1](http://arxiv.org/abs/2312.15408v1)|
 |**2023-12-20**|**Learning Exhaustive Correlation for Spectral Super-Resolution: Where Unified Spatial-Spectral Attention Meets Mutual Linear Dependence**|Hongyuan Wang et.al.|[2312.12833v1](http://arxiv.org/abs/2312.12833v1)|
 |**2023-11-28**|**Super-Resolution through StyleGAN Regularized Latent Search: A Realism-Fidelity Trade-off**|Marzieh Gheisari et.al.|[2311.16923v1](http://arxiv.org/abs/2311.16923v1)|
@@ -13,7 +14,6 @@
 |**2023-05-08**|**Compressed Video Quality Assessment for Super-Resolution: a Benchmark and a Quality Metric**|Evgeney Bogatyrev et.al.|[2305.04844v1](http://arxiv.org/abs/2305.04844v1)|
 |**2023-04-20**|**NTIRE 2023 Challenge on Light Field Image Super-Resolution: Dataset, Methods and Results**|Yingqian Wang et.al.|[2304.10415v1](http://arxiv.org/abs/2304.10415v1)|
 |**2023-04-09**|**Towards Arbitrary-scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework based on Implicit Self-texture Enhancement**|Linhao Qu et.al.|[2304.04238v1](http://arxiv.org/abs/2304.04238v1)|
-|**2023-03-09**|**LMR: A Large-Scale Multi-Reference Dataset for Reference-based Super-Resolution**|Lin Zhang et.al.|[2303.04970v1](http://arxiv.org/abs/2303.04970v1)|
 
 ## cloud detection
 
@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-12-28**|**Unsupversied feature correlation model to predict breast abnormal variation maps in longitudinal mammograms**|Jun Bai et.al.|[2312.16772v1](http://arxiv.org/abs/2312.16772v1)|
 |**2023-11-20**|**Abnormal traffic detection system in SDN based on deep learning hybrid models**|Kun Wang et.al.|[2311.11550v1](http://arxiv.org/abs/2311.11550v1)|
 |**2023-11-06**|**NEURO HAND: A weakly supervised Hierarchical Attention Network for neuroimaging abnormality Detection**|David A. Wood et.al.|[2311.02992v1](http://arxiv.org/abs/2311.02992v1)|
 |**2023-10-21**|**A multivariate Bayesian learning approach for improved detection of doping in athletes using urinary steroid profiles**|Dimitra Eleftheriou et.al.|[2310.13980v1](http://arxiv.org/abs/2310.13980v1)|
@@ -43,35 +44,34 @@
 |**2023-09-19**|**OccluTrack: Rethinking Awareness of Occlusion for Enhancing Multiple Pedestrian Tracking**|Jianjun Gao et.al.|[2309.10360v1](http://arxiv.org/abs/2309.10360v1)|
 |**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v3](http://arxiv.org/abs/2308.16150v3)|
 |**2023-07-18**|**You've Got Two Teachers: Co-evolutionary Image and Report Distillation for Semi-supervised Anatomical Abnormality Detection in Chest X-ray**|Jinghan Sun et.al.|[2307.09184v1](http://arxiv.org/abs/2307.09184v1)|
-|**2023-06-12**|**In-context Cross-Density Adaptation on Noisy Mammogram Abnormalities Detection**|Huy T. Nguyen et.al.|[2306.06893v1](http://arxiv.org/abs/2306.06893v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-12-28**|**Sensor Data Simulation for Anomaly Detection of the Elderly Living Alone**|Kai Tanaka et.al.|[2312.16852v1](http://arxiv.org/abs/2312.16852v1)|
+|**2023-12-28**|**METER: A Dynamic Concept Adaptation Framework for Online Anomaly Detection**|Jiaqi Zhu et.al.|[2312.16831v1](http://arxiv.org/abs/2312.16831v1)|
+|**2023-12-28**|**Temporal Knowledge Distillation for Time-Sensitive Financial Services Applications**|Hongda Shen et.al.|[2312.16799v1](http://arxiv.org/abs/2312.16799v1)|
+|**2023-12-27**|**A Physics-Informed Variational Autoencoder for Rapid Galaxy Inference and Anomaly Detection**|Alexander Gagliano et.al.|[2312.16687v1](http://arxiv.org/abs/2312.16687v1)|
+|**2023-12-27**|**Diagnosis of Small-world Bias in Random Graphs**|Georgios Argyris et.al.|[2312.16525v1](http://arxiv.org/abs/2312.16525v1)|
+|**2023-12-27**|**ReSynthDetect: A Fundus Anomaly Detection Network with Reconstruction and Synthetic Features**|Jingqi Niu et.al.|[2312.16470v1](http://arxiv.org/abs/2312.16470v1)|
+|**2023-12-27**|**Soft Contrastive Learning for Time Series**|Seunghan Lee et.al.|[2312.16424v1](http://arxiv.org/abs/2312.16424v1)|
 |**2023-12-26**|**Anomaly component analysis**|Romain Valla et.al.|[2312.16139v1](http://arxiv.org/abs/2312.16139v1)|
 |**2023-12-26**|**Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection**|Songmin Dai et.al.|[2312.15911v1](http://arxiv.org/abs/2312.15911v1)|
 |**2023-12-25**|**TimesURL: Self-supervised Contrastive Learning for Universal Time Series Representation Learning**|Jiexi Liu et.al.|[2312.15709v1](http://arxiv.org/abs/2312.15709v1)|
-|**2023-12-23**|**Understanding normalization in contrastive representation learning and out-of-distribution detection**|Tai Le-Gia et.al.|[2312.15288v1](http://arxiv.org/abs/2312.15288v1)|
-|**2023-12-22**|**C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting**|Shane Bergsma et.al.|[2312.15002v1](http://arxiv.org/abs/2312.15002v1)|
-|**2023-12-22**|**Progressing from Anomaly Detection to Automated Log Labeling and Pioneering Root Cause Analysis**|Thorsten Wittkopp et.al.|[2312.14748v1](http://arxiv.org/abs/2312.14748v1)|
-|**2023-12-22**|**ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection**|Junwei He et.al.|[2312.14535v1](http://arxiv.org/abs/2312.14535v1)|
-|**2023-12-22**|**Generative Pretraining at Scale: Transformer-Based Encoding of Transactional Behavior for Fraud Detection**|Ze Yu Zhao et.al.|[2312.14406v1](http://arxiv.org/abs/2312.14406v1)|
-|**2023-12-21**|**Invariant Anomaly Detection under Distribution Shifts: A Causal Perspective**|João B. S. Carvalho et.al.|[2312.14329v1](http://arxiv.org/abs/2312.14329v1)|
-|**2023-12-21**|**Fast kernel half-space depth for data with non-convex supports**|Arturo Castellanos et.al.|[2312.14136v1](http://arxiv.org/abs/2312.14136v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-12-28**|**Reinforcement-based Display-size Selection for Frugal Satellite Image Change Detection**|Hichem Sahbi et.al.|[2312.16965v1](http://arxiv.org/abs/2312.16965v1)|
+|**2023-12-28**|**Cellular forgetting, desensitisation, stress and aging in signalling networks. When do cells refuse to learn more?**|Tamas Veres et.al.|[2312.16875v1](http://arxiv.org/abs/2312.16875v1)|
+|**2023-12-27**|**Segment Change Model (SCM) for Unsupervised Change detection in VHR Remote Sensing Images: a Case Study of Buildings**|Xiaoliang Tan et.al.|[2312.16410v1](http://arxiv.org/abs/2312.16410v1)|
+|**2023-12-23**|**Time Travelling Pixels: Bitemporal Features Integration with Foundation Model for Remote Sensing Image Change Detection**|Keyan Chen et.al.|[2312.16202v1](http://arxiv.org/abs/2312.16202v1)|
 |**2023-12-23**|**Pixel-Level Change Detection Pseudo-Label Learning for Remote Sensing Change Captioning**|Chenyang Liu et.al.|[2312.15311v1](http://arxiv.org/abs/2312.15311v1)|
 |**2023-12-22**|**Change Point Detection of Events in Molecular Simulations using dupin**|Brandon L. Butler et.al.|[2312.15090v1](http://arxiv.org/abs/2312.15090v1)|
 |**2023-12-10**|**Large Language Models on Lexical Semantic Change Detection: An Evaluation**|Ruiyu Wang et.al.|[2312.06002v1](http://arxiv.org/abs/2312.06002v1)|
 |**2023-12-08**|**Adapting Vision Transformer for Efficient Change Detection**|Yang Zhao et.al.|[2312.04869v1](http://arxiv.org/abs/2312.04869v1)|
 |**2023-12-05**|**Active Learning for Abrupt Shifts Change-point Detection via Derivative-Aware Gaussian Processes**|Hao Zhao et.al.|[2312.03176v1](http://arxiv.org/abs/2312.03176v1)|
 |**2023-12-05**|**Online Change Detection in SAR Time-Series with Kronecker Product Structured Scaled Gaussian Models**|Ammar Mian et.al.|[2312.02807v1](http://arxiv.org/abs/2312.02807v1)|
-|**2023-12-05**|**C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF**|Rui Huang et.al.|[2312.02751v2](http://arxiv.org/abs/2312.02751v2)|
-|**2023-12-05**|**Graph Information Bottleneck for Remote Sensing Segmentation**|Yuntao Shou et.al.|[2312.02545v1](http://arxiv.org/abs/2312.02545v1)|
-|**2023-12-04**|**Unsupervised Change Detection for Space Habitats Using 3D Point Clouds**|Jamie Santos et.al.|[2312.02396v2](http://arxiv.org/abs/2312.02396v2)|
-|**2023-12-02**|**A New Learning Paradigm for Foundation Model-based Remote Sensing Change Detection**|Kaiyu Li et.al.|[2312.01163v1](http://arxiv.org/abs/2312.01163v1)|
 
