@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-12-27**|**Anticipated Network Surveillance -- An extrapolated study to predict cyber-attacks using Machine Learning and Data Analytics**|Aviral Srivastava et.al.|[2312.17270v1](http://arxiv.org/abs/2312.17270v1)|
 |**2023-12-28**|**Sensor Data Simulation for Anomaly Detection of the Elderly Living Alone**|Kai Tanaka et.al.|[2312.16852v1](http://arxiv.org/abs/2312.16852v1)|
 |**2023-12-28**|**METER: A Dynamic Concept Adaptation Framework for Online Anomaly Detection**|Jiaqi Zhu et.al.|[2312.16831v1](http://arxiv.org/abs/2312.16831v1)|
 |**2023-12-28**|**Temporal Knowledge Distillation for Time-Sensitive Financial Services Applications**|Hongda Shen et.al.|[2312.16799v1](http://arxiv.org/abs/2312.16799v1)|
@@ -58,12 +59,12 @@
 |**2023-12-27**|**Soft Contrastive Learning for Time Series**|Seunghan Lee et.al.|[2312.16424v1](http://arxiv.org/abs/2312.16424v1)|
 |**2023-12-26**|**Anomaly component analysis**|Romain Valla et.al.|[2312.16139v1](http://arxiv.org/abs/2312.16139v1)|
 |**2023-12-26**|**Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection**|Songmin Dai et.al.|[2312.15911v1](http://arxiv.org/abs/2312.15911v1)|
-|**2023-12-25**|**TimesURL: Self-supervised Contrastive Learning for Universal Time Series Representation Learning**|Jiexi Liu et.al.|[2312.15709v1](http://arxiv.org/abs/2312.15709v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2023-12-29**|**ChangeNet: Multi-Temporal Asymmetric Change Detection Dataset**|Deyi Ji et.al.|[2312.17428v1](http://arxiv.org/abs/2312.17428v1)|
 |**2023-12-28**|**Reinforcement-based Display-size Selection for Frugal Satellite Image Change Detection**|Hichem Sahbi et.al.|[2312.16965v1](http://arxiv.org/abs/2312.16965v1)|
 |**2023-12-28**|**Cellular forgetting, desensitisation, stress and aging in signalling networks. When do cells refuse to learn more?**|Tamas Veres et.al.|[2312.16875v1](http://arxiv.org/abs/2312.16875v1)|
 |**2023-12-27**|**Segment Change Model (SCM) for Unsupervised Change detection in VHR Remote Sensing Images: a Case Study of Buildings**|Xiaoliang Tan et.al.|[2312.16410v1](http://arxiv.org/abs/2312.16410v1)|
@@ -73,5 +74,4 @@
 |**2023-12-10**|**Large Language Models on Lexical Semantic Change Detection: An Evaluation**|Ruiyu Wang et.al.|[2312.06002v1](http://arxiv.org/abs/2312.06002v1)|
 |**2023-12-08**|**Adapting Vision Transformer for Efficient Change Detection**|Yang Zhao et.al.|[2312.04869v1](http://arxiv.org/abs/2312.04869v1)|
 |**2023-12-05**|**Active Learning for Abrupt Shifts Change-point Detection via Derivative-Aware Gaussian Processes**|Hao Zhao et.al.|[2312.03176v1](http://arxiv.org/abs/2312.03176v1)|
-|**2023-12-05**|**Online Change Detection in SAR Time-Series with Kronecker Product Structured Scaled Gaussian Models**|Ammar Mian et.al.|[2312.02807v1](http://arxiv.org/abs/2312.02807v1)|
 
