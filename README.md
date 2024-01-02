@@ -30,6 +30,21 @@
 |**2023-06-12**|**CD-CTFM: A Lightweight CNN-Transformer Network for Remote Sensing Cloud Detection Fusing Multiscale Features**|Wenxuan Ge et.al.|[2306.07186v1](http://arxiv.org/abs/2306.07186v1)|
 |**2023-05-23**|**Hierarchical Adaptive Voxel-guided Sampling for Real-time Applications in Large-scale Point Clouds**|Junyuan Ouyang et.al.|[2305.14306v1](http://arxiv.org/abs/2305.14306v1)|
 
+## abnormal detection
+
+|Publish Date|Title|Authors|PDF|
+|---|---|---|---|
+|**2023-12-28**|**Unsupversied feature correlation model to predict breast abnormal variation maps in longitudinal mammograms**|Jun Bai et.al.|[2312.16772v1](http://arxiv.org/abs/2312.16772v1)|
+|**2023-11-20**|**Abnormal traffic detection system in SDN based on deep learning hybrid models**|Kun Wang et.al.|[2311.11550v1](http://arxiv.org/abs/2311.11550v1)|
+|**2023-11-06**|**NEURO HAND: A weakly supervised Hierarchical Attention Network for neuroimaging abnormality Detection**|David A. Wood et.al.|[2311.02992v1](http://arxiv.org/abs/2311.02992v1)|
+|**2023-10-21**|**A multivariate Bayesian learning approach for improved detection of doping in athletes using urinary steroid profiles**|Dimitra Eleftheriou et.al.|[2310.13980v1](http://arxiv.org/abs/2310.13980v1)|
+|**2023-10-20**|**Identification of Abnormality in Maize Plants From UAV Images Using Deep Learning Approaches**|Aminul Huq et.al.|[2310.13201v1](http://arxiv.org/abs/2310.13201v1)|
+|**2023-10-10**|**Multiscale Fusion for Abnormality Detection and Localization of Distributed Parameter Systems**|Peng Wei et.al.|[2310.08606v3](http://arxiv.org/abs/2310.08606v3)|
+|**2023-09-28**|**Automated Chest X-Ray Report Generator Using Multi-Model Deep Learning Approach**|Arief Purnama Muharram et.al.|[2310.05969v2](http://arxiv.org/abs/2310.05969v2)|
+|**2023-09-19**|**OccluTrack: Rethinking Awareness of Occlusion for Enhancing Multiple Pedestrian Tracking**|Jianjun Gao et.al.|[2309.10360v1](http://arxiv.org/abs/2309.10360v1)|
+|**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v3](http://arxiv.org/abs/2308.16150v3)|
+|**2023-07-18**|**You've Got Two Teachers: Co-evolutionary Image and Report Distillation for Semi-supervised Anatomical Abnormality Detection in Chest X-ray**|Jinghan Sun et.al.|[2307.09184v1](http://arxiv.org/abs/2307.09184v1)|
+
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
