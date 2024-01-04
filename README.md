@@ -64,7 +64,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-01-02**|**CityPulse: Fine-Grained Assessment of Urban Change with Street View Time Series**|Tianyuan Huang et.al.|[2401.01107v1](http://arxiv.org/abs/2401.01107v1)|
+|**2024-01-02**|**CityPulse: Fine-Grained Assessment of Urban Change with Street View Time Series**|Tianyuan Huang et.al.|[2401.01107v2](http://arxiv.org/abs/2401.01107v2)|
 |**2023-12-29**|**ChangeNet: Multi-Temporal Asymmetric Change Detection Dataset**|Deyi Ji et.al.|[2312.17428v1](http://arxiv.org/abs/2312.17428v1)|
 |**2023-12-28**|**Reinforcement-based Display-size Selection for Frugal Satellite Image Change Detection**|Hichem Sahbi et.al.|[2312.16965v1](http://arxiv.org/abs/2312.16965v1)|
 |**2023-12-28**|**Cellular forgetting, desensitisation, stress and aging in signalling networks. When do cells refuse to learn more?**|Tamas Veres et.al.|[2312.16875v1](http://arxiv.org/abs/2312.16875v1)|
