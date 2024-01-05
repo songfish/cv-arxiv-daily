@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-01-04**|**Distillation-based fabric anomaly detection**|Simon Thomine et.al.|[2401.02287v1](http://arxiv.org/abs/2401.02287v1)|
+|**2024-01-03**|**AUPIMO: Redefining Visual Anomaly Detection Benchmarks with High Speed and Low Tolerance**|Joao P. C. Bertoldo et.al.|[2401.01984v1](http://arxiv.org/abs/2401.01984v1)|
 |**2024-01-03**|**SCALA: Sparsification-based Contrastive Learning for Anomaly Detection on Attributed Networks**|Enbo He et.al.|[2401.01625v1](http://arxiv.org/abs/2401.01625v1)|
 |**2024-01-03**|**Regression Based Anomaly Detection in Electric Vehicle State of Charge Fluctuations Through Analysis of EVCI Data**|Mitikiri Sagar Babu et.al.|[2401.01580v1](http://arxiv.org/abs/2401.01580v1)|
 |**2024-01-02**|**Exploring Hyperspectral Anomaly Detection with Human Vision: A Small Target Aware Detector**|Jitao Ma et.al.|[2401.01093v1](http://arxiv.org/abs/2401.01093v1)|
@@ -57,8 +59,6 @@
 |**2023-12-30**|**Enabling Smart Retrofitting and Performance Anomaly Detection for a Sensorized Vessel: A Maritime Industry Experience**|Mahshid Helali Moghadam et.al.|[2401.00112v1](http://arxiv.org/abs/2401.00112v1)|
 |**2023-12-28**|**Sensor Data Simulation for Anomaly Detection of the Elderly Living Alone**|Kai Tanaka et.al.|[2312.16852v1](http://arxiv.org/abs/2312.16852v1)|
 |**2023-12-28**|**METER: A Dynamic Concept Adaptation Framework for Online Anomaly Detection**|Jiaqi Zhu et.al.|[2312.16831v1](http://arxiv.org/abs/2312.16831v1)|
-|**2023-12-28**|**Temporal Knowledge Distillation for Time-Sensitive Financial Services Applications**|Hongda Shen et.al.|[2312.16799v1](http://arxiv.org/abs/2312.16799v1)|
-|**2023-12-27**|**A Physics-Informed Variational Autoencoder for Rapid Galaxy Inference and Anomaly Detection**|Alexander Gagliano et.al.|[2312.16687v1](http://arxiv.org/abs/2312.16687v1)|
 
 ## change detection
 
