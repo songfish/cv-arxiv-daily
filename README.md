@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-01-04**|**Image-based Deep Learning for Smart Digital Twins: a Review**|Md Ruman Islam et.al.|[2401.02523v1](http://arxiv.org/abs/2401.02523v1)|
+|**2024-01-03**|**Locally Differentially Private Embedding Models in Distributed Fraud Prevention Systems**|Iker Perez et.al.|[2401.02450v1](http://arxiv.org/abs/2401.02450v1)|
 |**2024-01-04**|**Distillation-based fabric anomaly detection**|Simon Thomine et.al.|[2401.02287v1](http://arxiv.org/abs/2401.02287v1)|
 |**2024-01-03**|**AUPIMO: Redefining Visual Anomaly Detection Benchmarks with High Speed and Low Tolerance**|Joao P. C. Bertoldo et.al.|[2401.01984v1](http://arxiv.org/abs/2401.01984v1)|
 |**2024-01-03**|**SCALA: Sparsification-based Contrastive Learning for Anomaly Detection on Attributed Networks**|Enbo He et.al.|[2401.01625v1](http://arxiv.org/abs/2401.01625v1)|
@@ -57,8 +59,6 @@
 |**2024-01-02**|**Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt**|Jiaqi Liu et.al.|[2401.01010v1](http://arxiv.org/abs/2401.01010v1)|
 |**2024-01-01**|**Detection and Mitigation of Glitches in LISA Data: A Machine Learning Approach**|Niklas Houba et.al.|[2401.00846v1](http://arxiv.org/abs/2401.00846v1)|
 |**2023-12-30**|**Enabling Smart Retrofitting and Performance Anomaly Detection for a Sensorized Vessel: A Maritime Industry Experience**|Mahshid Helali Moghadam et.al.|[2401.00112v1](http://arxiv.org/abs/2401.00112v1)|
-|**2023-12-28**|**Sensor Data Simulation for Anomaly Detection of the Elderly Living Alone**|Kai Tanaka et.al.|[2312.16852v1](http://arxiv.org/abs/2312.16852v1)|
-|**2023-12-28**|**METER: A Dynamic Concept Adaptation Framework for Online Anomaly Detection**|Jiaqi Zhu et.al.|[2312.16831v1](http://arxiv.org/abs/2312.16831v1)|
 
 ## change detection
 
