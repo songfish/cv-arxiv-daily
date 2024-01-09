@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-01-08**|**FM-AE: Frequency-masked Multimodal Autoencoder for Zinc Electrolysis Plate Contact Abnormality Detection**|Canzong Zhou et.al.|[2401.03806v1](http://arxiv.org/abs/2401.03806v1)|
 |**2023-12-28**|**Unsupversied feature correlation model to predict breast abnormal variation maps in longitudinal mammograms**|Jun Bai et.al.|[2312.16772v1](http://arxiv.org/abs/2312.16772v1)|
 |**2023-11-20**|**Abnormal traffic detection system in SDN based on deep learning hybrid models**|Kun Wang et.al.|[2311.11550v1](http://arxiv.org/abs/2311.11550v1)|
 |**2023-11-06**|**NEURO HAND: A weakly supervised Hierarchical Attention Network for neuroimaging abnormality Detection**|David A. Wood et.al.|[2311.02992v1](http://arxiv.org/abs/2311.02992v1)|
@@ -43,22 +44,21 @@
 |**2023-09-28**|**Automated Chest X-Ray Report Generator Using Multi-Model Deep Learning Approach**|Arief Purnama Muharram et.al.|[2310.05969v2](http://arxiv.org/abs/2310.05969v2)|
 |**2023-09-19**|**OccluTrack: Rethinking Awareness of Occlusion for Enhancing Multiple Pedestrian Tracking**|Jianjun Gao et.al.|[2309.10360v1](http://arxiv.org/abs/2309.10360v1)|
 |**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v3](http://arxiv.org/abs/2308.16150v3)|
-|**2023-07-18**|**You've Got Two Teachers: Co-evolutionary Image and Report Distillation for Semi-supervised Anatomical Abnormality Detection in Chest X-ray**|Jinghan Sun et.al.|[2307.09184v1](http://arxiv.org/abs/2307.09184v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-01-07**|**Detecting Anomalies in Blockchain Transactions using Machine Learning Classifiers and Explainability Analysis**|Mohammad Hasan et.al.|[2401.03530v1](http://arxiv.org/abs/2401.03530v1)|
+|**2024-01-07**|**Text-Driven Traffic Anomaly Detection with Temporal High-Frequency Modeling in Driving Videos**|Rongqin Liang et.al.|[2401.03522v1](http://arxiv.org/abs/2401.03522v1)|
+|**2024-01-07**|**Weakly Augmented Variational Autoencoder in Time Series Anomaly Detection**|Zhangkai Wu et.al.|[2401.03341v1](http://arxiv.org/abs/2401.03341v1)|
+|**2024-01-06**|**Attention and Autoencoder Hybrid Model for Unsupervised Online Anomaly Detection**|Seyed Amirhossein Najafi et.al.|[2401.03322v1](http://arxiv.org/abs/2401.03322v1)|
+|**2024-01-06**|**Semi-supervised learning via DQN for log anomaly detection**|Yingying He et.al.|[2401.03151v1](http://arxiv.org/abs/2401.03151v1)|
+|**2024-01-06**|**Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection**|Yuanpeng Tu et.al.|[2401.03145v1](http://arxiv.org/abs/2401.03145v1)|
 |**2024-01-04**|**Image-based Deep Learning for Smart Digital Twins: a Review**|Md Ruman Islam et.al.|[2401.02523v1](http://arxiv.org/abs/2401.02523v1)|
 |**2024-01-03**|**Locally Differentially Private Embedding Models in Distributed Fraud Prevention Systems**|Iker Perez et.al.|[2401.02450v1](http://arxiv.org/abs/2401.02450v1)|
 |**2024-01-04**|**Distillation-based fabric anomaly detection**|Simon Thomine et.al.|[2401.02287v1](http://arxiv.org/abs/2401.02287v1)|
 |**2024-01-03**|**AUPIMO: Redefining Visual Anomaly Detection Benchmarks with High Speed and Low Tolerance**|Joao P. C. Bertoldo et.al.|[2401.01984v1](http://arxiv.org/abs/2401.01984v1)|
-|**2024-01-03**|**SCALA: Sparsification-based Contrastive Learning for Anomaly Detection on Attributed Networks**|Enbo He et.al.|[2401.01625v1](http://arxiv.org/abs/2401.01625v1)|
-|**2024-01-03**|**Regression Based Anomaly Detection in Electric Vehicle State of Charge Fluctuations Through Analysis of EVCI Data**|Mitikiri Sagar Babu et.al.|[2401.01580v1](http://arxiv.org/abs/2401.01580v1)|
-|**2024-01-02**|**Exploring Hyperspectral Anomaly Detection with Human Vision: A Small Target Aware Detector**|Jitao Ma et.al.|[2401.01093v1](http://arxiv.org/abs/2401.01093v1)|
-|**2024-01-02**|**Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt**|Jiaqi Liu et.al.|[2401.01010v1](http://arxiv.org/abs/2401.01010v1)|
-|**2024-01-01**|**Detection and Mitigation of Glitches in LISA Data: A Machine Learning Approach**|Niklas Houba et.al.|[2401.00846v1](http://arxiv.org/abs/2401.00846v1)|
-|**2023-12-30**|**Enabling Smart Retrofitting and Performance Anomaly Detection for a Sensorized Vessel: A Maritime Industry Experience**|Mahshid Helali Moghadam et.al.|[2401.00112v1](http://arxiv.org/abs/2401.00112v1)|
 
 ## change detection
 
