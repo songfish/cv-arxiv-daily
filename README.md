@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-01-09**|**The site linkage spectrum of data arrays**|Christopher Barrett et.al.|[2401.04827v1](http://arxiv.org/abs/2401.04827v1)|
+|**2024-01-09**|**LogFormer: A Pre-train and Tuning Pipeline for Log Anomaly Detection**|Hongcheng Guo et.al.|[2401.04749v1](http://arxiv.org/abs/2401.04749v1)|
 |**2024-01-09**|**D3AD: Dynamic Denoising Diffusion Probabilistic Model for Anomaly Detection**|Justin Tebbe et.al.|[2401.04463v1](http://arxiv.org/abs/2401.04463v1)|
 |**2024-01-09**|**Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Dimension Reduction Methods**|Dongeon Kim et.al.|[2401.04437v1](http://arxiv.org/abs/2401.04437v1)|
 |**2024-01-08**|**Data-Agnostic Face Image Synthesis Detection Using Bayesian CNNs**|Roberto Leyva et.al.|[2401.04241v1](http://arxiv.org/abs/2401.04241v1)|
@@ -57,13 +59,13 @@
 |**2024-01-07**|**Weakly Augmented Variational Autoencoder in Time Series Anomaly Detection**|Zhangkai Wu et.al.|[2401.03341v1](http://arxiv.org/abs/2401.03341v1)|
 |**2024-01-06**|**Attention and Autoencoder Hybrid Model for Unsupervised Online Anomaly Detection**|Seyed Amirhossein Najafi et.al.|[2401.03322v1](http://arxiv.org/abs/2401.03322v1)|
 |**2024-01-06**|**Semi-supervised learning via DQN for log anomaly detection**|Yingying He et.al.|[2401.03151v1](http://arxiv.org/abs/2401.03151v1)|
-|**2024-01-06**|**Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection**|Yuanpeng Tu et.al.|[2401.03145v1](http://arxiv.org/abs/2401.03145v1)|
-|**2024-01-04**|**Image-based Deep Learning for Smart Digital Twins: a Review**|Md Ruman Islam et.al.|[2401.02523v1](http://arxiv.org/abs/2401.02523v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-01-10**|**Toward distortion-aware change detection in realistic scenarios**|Yitao Zhao et.al.|[2401.05157v1](http://arxiv.org/abs/2401.05157v1)|
+|**2024-01-10**|**SwiMDiff: Scene-wide Matching Contrastive Learning with Diffusion Constraint for Remote Sensing Image**|Jiayuan Tian et.al.|[2401.05093v1](http://arxiv.org/abs/2401.05093v1)|
 |**2024-01-09**|**Generic Knowledge Boosted Pre-training For Remote Sensing Images**|Ziyue Huang et.al.|[2401.04614v1](http://arxiv.org/abs/2401.04614v1)|
 |**2024-01-09**|**BD-MSA: Body decouple VHR Remote Sensing Image Change Detection method guided by multi-scale feature information aggregation**|Yonghui Tan et.al.|[2401.04330v1](http://arxiv.org/abs/2401.04330v1)|
 |**2024-01-02**|**CityPulse: Fine-Grained Assessment of Urban Change with Street View Time Series**|Tianyuan Huang et.al.|[2401.01107v2](http://arxiv.org/abs/2401.01107v2)|
@@ -71,7 +73,5 @@
 |**2023-12-28**|**Reinforcement-based Display-size Selection for Frugal Satellite Image Change Detection**|Hichem Sahbi et.al.|[2312.16965v1](http://arxiv.org/abs/2312.16965v1)|
 |**2023-12-28**|**Cellular forgetting, desensitisation, stress and aging in signalling networks. When do cells refuse to learn more?**|Tamas Veres et.al.|[2312.16875v1](http://arxiv.org/abs/2312.16875v1)|
 |**2023-12-27**|**Segment Change Model (SCM) for Unsupervised Change detection in VHR Remote Sensing Images: a Case Study of Buildings**|Xiaoliang Tan et.al.|[2312.16410v1](http://arxiv.org/abs/2312.16410v1)|
-|**2023-12-23**|**Time Travelling Pixels: Bitemporal Features Integration with Foundation Model for Remote Sensing Image Change Detection**|Keyan Chen et.al.|[2312.16202v1](http://arxiv.org/abs/2312.16202v1)|
 |**2023-12-23**|**Pixel-Level Change Detection Pseudo-Label Learning for Remote Sensing Change Captioning**|Chenyang Liu et.al.|[2312.15311v1](http://arxiv.org/abs/2312.15311v1)|
-|**2023-12-22**|**Change Point Detection of Events in Molecular Simulations using dupin**|Brandon L. Butler et.al.|[2312.15090v3](http://arxiv.org/abs/2312.15090v3)|
 
