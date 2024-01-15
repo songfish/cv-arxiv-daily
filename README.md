@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-01-10**|**MTAD: Tools and Benchmarks for Multivariate Time Series Anomaly Detection**|Jinyang Liu et.al.|[2401.06175v1](http://arxiv.org/abs/2401.06175v1)|
 |**2024-01-11**|**Graph Spatiotemporal Process for Multivariate Time Series Anomaly Detection with Missing Values**|Yu Zheng et.al.|[2401.05800v1](http://arxiv.org/abs/2401.05800v1)|
 |**2024-01-11**|**Video Anomaly Detection and Explanation via Large Language Models**|Hui Lv et.al.|[2401.05702v1](http://arxiv.org/abs/2401.05702v1)|
 |**2024-01-09**|**The site linkage spectrum of data arrays**|Christopher Barrett et.al.|[2401.04827v1](http://arxiv.org/abs/2401.04827v1)|
@@ -58,12 +59,13 @@
 |**2024-01-08**|**Data-Agnostic Face Image Synthesis Detection Using Bayesian CNNs**|Roberto Leyva et.al.|[2401.04241v1](http://arxiv.org/abs/2401.04241v1)|
 |**2024-01-07**|**Detecting Anomalies in Blockchain Transactions using Machine Learning Classifiers and Explainability Analysis**|Mohammad Hasan et.al.|[2401.03530v1](http://arxiv.org/abs/2401.03530v1)|
 |**2024-01-07**|**Text-Driven Traffic Anomaly Detection with Temporal High-Frequency Modeling in Driving Videos**|Rongqin Liang et.al.|[2401.03522v1](http://arxiv.org/abs/2401.03522v1)|
-|**2024-01-07**|**Weakly Augmented Variational Autoencoder in Time Series Anomaly Detection**|Zhangkai Wu et.al.|[2401.03341v1](http://arxiv.org/abs/2401.03341v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-01-12**|**Stylometry Analysis of Multi-authored Documents for Authorship and Author Style Change Detection**|Muhammad Tayyab Zamir et.al.|[2401.06752v1](http://arxiv.org/abs/2401.06752v1)|
+|**2024-01-11**|**AGSPNet: A framework for parcel-scale crop fine-grained semantic change detection from UAV high-resolution imagery with agricultural geographic scene constraints**|Shaochun Li et.al.|[2401.06252v1](http://arxiv.org/abs/2401.06252v1)|
 |**2024-01-10**|**Toward distortion-aware change detection in realistic scenarios**|Yitao Zhao et.al.|[2401.05157v1](http://arxiv.org/abs/2401.05157v1)|
 |**2024-01-10**|**SwiMDiff: Scene-wide Matching Contrastive Learning with Diffusion Constraint for Remote Sensing Image**|Jiayuan Tian et.al.|[2401.05093v1](http://arxiv.org/abs/2401.05093v1)|
 |**2024-01-09**|**Generic Knowledge Boosted Pre-training For Remote Sensing Images**|Ziyue Huang et.al.|[2401.04614v1](http://arxiv.org/abs/2401.04614v1)|
@@ -72,6 +74,4 @@
 |**2023-12-29**|**ChangeNet: Multi-Temporal Asymmetric Change Detection Dataset**|Deyi Ji et.al.|[2312.17428v1](http://arxiv.org/abs/2312.17428v1)|
 |**2023-12-28**|**Reinforcement-based Display-size Selection for Frugal Satellite Image Change Detection**|Hichem Sahbi et.al.|[2312.16965v1](http://arxiv.org/abs/2312.16965v1)|
 |**2023-12-28**|**Cellular forgetting, desensitisation, stress and aging in signalling networks. When do cells refuse to learn more?**|Tamas Veres et.al.|[2312.16875v1](http://arxiv.org/abs/2312.16875v1)|
-|**2023-12-27**|**Segment Change Model (SCM) for Unsupervised Change detection in VHR Remote Sensing Images: a Case Study of Buildings**|Xiaoliang Tan et.al.|[2312.16410v1](http://arxiv.org/abs/2312.16410v1)|
-|**2023-12-23**|**Pixel-Level Change Detection Pseudo-Label Learning for Remote Sensing Change Captioning**|Chenyang Liu et.al.|[2312.15311v1](http://arxiv.org/abs/2312.15311v1)|
 
