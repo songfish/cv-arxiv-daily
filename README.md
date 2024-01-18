@@ -37,7 +37,7 @@
 |**2024-01-08**|**FM-AE: Frequency-masked Multimodal Autoencoder for Zinc Electrolysis Plate Contact Abnormality Detection**|Canzong Zhou et.al.|[2401.03806v1](http://arxiv.org/abs/2401.03806v1)|
 |**2023-12-28**|**Unsupversied feature correlation model to predict breast abnormal variation maps in longitudinal mammograms**|Jun Bai et.al.|[2312.16772v1](http://arxiv.org/abs/2312.16772v1)|
 |**2023-11-20**|**Abnormal traffic detection system in SDN based on deep learning hybrid models**|Kun Wang et.al.|[2311.11550v1](http://arxiv.org/abs/2311.11550v1)|
-|**2023-11-06**|**NEURO HAND: A weakly supervised Hierarchical Attention Network for neuroimaging abnormality Detection**|David A. Wood et.al.|[2311.02992v1](http://arxiv.org/abs/2311.02992v1)|
+|**2023-11-06**|**NEURO HAND: A weakly supervised Hierarchical Attention Network for interpretable neuroimaging abnormality Detection**|David A. Wood et.al.|[2311.02992v2](http://arxiv.org/abs/2311.02992v2)|
 |**2023-10-21**|**A multivariate Bayesian learning approach for improved detection of doping in athletes using urinary steroid profiles**|Dimitra Eleftheriou et.al.|[2310.13980v1](http://arxiv.org/abs/2310.13980v1)|
 |**2023-10-20**|**Identification of Abnormality in Maize Plants From UAV Images Using Deep Learning Approaches**|Aminul Huq et.al.|[2310.13201v1](http://arxiv.org/abs/2310.13201v1)|
 |**2023-10-10**|**Multiscale Fusion for Abnormality Detection and Localization of Distributed Parameter Systems**|Peng Wei et.al.|[2310.08606v3](http://arxiv.org/abs/2310.08606v3)|
