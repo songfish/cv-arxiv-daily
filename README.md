@@ -49,29 +49,29 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-01-17**|**A GAN-based data poisoning framework against anomaly detection in vertical federated learning**|Xiaolin Chen et.al.|[2401.08984v1](http://arxiv.org/abs/2401.08984v1)|
+|**2024-01-16**|**Robust Anomaly Detection for Particle Physics Using Multi-Background Representation Learning**|Abhijith Gandrakota et.al.|[2401.08777v1](http://arxiv.org/abs/2401.08777v1)|
+|**2024-01-16**|**The weird and the wonderful in our Solar System: Searching for serendipity in the Legacy Survey of Space and Time**|Brian Rogers et.al.|[2401.08763v1](http://arxiv.org/abs/2401.08763v1)|
+|**2024-01-13**|**Attention Modules Improve Modern Image-Level Anomaly Detection: A DifferNet Case Study**|André Luiz B. Vieira e Silva et.al.|[2401.08686v1](http://arxiv.org/abs/2401.08686v1)|
+|**2024-01-16**|**ADVENT: Attack/Anomaly Detection in VANETs**|Hamideh Baharlouei et.al.|[2401.08564v1](http://arxiv.org/abs/2401.08564v1)|
 |**2024-01-16**|**IoTWarden: A Deep Reinforcement Learning Based Real-time Defense System to Mitigate Trigger-action IoT Attacks**|Md Morshed Alam et.al.|[2401.08141v1](http://arxiv.org/abs/2401.08141v1)|
 |**2024-01-15**|**A Pragmatical Approach to Anomaly Detection Evaluation in Edge Cloud Systems**|Sotiris Skaperas et.al.|[2401.07717v1](http://arxiv.org/abs/2401.07717v1)|
 |**2024-01-15**|**MLAD: A Unified Model for Multi-system Log Anomaly Detection**|Runqiang Zang et.al.|[2401.07655v1](http://arxiv.org/abs/2401.07655v1)|
 |**2024-01-13**|**Edge-Enabled Anomaly Detection and Information Completion for Social Network Knowledge Graphs**|Fan Lu et.al.|[2401.07022v1](http://arxiv.org/abs/2401.07022v1)|
-|**2024-01-10**|**MTAD: Tools and Benchmarks for Multivariate Time Series Anomaly Detection**|Jinyang Liu et.al.|[2401.06175v1](http://arxiv.org/abs/2401.06175v1)|
 |**2024-01-11**|**Graph Spatiotemporal Process for Multivariate Time Series Anomaly Detection with Missing Values**|Yu Zheng et.al.|[2401.05800v1](http://arxiv.org/abs/2401.05800v1)|
-|**2024-01-11**|**Video Anomaly Detection and Explanation via Large Language Models**|Hui Lv et.al.|[2401.05702v1](http://arxiv.org/abs/2401.05702v1)|
-|**2024-01-09**|**The site linkage spectrum of data arrays**|Christopher Barrett et.al.|[2401.04827v1](http://arxiv.org/abs/2401.04827v1)|
-|**2024-01-09**|**LogFormer: A Pre-train and Tuning Pipeline for Log Anomaly Detection**|Hongcheng Guo et.al.|[2401.04749v1](http://arxiv.org/abs/2401.04749v1)|
-|**2024-01-09**|**D3AD: Dynamic Denoising Diffusion Probabilistic Model for Anomaly Detection**|Justin Tebbe et.al.|[2401.04463v1](http://arxiv.org/abs/2401.04463v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-01-17**|**Siamese Meets Diffusion Network: SMDNet for Enhanced Change Detection in High-Resolution RS Imagery**|Jia Jia et.al.|[2401.09325v1](http://arxiv.org/abs/2401.09325v1)|
+|**2024-01-17**|**Spatio-temporal analysis for extreme temperature indices over the Levant region**|Ala A. M. Salameh et.al.|[2401.09022v1](http://arxiv.org/abs/2401.09022v1)|
+|**2024-01-17**|**Change Detection Between Optical Remote Sensing Imagery and Map Data via Segment Anything Model (SAM)**|Hongruixuan Chen et.al.|[2401.09019v1](http://arxiv.org/abs/2401.09019v1)|
+|**2024-01-16**|**Image Fusion in Remote Sensing: An Overview and Meta Analysis**|Hessah Albanwan et.al.|[2401.08837v1](http://arxiv.org/abs/2401.08837v1)|
 |**2024-01-12**|**Stylometry Analysis of Multi-authored Documents for Authorship and Author Style Change Detection**|Muhammad Tayyab Zamir et.al.|[2401.06752v1](http://arxiv.org/abs/2401.06752v1)|
 |**2024-01-11**|**AGSPNet: A framework for parcel-scale crop fine-grained semantic change detection from UAV high-resolution imagery with agricultural geographic scene constraints**|Shaochun Li et.al.|[2401.06252v1](http://arxiv.org/abs/2401.06252v1)|
 |**2024-01-10**|**Toward distortion-aware change detection in realistic scenarios**|Yitao Zhao et.al.|[2401.05157v1](http://arxiv.org/abs/2401.05157v1)|
 |**2024-01-10**|**SwiMDiff: Scene-wide Matching Contrastive Learning with Diffusion Constraint for Remote Sensing Image**|Jiayuan Tian et.al.|[2401.05093v1](http://arxiv.org/abs/2401.05093v1)|
 |**2024-01-09**|**Generic Knowledge Boosted Pre-training For Remote Sensing Images**|Ziyue Huang et.al.|[2401.04614v1](http://arxiv.org/abs/2401.04614v1)|
 |**2024-01-09**|**BD-MSA: Body decouple VHR Remote Sensing Image Change Detection method guided by multi-scale feature information aggregation**|Yonghui Tan et.al.|[2401.04330v1](http://arxiv.org/abs/2401.04330v1)|
-|**2024-01-02**|**CityPulse: Fine-Grained Assessment of Urban Change with Street View Time Series**|Tianyuan Huang et.al.|[2401.01107v2](http://arxiv.org/abs/2401.01107v2)|
-|**2023-12-29**|**ChangeNet: Multi-Temporal Asymmetric Change Detection Dataset**|Deyi Ji et.al.|[2312.17428v1](http://arxiv.org/abs/2312.17428v1)|
-|**2023-12-28**|**Reinforcement-based Display-size Selection for Frugal Satellite Image Change Detection**|Hichem Sahbi et.al.|[2312.16965v1](http://arxiv.org/abs/2312.16965v1)|
-|**2023-12-28**|**Cellular forgetting, desensitisation, stress and aging in signalling networks. When do cells refuse to learn more?**|Tamas Veres et.al.|[2312.16875v1](http://arxiv.org/abs/2312.16875v1)|
 
