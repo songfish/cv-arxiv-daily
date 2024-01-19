@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-01-18**|**PatchAD: Patch-based MLP-Mixer for Time Series Anomaly Detection**|Zhijie Zhong et.al.|[2401.09793v1](http://arxiv.org/abs/2401.09793v1)|
+|**2024-01-16**|**PUPAE: Intuitive and Actionable Explanations for Time Series Anomalies**|Audrey Der et.al.|[2401.09489v1](http://arxiv.org/abs/2401.09489v1)|
 |**2024-01-17**|**A GAN-based data poisoning framework against anomaly detection in vertical federated learning**|Xiaolin Chen et.al.|[2401.08984v1](http://arxiv.org/abs/2401.08984v1)|
 |**2024-01-16**|**Robust Anomaly Detection for Particle Physics Using Multi-Background Representation Learning**|Abhijith Gandrakota et.al.|[2401.08777v1](http://arxiv.org/abs/2401.08777v1)|
 |**2024-01-16**|**The weird and the wonderful in our Solar System: Searching for serendipity in the Legacy Survey of Space and Time**|Brian Rogers et.al.|[2401.08763v1](http://arxiv.org/abs/2401.08763v1)|
-|**2024-01-13**|**Attention Modules Improve Modern Image-Level Anomaly Detection: A DifferNet Case Study**|André Luiz B. Vieira e Silva et.al.|[2401.08686v1](http://arxiv.org/abs/2401.08686v1)|
 |**2024-01-16**|**ADVENT: Attack/Anomaly Detection in VANETs**|Hamideh Baharlouei et.al.|[2401.08564v1](http://arxiv.org/abs/2401.08564v1)|
 |**2024-01-16**|**IoTWarden: A Deep Reinforcement Learning Based Real-time Defense System to Mitigate Trigger-action IoT Attacks**|Md Morshed Alam et.al.|[2401.08141v1](http://arxiv.org/abs/2401.08141v1)|
 |**2024-01-15**|**A Pragmatical Approach to Anomaly Detection Evaluation in Edge Cloud Systems**|Sotiris Skaperas et.al.|[2401.07717v1](http://arxiv.org/abs/2401.07717v1)|
 |**2024-01-15**|**MLAD: A Unified Model for Multi-system Log Anomaly Detection**|Runqiang Zang et.al.|[2401.07655v1](http://arxiv.org/abs/2401.07655v1)|
 |**2024-01-13**|**Edge-Enabled Anomaly Detection and Information Completion for Social Network Knowledge Graphs**|Fan Lu et.al.|[2401.07022v1](http://arxiv.org/abs/2401.07022v1)|
-|**2024-01-11**|**Graph Spatiotemporal Process for Multivariate Time Series Anomaly Detection with Missing Values**|Yu Zheng et.al.|[2401.05800v1](http://arxiv.org/abs/2401.05800v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-01-18**|**Regime change detection in irregularly sampled time series**|Norbert Marwan et.al.|[2401.10006v1](http://arxiv.org/abs/2401.10006v1)|
 |**2024-01-17**|**Siamese Meets Diffusion Network: SMDNet for Enhanced Change Detection in High-Resolution RS Imagery**|Jia Jia et.al.|[2401.09325v1](http://arxiv.org/abs/2401.09325v1)|
 |**2024-01-17**|**Spatio-temporal analysis for extreme temperature indices over the Levant region**|Ala A. M. Salameh et.al.|[2401.09022v1](http://arxiv.org/abs/2401.09022v1)|
 |**2024-01-17**|**Change Detection Between Optical Remote Sensing Imagery and Map Data via Segment Anything Model (SAM)**|Hongruixuan Chen et.al.|[2401.09019v1](http://arxiv.org/abs/2401.09019v1)|
@@ -73,5 +74,4 @@
 |**2024-01-10**|**Toward distortion-aware change detection in realistic scenarios**|Yitao Zhao et.al.|[2401.05157v1](http://arxiv.org/abs/2401.05157v1)|
 |**2024-01-10**|**SwiMDiff: Scene-wide Matching Contrastive Learning with Diffusion Constraint for Remote Sensing Image**|Jiayuan Tian et.al.|[2401.05093v1](http://arxiv.org/abs/2401.05093v1)|
 |**2024-01-09**|**Generic Knowledge Boosted Pre-training For Remote Sensing Images**|Ziyue Huang et.al.|[2401.04614v1](http://arxiv.org/abs/2401.04614v1)|
-|**2024-01-09**|**BD-MSA: Body decouple VHR Remote Sensing Image Change Detection method guided by multi-scale feature information aggregation**|Yonghui Tan et.al.|[2401.04330v1](http://arxiv.org/abs/2401.04330v1)|
 
