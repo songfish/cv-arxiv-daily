@@ -54,7 +54,7 @@
 |**2024-01-19**|**PhoGAD: Graph-based Anomaly Behavior Detection with Persistent Homology Optimization**|Ziqi Yuan et.al.|[2401.10547v1](http://arxiv.org/abs/2401.10547v1)|
 |**2024-01-18**|**Intelligent Optimization and Machine Learning Algorithms for Structural Anomaly Detection using Seismic Signals**|Maximilian Trapp et.al.|[2401.10355v1](http://arxiv.org/abs/2401.10355v1)|
 |**2024-01-18**|**MELODY: Robust Semi-Supervised Hybrid Model for Entity-Level Online Anomaly Detection with Multivariate Time Series**|Jingchao Ni et.al.|[2401.10338v1](http://arxiv.org/abs/2401.10338v1)|
-|**2024-01-18**|**PatchAD: Patch-based MLP-Mixer for Time Series Anomaly Detection**|Zhijie Zhong et.al.|[2401.09793v1](http://arxiv.org/abs/2401.09793v1)|
+|**2024-01-18**|**PatchAD: Patch-based MLP-Mixer for Time Series Anomaly Detection**|Zhijie Zhong et.al.|[2401.09793v2](http://arxiv.org/abs/2401.09793v2)|
 |**2024-01-16**|**PUPAE: Intuitive and Actionable Explanations for Time Series Anomalies**|Audrey Der et.al.|[2401.09489v1](http://arxiv.org/abs/2401.09489v1)|
 |**2024-01-17**|**A GAN-based data poisoning framework against anomaly detection in vertical federated learning**|Xiaolin Chen et.al.|[2401.08984v1](http://arxiv.org/abs/2401.08984v1)|
 |**2024-01-16**|**Robust Anomaly Detection for Particle Physics Using Multi-Background Representation Learning**|Abhijith Gandrakota et.al.|[2401.08777v1](http://arxiv.org/abs/2401.08777v1)|
