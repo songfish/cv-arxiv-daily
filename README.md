@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-01-23**|**Multi-Party Private Set Intersection: A Circuit-Based Protocol with Jaccard Similarity for Secure and Efficient Anomaly Detection in Network Traffic**|Jiuheng Su et.al.|[2401.12542v1](http://arxiv.org/abs/2401.12542v1)|
 |**2024-01-22**|**Unsupervised Machine Learning for the Classification of Astrophysical X-ray Sources**|Víctor Samuel Pérez-Díaz et.al.|[2401.12203v1](http://arxiv.org/abs/2401.12203v1)|
 |**2024-01-22**|**Broiler-Net: A Deep Convolutional Framework for Broiler Behavior Analysis in Poultry Houses**|Tahereh Zarrat Ehsan et.al.|[2401.12176v1](http://arxiv.org/abs/2401.12176v1)|
 |**2024-01-22**|**A Review of Physics-Informed Machine Learning Methods with Applications to Condition Monitoring and Anomaly Detection**|Yuandi Wu et.al.|[2401.11860v1](http://arxiv.org/abs/2401.11860v1)|
@@ -58,12 +59,12 @@
 |**2024-01-20**|**DACR: Distribution-Augmented Contrastive Reconstruction for Time-Series Anomaly Detection**|Lixu Wang et.al.|[2401.11271v1](http://arxiv.org/abs/2401.11271v1)|
 |**2024-01-20**|**TreeMIL: A Multi-instance Learning Framework for Time Series Anomaly Detection with Inexact Supervision**|Chen Liu et.al.|[2401.11235v1](http://arxiv.org/abs/2401.11235v1)|
 |**2024-01-19**|**Towards Universal Unsupervised Anomaly Detection in Medical Imaging**|Cosmin I. Bercea et.al.|[2401.10637v1](http://arxiv.org/abs/2401.10637v1)|
-|**2024-01-19**|**MAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images**|Rui Xu et.al.|[2401.10561v1](http://arxiv.org/abs/2401.10561v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-01-23**|**On the Fundamental Tradeoff of Joint Communication and Quickest Change Detection**|Daewon Seo et.al.|[2401.12499v1](http://arxiv.org/abs/2401.12499v1)|
 |**2024-01-21**|**MapChange: Enhancing Semantic Change Detection with Temporal-Invariant Historical Maps Based on Deep Triplet Network**|Yinhe Liu et.al.|[2401.11489v1](http://arxiv.org/abs/2401.11489v1)|
 |**2024-01-19**|**HiCD: Change Detection in Quality-Varied Images via Hierarchical Correlation Distillation**|Chao Pang et.al.|[2401.10752v1](http://arxiv.org/abs/2401.10752v1)|
 |**2024-01-18**|**Regime change detection in irregularly sampled time series**|Norbert Marwan et.al.|[2401.10006v1](http://arxiv.org/abs/2401.10006v1)|
@@ -73,5 +74,4 @@
 |**2024-01-16**|**Image Fusion in Remote Sensing: An Overview and Meta Analysis**|Hessah Albanwan et.al.|[2401.08837v1](http://arxiv.org/abs/2401.08837v1)|
 |**2024-01-12**|**Stylometry Analysis of Multi-authored Documents for Authorship and Author Style Change Detection**|Muhammad Tayyab Zamir et.al.|[2401.06752v1](http://arxiv.org/abs/2401.06752v1)|
 |**2024-01-11**|**AGSPNet: A framework for parcel-scale crop fine-grained semantic change detection from UAV high-resolution imagery with agricultural geographic scene constraints**|Shaochun Li et.al.|[2401.06252v1](http://arxiv.org/abs/2401.06252v1)|
-|**2024-01-10**|**Toward distortion-aware change detection in realistic scenarios**|Yitao Zhao et.al.|[2401.05157v1](http://arxiv.org/abs/2401.05157v1)|
 
