@@ -53,7 +53,7 @@
 |**2024-01-22**|**Broiler-Net: A Deep Convolutional Framework for Broiler Behavior Analysis in Poultry Houses**|Tahereh Zarrat Ehsan et.al.|[2401.12176v1](http://arxiv.org/abs/2401.12176v1)|
 |**2024-01-22**|**A Review of Physics-Informed Machine Learning Methods with Applications to Condition Monitoring and Anomaly Detection**|Yuandi Wu et.al.|[2401.11860v1](http://arxiv.org/abs/2401.11860v1)|
 |**2024-01-22**|**Symbrain: A large-scale dataset of MRI images for neonatal brain symmetry analysis**|Arnaud Gucciardi et.al.|[2401.11814v1](http://arxiv.org/abs/2401.11814v1)|
-|**2024-01-22**|**GI-PIP: Do We Require Impractical Auxiliary Dataset for Gradient Inversion Attacks?**|Yu sun et.al.|[2401.11748v1](http://arxiv.org/abs/2401.11748v1)|
+|**2024-01-22**|**GI-PIP: Do We Require Impractical Auxiliary Dataset for Gradient Inversion Attacks?**|Yu sun et.al.|[2401.11748v2](http://arxiv.org/abs/2401.11748v2)|
 |**2024-01-22**|**Unraveling Attacks in Machine Learning-based IoT Ecosystems: A Survey and the Open Libraries Behind Them**|Chao Liu et.al.|[2401.11723v1](http://arxiv.org/abs/2401.11723v1)|
 |**2024-01-20**|**DACR: Distribution-Augmented Contrastive Reconstruction for Time-Series Anomaly Detection**|Lixu Wang et.al.|[2401.11271v1](http://arxiv.org/abs/2401.11271v1)|
 |**2024-01-20**|**TreeMIL: A Multi-instance Learning Framework for Time Series Anomaly Detection with Inexact Supervision**|Chen Liu et.al.|[2401.11235v1](http://arxiv.org/abs/2401.11235v1)|
