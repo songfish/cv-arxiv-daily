@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-01-24**|**Interleaving One-Class and Weakly-Supervised Models with Adaptive Thresholding for Unsupervised Video Anomaly Detection**|Yongwei Nie et.al.|[2401.13551v1](http://arxiv.org/abs/2401.13551v1)|
+|**2024-01-24**|**Multitask Active Learning for Graph Anomaly Detection**|Wenjing Chang et.al.|[2401.13210v1](http://arxiv.org/abs/2401.13210v1)|
 |**2024-01-23**|**Multi-Party Private Set Intersection: A Circuit-Based Protocol with Jaccard Similarity for Secure and Efficient Anomaly Detection in Network Traffic**|Jiuheng Su et.al.|[2401.12542v1](http://arxiv.org/abs/2401.12542v1)|
 |**2024-01-22**|**Unsupervised Machine Learning for the Classification of Astrophysical X-ray Sources**|Víctor Samuel Pérez-Díaz et.al.|[2401.12203v1](http://arxiv.org/abs/2401.12203v1)|
 |**2024-01-22**|**Broiler-Net: A Deep Convolutional Framework for Broiler Behavior Analysis in Poultry Houses**|Tahereh Zarrat Ehsan et.al.|[2401.12176v1](http://arxiv.org/abs/2401.12176v1)|
@@ -57,8 +59,6 @@
 |**2024-01-22**|**GI-PIP: Do We Require Impractical Auxiliary Dataset for Gradient Inversion Attacks?**|Yu sun et.al.|[2401.11748v2](http://arxiv.org/abs/2401.11748v2)|
 |**2024-01-22**|**Unraveling Attacks in Machine Learning-based IoT Ecosystems: A Survey and the Open Libraries Behind Them**|Chao Liu et.al.|[2401.11723v1](http://arxiv.org/abs/2401.11723v1)|
 |**2024-01-20**|**DACR: Distribution-Augmented Contrastive Reconstruction for Time-Series Anomaly Detection**|Lixu Wang et.al.|[2401.11271v1](http://arxiv.org/abs/2401.11271v1)|
-|**2024-01-20**|**TreeMIL: A Multi-instance Learning Framework for Time Series Anomaly Detection with Inexact Supervision**|Chen Liu et.al.|[2401.11235v1](http://arxiv.org/abs/2401.11235v1)|
-|**2024-01-19**|**Towards Universal Unsupervised Anomaly Detection in Medical Imaging**|Cosmin I. Bercea et.al.|[2401.10637v1](http://arxiv.org/abs/2401.10637v1)|
 
 ## change detection
 
