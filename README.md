@@ -41,7 +41,7 @@
 |**2023-10-21**|**A multivariate Bayesian learning approach for improved detection of doping in athletes using urinary steroid profiles**|Dimitra Eleftheriou et.al.|[2310.13980v1](http://arxiv.org/abs/2310.13980v1)|
 |**2023-10-20**|**Identification of Abnormality in Maize Plants From UAV Images Using Deep Learning Approaches**|Aminul Huq et.al.|[2310.13201v1](http://arxiv.org/abs/2310.13201v1)|
 |**2023-10-10**|**Multiscale Fusion for Abnormality Detection and Localization of Distributed Parameter Systems**|Peng Wei et.al.|[2310.08606v3](http://arxiv.org/abs/2310.08606v3)|
-|**2023-09-28**|**Automated Chest X-Ray Report Generator Using Multi-Model Deep Learning Approach**|Arief Purnama Muharram et.al.|[2310.05969v2](http://arxiv.org/abs/2310.05969v2)|
+|**2023-09-28**|**Automated Chest X-Ray Report Generator Using Multi-Model Deep Learning Approach**|Arief Purnama Muharram et.al.|[2310.05969v3](http://arxiv.org/abs/2310.05969v3)|
 |**2023-09-19**|**OccluTrack: Rethinking Awareness of Occlusion for Enhancing Multiple Pedestrian Tracking**|Jianjun Gao et.al.|[2309.10360v1](http://arxiv.org/abs/2309.10360v1)|
 |**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v3](http://arxiv.org/abs/2308.16150v3)|
 
