@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-02-01**|**Dual-Student Knowledge Distillation Networks for Unsupervised Anomaly Detection**|Liyi Yao et.al.|[2402.00448v1](http://arxiv.org/abs/2402.00448v1)|
 |**2024-01-30**|**Making Parametric Anomaly Detection on Tabular Data Non-Parametric Again**|Hugo Thimonier et.al.|[2401.17052v1](http://arxiv.org/abs/2401.17052v1)|
 |**2024-01-30**|**Evaluating ML-Based Anomaly Detection Across Datasets of Varied Integrity: A Case Study**|Adrian Pekar et.al.|[2401.16843v1](http://arxiv.org/abs/2401.16843v1)|
 |**2024-01-29**|**A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect**|Yunkang Cao et.al.|[2401.16402v1](http://arxiv.org/abs/2401.16402v1)|
@@ -58,7 +59,6 @@
 |**2024-01-28**|**Anomaly Detection of Particle Orbit in Accelerator using LSTM Deep Learning Technology**|Zhiyuan Chen et.al.|[2401.15543v1](http://arxiv.org/abs/2401.15543v1)|
 |**2024-01-28**|**Exploring Optimal Transport for Event-Level Anomaly Detection at the Large Hadron Collider**|Nathaniel Craig et.al.|[2401.15542v1](http://arxiv.org/abs/2401.15542v1)|
 |**2024-01-26**|**SCANIA Component X Dataset: A Real-World Multivariate Time Series Dataset for Predictive Maintenance**|Zahra Kharazian et.al.|[2401.15199v1](http://arxiv.org/abs/2401.15199v1)|
-|**2024-01-26**|**Towards Robust Hyperspectral Anomaly Detection: Decomposing Background, Anomaly, and Mixed Noise via Convex Optimization**|Koyo Sato et.al.|[2401.14814v1](http://arxiv.org/abs/2401.14814v1)|
 
 ## change detection
 
