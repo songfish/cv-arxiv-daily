@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-02-05**|**One-class anomaly detection through color-to-thermal AI for building envelope inspection**|Polina Kurtser et.al.|[2402.02963v1](http://arxiv.org/abs/2402.02963v1)|
+|**2024-02-05**|**Quantum Normalizing Flows for Anomaly Detection**|Bodo Rosenhahn et.al.|[2402.02866v1](http://arxiv.org/abs/2402.02866v1)|
+|**2024-02-05**|**Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective**|Zexin Wang et.al.|[2402.02820v1](http://arxiv.org/abs/2402.02820v1)|
+|**2024-02-04**|**Timer: Transformers for Time Series Analysis at Scale**|Yong Liu et.al.|[2402.02368v1](http://arxiv.org/abs/2402.02368v1)|
+|**2024-02-03**|**Understanding Time Series Anomaly State Detection through One-Class Classification**|Hanxu Zhou et.al.|[2402.02007v1](http://arxiv.org/abs/2402.02007v1)|
+|**2024-02-02**|**AOC-IDS: Autonomous Online Framework with Contrastive Learning for Intrusion Detection**|Xinchen Zhang et.al.|[2402.01807v1](http://arxiv.org/abs/2402.01807v1)|
 |**2024-02-01**|**Dual-Student Knowledge Distillation Networks for Unsupervised Anomaly Detection**|Liyi Yao et.al.|[2402.00448v1](http://arxiv.org/abs/2402.00448v1)|
 |**2024-01-30**|**Making Parametric Anomaly Detection on Tabular Data Non-Parametric Again**|Hugo Thimonier et.al.|[2401.17052v1](http://arxiv.org/abs/2401.17052v1)|
 |**2024-01-30**|**Evaluating ML-Based Anomaly Detection Across Datasets of Varied Integrity: A Case Study**|Adrian Pekar et.al.|[2401.16843v1](http://arxiv.org/abs/2401.16843v1)|
 |**2024-01-29**|**A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect**|Yunkang Cao et.al.|[2401.16402v1](http://arxiv.org/abs/2401.16402v1)|
-|**2024-01-29**|**Evaluation of pseudo-healthy image reconstruction for anomaly detection with deep generative models: Application to brain FDG PET**|Ravi Hassanaly et.al.|[2401.16363v1](http://arxiv.org/abs/2401.16363v1)|
-|**2024-01-28**|**UP-CrackNet: Unsupervised Pixel-Wise Road Crack Detection via Adversarial Image Restoration**|Nachuan Ma et.al.|[2401.15647v1](http://arxiv.org/abs/2401.15647v1)|
-|**2024-01-28**|**Deep Learning for Gamma-Ray Bursts: A data driven event framework for X/Gamma-Ray analysis in space telescopes**|Riccardo Crupi et.al.|[2401.15632v1](http://arxiv.org/abs/2401.15632v1)|
-|**2024-01-28**|**Anomaly Detection of Particle Orbit in Accelerator using LSTM Deep Learning Technology**|Zhiyuan Chen et.al.|[2401.15543v1](http://arxiv.org/abs/2401.15543v1)|
-|**2024-01-28**|**Exploring Optimal Transport for Event-Level Anomaly Detection at the Large Hadron Collider**|Nathaniel Craig et.al.|[2401.15542v1](http://arxiv.org/abs/2401.15542v1)|
-|**2024-01-26**|**SCANIA Component X Dataset: A Real-World Multivariate Time Series Dataset for Predictive Maintenance**|Zahra Kharazian et.al.|[2401.15199v1](http://arxiv.org/abs/2401.15199v1)|
 
 ## change detection
 
