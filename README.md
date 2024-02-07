@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-02-06**|**Weakly Supervised Anomaly Detection via Knowledge-Data Alignment**|Haihong Zhao et.al.|[2402.03785v1](http://arxiv.org/abs/2402.03785v1)|
+|**2024-02-06**|**Statistical Test for Anomaly Detections by Variational Auto-Encoders**|Daiki Miwa et.al.|[2402.03724v1](http://arxiv.org/abs/2402.03724v1)|
+|**2024-02-05**|**Breakpoint based online anomaly detection**|Etienne Krönert et.al.|[2402.03565v1](http://arxiv.org/abs/2402.03565v1)|
+|**2024-02-05**|**Hybrid Smoothing for Anomaly Detection in Time Series**|Matthew Hofkes et.al.|[2402.03459v1](http://arxiv.org/abs/2402.03459v1)|
 |**2024-02-05**|**One-class anomaly detection through color-to-thermal AI for building envelope inspection**|Polina Kurtser et.al.|[2402.02963v1](http://arxiv.org/abs/2402.02963v1)|
 |**2024-02-05**|**Quantum Normalizing Flows for Anomaly Detection**|Bodo Rosenhahn et.al.|[2402.02866v1](http://arxiv.org/abs/2402.02866v1)|
 |**2024-02-05**|**Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective**|Zexin Wang et.al.|[2402.02820v1](http://arxiv.org/abs/2402.02820v1)|
 |**2024-02-04**|**Timer: Transformers for Time Series Analysis at Scale**|Yong Liu et.al.|[2402.02368v1](http://arxiv.org/abs/2402.02368v1)|
 |**2024-02-03**|**Understanding Time Series Anomaly State Detection through One-Class Classification**|Hanxu Zhou et.al.|[2402.02007v1](http://arxiv.org/abs/2402.02007v1)|
 |**2024-02-02**|**AOC-IDS: Autonomous Online Framework with Contrastive Learning for Intrusion Detection**|Xinchen Zhang et.al.|[2402.01807v1](http://arxiv.org/abs/2402.01807v1)|
-|**2024-02-01**|**Dual-Student Knowledge Distillation Networks for Unsupervised Anomaly Detection**|Liyi Yao et.al.|[2402.00448v1](http://arxiv.org/abs/2402.00448v1)|
-|**2024-01-30**|**Making Parametric Anomaly Detection on Tabular Data Non-Parametric Again**|Hugo Thimonier et.al.|[2401.17052v1](http://arxiv.org/abs/2401.17052v1)|
-|**2024-01-30**|**Evaluating ML-Based Anomaly Detection Across Datasets of Varied Integrity: A Case Study**|Adrian Pekar et.al.|[2401.16843v1](http://arxiv.org/abs/2401.16843v1)|
-|**2024-01-29**|**A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect**|Yunkang Cao et.al.|[2401.16402v1](http://arxiv.org/abs/2401.16402v1)|
 
 ## change detection
 
