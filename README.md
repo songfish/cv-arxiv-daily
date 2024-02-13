@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-02-12**|**Distributed Anomaly Detection in Modern Power Systems: A Penalty-based Mitigation Approach**|Erfan Mehdipour Abadi et.al.|[2402.07884v1](http://arxiv.org/abs/2402.07884v1)|
+|**2024-02-11**|**Can Tree Based Approaches Surpass Deep Learning in Anomaly Detection? A Benchmarking Study**|Santonu Sarkar et.al.|[2402.07281v1](http://arxiv.org/abs/2402.07281v1)|
+|**2024-02-10**|**Speech motion anomaly detection via cross-modal translation of 4D motion fields from tagged MRI**|Xiaofeng Liu et.al.|[2402.06984v1](http://arxiv.org/abs/2402.06984v1)|
 |**2024-02-07**|**Advancing Anomaly Detection: An Adaptation Model and a New Dataset**|Liyun Zhu et.al.|[2402.04857v1](http://arxiv.org/abs/2402.04857v1)|
 |**2024-02-07**|**OIL-AD: An Anomaly Detection Framework for Sequential Decision Sequences**|Chen Wang et.al.|[2402.04567v1](http://arxiv.org/abs/2402.04567v1)|
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469v1](http://arxiv.org/abs/2402.04469v1)|
@@ -56,14 +59,12 @@
 |**2024-02-06**|**Statistical Test for Anomaly Detections by Variational Auto-Encoders**|Daiki Miwa et.al.|[2402.03724v1](http://arxiv.org/abs/2402.03724v1)|
 |**2024-02-05**|**Breakpoint based online anomaly detection**|Etienne Krönert et.al.|[2402.03565v1](http://arxiv.org/abs/2402.03565v1)|
 |**2024-02-05**|**Hybrid Smoothing for Anomaly Detection in Time Series**|Matthew Hofkes et.al.|[2402.03459v1](http://arxiv.org/abs/2402.03459v1)|
-|**2024-02-05**|**One-class anomaly detection through color-to-thermal AI for building envelope inspection**|Polina Kurtser et.al.|[2402.02963v1](http://arxiv.org/abs/2402.02963v1)|
-|**2024-02-05**|**Quantum Normalizing Flows for Anomaly Detection**|Bodo Rosenhahn et.al.|[2402.02866v1](http://arxiv.org/abs/2402.02866v1)|
-|**2024-02-05**|**Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective**|Zexin Wang et.al.|[2402.02820v1](http://arxiv.org/abs/2402.02820v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-02-10**|**A Change Detection Reality Check**|Isaac Corley et.al.|[2402.06994v1](http://arxiv.org/abs/2402.06994v1)|
 |**2024-02-09**|**Transferring facade labels between point clouds with semantic octrees while considering change detection**|Sophia Schwarz et.al.|[2402.06531v1](http://arxiv.org/abs/2402.06531v1)|
 |**2024-02-02**|**Segment Any Change**|Zhuo Zheng et.al.|[2402.01188v1](http://arxiv.org/abs/2402.01188v1)|
 |**2024-02-01**|**The prices of renewable commodities: A robust stationarity analysis**|Manuel Landajo et.al.|[2402.01005v1](http://arxiv.org/abs/2402.01005v1)|
@@ -73,5 +74,4 @@
 |**2024-01-23**|**On the Fundamental Tradeoff of Joint Communication and Quickest Change Detection**|Daewon Seo et.al.|[2401.12499v1](http://arxiv.org/abs/2401.12499v1)|
 |**2024-01-21**|**MapChange: Enhancing Semantic Change Detection with Temporal-Invariant Historical Maps Based on Deep Triplet Network**|Yinhe Liu et.al.|[2401.11489v1](http://arxiv.org/abs/2401.11489v1)|
 |**2024-01-19**|**HiCD: Change Detection in Quality-Varied Images via Hierarchical Correlation Distillation**|Chao Pang et.al.|[2401.10752v1](http://arxiv.org/abs/2401.10752v1)|
-|**2024-01-18**|**Regime change detection in irregularly sampled time series**|Norbert Marwan et.al.|[2401.10006v1](http://arxiv.org/abs/2401.10006v1)|
 
