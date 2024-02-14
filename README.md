@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-02-13**|**APALU: A Trainable, Adaptive Activation Function for Deep Learning Networks**|Barathi Subramanian et.al.|[2402.08244v1](http://arxiv.org/abs/2402.08244v1)|
 |**2024-02-12**|**Distributed Anomaly Detection in Modern Power Systems: A Penalty-based Mitigation Approach**|Erfan Mehdipour Abadi et.al.|[2402.07884v1](http://arxiv.org/abs/2402.07884v1)|
 |**2024-02-11**|**Can Tree Based Approaches Surpass Deep Learning in Anomaly Detection? A Benchmarking Study**|Santonu Sarkar et.al.|[2402.07281v1](http://arxiv.org/abs/2402.07281v1)|
 |**2024-02-10**|**Speech motion anomaly detection via cross-modal translation of 4D motion fields from tagged MRI**|Xiaofeng Liu et.al.|[2402.06984v1](http://arxiv.org/abs/2402.06984v1)|
@@ -58,7 +59,6 @@
 |**2024-02-06**|**Weakly Supervised Anomaly Detection via Knowledge-Data Alignment**|Haihong Zhao et.al.|[2402.03785v1](http://arxiv.org/abs/2402.03785v1)|
 |**2024-02-06**|**Statistical Test for Anomaly Detections by Variational Auto-Encoders**|Daiki Miwa et.al.|[2402.03724v1](http://arxiv.org/abs/2402.03724v1)|
 |**2024-02-05**|**Breakpoint based online anomaly detection**|Etienne Krönert et.al.|[2402.03565v1](http://arxiv.org/abs/2402.03565v1)|
-|**2024-02-05**|**Hybrid Smoothing for Anomaly Detection in Time Series**|Matthew Hofkes et.al.|[2402.03459v1](http://arxiv.org/abs/2402.03459v1)|
 
 ## change detection
 
