@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-02-14**|**Insights and caveats from mining local and global temporal motifs in cryptocurrency transaction networks**|Naomi A. Arnold et.al.|[2402.09272v1](http://arxiv.org/abs/2402.09272v1)|
+|**2024-02-14**|**Research and application of Transformer based anomaly detection model: A literature review**|Mingrui Ma et.al.|[2402.08975v1](http://arxiv.org/abs/2402.08975v1)|
+|**2024-02-13**|**Unveiling Hidden Energy Anomalies: Harnessing Deep Learning to Optimize Energy Management in Sports Facilities**|Fodil Fadli et.al.|[2402.08742v1](http://arxiv.org/abs/2402.08742v1)|
 |**2024-02-13**|**APALU: A Trainable, Adaptive Activation Function for Deep Learning Networks**|Barathi Subramanian et.al.|[2402.08244v1](http://arxiv.org/abs/2402.08244v1)|
 |**2024-02-12**|**Distributed Anomaly Detection in Modern Power Systems: A Penalty-based Mitigation Approach**|Erfan Mehdipour Abadi et.al.|[2402.07884v1](http://arxiv.org/abs/2402.07884v1)|
 |**2024-02-11**|**Can Tree Based Approaches Surpass Deep Learning in Anomaly Detection? A Benchmarking Study**|Santonu Sarkar et.al.|[2402.07281v1](http://arxiv.org/abs/2402.07281v1)|
@@ -56,9 +59,6 @@
 |**2024-02-07**|**Advancing Anomaly Detection: An Adaptation Model and a New Dataset**|Liyun Zhu et.al.|[2402.04857v1](http://arxiv.org/abs/2402.04857v1)|
 |**2024-02-07**|**OIL-AD: An Anomaly Detection Framework for Sequential Decision Sequences**|Chen Wang et.al.|[2402.04567v1](http://arxiv.org/abs/2402.04567v1)|
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469v1](http://arxiv.org/abs/2402.04469v1)|
-|**2024-02-06**|**Weakly Supervised Anomaly Detection via Knowledge-Data Alignment**|Haihong Zhao et.al.|[2402.03785v1](http://arxiv.org/abs/2402.03785v1)|
-|**2024-02-06**|**Statistical Test for Anomaly Detections by Variational Auto-Encoders**|Daiki Miwa et.al.|[2402.03724v1](http://arxiv.org/abs/2402.03724v1)|
-|**2024-02-05**|**Breakpoint based online anomaly detection**|Etienne Krönert et.al.|[2402.03565v1](http://arxiv.org/abs/2402.03565v1)|
 
 ## change detection
 
