@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-02-15**|**Utilizing GANs for Fraud Detection: Model Training with Synthetic Transaction Data**|Mengran Zhu et.al.|[2402.09830v1](http://arxiv.org/abs/2402.09830v1)|
+|**2024-02-15**|**3D Cooperative Localization in UAV Systems: CRLB Analysis and Security Solutions**|Zexin Fang et.al.|[2402.09810v1](http://arxiv.org/abs/2402.09810v1)|
 |**2024-02-14**|**Insights and caveats from mining local and global temporal motifs in cryptocurrency transaction networks**|Naomi A. Arnold et.al.|[2402.09272v1](http://arxiv.org/abs/2402.09272v1)|
 |**2024-02-14**|**Research and application of Transformer based anomaly detection model: A literature review**|Mingrui Ma et.al.|[2402.08975v1](http://arxiv.org/abs/2402.08975v1)|
 |**2024-02-13**|**Unveiling Hidden Energy Anomalies: Harnessing Deep Learning to Optimize Energy Management in Sports Facilities**|Fodil Fadli et.al.|[2402.08742v1](http://arxiv.org/abs/2402.08742v1)|
@@ -57,13 +59,13 @@
 |**2024-02-11**|**Can Tree Based Approaches Surpass Deep Learning in Anomaly Detection? A Benchmarking Study**|Santonu Sarkar et.al.|[2402.07281v1](http://arxiv.org/abs/2402.07281v1)|
 |**2024-02-10**|**Speech motion anomaly detection via cross-modal translation of 4D motion fields from tagged MRI**|Xiaofeng Liu et.al.|[2402.06984v1](http://arxiv.org/abs/2402.06984v1)|
 |**2024-02-07**|**Advancing Anomaly Detection: An Adaptation Model and a New Dataset**|Liyun Zhu et.al.|[2402.04857v1](http://arxiv.org/abs/2402.04857v1)|
-|**2024-02-07**|**OIL-AD: An Anomaly Detection Framework for Sequential Decision Sequences**|Chen Wang et.al.|[2402.04567v1](http://arxiv.org/abs/2402.04567v1)|
-|**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469v1](http://arxiv.org/abs/2402.04469v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-02-15**|**A Comprehensive Review on Computer Vision Analysis of Aerial Data**|Vivek Tetarwal et.al.|[2402.09781v1](http://arxiv.org/abs/2402.09781v1)|
+|**2024-02-15**|**Quickest Detection of False Data Injection Attack in Distributed Process Tracking**|Saqib Abbas Baba et.al.|[2402.09743v1](http://arxiv.org/abs/2402.09743v1)|
 |**2024-02-10**|**A Change Detection Reality Check**|Isaac Corley et.al.|[2402.06994v1](http://arxiv.org/abs/2402.06994v1)|
 |**2024-02-09**|**Transferring facade labels between point clouds with semantic octrees while considering change detection**|Sophia Schwarz et.al.|[2402.06531v1](http://arxiv.org/abs/2402.06531v1)|
 |**2024-02-02**|**Segment Any Change**|Zhuo Zheng et.al.|[2402.01188v2](http://arxiv.org/abs/2402.01188v2)|
@@ -72,6 +74,4 @@
 |**2024-01-25**|**(Chat)GPT v BERT: Dawn of Justice for Semantic Change Detection**|Francesco Periti et.al.|[2401.14040v1](http://arxiv.org/abs/2401.14040v1)|
 |**2024-01-25**|**AscDAMs: Advanced SLAM-based channel detection and mapping system**|Tengfei Wang et.al.|[2401.13877v1](http://arxiv.org/abs/2401.13877v1)|
 |**2024-01-23**|**On the Fundamental Tradeoff of Joint Communication and Quickest Change Detection**|Daewon Seo et.al.|[2401.12499v1](http://arxiv.org/abs/2401.12499v1)|
-|**2024-01-21**|**MapChange: Enhancing Semantic Change Detection with Temporal-Invariant Historical Maps Based on Deep Triplet Network**|Yinhe Liu et.al.|[2401.11489v1](http://arxiv.org/abs/2401.11489v1)|
-|**2024-01-19**|**HiCD: Change Detection in Quality-Varied Images via Hierarchical Correlation Distillation**|Chao Pang et.al.|[2401.10752v1](http://arxiv.org/abs/2401.10752v1)|
 
