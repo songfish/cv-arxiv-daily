@@ -49,21 +49,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-02-16**|**TimeSeriesBench: An Industrial-Grade Benchmark for Time Series Anomaly Detection Models**|Haotian Si et.al.|[2402.10802v1](http://arxiv.org/abs/2402.10802v1)|
+|**2024-02-16**|**LogELECTRA: Self-supervised Anomaly Detection for Unstructured Logs**|Yuuki Yamanaka et.al.|[2402.10397v1](http://arxiv.org/abs/2402.10397v1)|
+|**2024-02-15**|**Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review**|Jing Su et.al.|[2402.10350v1](http://arxiv.org/abs/2402.10350v1)|
+|**2024-02-15**|**Backdoor Attack against One-Class Sequential Anomaly Detection Models**|He Cheng et.al.|[2402.10283v1](http://arxiv.org/abs/2402.10283v1)|
 |**2024-02-15**|**Utilizing GANs for Fraud Detection: Model Training with Synthetic Transaction Data**|Mengran Zhu et.al.|[2402.09830v1](http://arxiv.org/abs/2402.09830v1)|
 |**2024-02-15**|**3D Cooperative Localization in UAV Systems: CRLB Analysis and Security Solutions**|Zexin Fang et.al.|[2402.09810v1](http://arxiv.org/abs/2402.09810v1)|
 |**2024-02-14**|**Insights and caveats from mining local and global temporal motifs in cryptocurrency transaction networks**|Naomi A. Arnold et.al.|[2402.09272v1](http://arxiv.org/abs/2402.09272v1)|
 |**2024-02-14**|**Research and application of Transformer based anomaly detection model: A literature review**|Mingrui Ma et.al.|[2402.08975v1](http://arxiv.org/abs/2402.08975v1)|
 |**2024-02-13**|**Unveiling Hidden Energy Anomalies: Harnessing Deep Learning to Optimize Energy Management in Sports Facilities**|Fodil Fadli et.al.|[2402.08742v1](http://arxiv.org/abs/2402.08742v1)|
 |**2024-02-13**|**APALU: A Trainable, Adaptive Activation Function for Deep Learning Networks**|Barathi Subramanian et.al.|[2402.08244v1](http://arxiv.org/abs/2402.08244v1)|
-|**2024-02-12**|**Distributed Anomaly Detection in Modern Power Systems: A Penalty-based Mitigation Approach**|Erfan Mehdipour Abadi et.al.|[2402.07884v1](http://arxiv.org/abs/2402.07884v1)|
-|**2024-02-11**|**Can Tree Based Approaches Surpass Deep Learning in Anomaly Detection? A Benchmarking Study**|Santonu Sarkar et.al.|[2402.07281v1](http://arxiv.org/abs/2402.07281v1)|
-|**2024-02-10**|**Speech motion anomaly detection via cross-modal translation of 4D motion fields from tagged MRI**|Xiaofeng Liu et.al.|[2402.06984v1](http://arxiv.org/abs/2402.06984v1)|
-|**2024-02-07**|**Advancing Anomaly Detection: An Adaptation Model and a New Dataset**|Liyun Zhu et.al.|[2402.04857v1](http://arxiv.org/abs/2402.04857v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-02-15**|**LaserSAM: Zero-Shot Change Detection Using Visual Segmentation of Spinning LiDAR**|Alexander Krawciw et.al.|[2402.10321v1](http://arxiv.org/abs/2402.10321v1)|
+|**2024-02-15**|**An Evaluation of Real-time Adaptive Sampling Change Point Detection Algorithm using KCUSUM**|Vijayalakshmi Saravanan et.al.|[2402.10291v1](http://arxiv.org/abs/2402.10291v1)|
 |**2024-02-15**|**A Comprehensive Review on Computer Vision Analysis of Aerial Data**|Vivek Tetarwal et.al.|[2402.09781v1](http://arxiv.org/abs/2402.09781v1)|
 |**2024-02-15**|**Quickest Detection of False Data Injection Attack in Distributed Process Tracking**|Saqib Abbas Baba et.al.|[2402.09743v1](http://arxiv.org/abs/2402.09743v1)|
 |**2024-02-10**|**A Change Detection Reality Check**|Isaac Corley et.al.|[2402.06994v1](http://arxiv.org/abs/2402.06994v1)|
@@ -72,6 +74,4 @@
 |**2024-02-01**|**The prices of renewable commodities: A robust stationarity analysis**|Manuel Landajo et.al.|[2402.01005v1](http://arxiv.org/abs/2402.01005v1)|
 |**2024-01-31**|**Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data**|Chenhui Zhang et.al.|[2401.17600v1](http://arxiv.org/abs/2401.17600v1)|
 |**2024-01-25**|**(Chat)GPT v BERT: Dawn of Justice for Semantic Change Detection**|Francesco Periti et.al.|[2401.14040v1](http://arxiv.org/abs/2401.14040v1)|
-|**2024-01-25**|**AscDAMs: Advanced SLAM-based channel detection and mapping system**|Tengfei Wang et.al.|[2401.13877v1](http://arxiv.org/abs/2401.13877v1)|
-|**2024-01-23**|**On the Fundamental Tradeoff of Joint Communication and Quickest Change Detection**|Daewon Seo et.al.|[2401.12499v1](http://arxiv.org/abs/2401.12499v1)|
 
