@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-02-20**|**FGAD: Self-boosted Knowledge Distillation for An Effective Federated Graph Anomaly Detection Framework**|Jinyu Cai et.al.|[2402.12761v1](http://arxiv.org/abs/2402.12761v1)|
 |**2024-02-19**|**SLADE: Detecting Dynamic Anomalies in Edge Streams without Labels via Self-Supervised Learning**|Jongha Lee et.al.|[2402.11933v1](http://arxiv.org/abs/2402.11933v1)|
 |**2024-02-19**|**Generative Semi-supervised Graph Anomaly Detection**|Hezhe Qiao et.al.|[2402.11887v1](http://arxiv.org/abs/2402.11887v1)|
 |**2024-02-18**|**Simplifying Hyperparameter Tuning in Online Machine Learning -- The spotRiverGUI**|Thomas Bartz-Beielstein et.al.|[2402.11594v1](http://arxiv.org/abs/2402.11594v1)|
@@ -58,7 +59,6 @@
 |**2024-02-15**|**Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review**|Jing Su et.al.|[2402.10350v1](http://arxiv.org/abs/2402.10350v1)|
 |**2024-02-15**|**Backdoor Attack against One-Class Sequential Anomaly Detection Models**|He Cheng et.al.|[2402.10283v1](http://arxiv.org/abs/2402.10283v1)|
 |**2024-02-15**|**Utilizing GANs for Fraud Detection: Model Training with Synthetic Transaction Data**|Mengran Zhu et.al.|[2402.09830v1](http://arxiv.org/abs/2402.09830v1)|
-|**2024-02-15**|**3D Cooperative Localization in UAV Systems: CRLB Analysis and Security Solutions**|Zexin Fang et.al.|[2402.09810v1](http://arxiv.org/abs/2402.09810v1)|
 
 ## change detection
 
