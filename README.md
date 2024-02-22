@@ -21,7 +21,7 @@
 |---|---|---|---|
 |**2023-12-18**|**FAKEPCD: Fake Point Cloud Detection via Source Attribution**|Yiting Qu et.al.|[2312.11213v1](http://arxiv.org/abs/2312.11213v1)|
 |**2023-11-29**|**CLiSA: A Hierarchical Hybrid Transformer Model using Orthogonal Cross Attention for Satellite Image Cloud Segmentation**|Subhajit Paul et.al.|[2311.17475v2](http://arxiv.org/abs/2311.17475v2)|
-|**2023-11-23**|**Creating and Benchmarking a Synthetic Dataset for Cloud Optical Thickness Estimation**|Aleksis Pirinen et.al.|[2311.14024v1](http://arxiv.org/abs/2311.14024v1)|
+|**2023-11-23**|**Creating and Leveraging a Synthetic Dataset of Cloud Optical Thickness Measures for Cloud Detection in MSI**|Aleksis Pirinen et.al.|[2311.14024v2](http://arxiv.org/abs/2311.14024v2)|
 |**2023-09-05**|**Domain Adaptation for Satellite-Borne Hyperspectral Cloud Detection**|Andrew Du et.al.|[2309.02150v1](http://arxiv.org/abs/2309.02150v1)|
 |**2023-07-14**|**Cloud Detection in Multispectral Satellite Images Using Support Vector Machines With Quantum Kernels**|Artur Miroszewski et.al.|[2307.07281v1](http://arxiv.org/abs/2307.07281v1)|
 |**2023-06-26**|**Optimizing Kernel-Target Alignment for cloud detection in multispectral satellite images**|Artur Miroszewski et.al.|[2306.14515v1](http://arxiv.org/abs/2306.14515v1)|
