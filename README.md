@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-02-22**|**Reimagining Anomalies: What If Anomalies Were Normal?**|Philipp Liznerski et.al.|[2402.14469v1](http://arxiv.org/abs/2402.14469v1)|
+|**2024-02-22**|**Generative Adversarial Network with Soft-Dynamic Time Warping and Parallel Reconstruction for Energy Time Series Anomaly Detection**|Hardik Prabhu et.al.|[2402.14384v1](http://arxiv.org/abs/2402.14384v1)|
+|**2024-02-22**|**Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**|Jie Yin et.al.|[2402.14308v1](http://arxiv.org/abs/2402.14308v1)|
 |**2024-02-20**|**FGAD: Self-boosted Knowledge Distillation for An Effective Federated Graph Anomaly Detection Framework**|Jinyu Cai et.al.|[2402.12761v1](http://arxiv.org/abs/2402.12761v1)|
 |**2024-02-19**|**SLADE: Detecting Dynamic Anomalies in Edge Streams without Labels via Self-Supervised Learning**|Jongha Lee et.al.|[2402.11933v1](http://arxiv.org/abs/2402.11933v1)|
 |**2024-02-19**|**Generative Semi-supervised Graph Anomaly Detection**|Hezhe Qiao et.al.|[2402.11887v1](http://arxiv.org/abs/2402.11887v1)|
@@ -56,15 +59,12 @@
 |**2024-02-18**|**Empirical Density Estimation based on Spline Quasi-Interpolation with applications to Copulas clustering modeling**|Cristiano Tamborrino et.al.|[2402.11552v1](http://arxiv.org/abs/2402.11552v1)|
 |**2024-02-16**|**TimeSeriesBench: An Industrial-Grade Benchmark for Time Series Anomaly Detection Models**|Haotian Si et.al.|[2402.10802v1](http://arxiv.org/abs/2402.10802v1)|
 |**2024-02-16**|**LogELECTRA: Self-supervised Anomaly Detection for Unstructured Logs**|Yuuki Yamanaka et.al.|[2402.10397v1](http://arxiv.org/abs/2402.10397v1)|
-|**2024-02-15**|**Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review**|Jing Su et.al.|[2402.10350v1](http://arxiv.org/abs/2402.10350v1)|
-|**2024-02-15**|**Backdoor Attack against One-Class Sequential Anomaly Detection Models**|He Cheng et.al.|[2402.10283v1](http://arxiv.org/abs/2402.10283v1)|
-|**2024-02-15**|**Utilizing GANs for Fraud Detection: Model Training with Synthetic Transaction Data**|Mengran Zhu et.al.|[2402.09830v1](http://arxiv.org/abs/2402.09830v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-02-19**|**A Systematic Comparison of Contextualized Word Embeddings for Lexical Semantic Change**|Francesco Periti et.al.|[2402.12011v1](http://arxiv.org/abs/2402.12011v1)|
+|**2024-02-19**|**A Systematic Comparison of Contextualized Word Embeddings for Lexical Semantic Change**|Francesco Periti et.al.|[2402.12011v2](http://arxiv.org/abs/2402.12011v2)|
 |**2024-02-15**|**LaserSAM: Zero-Shot Change Detection Using Visual Segmentation of Spinning LiDAR**|Alexander Krawciw et.al.|[2402.10321v1](http://arxiv.org/abs/2402.10321v1)|
 |**2024-02-15**|**An Evaluation of Real-time Adaptive Sampling Change Point Detection Algorithm using KCUSUM**|Vijayalakshmi Saravanan et.al.|[2402.10291v1](http://arxiv.org/abs/2402.10291v1)|
 |**2024-02-15**|**A Comprehensive Review on Computer Vision Analysis of Aerial Data**|Vivek Tetarwal et.al.|[2402.09781v1](http://arxiv.org/abs/2402.09781v1)|
