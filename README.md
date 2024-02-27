@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-02-21**|**BenchCloudVision: A Benchmark Analysis of Deep Learning Approaches for Cloud Detection and Segmentation in Remote Sensing Imagery**|Loddo Fabio et.al.|[2402.13918v1](http://arxiv.org/abs/2402.13918v1)|
+|**2024-02-21**|**BenchCloudVision: A Benchmark Analysis of Deep Learning Approaches for Cloud Detection and Segmentation in Remote Sensing Imagery**|Loddo Fabio et.al.|[2402.13918v2](http://arxiv.org/abs/2402.13918v2)|
 |**2023-12-18**|**FAKEPCD: Fake Point Cloud Detection via Source Attribution**|Yiting Qu et.al.|[2312.11213v1](http://arxiv.org/abs/2312.11213v1)|
 |**2023-11-29**|**CLiSA: A Hierarchical Hybrid Transformer Model using Orthogonal Cross Attention for Satellite Image Cloud Segmentation**|Subhajit Paul et.al.|[2311.17475v2](http://arxiv.org/abs/2311.17475v2)|
 |**2023-11-23**|**Creating and Leveraging a Synthetic Dataset of Cloud Optical Thickness Measures for Cloud Detection in MSI**|Aleksis Pirinen et.al.|[2311.14024v2](http://arxiv.org/abs/2311.14024v2)|
@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-02-26**|**Uncertainty Quantification in Anomaly Detection with Cross-Conformal $p$-Values**|Oliver Hennhöfer et.al.|[2402.16388v1](http://arxiv.org/abs/2402.16388v1)|
+|**2024-02-25**|**Learning with Semantics: Towards a Semantics-Aware Routing Anomaly Detection System**|Yihao Chen et.al.|[2402.16025v1](http://arxiv.org/abs/2402.16025v1)|
+|**2024-02-25**|**Towards Fair Graph Anomaly Detection: Problem, New Datasets, and Evaluation**|Neng Kai Nigel Neo et.al.|[2402.15988v1](http://arxiv.org/abs/2402.15988v1)|
+|**2024-02-25**|**Attention-GAN for Anomaly Detection: A Cutting-Edge Approach to Cybersecurity Threat Management**|Mohammed Abo Sen et.al.|[2402.15945v1](http://arxiv.org/abs/2402.15945v1)|
+|**2024-02-24**|**Anomaly Detection for GONG Doppler Imagery Using a Binary Classification Neural Network**|Mitchell Creelman et.al.|[2402.15768v1](http://arxiv.org/abs/2402.15768v1)|
 |**2024-02-23**|**Low-Rank Representations Meets Deep Unfolding: A Generalized and Interpretable Network for Hyperspectral Anomaly Detection**|Chenyu Li et.al.|[2402.15335v1](http://arxiv.org/abs/2402.15335v1)|
 |**2024-02-23**|**PUAD: Frustratingly Simple Method for Robust Anomaly Detection**|Shota Sugawara et.al.|[2402.15143v1](http://arxiv.org/abs/2402.15143v1)|
 |**2024-02-22**|**Reimagining Anomalies: What If Anomalies Were Normal?**|Philipp Liznerski et.al.|[2402.14469v1](http://arxiv.org/abs/2402.14469v1)|
 |**2024-02-22**|**Generative Adversarial Network with Soft-Dynamic Time Warping and Parallel Reconstruction for Energy Time Series Anomaly Detection**|Hardik Prabhu et.al.|[2402.14384v1](http://arxiv.org/abs/2402.14384v1)|
 |**2024-02-22**|**Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**|Jie Yin et.al.|[2402.14308v1](http://arxiv.org/abs/2402.14308v1)|
-|**2024-02-20**|**FGAD: Self-boosted Knowledge Distillation for An Effective Federated Graph Anomaly Detection Framework**|Jinyu Cai et.al.|[2402.12761v1](http://arxiv.org/abs/2402.12761v1)|
-|**2024-02-19**|**SLADE: Detecting Dynamic Anomalies in Edge Streams without Labels via Self-Supervised Learning**|Jongha Lee et.al.|[2402.11933v1](http://arxiv.org/abs/2402.11933v1)|
-|**2024-02-19**|**Generative Semi-supervised Graph Anomaly Detection**|Hezhe Qiao et.al.|[2402.11887v1](http://arxiv.org/abs/2402.11887v1)|
-|**2024-02-18**|**Simplifying Hyperparameter Tuning in Online Machine Learning -- The spotRiverGUI**|Thomas Bartz-Beielstein et.al.|[2402.11594v1](http://arxiv.org/abs/2402.11594v1)|
-|**2024-02-18**|**Empirical Density Estimation based on Spline Quasi-Interpolation with applications to Copulas clustering modeling**|Cristiano Tamborrino et.al.|[2402.11552v1](http://arxiv.org/abs/2402.11552v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-02-26**|**HSONet:A Siamese foreground association-driven hard case sample optimization network for high-resolution remote sensing image change detection**|Chao Tao et.al.|[2402.16242v1](http://arxiv.org/abs/2402.16242v1)|
 |**2024-02-19**|**A Systematic Comparison of Contextualized Word Embeddings for Lexical Semantic Change**|Francesco Periti et.al.|[2402.12011v2](http://arxiv.org/abs/2402.12011v2)|
 |**2024-02-15**|**LaserSAM: Zero-Shot Change Detection Using Visual Segmentation of Spinning LiDAR**|Alexander Krawciw et.al.|[2402.10321v1](http://arxiv.org/abs/2402.10321v1)|
 |**2024-02-15**|**An Evaluation of Real-time Adaptive Sampling Change Point Detection Algorithm using KCUSUM**|Vijayalakshmi Saravanan et.al.|[2402.10291v1](http://arxiv.org/abs/2402.10291v1)|
@@ -73,5 +74,4 @@
 |**2024-02-09**|**Transferring facade labels between point clouds with semantic octrees while considering change detection**|Sophia Schwarz et.al.|[2402.06531v1](http://arxiv.org/abs/2402.06531v1)|
 |**2024-02-02**|**Segment Any Change**|Zhuo Zheng et.al.|[2402.01188v2](http://arxiv.org/abs/2402.01188v2)|
 |**2024-02-01**|**The prices of renewable commodities: A robust stationarity analysis**|Manuel Landajo et.al.|[2402.01005v1](http://arxiv.org/abs/2402.01005v1)|
-|**2024-01-31**|**Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data**|Chenhui Zhang et.al.|[2401.17600v1](http://arxiv.org/abs/2401.17600v1)|
 
