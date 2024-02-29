@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-02-28**|**Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model**|Sangjoon Park et.al.|[2402.18362v1](http://arxiv.org/abs/2402.18362v1)|
+|**2024-02-28**|**Grid-Based Continuous Normal Representation for Anomaly Detection**|Joo Chan Lee et.al.|[2402.18293v1](http://arxiv.org/abs/2402.18293v1)|
+|**2024-02-28**|**A Compact Anomaly Detection Solution for Science Instruments**|Alfonso Lagares de Toledo et.al.|[2402.17961v1](http://arxiv.org/abs/2402.17961v1)|
 |**2024-02-27**|**CGGM: A conditional graph generation model with adaptive sparsity for node anomaly detection in IoT networks**|Xianshi Su et.al.|[2402.17363v1](http://arxiv.org/abs/2402.17363v1)|
 |**2024-02-27**|**Structural Teacher-Student Normality Learning for Multi-Class Anomaly Detection and Localization**|Hanqiu Deng et.al.|[2402.17091v1](http://arxiv.org/abs/2402.17091v1)|
 |**2024-02-26**|**Deep Learning Algorithms Used in Intrusion Detection Systems -- A Review**|Richard Kimanzi et.al.|[2402.17020v1](http://arxiv.org/abs/2402.17020v1)|
@@ -56,9 +59,6 @@
 |**2024-02-25**|**Learning with Semantics: Towards a Semantics-Aware Routing Anomaly Detection System**|Yihao Chen et.al.|[2402.16025v1](http://arxiv.org/abs/2402.16025v1)|
 |**2024-02-25**|**Towards Fair Graph Anomaly Detection: Problem, New Datasets, and Evaluation**|Neng Kai Nigel Neo et.al.|[2402.15988v1](http://arxiv.org/abs/2402.15988v1)|
 |**2024-02-25**|**Attention-GAN for Anomaly Detection: A Cutting-Edge Approach to Cybersecurity Threat Management**|Mohammed Abo Sen et.al.|[2402.15945v2](http://arxiv.org/abs/2402.15945v2)|
-|**2024-02-24**|**Anomaly Detection for GONG Doppler Imagery Using a Binary Classification Neural Network**|Mitchell Creelman et.al.|[2402.15768v1](http://arxiv.org/abs/2402.15768v1)|
-|**2024-02-23**|**Low-Rank Representations Meets Deep Unfolding: A Generalized and Interpretable Network for Hyperspectral Anomaly Detection**|Chenyu Li et.al.|[2402.15335v1](http://arxiv.org/abs/2402.15335v1)|
-|**2024-02-23**|**PUAD: Frustratingly Simple Method for Robust Anomaly Detection**|Shota Sugawara et.al.|[2402.15143v1](http://arxiv.org/abs/2402.15143v1)|
 
 ## change detection
 
