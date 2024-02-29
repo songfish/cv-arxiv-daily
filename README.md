@@ -55,7 +55,7 @@
 |**2024-02-26**|**Uncertainty Quantification in Anomaly Detection with Cross-Conformal $p$-Values**|Oliver Hennhöfer et.al.|[2402.16388v1](http://arxiv.org/abs/2402.16388v1)|
 |**2024-02-25**|**Learning with Semantics: Towards a Semantics-Aware Routing Anomaly Detection System**|Yihao Chen et.al.|[2402.16025v1](http://arxiv.org/abs/2402.16025v1)|
 |**2024-02-25**|**Towards Fair Graph Anomaly Detection: Problem, New Datasets, and Evaluation**|Neng Kai Nigel Neo et.al.|[2402.15988v1](http://arxiv.org/abs/2402.15988v1)|
-|**2024-02-25**|**Attention-GAN for Anomaly Detection: A Cutting-Edge Approach to Cybersecurity Threat Management**|Mohammed Abo Sen et.al.|[2402.15945v1](http://arxiv.org/abs/2402.15945v1)|
+|**2024-02-25**|**Attention-GAN for Anomaly Detection: A Cutting-Edge Approach to Cybersecurity Threat Management**|Mohammed Abo Sen et.al.|[2402.15945v2](http://arxiv.org/abs/2402.15945v2)|
 |**2024-02-24**|**Anomaly Detection for GONG Doppler Imagery Using a Binary Classification Neural Network**|Mitchell Creelman et.al.|[2402.15768v1](http://arxiv.org/abs/2402.15768v1)|
 |**2024-02-23**|**Low-Rank Representations Meets Deep Unfolding: A Generalized and Interpretable Network for Hyperspectral Anomaly Detection**|Chenyu Li et.al.|[2402.15335v1](http://arxiv.org/abs/2402.15335v1)|
 |**2024-02-23**|**PUAD: Frustratingly Simple Method for Robust Anomaly Detection**|Shota Sugawara et.al.|[2402.15143v1](http://arxiv.org/abs/2402.15143v1)|
@@ -64,7 +64,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-02-27**|**OSCaR: Object State Captioning and State Change Representation**|Nguyen Nguyen et.al.|[2402.17128v1](http://arxiv.org/abs/2402.17128v1)|
+|**2024-02-27**|**OSCaR: Object State Captioning and State Change Representation**|Nguyen Nguyen et.al.|[2402.17128v2](http://arxiv.org/abs/2402.17128v2)|
 |**2024-02-26**|**Semantic change detection for Slovene language: a novel dataset and an approach based on optimal transport**|Marko Pranjić et.al.|[2402.16596v1](http://arxiv.org/abs/2402.16596v1)|
 |**2024-02-26**|**HSONet:A Siamese foreground association-driven hard case sample optimization network for high-resolution remote sensing image change detection**|Chao Tao et.al.|[2402.16242v1](http://arxiv.org/abs/2402.16242v1)|
 |**2024-02-19**|**A Systematic Comparison of Contextualized Word Embeddings for Lexical Semantic Change**|Francesco Periti et.al.|[2402.12011v2](http://arxiv.org/abs/2402.12011v2)|
