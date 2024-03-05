@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-01**|**Cloud properties across spatial scales in simulations of the interstellar medium**|Tine Colman et.al.|[2403.00512v1](http://arxiv.org/abs/2403.00512v1)|
 |**2024-02-29**|**RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation**|Jie Zhang et.al.|[2402.19004v1](http://arxiv.org/abs/2402.19004v1)|
 |**2024-02-21**|**BenchCloudVision: A Benchmark Analysis of Deep Learning Approaches for Cloud Detection and Segmentation in Remote Sensing Imagery**|Loddo Fabio et.al.|[2402.13918v3](http://arxiv.org/abs/2402.13918v3)|
 |**2023-12-18**|**FAKEPCD: Fake Point Cloud Detection via Source Attribution**|Yiting Qu et.al.|[2312.11213v1](http://arxiv.org/abs/2312.11213v1)|
@@ -28,7 +29,6 @@
 |**2023-07-14**|**Cloud Detection in Multispectral Satellite Images Using Support Vector Machines With Quantum Kernels**|Artur Miroszewski et.al.|[2307.07281v1](http://arxiv.org/abs/2307.07281v1)|
 |**2023-06-26**|**Optimizing Kernel-Target Alignment for cloud detection in multispectral satellite images**|Artur Miroszewski et.al.|[2306.14515v1](http://arxiv.org/abs/2306.14515v1)|
 |**2023-06-16**|**Squeezing nnU-Nets with Knowledge Distillation for On-Board Cloud Detection**|Bartosz Grabowski et.al.|[2306.09886v1](http://arxiv.org/abs/2306.09886v1)|
-|**2023-06-15**|**SSL4EO-L: Datasets and Foundation Models for Landsat Imagery**|Adam J. Stewart et.al.|[2306.09424v2](http://arxiv.org/abs/2306.09424v2)|
 
 ## abnormal detection
 
@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-02**|**AcME-AD: Accelerated Model Explanations for Anomaly Detection**|Valentina Zaccaria et.al.|[2403.01245v1](http://arxiv.org/abs/2403.01245v1)|
+|**2024-03-02**|**Shaping Multi-Robot Patrol Performance with Heterogeneity in Individual Learning Behavior**|Connor York et.al.|[2403.01181v1](http://arxiv.org/abs/2403.01181v1)|
+|**2024-03-02**|**Learn Suspected Anomalies from Event Prompts for Video Anomaly Detection**|Chenchen Tao et.al.|[2403.01169v1](http://arxiv.org/abs/2403.01169v1)|
+|**2024-03-01**|**Dimensionality reduction techniques to support insider trading detection**|Adele Ravagnani et.al.|[2403.00707v1](http://arxiv.org/abs/2403.00707v1)|
+|**2024-03-01**|**The Impact of Frequency Bands on Acoustic Anomaly Detection of Machines using Deep Learning Based Model**|Tin Nguyen et.al.|[2403.00379v1](http://arxiv.org/abs/2403.00379v1)|
+|**2024-02-29**|**UniTS: Building a Unified Time Series Model**|Shanghua Gao et.al.|[2403.00131v1](http://arxiv.org/abs/2403.00131v1)|
 |**2024-02-29**|**A Novel Approach to Industrial Defect Generation through Blended Latent Diffusion Model with Online Adaptation**|Hanxi Li et.al.|[2402.19330v1](http://arxiv.org/abs/2402.19330v1)|
 |**2024-02-29**|**Anomaly Detection in Offshore Wind Turbine Structures using Hierarchical Bayesian Modelling**|S. M. Smith et.al.|[2402.19295v1](http://arxiv.org/abs/2402.19295v1)|
 |**2024-02-29**|**A SAM-guided Two-stream Lightweight Model for Anomaly Detection**|Chenghao Li et.al.|[2402.19145v1](http://arxiv.org/abs/2402.19145v1)|
 |**2024-02-29**|**COFT-AD: COntrastive Fine-Tuning for Few-Shot Anomaly Detection**|Jingyi Liao et.al.|[2402.18998v1](http://arxiv.org/abs/2402.18998v1)|
-|**2024-02-28**|**Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model**|Sangjoon Park et.al.|[2402.18362v1](http://arxiv.org/abs/2402.18362v1)|
-|**2024-02-28**|**Grid-Based Continuous Normal Representation for Anomaly Detection**|Joo Chan Lee et.al.|[2402.18293v1](http://arxiv.org/abs/2402.18293v1)|
-|**2024-02-28**|**A Compact Anomaly Detection Solution for Science Instruments**|Alfonso Lagares de Toledo et.al.|[2402.17961v1](http://arxiv.org/abs/2402.17961v1)|
-|**2024-02-27**|**CGGM: A conditional graph generation model with adaptive sparsity for node anomaly detection in IoT networks**|Xianshi Su et.al.|[2402.17363v1](http://arxiv.org/abs/2402.17363v1)|
-|**2024-02-27**|**Structural Teacher-Student Normality Learning for Multi-Class Anomaly Detection and Localization**|Hanqiu Deng et.al.|[2402.17091v1](http://arxiv.org/abs/2402.17091v1)|
-|**2024-02-26**|**Deep Learning Algorithms Used in Intrusion Detection Systems -- A Review**|Richard Kimanzi et.al.|[2402.17020v1](http://arxiv.org/abs/2402.17020v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-01**|**A Semantic Distance Metric Learning approach for Lexical Semantic Change Detection**|Taichi Aida et.al.|[2403.00226v1](http://arxiv.org/abs/2403.00226v1)|
 |**2024-02-27**|**OSCaR: Object State Captioning and State Change Representation**|Nguyen Nguyen et.al.|[2402.17128v2](http://arxiv.org/abs/2402.17128v2)|
 |**2024-02-26**|**Semantic change detection for Slovene language: a novel dataset and an approach based on optimal transport**|Marko Pranjić et.al.|[2402.16596v1](http://arxiv.org/abs/2402.16596v1)|
 |**2024-02-26**|**HSONet:A Siamese foreground association-driven hard case sample optimization network for high-resolution remote sensing image change detection**|Chao Tao et.al.|[2402.16242v1](http://arxiv.org/abs/2402.16242v1)|
@@ -73,5 +74,4 @@
 |**2024-02-15**|**A Comprehensive Review on Computer Vision Analysis of Aerial Data**|Vivek Tetarwal et.al.|[2402.09781v1](http://arxiv.org/abs/2402.09781v1)|
 |**2024-02-15**|**Quickest Detection of False Data Injection Attack in Distributed Process Tracking**|Saqib Abbas Baba et.al.|[2402.09743v1](http://arxiv.org/abs/2402.09743v1)|
 |**2024-02-10**|**A Change Detection Reality Check**|Isaac Corley et.al.|[2402.06994v1](http://arxiv.org/abs/2402.06994v1)|
-|**2024-02-09**|**Transferring facade labels between point clouds with semantic octrees while considering change detection**|Sophia Schwarz et.al.|[2402.06531v1](http://arxiv.org/abs/2402.06531v1)|
 
