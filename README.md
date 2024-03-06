@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-05**|**On-demand Mobility Services for Urban Resilience: A Review Towards Human-Machine Collaborative Future**|Jiangbo Yu et.al.|[2403.03107v1](http://arxiv.org/abs/2403.03107v1)|
+|**2024-03-05**|**Self-adaptive Traffic Anomaly Detection System for IoT Smart Home Environments**|Naoto Watanabe et.al.|[2403.02744v1](http://arxiv.org/abs/2403.02744v1)|
+|**2024-03-04**|**Towards efficient deep autoencoders for multivariate time series anomaly detection**|Marcin Pietroń et.al.|[2403.02429v1](http://arxiv.org/abs/2403.02429v1)|
+|**2024-03-04**|**Unsupervised Distance Metric Learning for Anomaly Detection Over Multivariate Time Series**|Hanyang Yuan et.al.|[2403.01895v1](http://arxiv.org/abs/2403.01895v1)|
+|**2024-03-04**|**CSE: Surface Anomaly Detection with Contrastively Selected Embedding**|Simon Thomine et.al.|[2403.01859v1](http://arxiv.org/abs/2403.01859v1)|
+|**2024-03-04**|**PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features**|Baozhu Zhao et.al.|[2403.01804v1](http://arxiv.org/abs/2403.01804v1)|
 |**2024-03-02**|**AcME-AD: Accelerated Model Explanations for Anomaly Detection**|Valentina Zaccaria et.al.|[2403.01245v1](http://arxiv.org/abs/2403.01245v1)|
 |**2024-03-02**|**Shaping Multi-Robot Patrol Performance with Heterogeneity in Individual Learning Behavior**|Connor York et.al.|[2403.01181v1](http://arxiv.org/abs/2403.01181v1)|
 |**2024-03-02**|**Learn Suspected Anomalies from Event Prompts for Video Anomaly Detection**|Chenchen Tao et.al.|[2403.01169v1](http://arxiv.org/abs/2403.01169v1)|
 |**2024-03-01**|**Dimensionality reduction techniques to support insider trading detection**|Adele Ravagnani et.al.|[2403.00707v1](http://arxiv.org/abs/2403.00707v1)|
-|**2024-03-01**|**The Impact of Frequency Bands on Acoustic Anomaly Detection of Machines using Deep Learning Based Model**|Tin Nguyen et.al.|[2403.00379v1](http://arxiv.org/abs/2403.00379v1)|
-|**2024-02-29**|**UniTS: Building a Unified Time Series Model**|Shanghua Gao et.al.|[2403.00131v1](http://arxiv.org/abs/2403.00131v1)|
-|**2024-02-29**|**A Novel Approach to Industrial Defect Generation through Blended Latent Diffusion Model with Online Adaptation**|Hanxi Li et.al.|[2402.19330v1](http://arxiv.org/abs/2402.19330v1)|
-|**2024-02-29**|**Anomaly Detection in Offshore Wind Turbine Structures using Hierarchical Bayesian Modelling**|S. M. Smith et.al.|[2402.19295v1](http://arxiv.org/abs/2402.19295v1)|
-|**2024-02-29**|**A SAM-guided Two-stream Lightweight Model for Anomaly Detection**|Chenghao Li et.al.|[2402.19145v1](http://arxiv.org/abs/2402.19145v1)|
-|**2024-02-29**|**COFT-AD: COntrastive Fine-Tuning for Few-Shot Anomaly Detection**|Jingyi Liao et.al.|[2402.18998v1](http://arxiv.org/abs/2402.18998v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-04**|**LiSTA: Geometric Object-Based Change Detection in Cluttered Environments**|Joseph Rowell et.al.|[2403.02175v2](http://arxiv.org/abs/2403.02175v2)|
 |**2024-03-01**|**A Semantic Distance Metric Learning approach for Lexical Semantic Change Detection**|Taichi Aida et.al.|[2403.00226v1](http://arxiv.org/abs/2403.00226v1)|
 |**2024-02-27**|**OSCaR: Object State Captioning and State Change Representation**|Nguyen Nguyen et.al.|[2402.17128v2](http://arxiv.org/abs/2402.17128v2)|
 |**2024-02-26**|**Semantic change detection for Slovene language: a novel dataset and an approach based on optimal transport**|Marko Pranjić et.al.|[2402.16596v1](http://arxiv.org/abs/2402.16596v1)|
@@ -73,5 +74,4 @@
 |**2024-02-15**|**An Evaluation of Real-time Adaptive Sampling Change Point Detection Algorithm using KCUSUM**|Vijayalakshmi Saravanan et.al.|[2402.10291v1](http://arxiv.org/abs/2402.10291v1)|
 |**2024-02-15**|**A Comprehensive Review on Computer Vision Analysis of Aerial Data**|Vivek Tetarwal et.al.|[2402.09781v1](http://arxiv.org/abs/2402.09781v1)|
 |**2024-02-15**|**Quickest Detection of False Data Injection Attack in Distributed Process Tracking**|Saqib Abbas Baba et.al.|[2402.09743v1](http://arxiv.org/abs/2402.09743v1)|
-|**2024-02-10**|**A Change Detection Reality Check**|Isaac Corley et.al.|[2402.06994v1](http://arxiv.org/abs/2402.06994v1)|
 
