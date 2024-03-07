@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-06**|**Interactive Bayesian Generative Models for Abnormality Detection in Vehicular Networks**|Nobel J. William et.al.|[2403.03583v1](http://arxiv.org/abs/2403.03583v1)|
 |**2024-01-08**|**FM-AE: Frequency-masked Multimodal Autoencoder for Zinc Electrolysis Plate Contact Abnormality Detection**|Canzong Zhou et.al.|[2401.03806v1](http://arxiv.org/abs/2401.03806v1)|
 |**2023-12-28**|**Unsupversied feature correlation model to predict breast abnormal variation maps in longitudinal mammograms**|Jun Bai et.al.|[2312.16772v1](http://arxiv.org/abs/2312.16772v1)|
 |**2023-11-20**|**Abnormal traffic detection system in SDN based on deep learning hybrid models**|Kun Wang et.al.|[2311.11550v1](http://arxiv.org/abs/2311.11550v1)|
@@ -43,12 +44,14 @@
 |**2023-10-10**|**Multiscale Fusion for Abnormality Detection and Localization of Distributed Parameter Systems**|Peng Wei et.al.|[2310.08606v3](http://arxiv.org/abs/2310.08606v3)|
 |**2023-09-28**|**Automated Chest X-Ray Report Generator Using Multi-Model Deep Learning Approach**|Arief Purnama Muharram et.al.|[2310.05969v3](http://arxiv.org/abs/2310.05969v3)|
 |**2023-09-19**|**OccluTrack: Rethinking Awareness of Occlusion for Enhancing Multiple Pedestrian Tracking**|Jianjun Gao et.al.|[2309.10360v1](http://arxiv.org/abs/2309.10360v1)|
-|**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v3](http://arxiv.org/abs/2308.16150v3)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-06**|**Portraying the Need for Temporal Data in Flood Detection via Sentinel-1**|Xavier Bou et.al.|[2403.03671v1](http://arxiv.org/abs/2403.03671v1)|
+|**2024-03-06**|**Unsupervised Incremental Learning with Dual Concept Drift Detection for Identifying Anomalous Sequences**|Jin Li et.al.|[2403.03576v1](http://arxiv.org/abs/2403.03576v1)|
+|**2024-03-06**|**Multimodal Anomaly Detection based on Deep Auto-Encoder for Object Slip Perception of Mobile Manipulation Robots**|Youngjae Yoo et.al.|[2403.03563v1](http://arxiv.org/abs/2403.03563v1)|
 |**2024-03-05**|**On-demand Mobility Services for Urban Resilience: A Review Towards Human-Machine Collaborative Future**|Jiangbo Yu et.al.|[2403.03107v1](http://arxiv.org/abs/2403.03107v1)|
 |**2024-03-05**|**Self-adaptive Traffic Anomaly Detection System for IoT Smart Home Environments**|Naoto Watanabe et.al.|[2403.02744v1](http://arxiv.org/abs/2403.02744v1)|
 |**2024-03-04**|**Towards efficient deep autoencoders for multivariate time series anomaly detection**|Marcin Pietroń et.al.|[2403.02429v1](http://arxiv.org/abs/2403.02429v1)|
@@ -56,9 +59,6 @@
 |**2024-03-04**|**CSE: Surface Anomaly Detection with Contrastively Selected Embedding**|Simon Thomine et.al.|[2403.01859v1](http://arxiv.org/abs/2403.01859v1)|
 |**2024-03-04**|**PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features**|Baozhu Zhao et.al.|[2403.01804v1](http://arxiv.org/abs/2403.01804v1)|
 |**2024-03-02**|**AcME-AD: Accelerated Model Explanations for Anomaly Detection**|Valentina Zaccaria et.al.|[2403.01245v1](http://arxiv.org/abs/2403.01245v1)|
-|**2024-03-02**|**Shaping Multi-Robot Patrol Performance with Heterogeneity in Individual Learning Behavior**|Connor York et.al.|[2403.01181v1](http://arxiv.org/abs/2403.01181v1)|
-|**2024-03-02**|**Learn Suspected Anomalies from Event Prompts for Video Anomaly Detection**|Chenchen Tao et.al.|[2403.01169v1](http://arxiv.org/abs/2403.01169v1)|
-|**2024-03-01**|**Dimensionality reduction techniques to support insider trading detection**|Adele Ravagnani et.al.|[2403.00707v1](http://arxiv.org/abs/2403.00707v1)|
 
 ## change detection
 
