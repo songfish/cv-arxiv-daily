@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-07**|**Exploring the Influence of Dimensionality Reduction on Anomaly Detection Performance in Multivariate Time Series**|Mahsun Altin et.al.|[2403.04429v1](http://arxiv.org/abs/2403.04429v1)|
+|**2024-03-07**|**Signature Isolation Forest**|Guillaume Staerman et.al.|[2403.04405v1](http://arxiv.org/abs/2403.04405v1)|
+|**2024-03-07**|**Effectiveness Assessment of Recent Large Vision-Language Models**|Yao Jiang et.al.|[2403.04306v1](http://arxiv.org/abs/2403.04306v1)|
+|**2024-03-07**|**MKF-ADS: A Multi-Knowledge Fused Anomaly Detection System for Automotive**|Pengzhou Cheng et.al.|[2403.04293v1](http://arxiv.org/abs/2403.04293v1)|
+|**2024-03-07**|**Dual-path Frequency Discriminators for Few-shot Anomaly Detection**|Yuhu Bai et.al.|[2403.04151v1](http://arxiv.org/abs/2403.04151v1)|
+|**2024-03-06**|**Three Revisits to Node-Level Graph Anomaly Detection: Outliers, Message Passing and Hyperbolic Neural Networks**|Jing Gu et.al.|[2403.04010v1](http://arxiv.org/abs/2403.04010v1)|
 |**2024-03-06**|**Portraying the Need for Temporal Data in Flood Detection via Sentinel-1**|Xavier Bou et.al.|[2403.03671v1](http://arxiv.org/abs/2403.03671v1)|
 |**2024-03-06**|**Unsupervised Incremental Learning with Dual Concept Drift Detection for Identifying Anomalous Sequences**|Jin Li et.al.|[2403.03576v2](http://arxiv.org/abs/2403.03576v2)|
 |**2024-03-06**|**Multimodal Anomaly Detection based on Deep Auto-Encoder for Object Slip Perception of Mobile Manipulation Robots**|Youngjae Yoo et.al.|[2403.03563v1](http://arxiv.org/abs/2403.03563v1)|
 |**2024-03-05**|**On-demand Mobility Services for Urban Resilience: A Review Towards Human-Machine Collaborative Future**|Jiangbo Yu et.al.|[2403.03107v1](http://arxiv.org/abs/2403.03107v1)|
-|**2024-03-05**|**Self-adaptive Traffic Anomaly Detection System for IoT Smart Home Environments**|Naoto Watanabe et.al.|[2403.02744v1](http://arxiv.org/abs/2403.02744v1)|
-|**2024-03-04**|**Towards efficient deep autoencoders for multivariate time series anomaly detection**|Marcin Pietroń et.al.|[2403.02429v1](http://arxiv.org/abs/2403.02429v1)|
-|**2024-03-04**|**Unsupervised Distance Metric Learning for Anomaly Detection Over Multivariate Time Series**|Hanyang Yuan et.al.|[2403.01895v1](http://arxiv.org/abs/2403.01895v1)|
-|**2024-03-04**|**CSE: Surface Anomaly Detection with Contrastively Selected Embedding**|Simon Thomine et.al.|[2403.01859v1](http://arxiv.org/abs/2403.01859v1)|
-|**2024-03-04**|**PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features**|Baozhu Zhao et.al.|[2403.01804v1](http://arxiv.org/abs/2403.01804v1)|
-|**2024-03-02**|**AcME-AD: Accelerated Model Explanations for Anomaly Detection**|Valentina Zaccaria et.al.|[2403.01245v1](http://arxiv.org/abs/2403.01245v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-07**|**Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning**|Martin Willbo et.al.|[2403.04385v1](http://arxiv.org/abs/2403.04385v1)|
 |**2024-03-04**|**LiSTA: Geometric Object-Based Change Detection in Cluttered Environments**|Joseph Rowell et.al.|[2403.02175v2](http://arxiv.org/abs/2403.02175v2)|
 |**2024-03-01**|**A Semantic Distance Metric Learning approach for Lexical Semantic Change Detection**|Taichi Aida et.al.|[2403.00226v1](http://arxiv.org/abs/2403.00226v1)|
 |**2024-02-27**|**OSCaR: Object State Captioning and State Change Representation**|Nguyen Nguyen et.al.|[2402.17128v2](http://arxiv.org/abs/2402.17128v2)|
@@ -73,5 +74,4 @@
 |**2024-02-15**|**LaserSAM: Zero-Shot Change Detection Using Visual Segmentation of Spinning LiDAR**|Alexander Krawciw et.al.|[2402.10321v1](http://arxiv.org/abs/2402.10321v1)|
 |**2024-02-15**|**An Evaluation of Real-time Adaptive Sampling Change Point Detection Algorithm using KCUSUM**|Vijayalakshmi Saravanan et.al.|[2402.10291v1](http://arxiv.org/abs/2402.10291v1)|
 |**2024-02-15**|**A Comprehensive Review on Computer Vision Analysis of Aerial Data**|Vivek Tetarwal et.al.|[2402.09781v1](http://arxiv.org/abs/2402.09781v1)|
-|**2024-02-15**|**Quickest Detection of False Data Injection Attack in Distributed Process Tracking**|Saqib Abbas Baba et.al.|[2402.09743v1](http://arxiv.org/abs/2402.09743v1)|
 
