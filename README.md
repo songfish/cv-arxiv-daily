@@ -56,7 +56,7 @@
 |**2024-03-07**|**Signature Isolation Forest**|Guillaume Staerman et.al.|[2403.04405v1](http://arxiv.org/abs/2403.04405v1)|
 |**2024-03-07**|**Effectiveness Assessment of Recent Large Vision-Language Models**|Yao Jiang et.al.|[2403.04306v1](http://arxiv.org/abs/2403.04306v1)|
 |**2024-03-07**|**MKF-ADS: A Multi-Knowledge Fused Anomaly Detection System for Automotive**|Pengzhou Cheng et.al.|[2403.04293v1](http://arxiv.org/abs/2403.04293v1)|
-|**2024-03-07**|**Dual-path Frequency Discriminators for Few-shot Anomaly Detection**|Yuhu Bai et.al.|[2403.04151v1](http://arxiv.org/abs/2403.04151v1)|
+|**2024-03-07**|**Dual-path Frequency Discriminators for Few-shot Anomaly Detection**|Yuhu Bai et.al.|[2403.04151v2](http://arxiv.org/abs/2403.04151v2)|
 |**2024-03-06**|**Three Revisits to Node-Level Graph Anomaly Detection: Outliers, Message Passing and Hyperbolic Neural Networks**|Jing Gu et.al.|[2403.04010v1](http://arxiv.org/abs/2403.04010v1)|
 |**2024-03-06**|**Portraying the Need for Temporal Data in Flood Detection via Sentinel-1**|Xavier Bou et.al.|[2403.03671v1](http://arxiv.org/abs/2403.03671v1)|
 
