@@ -1,4 +1,4 @@
-## Updated on 2024.03.12
+## Updated on 2024.03.13
 
 ## super-resolution
 
@@ -53,7 +53,7 @@
 |**2024-03-11**|**Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts**|Jiawen Zhu et.al.|[2403.06495v1](http://arxiv.org/abs/2403.06495v1)|
 |**2024-03-11**|**Accelerating Sparse Tensor Decomposition Using Adaptive Linearized Representation**|Jan Laukemann et.al.|[2403.06348v1](http://arxiv.org/abs/2403.06348v1)|
 |**2024-03-10**|**Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation**|Mingyu Lee et.al.|[2403.06247v1](http://arxiv.org/abs/2403.06247v1)|
-|**2024-03-10**|**GlanceVAD: Exploring Glance Supervision for Label-efficient Video Anomaly Detection**|Huaxin Zhang et.al.|[2403.06154v1](http://arxiv.org/abs/2403.06154v1)|
+|**2024-03-10**|**GlanceVAD: Exploring Glance Supervision for Label-efficient Video Anomaly Detection**|Huaxin Zhang et.al.|[2403.06154v2](http://arxiv.org/abs/2403.06154v2)|
 |**2024-03-09**|**RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection**|Ximiao Zhang et.al.|[2403.05897v1](http://arxiv.org/abs/2403.05897v1)|
 |**2024-03-08**|**Learning Expressive And Generalizable Motion Features For Face Forgery Detection**|Jingyi Zhang et.al.|[2403.05172v1](http://arxiv.org/abs/2403.05172v1)|
 |**2024-03-08**|**Simulating Battery-Powered TinyML Systems Optimised using Reinforcement Learning in Image-Based Anomaly Detection**|Jared M. Ping et.al.|[2403.05106v1](http://arxiv.org/abs/2403.05106v1)|
