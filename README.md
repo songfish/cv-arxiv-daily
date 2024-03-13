@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-11**|**Study of the Impact of the Big Data Era on Accounting and Auditing**|Yuxiang Sun et.al.|[2403.07180v1](http://arxiv.org/abs/2403.07180v1)|
 |**2024-03-11**|**Detection of Object Throwing Behavior in Surveillance Videos**|Ivo P. C. Kersten et.al.|[2403.06552v1](http://arxiv.org/abs/2403.06552v1)|
 |**2024-03-11**|**Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts**|Jiawen Zhu et.al.|[2403.06495v2](http://arxiv.org/abs/2403.06495v2)|
 |**2024-03-11**|**Accelerating Sparse Tensor Decomposition Using Adaptive Linearized Representation**|Jan Laukemann et.al.|[2403.06348v1](http://arxiv.org/abs/2403.06348v1)|
@@ -58,12 +59,13 @@
 |**2024-03-08**|**Learning Expressive And Generalizable Motion Features For Face Forgery Detection**|Jingyi Zhang et.al.|[2403.05172v1](http://arxiv.org/abs/2403.05172v1)|
 |**2024-03-08**|**Simulating Battery-Powered TinyML Systems Optimised using Reinforcement Learning in Image-Based Anomaly Detection**|Jared M. Ping et.al.|[2403.05106v1](http://arxiv.org/abs/2403.05106v1)|
 |**2024-03-07**|**Divide and Conquer: High-Resolution Industrial Anomaly Detection via Memory Efficient Tiled Ensemble**|Blaž Rolih et.al.|[2403.04932v1](http://arxiv.org/abs/2403.04932v1)|
-|**2024-03-07**|**Exploring the Influence of Dimensionality Reduction on Anomaly Detection Performance in Multivariate Time Series**|Mahsun Altin et.al.|[2403.04429v1](http://arxiv.org/abs/2403.04429v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-12**|**RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model**|Mingze Wang et.al.|[2403.07564v1](http://arxiv.org/abs/2403.07564v1)|
+|**2024-03-11**|**Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits**|Yu Xia et.al.|[2403.07213v1](http://arxiv.org/abs/2403.07213v1)|
 |**2024-03-09**|**Weakly Supervised Change Detection via Knowledge Distillation and Multiscale Sigmoid Inference**|Binghao Lu et.al.|[2403.05796v1](http://arxiv.org/abs/2403.05796v1)|
 |**2024-03-07**|**Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning**|Martin Willbo et.al.|[2403.04385v1](http://arxiv.org/abs/2403.04385v1)|
 |**2024-03-04**|**LiSTA: Geometric Object-Based Change Detection in Cluttered Environments**|Joseph Rowell et.al.|[2403.02175v2](http://arxiv.org/abs/2403.02175v2)|
@@ -72,6 +74,4 @@
 |**2024-02-26**|**Semantic change detection for Slovene language: a novel dataset and an approach based on optimal transport**|Marko Pranjić et.al.|[2402.16596v1](http://arxiv.org/abs/2402.16596v1)|
 |**2024-02-26**|**HSONet:A Siamese foreground association-driven hard case sample optimization network for high-resolution remote sensing image change detection**|Chao Tao et.al.|[2402.16242v1](http://arxiv.org/abs/2402.16242v1)|
 |**2024-02-19**|**A Systematic Comparison of Contextualized Word Embeddings for Lexical Semantic Change**|Francesco Periti et.al.|[2402.12011v3](http://arxiv.org/abs/2402.12011v3)|
-|**2024-02-15**|**LaserSAM: Zero-Shot Change Detection Using Visual Segmentation of Spinning LiDAR**|Alexander Krawciw et.al.|[2402.10321v1](http://arxiv.org/abs/2402.10321v1)|
-|**2024-02-15**|**An Evaluation of Real-time Adaptive Sampling Change Point Detection Algorithm using KCUSUM**|Vijayalakshmi Saravanan et.al.|[2402.10291v1](http://arxiv.org/abs/2402.10291v1)|
 
