@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-13**|**Limits on the OH Molecule in the Smith High Velocity Cloud**|Anthony H. Minter et.al.|[2403.08704v1](http://arxiv.org/abs/2403.08704v1)|
+|**2024-03-13**|**Deep Learning for In-Orbit Cloud Segmentation and Classification in Hyperspectral Satellite Data**|Daniel Kovac et.al.|[2403.08695v1](http://arxiv.org/abs/2403.08695v1)|
 |**2024-03-01**|**Cloud properties across spatial scales in simulations of the interstellar medium**|Tine Colman et.al.|[2403.00512v1](http://arxiv.org/abs/2403.00512v1)|
 |**2024-02-29**|**RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation**|Jie Zhang et.al.|[2402.19004v1](http://arxiv.org/abs/2402.19004v1)|
 |**2024-02-21**|**BenchCloudVision: A Benchmark Analysis of Deep Learning Approaches for Cloud Detection and Segmentation in Remote Sensing Imagery**|Loddo Fabio et.al.|[2402.13918v3](http://arxiv.org/abs/2402.13918v3)|
@@ -27,8 +29,6 @@
 |**2023-11-23**|**Creating and Leveraging a Synthetic Dataset of Cloud Optical Thickness Measures for Cloud Detection in MSI**|Aleksis Pirinen et.al.|[2311.14024v2](http://arxiv.org/abs/2311.14024v2)|
 |**2023-09-05**|**Domain Adaptation for Satellite-Borne Hyperspectral Cloud Detection**|Andrew Du et.al.|[2309.02150v1](http://arxiv.org/abs/2309.02150v1)|
 |**2023-07-14**|**Cloud Detection in Multispectral Satellite Images Using Support Vector Machines With Quantum Kernels**|Artur Miroszewski et.al.|[2307.07281v1](http://arxiv.org/abs/2307.07281v1)|
-|**2023-06-26**|**Optimizing Kernel-Target Alignment for cloud detection in multispectral satellite images**|Artur Miroszewski et.al.|[2306.14515v1](http://arxiv.org/abs/2306.14515v1)|
-|**2023-06-16**|**Squeezing nnU-Nets with Knowledge Distillation for On-Board Cloud Detection**|Bartosz Grabowski et.al.|[2306.09886v1](http://arxiv.org/abs/2306.09886v1)|
 
 ## abnormal detection
 
@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-13**|**Exploiting Structural Consistency of Chest Anatomy for Unsupervised Anomaly Detection in Radiography Images**|Tiange Xiang et.al.|[2403.08689v1](http://arxiv.org/abs/2403.08689v1)|
+|**2024-03-13**|**Extracting Explanations, Justification, and Uncertainty from Black-Box Deep Neural Networks**|Paul Ardis et.al.|[2403.08652v1](http://arxiv.org/abs/2403.08652v1)|
+|**2024-03-13**|**Caformer: Rethinking Time Series Analysis from Causal Perspective**|Kexuan Zhang et.al.|[2403.08572v1](http://arxiv.org/abs/2403.08572v1)|
+|**2024-03-13**|**Diffusion Models with Implicit Guidance for Medical Anomaly Detection**|Cosmin I. Bercea et.al.|[2403.08464v1](http://arxiv.org/abs/2403.08464v1)|
+|**2024-03-12**|**Supervised Time Series Classification for Anomaly Detection in Subsea Engineering**|Ergys Çokaj et.al.|[2403.08013v1](http://arxiv.org/abs/2403.08013v1)|
 |**2024-03-11**|**Study of the Impact of the Big Data Era on Accounting and Auditing**|Yuxiang Sun et.al.|[2403.07180v1](http://arxiv.org/abs/2403.07180v1)|
 |**2024-03-11**|**Detection of Object Throwing Behavior in Surveillance Videos**|Ivo P. C. Kersten et.al.|[2403.06552v1](http://arxiv.org/abs/2403.06552v1)|
 |**2024-03-11**|**Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts**|Jiawen Zhu et.al.|[2403.06495v2](http://arxiv.org/abs/2403.06495v2)|
 |**2024-03-11**|**Accelerating Sparse Tensor Decomposition Using Adaptive Linearized Representation**|Jan Laukemann et.al.|[2403.06348v1](http://arxiv.org/abs/2403.06348v1)|
 |**2024-03-10**|**Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation**|Mingyu Lee et.al.|[2403.06247v1](http://arxiv.org/abs/2403.06247v1)|
-|**2024-03-10**|**GlanceVAD: Exploring Glance Supervision for Label-efficient Video Anomaly Detection**|Huaxin Zhang et.al.|[2403.06154v2](http://arxiv.org/abs/2403.06154v2)|
-|**2024-03-09**|**RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection**|Ximiao Zhang et.al.|[2403.05897v1](http://arxiv.org/abs/2403.05897v1)|
-|**2024-03-08**|**Learning Expressive And Generalizable Motion Features For Face Forgery Detection**|Jingyi Zhang et.al.|[2403.05172v1](http://arxiv.org/abs/2403.05172v1)|
-|**2024-03-08**|**Simulating Battery-Powered TinyML Systems Optimised using Reinforcement Learning in Image-Based Anomaly Detection**|Jared M. Ping et.al.|[2403.05106v1](http://arxiv.org/abs/2403.05106v1)|
-|**2024-03-07**|**Divide and Conquer: High-Resolution Industrial Anomaly Detection via Memory Efficient Tiled Ensemble**|Blaž Rolih et.al.|[2403.04932v1](http://arxiv.org/abs/2403.04932v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-13**|**Pre-examinations Improve Automated Metastases Detection on Cranial MRI**|Katerina Deike-Hofmann et.al.|[2403.08280v1](http://arxiv.org/abs/2403.08280v1)|
 |**2024-03-12**|**RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model**|Mingze Wang et.al.|[2403.07564v1](http://arxiv.org/abs/2403.07564v1)|
 |**2024-03-11**|**Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits**|Yu Xia et.al.|[2403.07213v1](http://arxiv.org/abs/2403.07213v1)|
 |**2024-03-09**|**Weakly Supervised Change Detection via Knowledge Distillation and Multiscale Sigmoid Inference**|Binghao Lu et.al.|[2403.05796v1](http://arxiv.org/abs/2403.05796v1)|
@@ -73,5 +74,4 @@
 |**2024-02-27**|**OSCaR: Object State Captioning and State Change Representation**|Nguyen Nguyen et.al.|[2402.17128v2](http://arxiv.org/abs/2402.17128v2)|
 |**2024-02-26**|**Semantic change detection for Slovene language: a novel dataset and an approach based on optimal transport**|Marko Pranjić et.al.|[2402.16596v1](http://arxiv.org/abs/2402.16596v1)|
 |**2024-02-26**|**HSONet:A Siamese foreground association-driven hard case sample optimization network for high-resolution remote sensing image change detection**|Chao Tao et.al.|[2402.16242v1](http://arxiv.org/abs/2402.16242v1)|
-|**2024-02-19**|**A Systematic Comparison of Contextualized Word Embeddings for Lexical Semantic Change**|Francesco Periti et.al.|[2402.12011v3](http://arxiv.org/abs/2402.12011v3)|
 
