@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-14**|**Code Revert Prediction with Graph Neural Networks: A Case Study at J.P. Morgan Chase**|Yulong Pei et.al.|[2403.09507v1](http://arxiv.org/abs/2403.09507v1)|
+|**2024-03-14**|**Anomaly Detection by Adapting a pre-trained Vision Language Model**|Yuxuan Cai et.al.|[2403.09493v1](http://arxiv.org/abs/2403.09493v1)|
+|**2024-03-14**|**Detecting the third family of compact stars with normalizing flows**|Valéria Carvalho et.al.|[2403.09398v1](http://arxiv.org/abs/2403.09398v1)|
+|**2024-03-14**|**Privacy Preserving Anomaly Detection on Homomorphic Encrypted Data from IoT Sensors**|Anca Hangan et.al.|[2403.09322v1](http://arxiv.org/abs/2403.09322v1)|
+|**2024-03-14**|**Rethinking Autoencoders for Medical Anomaly Detection from A Theoretical Perspective**|Yu Cai et.al.|[2403.09303v1](http://arxiv.org/abs/2403.09303v1)|
+|**2024-03-14**|**LAN: Learning Adaptive Neighbors for Real-Time Insider Threat Detection**|Xiangrui Cai et.al.|[2403.09209v1](http://arxiv.org/abs/2403.09209v1)|
+|**2024-03-14**|**Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly Detection in Dynamic Graphs**|Jie Liu et.al.|[2403.09039v1](http://arxiv.org/abs/2403.09039v1)|
 |**2024-03-13**|**Exploiting Structural Consistency of Chest Anatomy for Unsupervised Anomaly Detection in Radiography Images**|Tiange Xiang et.al.|[2403.08689v1](http://arxiv.org/abs/2403.08689v1)|
 |**2024-03-13**|**Extracting Explanations, Justification, and Uncertainty from Black-Box Deep Neural Networks**|Paul Ardis et.al.|[2403.08652v1](http://arxiv.org/abs/2403.08652v1)|
 |**2024-03-13**|**Caformer: Rethinking Time Series Analysis from Causal Perspective**|Kexuan Zhang et.al.|[2403.08572v1](http://arxiv.org/abs/2403.08572v1)|
-|**2024-03-13**|**Diffusion Models with Implicit Guidance for Medical Anomaly Detection**|Cosmin I. Bercea et.al.|[2403.08464v1](http://arxiv.org/abs/2403.08464v1)|
-|**2024-03-12**|**Supervised Time Series Classification for Anomaly Detection in Subsea Engineering**|Ergys Çokaj et.al.|[2403.08013v1](http://arxiv.org/abs/2403.08013v1)|
-|**2024-03-11**|**Study of the Impact of the Big Data Era on Accounting and Auditing**|Yuxiang Sun et.al.|[2403.07180v1](http://arxiv.org/abs/2403.07180v1)|
-|**2024-03-11**|**Detection of Object Throwing Behavior in Surveillance Videos**|Ivo P. C. Kersten et.al.|[2403.06552v1](http://arxiv.org/abs/2403.06552v1)|
-|**2024-03-11**|**Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts**|Jiawen Zhu et.al.|[2403.06495v2](http://arxiv.org/abs/2403.06495v2)|
-|**2024-03-11**|**Accelerating Sparse Tensor Decomposition Using Adaptive Linearized Representation**|Jan Laukemann et.al.|[2403.06348v1](http://arxiv.org/abs/2403.06348v1)|
-|**2024-03-10**|**Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation**|Mingyu Lee et.al.|[2403.06247v1](http://arxiv.org/abs/2403.06247v1)|
 
 ## change detection
 
