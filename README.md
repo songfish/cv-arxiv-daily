@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-15**|**Generation is better than Modification: Combating High Class Homophily Variance in Graph Anomaly Detection**|Rui Zhang et.al.|[2403.10339v1](http://arxiv.org/abs/2403.10339v1)|
+|**2024-03-15**|**From Chaos to Clarity: Time Series Anomaly Detection in Astronomical Observations**|Xinli Hao et.al.|[2403.10220v1](http://arxiv.org/abs/2403.10220v1)|
+|**2024-03-15**|**Single- and Multi-Agent Private Active Sensing: A Deep Neuroevolution Approach**|George Stamatelis et.al.|[2403.10112v1](http://arxiv.org/abs/2403.10112v1)|
+|**2024-03-15**|**Autonomous Monitoring of Pharmaceutical R&D Laboratories with 6 Axis Arm Equipped Quadruped Robot and Generative AI: A Preliminary Study**|Shunichi Hato et.al.|[2403.10108v1](http://arxiv.org/abs/2403.10108v1)|
+|**2024-03-15**|**Federated Learning with Anomaly Detection via Gradient and Reconstruction Analysis**|Zahir Alsulaimawi et.al.|[2403.10000v1](http://arxiv.org/abs/2403.10000v1)|
+|**2024-03-14**|**Explainable Machine Learning-Based Security and Privacy Protection Framework for Internet of Medical Things Systems**|Ayoub Si-ahmed et.al.|[2403.09752v1](http://arxiv.org/abs/2403.09752v1)|
 |**2024-03-14**|**Code Revert Prediction with Graph Neural Networks: A Case Study at J.P. Morgan Chase**|Yulong Pei et.al.|[2403.09507v1](http://arxiv.org/abs/2403.09507v1)|
 |**2024-03-14**|**Anomaly Detection by Adapting a pre-trained Vision Language Model**|Yuxuan Cai et.al.|[2403.09493v1](http://arxiv.org/abs/2403.09493v1)|
 |**2024-03-14**|**Detecting the third family of compact stars with normalizing flows**|Valéria Carvalho et.al.|[2403.09398v1](http://arxiv.org/abs/2403.09398v1)|
 |**2024-03-14**|**Privacy Preserving Anomaly Detection on Homomorphic Encrypted Data from IoT Sensors**|Anca Hangan et.al.|[2403.09322v1](http://arxiv.org/abs/2403.09322v1)|
-|**2024-03-14**|**Rethinking Autoencoders for Medical Anomaly Detection from A Theoretical Perspective**|Yu Cai et.al.|[2403.09303v2](http://arxiv.org/abs/2403.09303v2)|
-|**2024-03-14**|**LAN: Learning Adaptive Neighbors for Real-Time Insider Threat Detection**|Xiangrui Cai et.al.|[2403.09209v1](http://arxiv.org/abs/2403.09209v1)|
-|**2024-03-14**|**Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly Detection in Dynamic Graphs**|Jie Liu et.al.|[2403.09039v1](http://arxiv.org/abs/2403.09039v1)|
-|**2024-03-13**|**Exploiting Structural Consistency of Chest Anatomy for Unsupervised Anomaly Detection in Radiography Images**|Tiange Xiang et.al.|[2403.08689v1](http://arxiv.org/abs/2403.08689v1)|
-|**2024-03-13**|**Extracting Explanations, Justification, and Uncertainty from Black-Box Deep Neural Networks**|Paul Ardis et.al.|[2403.08652v1](http://arxiv.org/abs/2403.08652v1)|
-|**2024-03-13**|**Caformer: Rethinking Time Series Analysis from Causal Perspective**|Kexuan Zhang et.al.|[2403.08572v1](http://arxiv.org/abs/2403.08572v1)|
 
 ## change detection
 
