@@ -9,7 +9,7 @@
 |**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633v1](http://arxiv.org/abs/2401.05633v1)|
 |**2023-12-27**|**Learn From Orientation Prior for Radiograph Super-Resolution: Orientation Operator Transformer**|Yongsong Huang et.al.|[2312.16455v1](http://arxiv.org/abs/2312.16455v1)|
 |**2023-12-24**|**Perception-Distortion Balanced Super-Resolution: A Multi-Objective Optimization Perspective**|Lingchen Sun et.al.|[2312.15408v1](http://arxiv.org/abs/2312.15408v1)|
-|**2023-12-20**|**Learning Exhaustive Correlation for Spectral Super-Resolution: Where Unified Spatial-Spectral Attention Meets Mutual Linear Dependence**|Hongyuan Wang et.al.|[2312.12833v1](http://arxiv.org/abs/2312.12833v1)|
+|**2023-12-20**|**Learning Exhaustive Correlation for Spectral Super-Resolution: Where Spatial-Spectral Attention Meets Linear Dependence**|Hongyuan Wang et.al.|[2312.12833v2](http://arxiv.org/abs/2312.12833v2)|
 |**2023-11-28**|**Super-Resolution through StyleGAN Regularized Latent Search: A Realism-Fidelity Trade-off**|Marzieh Gheisari et.al.|[2311.16923v1](http://arxiv.org/abs/2311.16923v1)|
 |**2023-11-16**|**Redefining Super-Resolution: Fine-mesh PDE predictions without classical simulations**|Rajat Kumar Sarkar et.al.|[2311.09740v3](http://arxiv.org/abs/2311.09740v3)|
 |**2023-09-09**|**Towards Real-World Burst Image Super-Resolution: Benchmark and Method**|Pengxu Wei et.al.|[2309.04803v1](http://arxiv.org/abs/2309.04803v1)|
@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-17**|**Tokensome: Towards a Genetic Vision-Language GPT for Explainable and Cognitive Karyotyping**|Haoxi Zhang et.al.|[2403.11073v1](http://arxiv.org/abs/2403.11073v1)|
 |**2024-03-06**|**Interactive Bayesian Generative Models for Abnormality Detection in Vehicular Networks**|Nobel J. William et.al.|[2403.03583v1](http://arxiv.org/abs/2403.03583v1)|
 |**2024-01-08**|**FM-AE: Frequency-masked Multimodal Autoencoder for Zinc Electrolysis Plate Contact Abnormality Detection**|Canzong Zhou et.al.|[2401.03806v1](http://arxiv.org/abs/2401.03806v1)|
 |**2023-12-28**|**Unsupversied feature correlation model to predict breast abnormal variation maps in longitudinal mammograms**|Jun Bai et.al.|[2312.16772v1](http://arxiv.org/abs/2312.16772v1)|
@@ -43,27 +44,27 @@
 |**2023-10-20**|**Identification of Abnormality in Maize Plants From UAV Images Using Deep Learning Approaches**|Aminul Huq et.al.|[2310.13201v1](http://arxiv.org/abs/2310.13201v1)|
 |**2023-10-10**|**Multiscale Fusion for Abnormality Detection and Localization of Distributed Parameter Systems**|Peng Wei et.al.|[2310.08606v3](http://arxiv.org/abs/2310.08606v3)|
 |**2023-09-28**|**Automated Chest X-Ray Report Generator Using Multi-Model Deep Learning Approach**|Arief Purnama Muharram et.al.|[2310.05969v3](http://arxiv.org/abs/2310.05969v3)|
-|**2023-09-19**|**OccluTrack: Rethinking Awareness of Occlusion for Enhancing Multiple Pedestrian Tracking**|Jianjun Gao et.al.|[2309.10360v1](http://arxiv.org/abs/2309.10360v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-03-15**|**Generation is better than Modification: Combating High Class Homophily Variance in Graph Anomaly Detection**|Rui Zhang et.al.|[2403.10339v1](http://arxiv.org/abs/2403.10339v1)|
-|**2024-03-15**|**From Chaos to Clarity: Time Series Anomaly Detection in Astronomical Observations**|Xinli Hao et.al.|[2403.10220v1](http://arxiv.org/abs/2403.10220v1)|
-|**2024-03-15**|**Single- and Multi-Agent Private Active Sensing: A Deep Neuroevolution Approach**|George Stamatelis et.al.|[2403.10112v1](http://arxiv.org/abs/2403.10112v1)|
-|**2024-03-15**|**Autonomous Monitoring of Pharmaceutical R&D Laboratories with 6 Axis Arm Equipped Quadruped Robot and Generative AI: A Preliminary Study**|Shunichi Hato et.al.|[2403.10108v1](http://arxiv.org/abs/2403.10108v1)|
-|**2024-03-15**|**Federated Learning with Anomaly Detection via Gradient and Reconstruction Analysis**|Zahir Alsulaimawi et.al.|[2403.10000v1](http://arxiv.org/abs/2403.10000v1)|
-|**2024-03-14**|**Explainable Machine Learning-Based Security and Privacy Protection Framework for Internet of Medical Things Systems**|Ayoub Si-ahmed et.al.|[2403.09752v1](http://arxiv.org/abs/2403.09752v1)|
-|**2024-03-14**|**Code Revert Prediction with Graph Neural Networks: A Case Study at J.P. Morgan Chase**|Yulong Pei et.al.|[2403.09507v1](http://arxiv.org/abs/2403.09507v1)|
-|**2024-03-14**|**Anomaly Detection by Adapting a pre-trained Vision Language Model**|Yuxuan Cai et.al.|[2403.09493v1](http://arxiv.org/abs/2403.09493v1)|
-|**2024-03-14**|**Detecting the third family of compact stars with normalizing flows**|Valéria Carvalho et.al.|[2403.09398v1](http://arxiv.org/abs/2403.09398v1)|
-|**2024-03-14**|**Privacy Preserving Anomaly Detection on Homomorphic Encrypted Data from IoT Sensors**|Anca Hangan et.al.|[2403.09322v1](http://arxiv.org/abs/2403.09322v1)|
+|**2024-03-18**|**Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection**|Julia Wolleb et.al.|[2403.11667v1](http://arxiv.org/abs/2403.11667v1)|
+|**2024-03-18**|**Learning Unified Reference Representation for Unsupervised Multi-class Anomaly Detection**|Liren He et.al.|[2403.11561v1](http://arxiv.org/abs/2403.11561v1)|
+|**2024-03-18**|**Out-of-Distribution Detection Should Use Conformal Prediction (and Vice-versa?)**|Paul Novello et.al.|[2403.11532v1](http://arxiv.org/abs/2403.11532v1)|
+|**2024-03-17**|**Causality from Bottom to Top: A Survey**|Abraham Itzhak Weinberg et.al.|[2403.11219v1](http://arxiv.org/abs/2403.11219v1)|
+|**2024-03-17**|**usfAD Based Effective Unknown Attack Detection Focused IDS Framework**|Md. Ashraf Uddin et.al.|[2403.11180v1](http://arxiv.org/abs/2403.11180v1)|
+|**2024-03-17**|**Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning**|Xiaohao Xu et.al.|[2403.11083v1](http://arxiv.org/abs/2403.11083v1)|
+|**2024-03-16**|**An Open-Source Experimentation Framework for the Edge Cloud Continuum**|Georgios Koukis et.al.|[2403.10977v1](http://arxiv.org/abs/2403.10977v1)|
+|**2024-03-16**|**DTOR: Decision Tree Outlier Regressor to explain anomalies**|Riccardo Crupi et.al.|[2403.10903v1](http://arxiv.org/abs/2403.10903v1)|
+|**2024-03-16**|**Anomaly Detection Based on Isolation Mechanisms: A Survey**|Yang Cao et.al.|[2403.10802v1](http://arxiv.org/abs/2403.10802v1)|
+|**2024-03-16**|**Bayesian Design for Sampling Anomalous Spatio-Temporal Data**|Katie Buchhorn et.al.|[2403.10791v1](http://arxiv.org/abs/2403.10791v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-18**|**Earth+: on-board satellite imagery compression leveraging historical earth observations**|Kuntai Du et.al.|[2403.11434v1](http://arxiv.org/abs/2403.11434v1)|
 |**2024-03-13**|**Pre-examinations Improve Automated Metastases Detection on Cranial MRI**|Katerina Deike-Hofmann et.al.|[2403.08280v1](http://arxiv.org/abs/2403.08280v1)|
 |**2024-03-12**|**RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model**|Mingze Wang et.al.|[2403.07564v1](http://arxiv.org/abs/2403.07564v1)|
 |**2024-03-11**|**Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits**|Yu Xia et.al.|[2403.07213v1](http://arxiv.org/abs/2403.07213v1)|
@@ -73,5 +74,4 @@
 |**2024-03-01**|**A Semantic Distance Metric Learning approach for Lexical Semantic Change Detection**|Taichi Aida et.al.|[2403.00226v1](http://arxiv.org/abs/2403.00226v1)|
 |**2024-02-27**|**OSCaR: Object State Captioning and State Change Representation**|Nguyen Nguyen et.al.|[2402.17128v2](http://arxiv.org/abs/2402.17128v2)|
 |**2024-02-26**|**Semantic change detection for Slovene language: a novel dataset and an approach based on optimal transport**|Marko Pranjić et.al.|[2402.16596v1](http://arxiv.org/abs/2402.16596v1)|
-|**2024-02-26**|**HSONet:A Siamese foreground association-driven hard case sample optimization network for high-resolution remote sensing image change detection**|Chao Tao et.al.|[2402.16242v1](http://arxiv.org/abs/2402.16242v1)|
 
