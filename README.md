@@ -56,7 +56,7 @@
 |**2024-03-17**|**usfAD Based Effective Unknown Attack Detection Focused IDS Framework**|Md. Ashraf Uddin et.al.|[2403.11180v1](http://arxiv.org/abs/2403.11180v1)|
 |**2024-03-17**|**Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning**|Xiaohao Xu et.al.|[2403.11083v1](http://arxiv.org/abs/2403.11083v1)|
 |**2024-03-16**|**An Open-Source Experimentation Framework for the Edge Cloud Continuum**|Georgios Koukis et.al.|[2403.10977v1](http://arxiv.org/abs/2403.10977v1)|
-|**2024-03-16**|**DTOR: Decision Tree Outlier Regressor to explain anomalies**|Riccardo Crupi et.al.|[2403.10903v1](http://arxiv.org/abs/2403.10903v1)|
+|**2024-03-16**|**DTOR: Decision Tree Outlier Regressor to explain anomalies**|Riccardo Crupi et.al.|[2403.10903v2](http://arxiv.org/abs/2403.10903v2)|
 |**2024-03-16**|**Anomaly Detection Based on Isolation Mechanisms: A Survey**|Yang Cao et.al.|[2403.10802v1](http://arxiv.org/abs/2403.10802v1)|
 |**2024-03-16**|**Bayesian Design for Sampling Anomalous Spatio-Temporal Data**|Katie Buchhorn et.al.|[2403.10791v1](http://arxiv.org/abs/2403.10791v1)|
 
