@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-20**|**Unsupervised learning in particle physics**|Jai Bardhan et.al.|[2403.13676v1](http://arxiv.org/abs/2403.13676v1)|
+|**2024-03-20**|**Hierarchical Gaussian Mixture Normalizing Flow Modeling for Unified Anomaly Detection**|Xincheng Yao et.al.|[2403.13349v1](http://arxiv.org/abs/2403.13349v1)|
 |**2024-03-19**|**Wildfire danger prediction optimization with transfer learning**|Spiros Maggioros et.al.|[2403.12871v1](http://arxiv.org/abs/2403.12871v1)|
 |**2024-03-19**|**A Comparison of Deep Learning Architectures for Spacecraft Anomaly Detection**|Daniel Lakey et.al.|[2403.12864v1](http://arxiv.org/abs/2403.12864v1)|
 |**2024-03-19**|**Improving Interpretability of Scores in Anomaly Detection Based on Gaussian-Bernoulli Restricted Boltzmann Machine**|Kaiji Sekimoto et.al.|[2403.12672v1](http://arxiv.org/abs/2403.12672v1)|
@@ -57,13 +59,12 @@
 |**2024-03-19**|**VisionGPT: LLM-Assisted Real-Time Anomaly Detection for Safe Visual Navigation**|Hao Wang et.al.|[2403.12415v1](http://arxiv.org/abs/2403.12415v1)|
 |**2024-03-19**|**DMAD: Dual Memory Bank for Real-World Anomaly Detection**|Jianlong Hu et.al.|[2403.12362v1](http://arxiv.org/abs/2403.12362v1)|
 |**2024-03-18**|**Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection**|Ali Karami et.al.|[2403.12172v1](http://arxiv.org/abs/2403.12172v1)|
-|**2024-03-18**|**Is It Really You Who Forgot the Password? When Account Recovery Meets Risk-Based Authentication**|Andre Büttner et.al.|[2403.11798v1](http://arxiv.org/abs/2403.11798v1)|
-|**2024-03-18**|**Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection**|Julia Wolleb et.al.|[2403.11667v1](http://arxiv.org/abs/2403.11667v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-20**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Di Wang et.al.|[2403.13430v1](http://arxiv.org/abs/2403.13430v1)|
 |**2024-03-18**|**Large-scale flood modeling and forecasting with FloodCast**|Qingsong Xu et.al.|[2403.12226v1](http://arxiv.org/abs/2403.12226v1)|
 |**2024-03-18**|**Earth+: on-board satellite imagery compression leveraging historical earth observations**|Kuntai Du et.al.|[2403.11434v1](http://arxiv.org/abs/2403.11434v1)|
 |**2024-03-13**|**Pre-examinations Improve Automated Metastases Detection on Cranial MRI**|Katerina Deike-Hofmann et.al.|[2403.08280v1](http://arxiv.org/abs/2403.08280v1)|
@@ -73,5 +74,4 @@
 |**2024-03-07**|**Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning**|Martin Willbo et.al.|[2403.04385v1](http://arxiv.org/abs/2403.04385v1)|
 |**2024-03-04**|**LiSTA: Geometric Object-Based Change Detection in Cluttered Environments**|Joseph Rowell et.al.|[2403.02175v2](http://arxiv.org/abs/2403.02175v2)|
 |**2024-03-01**|**A Semantic Distance Metric Learning approach for Lexical Semantic Change Detection**|Taichi Aida et.al.|[2403.00226v1](http://arxiv.org/abs/2403.00226v1)|
-|**2024-02-27**|**OSCaR: Object State Captioning and State Change Representation**|Nguyen Nguyen et.al.|[2402.17128v3](http://arxiv.org/abs/2402.17128v3)|
 
