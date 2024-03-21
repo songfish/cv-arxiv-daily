@@ -73,5 +73,5 @@
 |**2024-03-07**|**Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning**|Martin Willbo et.al.|[2403.04385v1](http://arxiv.org/abs/2403.04385v1)|
 |**2024-03-04**|**LiSTA: Geometric Object-Based Change Detection in Cluttered Environments**|Joseph Rowell et.al.|[2403.02175v2](http://arxiv.org/abs/2403.02175v2)|
 |**2024-03-01**|**A Semantic Distance Metric Learning approach for Lexical Semantic Change Detection**|Taichi Aida et.al.|[2403.00226v1](http://arxiv.org/abs/2403.00226v1)|
-|**2024-02-27**|**OSCaR: Object State Captioning and State Change Representation**|Nguyen Nguyen et.al.|[2402.17128v2](http://arxiv.org/abs/2402.17128v2)|
+|**2024-02-27**|**OSCaR: Object State Captioning and State Change Representation**|Nguyen Nguyen et.al.|[2402.17128v3](http://arxiv.org/abs/2402.17128v3)|
 
