@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-26**|**A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities**|Ibrahim Ethem Hamamci et.al.|[2403.17834v1](http://arxiv.org/abs/2403.17834v1)|
 |**2024-03-17**|**Tokensome: Towards a Genetic Vision-Language GPT for Explainable and Cognitive Karyotyping**|Haoxi Zhang et.al.|[2403.11073v1](http://arxiv.org/abs/2403.11073v1)|
 |**2024-03-06**|**Interactive Bayesian Generative Models for Abnormality Detection in Vehicular Networks**|Nobel J. William et.al.|[2403.03583v1](http://arxiv.org/abs/2403.03583v1)|
 |**2024-01-08**|**FM-AE: Frequency-masked Multimodal Autoencoder for Zinc Electrolysis Plate Contact Abnormality Detection**|Canzong Zhou et.al.|[2401.03806v1](http://arxiv.org/abs/2401.03806v1)|
@@ -43,12 +44,14 @@
 |**2023-10-21**|**A multivariate Bayesian learning approach for improved detection of doping in athletes using urinary steroid profiles**|Dimitra Eleftheriou et.al.|[2310.13980v1](http://arxiv.org/abs/2310.13980v1)|
 |**2023-10-20**|**Identification of Abnormality in Maize Plants From UAV Images Using Deep Learning Approaches**|Aminul Huq et.al.|[2310.13201v1](http://arxiv.org/abs/2310.13201v1)|
 |**2023-10-10**|**Multiscale Fusion for Abnormality Detection and Localization of Distributed Parameter Systems**|Peng Wei et.al.|[2310.08606v3](http://arxiv.org/abs/2310.08606v3)|
-|**2023-09-28**|**Automated Chest X-Ray Report Generator Using Multi-Model Deep Learning Approach**|Arief Purnama Muharram et.al.|[2310.05969v3](http://arxiv.org/abs/2310.05969v3)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-26**|**Practical Applications of Advanced Cloud Services and Generative AI Systems in Medical Image Analysis**|Jingyu Xu et.al.|[2403.17549v1](http://arxiv.org/abs/2403.17549v1)|
+|**2024-03-26**|**FaultGuard: A Generative Approach to Resilient Fault Prediction in Smart Electrical Grids**|Emad Efatinasab et.al.|[2403.17494v1](http://arxiv.org/abs/2403.17494v1)|
+|**2024-03-25**|**The pretty bad measurement**|Caleb McIrvin et.al.|[2403.17252v1](http://arxiv.org/abs/2403.17252v1)|
 |**2024-03-24**|**Constricting Normal Latent Space for Anomaly Detection with Normal-only Training Data**|Marcella Astrid et.al.|[2403.16270v1](http://arxiv.org/abs/2403.16270v1)|
 |**2024-03-21**|**A Classifier-Based Approach to Multi-Class Anomaly Detection for Astronomical Transients**|Rithwik Gupta et.al.|[2403.14742v1](http://arxiv.org/abs/2403.14742v1)|
 |**2024-03-21**|**A task of anomaly detection for a smart satellite Internet of things system**|Zilong Shao et.al.|[2403.14738v1](http://arxiv.org/abs/2403.14738v1)|
@@ -56,14 +59,12 @@
 |**2024-03-21**|**Large Language Models for Blockchain Security: A Systematic Literature Review**|Zheyuan He et.al.|[2403.14280v2](http://arxiv.org/abs/2403.14280v2)|
 |**2024-03-21**|**Diffusion Models with Ensembled Structure-Based Anomaly Scoring for Unsupervised Anomaly Detection**|Finn Behrendt et.al.|[2403.14262v1](http://arxiv.org/abs/2403.14262v1)|
 |**2024-03-21**|**SoftPatch: Unsupervised Anomaly Detection with Noisy Data**|Xi Jiang et.al.|[2403.14233v1](http://arxiv.org/abs/2403.14233v1)|
-|**2024-03-21**|**Toward Multi-class Anomaly Detection: Exploring Class-aware Unified Model against Inter-class Interference**|Xi Jiang et.al.|[2403.14213v1](http://arxiv.org/abs/2403.14213v1)|
-|**2024-03-21**|**Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond**|Wei Chen et.al.|[2403.14151v1](http://arxiv.org/abs/2403.14151v1)|
-|**2024-03-20**|**Unsupervised learning in particle physics**|Jai Bardhan et.al.|[2403.13676v1](http://arxiv.org/abs/2403.13676v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-03-26**|**ELGC-Net: Efficient Local-Global Context Aggregation for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2403.17909v1](http://arxiv.org/abs/2403.17909v1)|
 |**2024-03-24**|**Round Robin Active Sequential Change Detection for Dependent Multi-Channel Data**|Anamitra Chaudhuri et.al.|[2403.16297v1](http://arxiv.org/abs/2403.16297v1)|
 |**2024-03-23**|**Feature Manipulation for DDPM based Change Detection**|Zhenglin Li et.al.|[2403.15943v1](http://arxiv.org/abs/2403.15943v1)|
 |**2024-03-22**|**An Integrated Neighborhood and Scale Information Network for Open-Pit Mine Change Detection in High-Resolution Remote Sensing Images**|Zilin Xie et.al.|[2403.15032v1](http://arxiv.org/abs/2403.15032v1)|
@@ -73,5 +74,4 @@
 |**2024-03-18**|**Earth+: on-board satellite imagery compression leveraging historical earth observations**|Kuntai Du et.al.|[2403.11434v1](http://arxiv.org/abs/2403.11434v1)|
 |**2024-03-13**|**Pre-examinations Improve Automated Metastases Detection on Cranial MRI**|Katerina Deike-Hofmann et.al.|[2403.08280v1](http://arxiv.org/abs/2403.08280v1)|
 |**2024-03-12**|**RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model**|Mingze Wang et.al.|[2403.07564v1](http://arxiv.org/abs/2403.07564v1)|
-|**2024-03-11**|**Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits**|Yu Xia et.al.|[2403.07213v1](http://arxiv.org/abs/2403.07213v1)|
 
