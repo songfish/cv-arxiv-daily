@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832v1](http://arxiv.org/abs/2404.06832v1)|
+|**2024-04-09**|**MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection**|Haoyang He et.al.|[2404.06564v1](http://arxiv.org/abs/2404.06564v1)|
 |**2024-04-09**|**Differential Privacy for Anomaly Detection: Analyzing the Trade-off Between Privacy and Explainability**|Fatima Ezzeddine et.al.|[2404.06144v1](http://arxiv.org/abs/2404.06144v1)|
 |**2024-04-08**|**PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection**|Xiaofan Li et.al.|[2404.05231v1](http://arxiv.org/abs/2404.05231v1)|
 |**2024-04-08**|**Out-of-Distribution Data: An Acquaintance of Adversarial Examples -- A Survey**|Naveen Karunanayake et.al.|[2404.05219v1](http://arxiv.org/abs/2404.05219v1)|
@@ -56,9 +58,7 @@
 |**2024-04-07**|**Dynamic Distinction Learning: Adaptive Pseudo Anomalies for Video Anomaly Detection**|Demetris Lappas et.al.|[2404.04986v1](http://arxiv.org/abs/2404.04986v1)|
 |**2024-04-07**|**Anomaly Detection in Electrocardiograms: Advancing Clinical Diagnosis Through Self-Supervised Learning**|Aofan Jiang et.al.|[2404.04935v1](http://arxiv.org/abs/2404.04935v1)|
 |**2024-04-06**|**MedIAnomaly: A comparative study of anomaly detection in medical images**|Yu Cai et.al.|[2404.04518v1](http://arxiv.org/abs/2404.04518v1)|
-|**2024-04-05**|**A Real-time Anomaly Detection Using Convolutional Autoencoder with Dynamic Threshold**|Sarit Maitra et.al.|[2404.04311v1](http://arxiv.org/abs/2404.04311v1)|
 |**2024-04-05**|**Fusing Dictionary Learning and Support Vector Machines for Unsupervised Anomaly Detection**|Paul Irofti et.al.|[2404.04064v1](http://arxiv.org/abs/2404.04064v1)|
-|**2024-04-04**|**Test Time Training for Industrial Anomaly Segmentation**|Alex Costanzino et.al.|[2404.03743v1](http://arxiv.org/abs/2404.03743v1)|
 
 ## change detection
 
