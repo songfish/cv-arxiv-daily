@@ -1,4 +1,4 @@
-## Updated on 2024.03.27
+## Updated on 2024.04.11
 
 ## super-resolution
 
@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-04-06**|**A Deep Look Into -- Automated Lung X-Ray Abnormality Detection System**|Nagullas KS et.al.|[2404.04635v1](http://arxiv.org/abs/2404.04635v1)|
 |**2024-03-26**|**A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities**|Ibrahim Ethem Hamamci et.al.|[2403.17834v1](http://arxiv.org/abs/2403.17834v1)|
 |**2024-03-17**|**Tokensome: Towards a Genetic Vision-Language GPT for Explainable and Cognitive Karyotyping**|Haoxi Zhang et.al.|[2403.11073v1](http://arxiv.org/abs/2403.11073v1)|
 |**2024-03-06**|**Interactive Bayesian Generative Models for Abnormality Detection in Vehicular Networks**|Nobel J. William et.al.|[2403.03583v1](http://arxiv.org/abs/2403.03583v1)|
@@ -43,35 +44,34 @@
 |**2023-11-06**|**NEURO HAND: A weakly supervised Hierarchical Attention Network for interpretable neuroimaging abnormality Detection**|David A. Wood et.al.|[2311.02992v2](http://arxiv.org/abs/2311.02992v2)|
 |**2023-10-21**|**A multivariate Bayesian learning approach for improved detection of doping in athletes using urinary steroid profiles**|Dimitra Eleftheriou et.al.|[2310.13980v1](http://arxiv.org/abs/2310.13980v1)|
 |**2023-10-20**|**Identification of Abnormality in Maize Plants From UAV Images Using Deep Learning Approaches**|Aminul Huq et.al.|[2310.13201v1](http://arxiv.org/abs/2310.13201v1)|
-|**2023-10-10**|**Multiscale Fusion for Abnormality Detection and Localization of Distributed Parameter Systems**|Peng Wei et.al.|[2310.08606v3](http://arxiv.org/abs/2310.08606v3)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-03-26**|**Practical Applications of Advanced Cloud Services and Generative AI Systems in Medical Image Analysis**|Jingyu Xu et.al.|[2403.17549v1](http://arxiv.org/abs/2403.17549v1)|
-|**2024-03-26**|**FaultGuard: A Generative Approach to Resilient Fault Prediction in Smart Electrical Grids**|Emad Efatinasab et.al.|[2403.17494v1](http://arxiv.org/abs/2403.17494v1)|
-|**2024-03-25**|**The pretty bad measurement**|Caleb McIrvin et.al.|[2403.17252v1](http://arxiv.org/abs/2403.17252v1)|
-|**2024-03-24**|**Constricting Normal Latent Space for Anomaly Detection with Normal-only Training Data**|Marcella Astrid et.al.|[2403.16270v1](http://arxiv.org/abs/2403.16270v1)|
-|**2024-03-21**|**A Classifier-Based Approach to Multi-Class Anomaly Detection for Astronomical Transients**|Rithwik Gupta et.al.|[2403.14742v1](http://arxiv.org/abs/2403.14742v1)|
-|**2024-03-21**|**A task of anomaly detection for a smart satellite Internet of things system**|Zilong Shao et.al.|[2403.14738v1](http://arxiv.org/abs/2403.14738v1)|
-|**2024-03-21**|**MULDE: Multiscale Log-Density Estimation via Denoising Score Matching for Video Anomaly Detection**|Jakub Micorek et.al.|[2403.14497v1](http://arxiv.org/abs/2403.14497v1)|
-|**2024-03-21**|**Large Language Models for Blockchain Security: A Systematic Literature Review**|Zheyuan He et.al.|[2403.14280v2](http://arxiv.org/abs/2403.14280v2)|
-|**2024-03-21**|**Diffusion Models with Ensembled Structure-Based Anomaly Scoring for Unsupervised Anomaly Detection**|Finn Behrendt et.al.|[2403.14262v1](http://arxiv.org/abs/2403.14262v1)|
-|**2024-03-21**|**SoftPatch: Unsupervised Anomaly Detection with Noisy Data**|Xi Jiang et.al.|[2403.14233v1](http://arxiv.org/abs/2403.14233v1)|
+|**2024-04-09**|**Differential Privacy for Anomaly Detection: Analyzing the Trade-off Between Privacy and Explainability**|Fatima Ezzeddine et.al.|[2404.06144v1](http://arxiv.org/abs/2404.06144v1)|
+|**2024-04-08**|**PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection**|Xiaofan Li et.al.|[2404.05231v1](http://arxiv.org/abs/2404.05231v1)|
+|**2024-04-08**|**Out-of-Distribution Data: An Acquaintance of Adversarial Examples -- A Survey**|Naveen Karunanayake et.al.|[2404.05219v1](http://arxiv.org/abs/2404.05219v1)|
+|**2024-04-07**|**TimeCSL: Unsupervised Contrastive Learning of General Shapelets for Explorable Time Series Analysis**|Zhiyu Liang et.al.|[2404.05057v1](http://arxiv.org/abs/2404.05057v1)|
+|**2024-04-07**|**Dynamic Distinction Learning: Adaptive Pseudo Anomalies for Video Anomaly Detection**|Demetris Lappas et.al.|[2404.04986v1](http://arxiv.org/abs/2404.04986v1)|
+|**2024-04-07**|**Anomaly Detection in Electrocardiograms: Advancing Clinical Diagnosis Through Self-Supervised Learning**|Aofan Jiang et.al.|[2404.04935v1](http://arxiv.org/abs/2404.04935v1)|
+|**2024-04-06**|**MedIAnomaly: A comparative study of anomaly detection in medical images**|Yu Cai et.al.|[2404.04518v1](http://arxiv.org/abs/2404.04518v1)|
+|**2024-04-05**|**A Real-time Anomaly Detection Using Convolutional Autoencoder with Dynamic Threshold**|Sarit Maitra et.al.|[2404.04311v1](http://arxiv.org/abs/2404.04311v1)|
+|**2024-04-05**|**Fusing Dictionary Learning and Support Vector Machines for Unsupervised Anomaly Detection**|Paul Irofti et.al.|[2404.04064v1](http://arxiv.org/abs/2404.04064v1)|
+|**2024-04-04**|**Test Time Training for Industrial Anomaly Segmentation**|Alex Costanzino et.al.|[2404.03743v1](http://arxiv.org/abs/2404.03743v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-04-08**|**Quickest Change Detection for Multiple Data Streams Using the James-Stein Estimator**|Topi Halme et.al.|[2404.05486v1](http://arxiv.org/abs/2404.05486v1)|
+|**2024-04-07**|**LRNet: Change detection of high-resolution remote sensing imagery via strategy of localization-then-refinement**|Huan Zhong et.al.|[2404.04884v1](http://arxiv.org/abs/2404.04884v1)|
+|**2024-04-04**|**ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**|Hongruixuan Chen et.al.|[2404.03425v1](http://arxiv.org/abs/2404.03425v1)|
+|**2024-04-03**|**RS-Mamba for Large Remote Sensing Image Dense Prediction**|Sijie Zhao et.al.|[2404.02668v2](http://arxiv.org/abs/2404.02668v2)|
+|**2024-03-31**|**Eclipse Attack Detection on a Blockchain Network as a Non-Parametric Change Detection Problem**|Anurag Gupta et.al.|[2404.00538v1](http://arxiv.org/abs/2404.00538v1)|
+|**2024-03-29**|**The LSCD Benchmark: a Testbed for Diachronic Word Meaning Tasks**|Dominik Schlechtweg et.al.|[2404.00176v1](http://arxiv.org/abs/2404.00176v1)|
+|**2024-03-28**|**Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis**|Chenyang Liu et.al.|[2403.19646v2](http://arxiv.org/abs/2403.19646v2)|
 |**2024-03-26**|**ELGC-Net: Efficient Local-Global Context Aggregation for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2403.17909v1](http://arxiv.org/abs/2403.17909v1)|
 |**2024-03-24**|**Round Robin Active Sequential Change Detection for Dependent Multi-Channel Data**|Anamitra Chaudhuri et.al.|[2403.16297v1](http://arxiv.org/abs/2403.16297v1)|
 |**2024-03-23**|**Feature Manipulation for DDPM based Change Detection**|Zhenglin Li et.al.|[2403.15943v1](http://arxiv.org/abs/2403.15943v1)|
-|**2024-03-22**|**An Integrated Neighborhood and Scale Information Network for Open-Pit Mine Change Detection in High-Resolution Remote Sensing Images**|Zilin Xie et.al.|[2403.15032v1](http://arxiv.org/abs/2403.15032v1)|
-|**2024-03-21**|**Reinforcement Learning Design for Quickest Change Detection**|Austin Cooper et.al.|[2403.14109v1](http://arxiv.org/abs/2403.14109v1)|
-|**2024-03-20**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Di Wang et.al.|[2403.13430v1](http://arxiv.org/abs/2403.13430v1)|
-|**2024-03-18**|**Large-scale flood modeling and forecasting with FloodCast**|Qingsong Xu et.al.|[2403.12226v1](http://arxiv.org/abs/2403.12226v1)|
-|**2024-03-18**|**Earth+: on-board satellite imagery compression leveraging historical earth observations**|Kuntai Du et.al.|[2403.11434v1](http://arxiv.org/abs/2403.11434v1)|
-|**2024-03-13**|**Pre-examinations Improve Automated Metastases Detection on Cranial MRI**|Katerina Deike-Hofmann et.al.|[2403.08280v1](http://arxiv.org/abs/2403.08280v1)|
-|**2024-03-12**|**RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model**|Mingze Wang et.al.|[2403.07564v1](http://arxiv.org/abs/2403.07564v1)|
 
