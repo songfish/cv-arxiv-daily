@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832v1](http://arxiv.org/abs/2404.06832v1)|
-|**2024-04-09**|**MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection**|Haoyang He et.al.|[2404.06564v1](http://arxiv.org/abs/2404.06564v1)|
+|**2024-04-09**|**MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection**|Haoyang He et.al.|[2404.06564v2](http://arxiv.org/abs/2404.06564v2)|
 |**2024-04-09**|**Differential Privacy for Anomaly Detection: Analyzing the Trade-off Between Privacy and Explainability**|Fatima Ezzeddine et.al.|[2404.06144v1](http://arxiv.org/abs/2404.06144v1)|
 |**2024-04-08**|**PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection**|Xiaofan Li et.al.|[2404.05231v1](http://arxiv.org/abs/2404.05231v1)|
 |**2024-04-08**|**Out-of-Distribution Data: An Acquaintance of Adversarial Examples -- A Survey**|Naveen Karunanayake et.al.|[2404.05219v1](http://arxiv.org/abs/2404.05219v1)|
