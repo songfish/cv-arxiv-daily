@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-04-11**|**Anomaly Detection in Power Grids via Context-Agnostic Learning**|SangWoo Park et.al.|[2404.07898v1](http://arxiv.org/abs/2404.07898v1)|
+|**2024-04-11**|**Context-aware Video Anomaly Detection in Long-Term Datasets**|Zhengye Yang et.al.|[2404.07887v1](http://arxiv.org/abs/2404.07887v1)|
+|**2024-04-11**|**M-dwarf flares in the Zwicky Transient Facility data and what we can learn from them**|A. S. Voloshina et.al.|[2404.07812v1](http://arxiv.org/abs/2404.07812v1)|
+|**2024-04-11**|**3D-CSAD: Untrained 3D Anomaly Detection for Complex Manufacturing Surfaces**|Xuanming Cao et.al.|[2404.07748v1](http://arxiv.org/abs/2404.07748v1)|
+|**2024-04-11**|**Multi-Image Visual Question Answering for Unsupervised Anomaly Detection**|Jun Li et.al.|[2404.07622v1](http://arxiv.org/abs/2404.07622v1)|
+|**2024-04-10**|**Complete Optimal Non-Resonant Anomaly Detection**|Gregor Kasieczka et.al.|[2404.07258v1](http://arxiv.org/abs/2404.07258v1)|
 |**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832v1](http://arxiv.org/abs/2404.06832v1)|
 |**2024-04-09**|**MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection**|Haoyang He et.al.|[2404.06564v2](http://arxiv.org/abs/2404.06564v2)|
 |**2024-04-09**|**Differential Privacy for Anomaly Detection: Analyzing the Trade-off Between Privacy and Explainability**|Fatima Ezzeddine et.al.|[2404.06144v1](http://arxiv.org/abs/2404.06144v1)|
 |**2024-04-08**|**PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection**|Xiaofan Li et.al.|[2404.05231v1](http://arxiv.org/abs/2404.05231v1)|
-|**2024-04-08**|**Out-of-Distribution Data: An Acquaintance of Adversarial Examples -- A Survey**|Naveen Karunanayake et.al.|[2404.05219v1](http://arxiv.org/abs/2404.05219v1)|
-|**2024-04-07**|**TimeCSL: Unsupervised Contrastive Learning of General Shapelets for Explorable Time Series Analysis**|Zhiyu Liang et.al.|[2404.05057v1](http://arxiv.org/abs/2404.05057v1)|
-|**2024-04-07**|**Dynamic Distinction Learning: Adaptive Pseudo Anomalies for Video Anomaly Detection**|Demetris Lappas et.al.|[2404.04986v1](http://arxiv.org/abs/2404.04986v1)|
-|**2024-04-07**|**Anomaly Detection in Electrocardiograms: Advancing Clinical Diagnosis Through Self-Supervised Learning**|Aofan Jiang et.al.|[2404.04935v1](http://arxiv.org/abs/2404.04935v1)|
-|**2024-04-06**|**MedIAnomaly: A comparative study of anomaly detection in medical images**|Yu Cai et.al.|[2404.04518v1](http://arxiv.org/abs/2404.04518v1)|
-|**2024-04-05**|**Fusing Dictionary Learning and Support Vector Machines for Unsupervised Anomaly Detection**|Paul Irofti et.al.|[2404.04064v1](http://arxiv.org/abs/2404.04064v1)|
 
 ## change detection
 
