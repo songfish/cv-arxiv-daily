@@ -66,7 +66,7 @@
 |---|---|---|---|
 |**2024-04-08**|**Quickest Change Detection for Multiple Data Streams Using the James-Stein Estimator**|Topi Halme et.al.|[2404.05486v1](http://arxiv.org/abs/2404.05486v1)|
 |**2024-04-07**|**LRNet: Change detection of high-resolution remote sensing imagery via strategy of localization-then-refinement**|Huan Zhong et.al.|[2404.04884v1](http://arxiv.org/abs/2404.04884v1)|
-|**2024-04-04**|**ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**|Hongruixuan Chen et.al.|[2404.03425v2](http://arxiv.org/abs/2404.03425v2)|
+|**2024-04-04**|**ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**|Hongruixuan Chen et.al.|[2404.03425v3](http://arxiv.org/abs/2404.03425v3)|
 |**2024-04-03**|**RS-Mamba for Large Remote Sensing Image Dense Prediction**|Sijie Zhao et.al.|[2404.02668v2](http://arxiv.org/abs/2404.02668v2)|
 |**2024-03-31**|**Eclipse Attack Detection on a Blockchain Network as a Non-Parametric Change Detection Problem**|Anurag Gupta et.al.|[2404.00538v1](http://arxiv.org/abs/2404.00538v1)|
 |**2024-03-29**|**The LSCD Benchmark: a Testbed for Diachronic Word Meaning Tasks**|Dominik Schlechtweg et.al.|[2404.00176v1](http://arxiv.org/abs/2404.00176v1)|
