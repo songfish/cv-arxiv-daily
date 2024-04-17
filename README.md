@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-04-16**|**Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark**|Jiangning Zhang et.al.|[2404.10760v1](http://arxiv.org/abs/2404.10760v1)|
+|**2024-04-16**|**A Calibrated and Automated Simulator for Innovations in 5G**|Conrado Boeira et.al.|[2404.10643v1](http://arxiv.org/abs/2404.10643v1)|
+|**2024-04-16**|**Community detection and anomaly prediction in dynamic networks**|Hadiseh Safdari et.al.|[2404.10468v1](http://arxiv.org/abs/2404.10468v1)|
+|**2024-04-16**|**CARE to Compare: A real-world dataset for anomaly detection in wind turbine data**|Christian Gück et.al.|[2404.10320v1](http://arxiv.org/abs/2404.10320v1)|
+|**2024-04-16**|**Anomaly Correction of Business Processes Using Transformer Autoencoder**|Ziyou Gong et.al.|[2404.10211v1](http://arxiv.org/abs/2404.10211v1)|
+|**2024-04-15**|**Explainable Online Unsupervised Anomaly Detection for Cyber-Physical Systems via Causal Discovery from Time Series**|Daniele Meli et.al.|[2404.09871v1](http://arxiv.org/abs/2404.09871v1)|
 |**2024-04-15**|**Do LLMs Understand Visual Anomalies? Uncovering LLM Capabilities in Zero-shot Anomaly Detection**|Jiaqi Zhu et.al.|[2404.09654v1](http://arxiv.org/abs/2404.09654v1)|
 |**2024-04-14**|**Machine learning-based identification of Gaia astrometric exoplanet orbits**|Johannes Sahlmann et.al.|[2404.09350v1](http://arxiv.org/abs/2404.09350v1)|
 |**2024-04-14**|**Reap the Wild Wind: Detecting Media Storms in Large-Scale News Corpora**|Dror K. Markus et.al.|[2404.09299v1](http://arxiv.org/abs/2404.09299v1)|
 |**2024-04-14**|**Fault Detection in Mobile Networks Using Diffusion Models**|Mohamad Nabeel et.al.|[2404.09240v1](http://arxiv.org/abs/2404.09240v1)|
-|**2024-04-13**|**Label-free Anomaly Detection in Aerial Agricultural Images with Masked Image Modeling**|Sambal Shikhar et.al.|[2404.08931v1](http://arxiv.org/abs/2404.08931v1)|
-|**2024-04-12**|**FastLogAD: Log Anomaly Detection with Mask-Guided Pseudo Anomaly Generation and Discrimination**|Yifei Lin et.al.|[2404.08750v1](http://arxiv.org/abs/2404.08750v1)|
-|**2024-04-12**|**Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection**|Zhiwei Yang et.al.|[2404.08531v1](http://arxiv.org/abs/2404.08531v1)|
-|**2024-04-12**|**TSLANet: Rethinking Transformers for Time Series Representation Learning**|Emadeldeen Eldele et.al.|[2404.08472v1](http://arxiv.org/abs/2404.08472v1)|
-|**2024-04-12**|**Adaptive Anomaly Detection Disruption Prediction Starting from First Discharge**|Xinkun Ai et.al.|[2404.08241v1](http://arxiv.org/abs/2404.08241v1)|
-|**2024-04-12**|**HCL-MTSAD: Hierarchical Contrastive Consistency Learning for Accurate Detection of Industrial Multivariate Time Series Anomalies**|Haili Sun et.al.|[2404.08224v1](http://arxiv.org/abs/2404.08224v1)|
 
 ## change detection
 
