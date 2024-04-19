@@ -1,4 +1,4 @@
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 
 ## super-resolution
 
@@ -57,14 +57,14 @@
 |**2024-04-16**|**Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark**|Jiangning Zhang et.al.|[2404.10760v1](http://arxiv.org/abs/2404.10760v1)|
 |**2024-04-16**|**A Calibrated and Automated Simulator for Innovations in 5G**|Conrado Boeira et.al.|[2404.10643v1](http://arxiv.org/abs/2404.10643v1)|
 |**2024-04-16**|**Community detection and anomaly prediction in dynamic networks**|Hadiseh Safdari et.al.|[2404.10468v1](http://arxiv.org/abs/2404.10468v1)|
-|**2024-04-16**|**CARE to Compare: A real-world dataset for anomaly detection in wind turbine data**|Christian Gück et.al.|[2404.10320v1](http://arxiv.org/abs/2404.10320v1)|
+|**2024-04-16**|**CARE to Compare: A real-world dataset for anomaly detection in wind turbine data**|Christian Gück et.al.|[2404.10320v2](http://arxiv.org/abs/2404.10320v2)|
 |**2024-04-16**|**Anomaly Correction of Business Processes Using Transformer Autoencoder**|Ziyou Gong et.al.|[2404.10211v1](http://arxiv.org/abs/2404.10211v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-04-17**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326v1](http://arxiv.org/abs/2404.11326v1)|
+|**2024-04-17**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326v2](http://arxiv.org/abs/2404.11326v2)|
 |**2024-04-17**|**Leveraging Fine-Grained Information and Noise Decoupling for Remote Sensing Change Detection**|Qiangang Du et.al.|[2404.11318v1](http://arxiv.org/abs/2404.11318v1)|
 |**2024-04-17**|**Optical Image-to-Image Translation Using Denoising Diffusion Models: Heterogeneous Change Detection as a Use Case**|João Gabriel Vinholi et.al.|[2404.11243v1](http://arxiv.org/abs/2404.11243v1)|
 |**2024-04-16**|**Unsupervised Speaker Diarization in Distributed IoT Networks Using Federated Learning**|Amit Kumar Bhuyan et.al.|[2404.10842v1](http://arxiv.org/abs/2404.10842v1)|
