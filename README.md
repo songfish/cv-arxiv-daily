@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-04-21**|**Detecting Compromised IoT Devices Using Autoencoders with Sequential Hypothesis Testing**|Md Mainuddin et.al.|[2404.13690v1](http://arxiv.org/abs/2404.13690v1)|
+|**2024-04-21**|**FiLo: Zero-Shot Anomaly Detection by Fine-Grained Description and High-Quality Localization**|Zhaopeng Gu et.al.|[2404.13671v1](http://arxiv.org/abs/2404.13671v1)|
+|**2024-04-20**|**Hyperspectral Anomaly Detection with Self-Supervised Anomaly Prior**|Yidan Liu et.al.|[2404.13342v1](http://arxiv.org/abs/2404.13342v1)|
+|**2024-04-20**|**Multi-feature Reconstruction Network using Crossed-mask Restoration for Unsupervised Anomaly Detection**|Junpu Wang et.al.|[2404.13273v1](http://arxiv.org/abs/2404.13273v1)|
 |**2024-04-19**|**uTRAND: Unsupervised Anomaly Detection in Traffic Trajectories**|Giacomo D'Amicantonio et.al.|[2404.12712v1](http://arxiv.org/abs/2404.12712v1)|
 |**2024-04-19**|**Detecting Out-Of-Distribution Earth Observation Images with Diffusion Models**|Georges Le Bellier et.al.|[2404.12667v1](http://arxiv.org/abs/2404.12667v1)|
 |**2024-04-18**|**Blind Localization and Clustering of Anomalies in Textures**|Andrei-Timotei Ardelean et.al.|[2404.12246v1](http://arxiv.org/abs/2404.12246v1)|
 |**2024-04-18**|**Warped Time Series Anomaly Detection**|Charlotte Lacoquelle et.al.|[2404.12134v1](http://arxiv.org/abs/2404.12134v1)|
 |**2024-04-17**|**Simulating Cloud Environments of Connected Vehicles for Anomaly Detection**|M. Weiß et.al.|[2404.11740v1](http://arxiv.org/abs/2404.11740v1)|
 |**2024-04-17**|**Uncertainty estimation and anomaly detection in chiral effective field theory studies of key nuclear electroweak processes**|Bijaya Acharya et.al.|[2404.11522v1](http://arxiv.org/abs/2404.11522v1)|
-|**2024-04-17**|**LogSD: Detecting Anomalies from System Logs through Self-supervised Learning and Frequency-based Masking**|Yongzheng Xie et.al.|[2404.11294v2](http://arxiv.org/abs/2404.11294v2)|
-|**2024-04-17**|**DACAD: Domain Adaptation Contrastive Learning for Anomaly Detection in Multivariate Time Series**|Zahra Zamanzadeh Darban et.al.|[2404.11269v1](http://arxiv.org/abs/2404.11269v1)|
-|**2024-04-16**|**Unsupervised machine learning for the detection of exotic phases in skyrmion phase diagrams**|F. A. Gómez Albarracín et.al.|[2404.10943v1](http://arxiv.org/abs/2404.10943v1)|
-|**2024-04-16**|**Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark**|Jiangning Zhang et.al.|[2404.10760v1](http://arxiv.org/abs/2404.10760v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-04-22**|**C2F-SemiCD: A Coarse-to-Fine Semi-Supervised Change Detection Method Based on Consistency Regularization in High-Resolution Remote Sensing Images**|Chengxi Han et.al.|[2404.13838v1](http://arxiv.org/abs/2404.13838v1)|
 |**2024-04-18**|**MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification**|Weikang Yu et.al.|[2404.12081v1](http://arxiv.org/abs/2404.12081v1)|
 |**2024-04-17**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326v3](http://arxiv.org/abs/2404.11326v3)|
 |**2024-04-17**|**Leveraging Fine-Grained Information and Noise Decoupling for Remote Sensing Change Detection**|Qiangang Du et.al.|[2404.11318v1](http://arxiv.org/abs/2404.11318v1)|
@@ -73,5 +74,4 @@
 |**2024-04-14**|**HANet: A Hierarchical Attention Network for Change Detection With Bitemporal Very-High-Resolution Remote Sensing Images**|Chengxi Han et.al.|[2404.09178v1](http://arxiv.org/abs/2404.09178v1)|
 |**2024-04-13**|**ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model**|Kai Tang et.al.|[2404.08892v1](http://arxiv.org/abs/2404.08892v1)|
 |**2024-04-08**|**Quickest Change Detection for Multiple Data Streams Using the James-Stein Estimator**|Topi Halme et.al.|[2404.05486v1](http://arxiv.org/abs/2404.05486v1)|
-|**2024-04-07**|**LRNet: Change detection of high-resolution remote sensing imagery via strategy of localization-then-refinement**|Huan Zhong et.al.|[2404.04884v1](http://arxiv.org/abs/2404.04884v1)|
 
