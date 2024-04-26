@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-04-25**|**Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection**|Yuanchen Bei et.al.|[2404.16366v1](http://arxiv.org/abs/2404.16366v1)|
+|**2024-04-24**|**ABCD: Trust enhanced Attention based Convolutional Autoencoder for Risk Assessment**|Sarala Naidu et.al.|[2404.16183v1](http://arxiv.org/abs/2404.16183v1)|
+|**2024-04-24**|**S2DEVFMAP: Self-Supervised Learning Framework with Dual Ensemble Voting Fusion for Maximizing Anomaly Prediction in Timeseries**|Sarala Naidu et.al.|[2404.16179v1](http://arxiv.org/abs/2404.16179v1)|
+|**2024-04-24**|**OmniLearn: A Method to Simultaneously Facilitate All Jet Physics Tasks**|Vinicius Mikuni et.al.|[2404.16091v1](http://arxiv.org/abs/2404.16091v1)|
 |**2024-04-23**|**IPAD: Industrial Process Anomaly Detection Dataset**|Jinfan Liu et.al.|[2404.15033v1](http://arxiv.org/abs/2404.15033v1)|
 |**2024-04-23**|**Fin-Fed-OD: Federated Outlier Detection on Financial Tabular Data**|Dayananda Herurkar et.al.|[2404.14933v1](http://arxiv.org/abs/2404.14933v1)|
 |**2024-04-21**|**A Neuro-Symbolic Explainer for Rare Events: A Case Study on Predictive Maintenance**|João Gama et.al.|[2404.14455v1](http://arxiv.org/abs/2404.14455v1)|
 |**2024-04-21**|**Detecting Compromised IoT Devices Using Autoencoders with Sequential Hypothesis Testing**|Md Mainuddin et.al.|[2404.13690v1](http://arxiv.org/abs/2404.13690v1)|
 |**2024-04-21**|**FiLo: Zero-Shot Anomaly Detection by Fine-Grained Description and High-Quality Localization**|Zhaopeng Gu et.al.|[2404.13671v1](http://arxiv.org/abs/2404.13671v1)|
 |**2024-04-20**|**Hyperspectral Anomaly Detection with Self-Supervised Anomaly Prior**|Yidan Liu et.al.|[2404.13342v1](http://arxiv.org/abs/2404.13342v1)|
-|**2024-04-20**|**Multi-feature Reconstruction Network using Crossed-mask Restoration for Unsupervised Anomaly Detection**|Junpu Wang et.al.|[2404.13273v1](http://arxiv.org/abs/2404.13273v1)|
-|**2024-04-19**|**uTRAND: Unsupervised Anomaly Detection in Traffic Trajectories**|Giacomo D'Amicantonio et.al.|[2404.12712v1](http://arxiv.org/abs/2404.12712v1)|
-|**2024-04-19**|**Detecting Out-Of-Distribution Earth Observation Images with Diffusion Models**|Georges Le Bellier et.al.|[2404.12667v1](http://arxiv.org/abs/2404.12667v1)|
-|**2024-04-18**|**Blind Localization and Clustering of Anomalies in Textures**|Andrei-Timotei Ardelean et.al.|[2404.12246v1](http://arxiv.org/abs/2404.12246v1)|
 
 ## change detection
 
