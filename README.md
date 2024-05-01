@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-04-30**|**Improved AutoEncoder with LSTM module and KL divergence**|Wei Huang et.al.|[2404.19247v1](http://arxiv.org/abs/2404.19247v1)|
+|**2024-04-27**|**Sub-Adjacent Transformer: Improving Time Series Anomaly Detection with Reconstruction Error from Sub-Adjacent Neighborhoods**|Wenzhen Yue et.al.|[2404.18948v1](http://arxiv.org/abs/2404.18948v1)|
 |**2024-04-29**|**A Survey on Diffusion Models for Time Series and Spatio-Temporal Data**|Yiyuan Yang et.al.|[2404.18886v1](http://arxiv.org/abs/2404.18886v1)|
 |**2024-04-29**|**Evaluating the Effectiveness of Video Anomaly Detection in the Wild: Online Learning and Inference for Real-world Deployment**|Shanle Yao et.al.|[2404.18747v1](http://arxiv.org/abs/2404.18747v1)|
 |**2024-04-29**|**Self-supervised learning for classifying paranasal anomalies in the maxillary sinus**|Debayan Bhattacharya et.al.|[2404.18599v1](http://arxiv.org/abs/2404.18599v1)|
@@ -57,8 +59,6 @@
 |**2024-04-27**|**Accurate and fast anomaly detection in industrial processes and IoT environments**|Simone Tonini et.al.|[2404.17925v1](http://arxiv.org/abs/2404.17925v1)|
 |**2024-04-27**|**Unsupervised Anomaly Detection via Masked Diffusion Posterior Sampling**|Di Wu et.al.|[2404.17900v1](http://arxiv.org/abs/2404.17900v1)|
 |**2024-04-26**|**Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond**|Kaichen Xu et.al.|[2404.17454v2](http://arxiv.org/abs/2404.17454v2)|
-|**2024-04-26**|**Frequency-Guided Multi-Level Human Action Anomaly Detection with Normalizing Flows**|Shun Maeda et.al.|[2404.17381v1](http://arxiv.org/abs/2404.17381v1)|
-|**2024-04-26**|**Synchronized Stepwise Control of Firing and Learning Thresholds in a Spiking Randomly Connected Neural Network toward Hardware Implementation**|Kumiko Nomura et.al.|[2404.17241v1](http://arxiv.org/abs/2404.17241v1)|
 
 ## change detection
 
