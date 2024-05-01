@@ -1,4 +1,4 @@
-## Updated on 2024.04.30
+## Updated on 2024.05.01
 
 ## super-resolution
 
@@ -56,7 +56,7 @@
 |**2024-04-29**|**Self-supervised contrastive learning of radio data for source detection, classification and peculiar object discovery**|S. Riggi et.al.|[2404.18462v1](http://arxiv.org/abs/2404.18462v1)|
 |**2024-04-27**|**Accurate and fast anomaly detection in industrial processes and IoT environments**|Simone Tonini et.al.|[2404.17925v1](http://arxiv.org/abs/2404.17925v1)|
 |**2024-04-27**|**Unsupervised Anomaly Detection via Masked Diffusion Posterior Sampling**|Di Wu et.al.|[2404.17900v1](http://arxiv.org/abs/2404.17900v1)|
-|**2024-04-26**|**Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond**|Kaichen Xu et.al.|[2404.17454v1](http://arxiv.org/abs/2404.17454v1)|
+|**2024-04-26**|**Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond**|Kaichen Xu et.al.|[2404.17454v2](http://arxiv.org/abs/2404.17454v2)|
 |**2024-04-26**|**Frequency-Guided Multi-Level Human Action Anomaly Detection with Normalizing Flows**|Shun Maeda et.al.|[2404.17381v1](http://arxiv.org/abs/2404.17381v1)|
 |**2024-04-26**|**Synchronized Stepwise Control of Firing and Learning Thresholds in a Spiking Randomly Connected Neural Network toward Hardware Implementation**|Kumiko Nomura et.al.|[2404.17241v1](http://arxiv.org/abs/2404.17241v1)|
 
