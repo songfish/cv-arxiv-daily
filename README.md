@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-02**|**A Framework for the Systematic Assessment of Anomaly Detectors in Time-Sensitive Automotive Networks**|Philipp Meyer et.al.|[2405.01324v1](http://arxiv.org/abs/2405.01324v1)|
+|**2024-05-02**|**Interpretable Data-driven Anomaly Detection in Industrial Processes with ExIFFI**|Davide Frizzo et.al.|[2405.01158v1](http://arxiv.org/abs/2405.01158v1)|
 |**2024-05-01**|**Quantum algorithms for matrix geometric means**|Nana Liu et.al.|[2405.00673v1](http://arxiv.org/abs/2405.00673v1)|
 |**2024-04-30**|**IgCONDA-PET: Implicitly-Guided Counterfactual Diffusion for Detecting Anomalies in PET Images**|Shadab Ahamed et.al.|[2405.00239v1](http://arxiv.org/abs/2405.00239v1)|
 |**2024-04-30**|**Uncovering What, Why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly**|Hang Du et.al.|[2405.00181v1](http://arxiv.org/abs/2405.00181v1)|
@@ -57,13 +59,14 @@
 |**2024-04-29**|**Evaluating the Effectiveness of Video Anomaly Detection in the Wild: Online Learning and Inference for Real-world Deployment**|Shanle Yao et.al.|[2404.18747v1](http://arxiv.org/abs/2404.18747v1)|
 |**2024-04-29**|**Self-supervised learning for classifying paranasal anomalies in the maxillary sinus**|Debayan Bhattacharya et.al.|[2404.18599v1](http://arxiv.org/abs/2404.18599v1)|
 |**2024-04-29**|**Enabling Efficient and Flexible Interpretability of Data-driven Anomaly Detection in Industrial Processes with AcME-AD**|Valentina Zaccaria et.al.|[2404.18525v1](http://arxiv.org/abs/2404.18525v1)|
-|**2024-04-29**|**Self-supervised contrastive learning of radio data for source detection, classification and peculiar object discovery**|S. Riggi et.al.|[2404.18462v1](http://arxiv.org/abs/2404.18462v1)|
-|**2024-04-27**|**Accurate and fast anomaly detection in industrial processes and IoT environments**|Simone Tonini et.al.|[2404.17925v1](http://arxiv.org/abs/2404.17925v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-02**|**MFDS-Net: Multi-Scale Feature Depth-Supervised Network for Remote Sensing Change Detection with Global Semantic and Detail Information**|Zhenyang Huang et.al.|[2405.01065v1](http://arxiv.org/abs/2405.01065v1)|
+|**2024-05-01**|**Artificial intelligence for context-aware visual change detection in software test automation**|Milad Moradi et.al.|[2405.00874v1](http://arxiv.org/abs/2405.00874v1)|
+|**2024-05-01**|**Quickest Change Detection with Confusing Change**|Yu-Zhen Janice Chen et.al.|[2405.00842v1](http://arxiv.org/abs/2405.00842v1)|
 |**2024-04-29**|**Analyzing Semantic Change through Lexical Replacements**|Francesco Periti et.al.|[2404.18570v1](http://arxiv.org/abs/2404.18570v1)|
 |**2024-04-27**|**RFL-CDNet: Towards Accurate Change Detection via Richer Feature Learning**|Yuhang Gan et.al.|[2404.17765v1](http://arxiv.org/abs/2404.17765v1)|
 |**2024-04-26**|**ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2404.17565v1](http://arxiv.org/abs/2404.17565v1)|
@@ -71,7 +74,4 @@
 |**2024-04-18**|**MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification**|Weikang Yu et.al.|[2404.12081v1](http://arxiv.org/abs/2404.12081v1)|
 |**2024-04-17**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326v4](http://arxiv.org/abs/2404.11326v4)|
 |**2024-04-17**|**Leveraging Fine-Grained Information and Noise Decoupling for Remote Sensing Change Detection**|Qiangang Du et.al.|[2404.11318v2](http://arxiv.org/abs/2404.11318v2)|
-|**2024-04-17**|**Optical Image-to-Image Translation Using Denoising Diffusion Models: Heterogeneous Change Detection as a Use Case**|João Gabriel Vinholi et.al.|[2404.11243v1](http://arxiv.org/abs/2404.11243v1)|
-|**2024-04-16**|**Unsupervised Speaker Diarization in Distributed IoT Networks Using Federated Learning**|Amit Kumar Bhuyan et.al.|[2404.10842v1](http://arxiv.org/abs/2404.10842v1)|
-|**2024-04-14**|**Change Guiding Network: Incorporating Change Prior to Guide Change Detection in Remote Sensing Imagery**|Chengxi Han et.al.|[2404.09179v1](http://arxiv.org/abs/2404.09179v1)|
 
