@@ -57,7 +57,7 @@
 |**2024-05-02**|**Interpretable Data-driven Anomaly Detection in Industrial Processes with ExIFFI**|Davide Frizzo et.al.|[2405.01158v1](http://arxiv.org/abs/2405.01158v1)|
 |**2024-05-01**|**Quantum algorithms for matrix geometric means**|Nana Liu et.al.|[2405.00673v1](http://arxiv.org/abs/2405.00673v1)|
 |**2024-04-30**|**IgCONDA-PET: Implicitly-Guided Counterfactual Diffusion for Detecting Anomalies in PET Images**|Shadab Ahamed et.al.|[2405.00239v1](http://arxiv.org/abs/2405.00239v1)|
-|**2024-04-30**|**Uncovering What, Why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly**|Hang Du et.al.|[2405.00181v1](http://arxiv.org/abs/2405.00181v1)|
+|**2024-04-30**|**Uncovering What, Why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly**|Hang Du et.al.|[2405.00181v2](http://arxiv.org/abs/2405.00181v2)|
 |**2024-04-30**|**Improved AutoEncoder with LSTM module and KL divergence**|Wei Huang et.al.|[2404.19247v1](http://arxiv.org/abs/2404.19247v1)|
 
 ## change detection
