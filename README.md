@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-08**|**Anomaly Detection in Certificate Transparency Logs**|Richard Ostertág et.al.|[2405.05206v1](http://arxiv.org/abs/2405.05206v1)|
+|**2024-05-08**|**Discrepancy-based Diffusion Models for Lesion Detection in Brain MRI**|Keqiang Fan et.al.|[2405.04974v1](http://arxiv.org/abs/2405.04974v1)|
+|**2024-05-08**|**Supervised Anomaly Detection for Complex Industrial Images**|Aimira Baitieva et.al.|[2405.04953v1](http://arxiv.org/abs/2405.04953v1)|
+|**2024-05-08**|**Persistent homology of featured time series data and its applications**|Eunwoo Heo et.al.|[2405.04796v1](http://arxiv.org/abs/2405.04796v1)|
+|**2024-05-08**|**Dual-Image Enhanced CLIP for Zero-Shot Anomaly Detection**|Zhaoxiang Zhang et.al.|[2405.04782v1](http://arxiv.org/abs/2405.04782v1)|
 |**2024-05-06**|**On the Influence of Data Resampling for Deep Learning-Based Log Anomaly Detection: Insights and Recommendations**|Xiaoxue Ma et.al.|[2405.03489v1](http://arxiv.org/abs/2405.03489v1)|
 |**2024-05-06**|**A Reliable Framework for Human-in-the-Loop Anomaly Detection in Time Series**|Ziquan Deng et.al.|[2405.03234v2](http://arxiv.org/abs/2405.03234v2)|
 |**2024-05-06**|**Braced Fourier Continuation and Regression for Anomaly Detection**|Josef Sabuda et.al.|[2405.03180v1](http://arxiv.org/abs/2405.03180v1)|
 |**2024-05-05**|**AnoGAN for Tabular Data: A Novel Approach to Anomaly Detection**|Aditya Singh et.al.|[2405.03075v1](http://arxiv.org/abs/2405.03075v1)|
 |**2024-05-05**|**A Model-Free Kullback-Leibler Divergence Filter for Anomaly Detection in Noisy Data Series**|Ruikun Zhou et.al.|[2405.03047v1](http://arxiv.org/abs/2405.03047v1)|
-|**2024-05-04**|**Systematic Review: Anomaly Detection in Connected and Autonomous Vehicles**|J. R. V. Solaas et.al.|[2405.02731v1](http://arxiv.org/abs/2405.02731v1)|
-|**2024-05-04**|**Position Paper: Quo Vadis, Unsupervised Time Series Anomaly Detection?**|M. Saquib Sarfraz et.al.|[2405.02678v1](http://arxiv.org/abs/2405.02678v1)|
-|**2024-05-04**|**Generic Multi-modal Representation Learning for Network Traffic Analysis**|Luca Gioacchini et.al.|[2405.02649v1](http://arxiv.org/abs/2405.02649v1)|
-|**2024-05-04**|**A Data Mining-Based Dynamical Anomaly Detection Method for Integrating with an Advance Metering System**|Sarit Maitra et.al.|[2405.02574v1](http://arxiv.org/abs/2405.02574v1)|
-|**2024-05-03**|**Subgraph2vec: A random walk-based algorithm for embedding knowledge graphs**|Elika Bozorgi et.al.|[2405.02240v1](http://arxiv.org/abs/2405.02240v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-08**|**DiffMatch: Visual-Language Guidance Makes Better Semi-supervised Change Detector**|Kaiyu Li et.al.|[2405.04788v1](http://arxiv.org/abs/2405.04788v1)|
 |**2024-05-03**|**Triadic-OCD: Asynchronous Online Change Detection with Provable Robustness, Optimality, and Convergence**|Yancheng Huang et.al.|[2405.02372v1](http://arxiv.org/abs/2405.02372v1)|
 |**2024-05-03**|**Lightweight Change Detection in Heterogeneous Remote Sensing Images with Online All-Integer Pruning Training**|Chengyang Zhang et.al.|[2405.01920v1](http://arxiv.org/abs/2405.01920v1)|
 |**2024-05-02**|**MFDS-Net: Multi-Scale Feature Depth-Supervised Network for Remote Sensing Change Detection with Global Semantic and Detail Information**|Zhenyang Huang et.al.|[2405.01065v1](http://arxiv.org/abs/2405.01065v1)|
@@ -73,5 +74,4 @@
 |**2024-04-27**|**RFL-CDNet: Towards Accurate Change Detection via Richer Feature Learning**|Yuhang Gan et.al.|[2404.17765v1](http://arxiv.org/abs/2404.17765v1)|
 |**2024-04-26**|**ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2404.17565v1](http://arxiv.org/abs/2404.17565v1)|
 |**2024-04-22**|**C2F-SemiCD: A Coarse-to-Fine Semi-Supervised Change Detection Method Based on Consistency Regularization in High-Resolution Remote Sensing Images**|Chengxi Han et.al.|[2404.13838v1](http://arxiv.org/abs/2404.13838v1)|
-|**2024-04-18**|**MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification**|Weikang Yu et.al.|[2404.12081v1](http://arxiv.org/abs/2404.12081v1)|
 
