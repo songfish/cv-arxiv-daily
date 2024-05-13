@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-08**|**CloudSense: A Model for Cloud Type Identification using Machine Learning from Radar data**|Mehzooz Nizar et.al.|[2405.05988v1](http://arxiv.org/abs/2405.05988v1)|
 |**2024-05-04**|**Machine Learning in Space: Surveying the Robustness of on-board ML models to Radiation**|Kevin Lange et.al.|[2405.02642v1](http://arxiv.org/abs/2405.02642v1)|
 |**2024-03-13**|**Limits on the OH Molecule in the Smith High Velocity Cloud**|Anthony H. Minter et.al.|[2403.08704v1](http://arxiv.org/abs/2403.08704v1)|
 |**2024-03-13**|**Deep Learning for In-Orbit Cloud Segmentation and Classification in Hyperspectral Satellite Data**|Daniel Kovac et.al.|[2403.08695v1](http://arxiv.org/abs/2403.08695v1)|
@@ -28,7 +29,6 @@
 |**2023-12-18**|**FAKEPCD: Fake Point Cloud Detection via Source Attribution**|Yiting Qu et.al.|[2312.11213v1](http://arxiv.org/abs/2312.11213v1)|
 |**2023-11-29**|**CLiSA: A Hierarchical Hybrid Transformer Model using Orthogonal Cross Attention for Satellite Image Cloud Segmentation**|Subhajit Paul et.al.|[2311.17475v2](http://arxiv.org/abs/2311.17475v2)|
 |**2023-11-23**|**Creating and Leveraging a Synthetic Dataset of Cloud Optical Thickness Measures for Cloud Detection in MSI**|Aleksis Pirinen et.al.|[2311.14024v3](http://arxiv.org/abs/2311.14024v3)|
-|**2023-09-05**|**Domain Adaptation for Satellite-Borne Hyperspectral Cloud Detection**|Andrew Du et.al.|[2309.02150v1](http://arxiv.org/abs/2309.02150v1)|
 
 ## abnormal detection
 
@@ -49,21 +49,24 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-10**|**Continuous-variable Quantum Boltzmann Machine**|Shikha Bangar et.al.|[2405.06580v1](http://arxiv.org/abs/2405.06580v1)|
+|**2024-05-10**|**Attend, Distill, Detect: Attention-aware Entropy Distillation for Anomaly Detection**|Sushovan Jena et.al.|[2405.06467v1](http://arxiv.org/abs/2405.06467v1)|
+|**2024-05-10**|**TS3IM: Unveiling Structural Similarity in Time Series through Image Similarity Assessment Insights**|Yuhan Liu et.al.|[2405.06234v1](http://arxiv.org/abs/2405.06234v1)|
+|**2024-05-10**|**MAPL: Memory Augmentation and Pseudo-Labeling for Semi-Supervised Anomaly Detection**|Junzhuo Chen et.al.|[2405.06198v1](http://arxiv.org/abs/2405.06198v1)|
+|**2024-05-10**|**Anomaly Detection in Graph Structured Data: A Survey**|Prabin B Lamichhane et.al.|[2405.06172v1](http://arxiv.org/abs/2405.06172v1)|
+|**2024-05-09**|**Advancing Anomaly Detection in Computational Workflows with Active Learning**|Krishnan Raghavan et.al.|[2405.06133v1](http://arxiv.org/abs/2405.06133v1)|
 |**2024-05-09**|**Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask**|Zineb Senane et.al.|[2405.05959v1](http://arxiv.org/abs/2405.05959v1)|
 |**2024-05-09**|**Exploiting Autoencoder's Weakness to Generate Pseudo Anomalies**|Marcella Astrid et.al.|[2405.05886v1](http://arxiv.org/abs/2405.05886v1)|
 |**2024-05-08**|**Anomaly Detection in Certificate Transparency Logs**|Richard Ostertág et.al.|[2405.05206v1](http://arxiv.org/abs/2405.05206v1)|
 |**2024-05-08**|**Discrepancy-based Diffusion Models for Lesion Detection in Brain MRI**|Keqiang Fan et.al.|[2405.04974v1](http://arxiv.org/abs/2405.04974v1)|
-|**2024-05-08**|**Supervised Anomaly Detection for Complex Industrial Images**|Aimira Baitieva et.al.|[2405.04953v1](http://arxiv.org/abs/2405.04953v1)|
-|**2024-05-08**|**Persistent homology of featured time series data and its applications**|Eunwoo Heo et.al.|[2405.04796v1](http://arxiv.org/abs/2405.04796v1)|
-|**2024-05-08**|**Dual-Image Enhanced CLIP for Zero-Shot Anomaly Detection**|Zhaoxiang Zhang et.al.|[2405.04782v1](http://arxiv.org/abs/2405.04782v1)|
-|**2024-05-06**|**On the Influence of Data Resampling for Deep Learning-Based Log Anomaly Detection: Insights and Recommendations**|Xiaoxue Ma et.al.|[2405.03489v1](http://arxiv.org/abs/2405.03489v1)|
-|**2024-05-06**|**A Reliable Framework for Human-in-the-Loop Anomaly Detection in Time Series**|Ziquan Deng et.al.|[2405.03234v2](http://arxiv.org/abs/2405.03234v2)|
-|**2024-05-06**|**Braced Fourier Continuation and Regression for Anomaly Detection**|Josef Sabuda et.al.|[2405.03180v1](http://arxiv.org/abs/2405.03180v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-10**|**Open Access Battle Damage Detection via Pixel-Wise T-Test on Sentinel-1 Imagery**|Ollie Ballinger et.al.|[2405.06323v1](http://arxiv.org/abs/2405.06323v1)|
+|**2024-05-10**|**Comparative Analysis of Advanced Feature Matching Algorithms in Challenging High Spatial Resolution Optical Satellite Stereo Scenarios**|Qiyan Luo et.al.|[2405.06246v1](http://arxiv.org/abs/2405.06246v1)|
+|**2024-05-10**|**Zero-shot Degree of Ill-posedness Estimation for Active Small Object Change Detection**|Koji Takeda et.al.|[2405.06185v1](http://arxiv.org/abs/2405.06185v1)|
 |**2024-05-09**|**Private Online Community Detection for Censored Block Models**|Mohamed Seif et.al.|[2405.05724v1](http://arxiv.org/abs/2405.05724v1)|
 |**2024-05-08**|**DiffMatch: Visual-Language Guidance Makes Better Semi-supervised Change Detector**|Kaiyu Li et.al.|[2405.04788v1](http://arxiv.org/abs/2405.04788v1)|
 |**2024-05-03**|**Triadic-OCD: Asynchronous Online Change Detection with Provable Robustness, Optimality, and Convergence**|Yancheng Huang et.al.|[2405.02372v1](http://arxiv.org/abs/2405.02372v1)|
@@ -71,7 +74,4 @@
 |**2024-05-02**|**MFDS-Net: Multi-Scale Feature Depth-Supervised Network for Remote Sensing Change Detection with Global Semantic and Detail Information**|Zhenyang Huang et.al.|[2405.01065v1](http://arxiv.org/abs/2405.01065v1)|
 |**2024-05-01**|**Artificial intelligence for context-aware visual change detection in software test automation**|Milad Moradi et.al.|[2405.00874v1](http://arxiv.org/abs/2405.00874v1)|
 |**2024-05-01**|**Quickest Change Detection with Confusing Change**|Yu-Zhen Janice Chen et.al.|[2405.00842v1](http://arxiv.org/abs/2405.00842v1)|
-|**2024-04-29**|**Analyzing Semantic Change through Lexical Replacements**|Francesco Periti et.al.|[2404.18570v1](http://arxiv.org/abs/2404.18570v1)|
-|**2024-04-27**|**RFL-CDNet: Towards Accurate Change Detection via Richer Feature Learning**|Yuhang Gan et.al.|[2404.17765v1](http://arxiv.org/abs/2404.17765v1)|
-|**2024-04-26**|**ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2404.17565v1](http://arxiv.org/abs/2404.17565v1)|
 
