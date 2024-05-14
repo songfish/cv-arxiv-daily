@@ -49,21 +49,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-13**|**Enhancing Rover Mobility Monitoring: Autoencoder-driven Anomaly Detection for Curiosity**|Mielad Sabzehi et.al.|[2405.07982v1](http://arxiv.org/abs/2405.07982v1)|
+|**2024-05-13**|**IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data**|Ziyang Zhang et.al.|[2405.07916v1](http://arxiv.org/abs/2405.07916v1)|
+|**2024-05-13**|**AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al.|[2405.07865v1](http://arxiv.org/abs/2405.07865v1)|
+|**2024-05-13**|**DeepHYDRA: Resource-Efficient Time-Series Anomaly Detection in Dynamically-Configured Systems**|Franz Kevin Stehle et.al.|[2405.07749v1](http://arxiv.org/abs/2405.07749v1)|
+|**2024-05-13**|**AnomalyLLM: Few-shot Anomaly Edge Detection for Dynamic Graphs using Large Language Models**|Shuo Liu et.al.|[2405.07626v1](http://arxiv.org/abs/2405.07626v1)|
+|**2024-05-13**|**RESTAD: REconstruction and Similarity based Transformer for time series Anomaly Detection**|Ramin Ghorbani et.al.|[2405.07509v1](http://arxiv.org/abs/2405.07509v1)|
+|**2024-05-11**|**Fractals as Pre-training Datasets for Anomaly Detection and Localization**|C. I. Ugwu et.al.|[2405.06980v1](http://arxiv.org/abs/2405.06980v1)|
+|**2024-05-11**|**Semi-supervised Anomaly Detection via Adaptive Reinforcement Learning-Enabled Method with Causal Inference**|Xiangwei Chen et.al.|[2405.06925v1](http://arxiv.org/abs/2405.06925v1)|
+|**2024-05-11**|**Generation of Granular-Balls for Clustering Based on the Principle of Justifiable Granularity**|Zhen Zhang et.al.|[2405.06904v1](http://arxiv.org/abs/2405.06904v1)|
 |**2024-05-10**|**Continuous-variable Quantum Boltzmann Machine**|Shikha Bangar et.al.|[2405.06580v1](http://arxiv.org/abs/2405.06580v1)|
-|**2024-05-10**|**Attend, Distill, Detect: Attention-aware Entropy Distillation for Anomaly Detection**|Sushovan Jena et.al.|[2405.06467v1](http://arxiv.org/abs/2405.06467v1)|
-|**2024-05-10**|**TS3IM: Unveiling Structural Similarity in Time Series through Image Similarity Assessment Insights**|Yuhan Liu et.al.|[2405.06234v1](http://arxiv.org/abs/2405.06234v1)|
-|**2024-05-10**|**MAPL: Memory Augmentation and Pseudo-Labeling for Semi-Supervised Anomaly Detection**|Junzhuo Chen et.al.|[2405.06198v1](http://arxiv.org/abs/2405.06198v1)|
-|**2024-05-10**|**Anomaly Detection in Graph Structured Data: A Survey**|Prabin B Lamichhane et.al.|[2405.06172v1](http://arxiv.org/abs/2405.06172v1)|
-|**2024-05-09**|**Advancing Anomaly Detection in Computational Workflows with Active Learning**|Krishnan Raghavan et.al.|[2405.06133v1](http://arxiv.org/abs/2405.06133v1)|
-|**2024-05-09**|**Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask**|Zineb Senane et.al.|[2405.05959v1](http://arxiv.org/abs/2405.05959v1)|
-|**2024-05-09**|**Exploiting Autoencoder's Weakness to Generate Pseudo Anomalies**|Marcella Astrid et.al.|[2405.05886v1](http://arxiv.org/abs/2405.05886v1)|
-|**2024-05-08**|**Anomaly Detection in Certificate Transparency Logs**|Richard Ostertág et.al.|[2405.05206v1](http://arxiv.org/abs/2405.05206v1)|
-|**2024-05-08**|**Discrepancy-based Diffusion Models for Lesion Detection in Brain MRI**|Keqiang Fan et.al.|[2405.04974v1](http://arxiv.org/abs/2405.04974v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-13**|**IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data**|Ziyang Zhang et.al.|[2405.07916v1](http://arxiv.org/abs/2405.07916v1)|
+|**2024-05-11**|**Syndrome-based Fusion Rules in Heterogeneous Distributed Quickest Change Detection**|Wen-Hsuan Li et.al.|[2405.06933v1](http://arxiv.org/abs/2405.06933v1)|
 |**2024-05-10**|**Open Access Battle Damage Detection via Pixel-Wise T-Test on Sentinel-1 Imagery**|Ollie Ballinger et.al.|[2405.06323v1](http://arxiv.org/abs/2405.06323v1)|
 |**2024-05-10**|**Comparative Analysis of Advanced Feature Matching Algorithms in Challenging High Spatial Resolution Optical Satellite Stereo Scenarios**|Qiyan Luo et.al.|[2405.06246v1](http://arxiv.org/abs/2405.06246v1)|
 |**2024-05-10**|**Zero-shot Degree of Ill-posedness Estimation for Active Small Object Change Detection**|Koji Takeda et.al.|[2405.06185v1](http://arxiv.org/abs/2405.06185v1)|
@@ -72,6 +74,4 @@
 |**2024-05-03**|**Triadic-OCD: Asynchronous Online Change Detection with Provable Robustness, Optimality, and Convergence**|Yancheng Huang et.al.|[2405.02372v1](http://arxiv.org/abs/2405.02372v1)|
 |**2024-05-03**|**Lightweight Change Detection in Heterogeneous Remote Sensing Images with Online All-Integer Pruning Training**|Chengyang Zhang et.al.|[2405.01920v1](http://arxiv.org/abs/2405.01920v1)|
 |**2024-05-02**|**MFDS-Net: Multi-Scale Feature Depth-Supervised Network for Remote Sensing Change Detection with Global Semantic and Detail Information**|Zhenyang Huang et.al.|[2405.01065v1](http://arxiv.org/abs/2405.01065v1)|
-|**2024-05-01**|**Artificial intelligence for context-aware visual change detection in software test automation**|Milad Moradi et.al.|[2405.00874v1](http://arxiv.org/abs/2405.00874v1)|
-|**2024-05-01**|**Quickest Change Detection with Confusing Change**|Yu-Zhen Janice Chen et.al.|[2405.00842v1](http://arxiv.org/abs/2405.00842v1)|
 
