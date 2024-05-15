@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-14**|**Model-Free Unsupervised Anomaly detection framework in multivariate time-series of industrial dynamical systems**|Mazen Alamir et.al.|[2405.08349v1](http://arxiv.org/abs/2405.08349v1)|
+|**2024-05-14**|**Facilitating Feature and Topology Lightweighting: An Ethereum Transaction Graph Compression Method for Malicious Account Detection**|Xuanze Chen et.al.|[2405.08278v1](http://arxiv.org/abs/2405.08278v1)|
 |**2024-05-13**|**Enhancing Rover Mobility Monitoring: Autoencoder-driven Anomaly Detection for Curiosity**|Mielad Sabzehi et.al.|[2405.07982v1](http://arxiv.org/abs/2405.07982v1)|
 |**2024-05-13**|**IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data**|Ziyang Zhang et.al.|[2405.07916v1](http://arxiv.org/abs/2405.07916v1)|
 |**2024-05-13**|**AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al.|[2405.07865v1](http://arxiv.org/abs/2405.07865v1)|
@@ -57,8 +59,6 @@
 |**2024-05-13**|**RESTAD: REconstruction and Similarity based Transformer for time series Anomaly Detection**|Ramin Ghorbani et.al.|[2405.07509v1](http://arxiv.org/abs/2405.07509v1)|
 |**2024-05-11**|**Fractals as Pre-training Datasets for Anomaly Detection and Localization**|C. I. Ugwu et.al.|[2405.06980v1](http://arxiv.org/abs/2405.06980v1)|
 |**2024-05-11**|**Semi-supervised Anomaly Detection via Adaptive Reinforcement Learning-Enabled Method with Causal Inference**|Xiangwei Chen et.al.|[2405.06925v1](http://arxiv.org/abs/2405.06925v1)|
-|**2024-05-11**|**Generation of Granular-Balls for Clustering Based on the Principle of Justifiable Granularity**|Zhen Zhang et.al.|[2405.06904v1](http://arxiv.org/abs/2405.06904v1)|
-|**2024-05-10**|**Continuous-variable Quantum Boltzmann Machine**|Shikha Bangar et.al.|[2405.06580v1](http://arxiv.org/abs/2405.06580v1)|
 
 ## change detection
 
