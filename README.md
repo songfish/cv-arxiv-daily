@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-16**|**MiniMaxAD: A Lightweight Autoencoder for Feature-Rich Anomaly Detection**|Fengjie Wang et.al.|[2405.09933v1](http://arxiv.org/abs/2405.09933v1)|
 |**2024-05-15**|**BARO: Robust Root Cause Analysis for Microservices via Multivariate Bayesian Online Change Point Detection**|Luan Pham et.al.|[2405.09330v1](http://arxiv.org/abs/2405.09330v1)|
 |**2024-05-15**|**A Hierarchically Feature Reconstructed Autoencoder for Unsupervised Anomaly Detection**|Honghui Chen et.al.|[2405.09148v1](http://arxiv.org/abs/2405.09148v1)|
 |**2024-05-14**|**Self-supervised vision-langage alignment of deep learning representations for bone X-rays analysis**|Alexandre Englebert et.al.|[2405.08932v1](http://arxiv.org/abs/2405.08932v1)|
@@ -58,12 +59,12 @@
 |**2024-05-13**|**Enhancing Rover Mobility Monitoring: Autoencoder-driven Anomaly Detection for Curiosity**|Mielad Sabzehi et.al.|[2405.07982v1](http://arxiv.org/abs/2405.07982v1)|
 |**2024-05-13**|**IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data**|Ziyang Zhang et.al.|[2405.07916v1](http://arxiv.org/abs/2405.07916v1)|
 |**2024-05-13**|**AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al.|[2405.07865v1](http://arxiv.org/abs/2405.07865v1)|
-|**2024-05-13**|**DeepHYDRA: Resource-Efficient Time-Series Anomaly Detection in Dynamically-Configured Systems**|Franz Kevin Stehle et.al.|[2405.07749v1](http://arxiv.org/abs/2405.07749v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-16**|**Confidence Estimation in Unsupervised Deep Change Vector Analysis**|Sudipan Saha et.al.|[2405.09896v1](http://arxiv.org/abs/2405.09896v1)|
 |**2024-05-13**|**IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data**|Ziyang Zhang et.al.|[2405.07916v1](http://arxiv.org/abs/2405.07916v1)|
 |**2024-05-11**|**Syndrome-based Fusion Rules in Heterogeneous Distributed Quickest Change Detection**|Wen-Hsuan Li et.al.|[2405.06933v1](http://arxiv.org/abs/2405.06933v1)|
 |**2024-05-10**|**Open Access Battle Damage Detection via Pixel-Wise T-Test on Sentinel-1 Imagery**|Ollie Ballinger et.al.|[2405.06323v1](http://arxiv.org/abs/2405.06323v1)|
@@ -73,5 +74,4 @@
 |**2024-05-08**|**DiffMatch: Visual-Language Guidance Makes Better Semi-supervised Change Detector**|Kaiyu Li et.al.|[2405.04788v1](http://arxiv.org/abs/2405.04788v1)|
 |**2024-05-03**|**Triadic-OCD: Asynchronous Online Change Detection with Provable Robustness, Optimality, and Convergence**|Yancheng Huang et.al.|[2405.02372v1](http://arxiv.org/abs/2405.02372v1)|
 |**2024-05-03**|**Lightweight Change Detection in Heterogeneous Remote Sensing Images with Online All-Integer Pruning Training**|Chengyang Zhang et.al.|[2405.01920v1](http://arxiv.org/abs/2405.01920v1)|
-|**2024-05-02**|**MFDS-Net: Multi-Scale Feature Depth-Supervised Network for Remote Sensing Change Detection with Global Semantic and Detail Information**|Zhenyang Huang et.al.|[2405.01065v1](http://arxiv.org/abs/2405.01065v1)|
 
