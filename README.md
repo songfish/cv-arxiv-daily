@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-17**|**FitNets: An Adaptive Framework to Learn Accurate Traffic Distributions**|Alexander Dietmüller et.al.|[2405.10931v1](http://arxiv.org/abs/2405.10931v1)|
+|**2024-05-17**|**Harnessing Collective Structure Knowledge in Data Augmentation for Graph Neural Networks**|Rongrong Ma et.al.|[2405.10633v1](http://arxiv.org/abs/2405.10633v1)|
+|**2024-05-17**|**ECATS: Explainable-by-design concept-based anomaly detection for time series**|Irene Ferfoglia et.al.|[2405.10608v1](http://arxiv.org/abs/2405.10608v1)|
+|**2024-05-16**|**Networking Systems for Video Anomaly Detection: A Tutorial and Survey**|Jing Liu et.al.|[2405.10347v1](http://arxiv.org/abs/2405.10347v1)|
 |**2024-05-16**|**MiniMaxAD: A Lightweight Autoencoder for Feature-Rich Anomaly Detection**|Fengjie Wang et.al.|[2405.09933v1](http://arxiv.org/abs/2405.09933v1)|
 |**2024-05-15**|**BARO: Robust Root Cause Analysis for Microservices via Multivariate Bayesian Online Change Point Detection**|Luan Pham et.al.|[2405.09330v1](http://arxiv.org/abs/2405.09330v1)|
 |**2024-05-15**|**A Hierarchically Feature Reconstructed Autoencoder for Unsupervised Anomaly Detection**|Honghui Chen et.al.|[2405.09148v1](http://arxiv.org/abs/2405.09148v1)|
 |**2024-05-14**|**Self-supervised vision-langage alignment of deep learning representations for bone X-rays analysis**|Alexandre Englebert et.al.|[2405.08932v1](http://arxiv.org/abs/2405.08932v1)|
 |**2024-05-14**|**Incorporating Physical Priors into Weakly-Supervised Anomaly Detection**|Chi Lung Cheng et.al.|[2405.08889v1](http://arxiv.org/abs/2405.08889v1)|
 |**2024-05-14**|**Model-Free Unsupervised Anomaly detection framework in multivariate time-series of industrial dynamical systems**|Mazen Alamir et.al.|[2405.08349v1](http://arxiv.org/abs/2405.08349v1)|
-|**2024-05-14**|**Facilitating Feature and Topology Lightweighting: An Ethereum Transaction Graph Compression Method for Malicious Account Detection**|Xuanze Chen et.al.|[2405.08278v1](http://arxiv.org/abs/2405.08278v1)|
-|**2024-05-13**|**Enhancing Rover Mobility Monitoring: Autoencoder-driven Anomaly Detection for Curiosity**|Mielad Sabzehi et.al.|[2405.07982v1](http://arxiv.org/abs/2405.07982v1)|
-|**2024-05-13**|**IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data**|Ziyang Zhang et.al.|[2405.07916v1](http://arxiv.org/abs/2405.07916v1)|
-|**2024-05-13**|**AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al.|[2405.07865v1](http://arxiv.org/abs/2405.07865v1)|
 
 ## change detection
 
