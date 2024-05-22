@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-21**|**Spatial-aware Attention Generative Adversarial Network for Semi-supervised Anomaly Detection in Medical Image**|Zerui Zhang et.al.|[2405.12872v1](http://arxiv.org/abs/2405.12872v1)|
+|**2024-05-21**|**Multimodal video analysis for crowd anomaly detection using open access tourism cameras**|Alejandro Dionis-Ros et.al.|[2405.12708v1](http://arxiv.org/abs/2405.12708v1)|
+|**2024-05-20**|**Automated Anomaly Detection on European XFEL Klystrons**|Antonin Sulc et.al.|[2405.12391v1](http://arxiv.org/abs/2405.12391v1)|
 |**2024-05-20**|**PATE: Proximity-Aware Time series anomaly Evaluation**|Ramin Ghorbani et.al.|[2405.12096v1](http://arxiv.org/abs/2405.12096v1)|
 |**2024-05-20**|**Position-Guided Prompt Learning for Anomaly Detection in Chest X-Rays**|Zhichao Sun et.al.|[2405.11976v1](http://arxiv.org/abs/2405.11976v1)|
 |**2024-05-20**|**Dynamic classifier auditing by unsupervised anomaly detection methods: an application in packaging industry predictive maintenance**|Fernando Mateo et.al.|[2405.11960v1](http://arxiv.org/abs/2405.11960v1)|
@@ -56,9 +59,6 @@
 |**2024-05-18**|**Few-Shot API Attack Detection: Overcoming Data Scarcity with GAN-Inspired Learning**|Udi Aharon et.al.|[2405.11258v1](http://arxiv.org/abs/2405.11258v1)|
 |**2024-05-18**|**Few-Shot API Attack Anomaly Detection in a Classification-by-Retrieval Framework**|Udi Aharon et.al.|[2405.11247v1](http://arxiv.org/abs/2405.11247v1)|
 |**2024-05-18**|**SimAD: A Simple Dissimilarity-based Approach for Time Series Anomaly Detection**|Zhijie Zhong et.al.|[2405.11238v1](http://arxiv.org/abs/2405.11238v1)|
-|**2024-05-17**|**FitNets: An Adaptive Framework to Learn Accurate Traffic Distributions**|Alexander Dietmüller et.al.|[2405.10931v1](http://arxiv.org/abs/2405.10931v1)|
-|**2024-05-17**|**Harnessing Collective Structure Knowledge in Data Augmentation for Graph Neural Networks**|Rongrong Ma et.al.|[2405.10633v1](http://arxiv.org/abs/2405.10633v1)|
-|**2024-05-17**|**ECATS: Explainable-by-design concept-based anomaly detection for time series**|Irene Ferfoglia et.al.|[2405.10608v1](http://arxiv.org/abs/2405.10608v1)|
 
 ## change detection
 
