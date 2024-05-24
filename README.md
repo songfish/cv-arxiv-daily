@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-22**|**Detecting Gait Abnormalities in Foot-Floor Contacts During Walking Through FootstepInduced Structural Vibrations**|Yiwen Dong et.al.|[2405.13996v1](http://arxiv.org/abs/2405.13996v1)|
 |**2024-05-09**|**MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI**|Yan Zhuang et.al.|[2405.05944v1](http://arxiv.org/abs/2405.05944v1)|
 |**2024-05-09**|**Artificial intelligence for abnormality detection in high volume neuroimaging: a systematic review and meta-analysis**|Siddharth Agarwal et.al.|[2405.05658v1](http://arxiv.org/abs/2405.05658v1)|
 |**2024-05-05**|**A self-supervised text-vision framework for automated brain abnormality detection**|David A. Wood et.al.|[2405.02782v1](http://arxiv.org/abs/2405.02782v1)|
@@ -43,27 +44,27 @@
 |**2024-03-06**|**Interactive Bayesian Generative Models for Abnormality Detection in Vehicular Networks**|Nobel J. William et.al.|[2403.03583v1](http://arxiv.org/abs/2403.03583v1)|
 |**2024-01-08**|**FM-AE: Frequency-masked Multimodal Autoencoder for Zinc Electrolysis Plate Contact Abnormality Detection**|Canzong Zhou et.al.|[2401.03806v1](http://arxiv.org/abs/2401.03806v1)|
 |**2023-12-28**|**Unsupversied feature correlation model to predict breast abnormal variation maps in longitudinal mammograms**|Jun Bai et.al.|[2312.16772v1](http://arxiv.org/abs/2312.16772v1)|
-|**2023-11-20**|**Abnormal traffic detection system in SDN based on deep learning hybrid models**|Kun Wang et.al.|[2311.11550v1](http://arxiv.org/abs/2311.11550v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-23**|**Large language models can be zero-shot anomaly detectors for time series?**|Sarah Alnegheimish et.al.|[2405.14755v1](http://arxiv.org/abs/2405.14755v1)|
+|**2024-05-23**|**Applied Machine Learning to Anomaly Detection in Enterprise Purchase Processes**|A. Herreros-Martínez et.al.|[2405.14754v1](http://arxiv.org/abs/2405.14754v1)|
+|**2024-05-23**|**AnomalyDINO: Boosting Patch-based Few-shot Anomaly Detection with DINOv2**|Simon Damm et.al.|[2405.14529v1](http://arxiv.org/abs/2405.14529v1)|
+|**2024-05-23**|**Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection**|Jia Guo et.al.|[2405.14325v1](http://arxiv.org/abs/2405.14325v1)|
+|**2024-05-22**|**Uncertainty-aware Evaluation of Auxiliary Anomalies with the Expected Anomaly Posterior**|Lorenzo Perini et.al.|[2405.13699v1](http://arxiv.org/abs/2405.13699v1)|
+|**2024-05-22**|**GNN-based Anomaly Detection for Encoded Network Traffic**|Anasuya Chattopadhyay et.al.|[2405.13670v1](http://arxiv.org/abs/2405.13670v1)|
+|**2024-05-22**|**LogRCA: Log-based Root Cause Analysis for Distributed Services**|Thorsten Wittkopp et.al.|[2405.13599v1](http://arxiv.org/abs/2405.13599v1)|
+|**2024-05-22**|**Cross-Modal Distillation in Industrial Anomaly Detection: Exploring Efficient Multi-Modal IAD**|Wenbo Sui et.al.|[2405.13571v1](http://arxiv.org/abs/2405.13571v1)|
+|**2024-05-21**|**TauAD: MRI-free Tau Anomaly Detection in PET Imaging via Conditioned Diffusion Models**|Lujia Zhong et.al.|[2405.13199v1](http://arxiv.org/abs/2405.13199v1)|
 |**2024-05-21**|**Spatial-aware Attention Generative Adversarial Network for Semi-supervised Anomaly Detection in Medical Image**|Zerui Zhang et.al.|[2405.12872v1](http://arxiv.org/abs/2405.12872v1)|
-|**2024-05-21**|**Multimodal video analysis for crowd anomaly detection using open access tourism cameras**|Alejandro Dionis-Ros et.al.|[2405.12708v1](http://arxiv.org/abs/2405.12708v1)|
-|**2024-05-20**|**Automated Anomaly Detection on European XFEL Klystrons**|Antonin Sulc et.al.|[2405.12391v1](http://arxiv.org/abs/2405.12391v1)|
-|**2024-05-20**|**PATE: Proximity-Aware Time series anomaly Evaluation**|Ramin Ghorbani et.al.|[2405.12096v1](http://arxiv.org/abs/2405.12096v1)|
-|**2024-05-20**|**Position-Guided Prompt Learning for Anomaly Detection in Chest X-Rays**|Zhichao Sun et.al.|[2405.11976v1](http://arxiv.org/abs/2405.11976v1)|
-|**2024-05-20**|**Dynamic classifier auditing by unsupervised anomaly detection methods: an application in packaging industry predictive maintenance**|Fernando Mateo et.al.|[2405.11960v1](http://arxiv.org/abs/2405.11960v1)|
-|**2024-05-18**|**MediCLIP: Adapting CLIP for Few-shot Medical Image Anomaly Detection**|Ximiao Zhang et.al.|[2405.11315v1](http://arxiv.org/abs/2405.11315v1)|
-|**2024-05-18**|**Few-Shot API Attack Detection: Overcoming Data Scarcity with GAN-Inspired Learning**|Udi Aharon et.al.|[2405.11258v1](http://arxiv.org/abs/2405.11258v1)|
-|**2024-05-18**|**Few-Shot API Attack Anomaly Detection in a Classification-by-Retrieval Framework**|Udi Aharon et.al.|[2405.11247v1](http://arxiv.org/abs/2405.11247v1)|
-|**2024-05-18**|**SimAD: A Simple Dissimilarity-based Approach for Time Series Anomaly Detection**|Zhijie Zhong et.al.|[2405.11238v1](http://arxiv.org/abs/2405.11238v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-23**|**A Behavior-Aware Approach for Deep Reinforcement Learning in Non-stationary Environments without Known Change Points**|Zihe Liu et.al.|[2405.14214v1](http://arxiv.org/abs/2405.14214v1)|
 |**2024-05-19**|**Online Action Representation using Change Detection and Symbolic Programming**|Vishnu S Nair et.al.|[2405.11511v1](http://arxiv.org/abs/2405.11511v1)|
 |**2024-05-16**|**Confidence Estimation in Unsupervised Deep Change Vector Analysis**|Sudipan Saha et.al.|[2405.09896v1](http://arxiv.org/abs/2405.09896v1)|
 |**2024-05-13**|**IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data**|Ziyang Zhang et.al.|[2405.07916v1](http://arxiv.org/abs/2405.07916v1)|
@@ -73,5 +74,4 @@
 |**2024-05-10**|**Zero-shot Degree of Ill-posedness Estimation for Active Small Object Change Detection**|Koji Takeda et.al.|[2405.06185v1](http://arxiv.org/abs/2405.06185v1)|
 |**2024-05-09**|**Private Online Community Detection for Censored Block Models**|Mohamed Seif et.al.|[2405.05724v1](http://arxiv.org/abs/2405.05724v1)|
 |**2024-05-08**|**DiffMatch: Visual-Language Guidance Makes Better Semi-supervised Change Detector**|Kaiyu Li et.al.|[2405.04788v1](http://arxiv.org/abs/2405.04788v1)|
-|**2024-05-03**|**Triadic-OCD: Asynchronous Online Change Detection with Provable Robustness, Optimality, and Convergence**|Yancheng Huang et.al.|[2405.02372v1](http://arxiv.org/abs/2405.02372v1)|
 
