@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-29**|**Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI**|Wei-Bang Jiang et.al.|[2405.18765v1](http://arxiv.org/abs/2405.18765v1)|
 |**2024-05-22**|**Detecting Gait Abnormalities in Foot-Floor Contacts During Walking Through FootstepInduced Structural Vibrations**|Yiwen Dong et.al.|[2405.13996v1](http://arxiv.org/abs/2405.13996v1)|
 |**2024-05-09**|**MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI**|Yan Zhuang et.al.|[2405.05944v1](http://arxiv.org/abs/2405.05944v1)|
 |**2024-05-09**|**Artificial intelligence for abnormality detection in high volume neuroimaging: a systematic review and meta-analysis**|Siddharth Agarwal et.al.|[2405.05658v1](http://arxiv.org/abs/2405.05658v1)|
@@ -43,27 +44,27 @@
 |**2024-03-17**|**Tokensome: Towards a Genetic Vision-Language GPT for Explainable and Cognitive Karyotyping**|Haoxi Zhang et.al.|[2403.11073v1](http://arxiv.org/abs/2403.11073v1)|
 |**2024-03-06**|**Interactive Bayesian Generative Models for Abnormality Detection in Vehicular Networks**|Nobel J. William et.al.|[2403.03583v1](http://arxiv.org/abs/2403.03583v1)|
 |**2024-01-08**|**FM-AE: Frequency-masked Multimodal Autoencoder for Zinc Electrolysis Plate Contact Abnormality Detection**|Canzong Zhou et.al.|[2401.03806v1](http://arxiv.org/abs/2401.03806v1)|
-|**2023-12-28**|**Unsupversied feature correlation model to predict breast abnormal variation maps in longitudinal mammograms**|Jun Bai et.al.|[2312.16772v1](http://arxiv.org/abs/2312.16772v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-29**|**Early Detection of Critical Urban Events using Mobile Phone Network Data**|Pierre Lemaire et.al.|[2405.19125v1](http://arxiv.org/abs/2405.19125v1)|
+|**2024-05-29**|**A Mallows-like Criterion for Anomaly Detection with Random Forest Implementation**|Gaoxiang Zhao et.al.|[2405.18932v1](http://arxiv.org/abs/2405.18932v1)|
+|**2024-05-29**|**Deep Positive-Unlabeled Anomaly Detection for Contaminated Unlabeled Data**|Hiroshi Takahashi et.al.|[2405.18929v1](http://arxiv.org/abs/2405.18929v1)|
+|**2024-05-29**|**Anomaly Detection by Context Contrasting**|Alain Ryser et.al.|[2405.18848v1](http://arxiv.org/abs/2405.18848v1)|
+|**2024-05-28**|**When and How Does In-Distribution Label Help Out-of-Distribution Detection?**|Xuefeng Du et.al.|[2405.18635v1](http://arxiv.org/abs/2405.18635v1)|
+|**2024-05-28**|**Anomaly detection for the identification of volcanic unrest in satellite imagery**|Robert Gabriel Popescu et.al.|[2405.18487v1](http://arxiv.org/abs/2405.18487v1)|
 |**2024-05-28**|**Long Short-Term Memory Networks for Anomaly Detection in Magnet Power Supplies of Particle Accelerators**|Ihar Lobach et.al.|[2405.18321v1](http://arxiv.org/abs/2405.18321v1)|
 |**2024-05-28**|**Learning-Based Link Anomaly Detection in Continuous-Time Dynamic Graphs**|Tim Poštuvan et.al.|[2405.18050v1](http://arxiv.org/abs/2405.18050v1)|
 |**2024-05-27**|**SmoothGNN: Smoothing-based GNN for Unsupervised Node Anomaly Detection**|Xiangyu Dong et.al.|[2405.17525v1](http://arxiv.org/abs/2405.17525v1)|
-|**2024-05-25**|**Secure Hierarchical Federated Learning in Vehicular Networks Using Dynamic Client Selection and Anomaly Detection**|M. Saeid HaghighiFard et.al.|[2405.17497v1](http://arxiv.org/abs/2405.17497v1)|
 |**2024-05-27**|**Hawk: Learning to Understand Open-World Video Anomalies**|Jiaqi Tang et.al.|[2405.16886v1](http://arxiv.org/abs/2405.16886v1)|
-|**2024-05-27**|**ARC: A Generalist Graph Anomaly Detector with In-Context Learning**|Yixin Liu et.al.|[2405.16771v1](http://arxiv.org/abs/2405.16771v1)|
-|**2024-05-26**|**A Study on Unsupervised Anomaly Detection and Defect Localization using Generative Model in Ultrasonic Non-Destructive Testing**|Yusaku Ando et.al.|[2405.16580v1](http://arxiv.org/abs/2405.16580v1)|
-|**2024-05-26**|**KiNETGAN: Enabling Distributed Network Intrusion Detection through Knowledge-Infused Synthetic Data Generation**|Anantaa Kotal et.al.|[2405.16476v1](http://arxiv.org/abs/2405.16476v1)|
-|**2024-05-25**|**Qsco: A Quantum Scoring Module for Open-set Supervised Anomaly Detection**|Yifeng Peng et.al.|[2405.16368v1](http://arxiv.org/abs/2405.16368v1)|
-|**2024-05-25**|**Acquiring Better Load Estimates by Combining Anomaly and Change-point Detection in Power Grid Time-series Measurements**|Roel Bouman et.al.|[2405.16164v2](http://arxiv.org/abs/2405.16164v2)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-29**|**FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding**|Shuai Yuan et.al.|[2405.19055v1](http://arxiv.org/abs/2405.19055v1)|
 |**2024-05-28**|**SSLChange: A Self-supervised Change Detection Framework Based on Domain Adaptation**|Yitao Zhao et.al.|[2405.18224v1](http://arxiv.org/abs/2405.18224v1)|
 |**2024-05-24**|**Post-selection inference for quantifying uncertainty in changes in variance**|Rachel Carrington et.al.|[2405.15670v1](http://arxiv.org/abs/2405.15670v1)|
 |**2024-05-23**|**A Behavior-Aware Approach for Deep Reinforcement Learning in Non-stationary Environments without Known Change Points**|Zihe Liu et.al.|[2405.14214v1](http://arxiv.org/abs/2405.14214v1)|
@@ -73,5 +74,4 @@
 |**2024-05-11**|**Syndrome-based Fusion Rules in Heterogeneous Distributed Quickest Change Detection**|Wen-Hsuan Li et.al.|[2405.06933v1](http://arxiv.org/abs/2405.06933v1)|
 |**2024-05-10**|**Open Access Battle Damage Detection via Pixel-Wise T-Test on Sentinel-1 Imagery**|Ollie Ballinger et.al.|[2405.06323v1](http://arxiv.org/abs/2405.06323v1)|
 |**2024-05-10**|**Comparative Analysis of Advanced Feature Matching Algorithms in Challenging High Spatial Resolution Optical Satellite Stereo Scenarios**|Qiyan Luo et.al.|[2405.06246v1](http://arxiv.org/abs/2405.06246v1)|
-|**2024-05-10**|**Zero-shot Degree of Ill-posedness Estimation for Active Small Object Change Detection**|Koji Takeda et.al.|[2405.06185v1](http://arxiv.org/abs/2405.06185v1)|
 
