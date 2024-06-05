@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-03**|**Unambiguous detection of mesospheric CO2 clouds on Mars using 2.7 μm absorption band from the ACS/TGO solar occultations**|M. Luginin et.al.|[2406.01515v1](http://arxiv.org/abs/2406.01515v1)|
 |**2024-05-08**|**CloudSense: A Model for Cloud Type Identification using Machine Learning from Radar data**|Mehzooz Nizar et.al.|[2405.05988v1](http://arxiv.org/abs/2405.05988v1)|
 |**2024-05-04**|**Machine Learning in Space: Surveying the Robustness of on-board ML models to Radiation**|Kevin Lange et.al.|[2405.02642v2](http://arxiv.org/abs/2405.02642v2)|
 |**2024-03-13**|**Limits on the OH Molecule in the Smith High Velocity Cloud**|Anthony H. Minter et.al.|[2403.08704v1](http://arxiv.org/abs/2403.08704v1)|
@@ -28,7 +29,6 @@
 |**2024-02-21**|**BenchCloudVision: A Benchmark Analysis of Deep Learning Approaches for Cloud Detection and Segmentation in Remote Sensing Imagery**|Loddo Fabio et.al.|[2402.13918v3](http://arxiv.org/abs/2402.13918v3)|
 |**2023-12-18**|**FAKEPCD: Fake Point Cloud Detection via Source Attribution**|Yiting Qu et.al.|[2312.11213v1](http://arxiv.org/abs/2312.11213v1)|
 |**2023-11-29**|**CLiSA: A Hierarchical Hybrid Transformer Model using Orthogonal Cross Attention for Satellite Image Cloud Segmentation**|Subhajit Paul et.al.|[2311.17475v2](http://arxiv.org/abs/2311.17475v2)|
-|**2023-11-23**|**Creating and Leveraging a Synthetic Dataset of Cloud Optical Thickness Measures for Cloud Detection in MSI**|Aleksis Pirinen et.al.|[2311.14024v3](http://arxiv.org/abs/2311.14024v3)|
 
 ## abnormal detection
 
@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-05-30**|**From Zero to Hero: Cold-Start Anomaly Detection**|Tal Reiss et.al.|[2405.20341v1](http://arxiv.org/abs/2405.20341v1)|
-|**2024-05-30**|**Joint Selective State Space Model and Detrending for Robust Time Series Anomaly Detection**|Junqi Chen et.al.|[2405.19823v1](http://arxiv.org/abs/2405.19823v1)|
-|**2024-05-30**|**Performance Examination of Symbolic Aggregate Approximation in IoT Applications**|Suzana Veljanovska et.al.|[2405.19817v1](http://arxiv.org/abs/2405.19817v1)|
-|**2024-05-29**|**Video Anomaly Detection in 10 Years: A Survey and Outlook**|Moshira Abdalla et.al.|[2405.19387v1](http://arxiv.org/abs/2405.19387v1)|
-|**2024-05-29**|**Early Detection of Critical Urban Events using Mobile Phone Network Data**|Pierre Lemaire et.al.|[2405.19125v1](http://arxiv.org/abs/2405.19125v1)|
-|**2024-05-29**|**A Mallows-like Criterion for Anomaly Detection with Random Forest Implementation**|Gaoxiang Zhao et.al.|[2405.18932v1](http://arxiv.org/abs/2405.18932v1)|
-|**2024-05-29**|**Deep Positive-Unlabeled Anomaly Detection for Contaminated Unlabeled Data**|Hiroshi Takahashi et.al.|[2405.18929v1](http://arxiv.org/abs/2405.18929v1)|
-|**2024-05-29**|**Anomaly Detection by Context Contrasting**|Alain Ryser et.al.|[2405.18848v1](http://arxiv.org/abs/2405.18848v1)|
-|**2024-05-28**|**When and How Does In-Distribution Label Help Out-of-Distribution Detection?**|Xuefeng Du et.al.|[2405.18635v1](http://arxiv.org/abs/2405.18635v1)|
-|**2024-05-28**|**Anomaly detection for the identification of volcanic unrest in satellite imagery**|Robert Gabriel Popescu et.al.|[2405.18487v1](http://arxiv.org/abs/2405.18487v1)|
+|**2024-06-04**|**PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection**|Ronghui Xu et.al.|[2406.02318v1](http://arxiv.org/abs/2406.02318v1)|
+|**2024-06-04**|**M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising**|Chengjie Wang et.al.|[2406.02263v1](http://arxiv.org/abs/2406.02263v1)|
+|**2024-06-04**|**Review of searches for new physics at CMS**|Anne-Mazarine Lyon et.al.|[2406.02010v1](http://arxiv.org/abs/2406.02010v1)|
+|**2024-06-03**|**An Origami-Inspired Endoscopic Capsule with Tactile Perception for Early Tissue Anomaly Detection**|Yukun Ge et.al.|[2406.01371v1](http://arxiv.org/abs/2406.01371v1)|
+|**2024-06-03**|**CUT: A Controllable, Universal, and Training-Free Visual Anomaly Generation Framework**|Han Sun et.al.|[2406.01078v1](http://arxiv.org/abs/2406.01078v1)|
+|**2024-06-03**|**Enhancing Fairness in Unsupervised Graph Anomaly Detection through Disentanglement**|Wenjing Chang et.al.|[2406.00987v1](http://arxiv.org/abs/2406.00987v1)|
+|**2024-06-02**|**GLADformer: A Mixed Perspective for Graph-level Anomaly Detection**|Fan Xu et.al.|[2406.00734v1](http://arxiv.org/abs/2406.00734v1)|
+|**2024-06-02**|**SAM-LAD: Segment Anything Model Meets Zero-Shot Logic Anomaly Detection**|Yun Peng et.al.|[2406.00625v1](http://arxiv.org/abs/2406.00625v1)|
+|**2024-06-02**|**ContextFlow++: Generalist-Specialist Flow-based Generative Models with Mixed-Variable Context Encoding**|Denis Gudovskiy et.al.|[2406.00578v1](http://arxiv.org/abs/2406.00578v1)|
+|**2024-06-01**|**Towards a Unified Framework of Clustering-based Anomaly Detection**|Zeyu Fang et.al.|[2406.00452v1](http://arxiv.org/abs/2406.00452v1)|
 
 ## change detection
 
