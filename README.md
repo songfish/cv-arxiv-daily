@@ -1,4 +1,4 @@
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 
 ## super-resolution
 
@@ -56,7 +56,7 @@
 |**2024-06-03**|**CUT: A Controllable, Universal, and Training-Free Visual Anomaly Generation Framework**|Han Sun et.al.|[2406.01078v1](http://arxiv.org/abs/2406.01078v1)|
 |**2024-06-03**|**Enhancing Fairness in Unsupervised Graph Anomaly Detection through Disentanglement**|Wenjing Chang et.al.|[2406.00987v1](http://arxiv.org/abs/2406.00987v1)|
 |**2024-06-02**|**GLADformer: A Mixed Perspective for Graph-level Anomaly Detection**|Fan Xu et.al.|[2406.00734v1](http://arxiv.org/abs/2406.00734v1)|
-|**2024-06-02**|**SAM-LAD: Segment Anything Model Meets Zero-Shot Logic Anomaly Detection**|Yun Peng et.al.|[2406.00625v1](http://arxiv.org/abs/2406.00625v1)|
+|**2024-06-02**|**SAM-LAD: Segment Anything Model Meets Zero-Shot Logic Anomaly Detection**|Yun Peng et.al.|[2406.00625v2](http://arxiv.org/abs/2406.00625v2)|
 |**2024-06-02**|**ContextFlow++: Generalist-Specialist Flow-based Generative Models with Mixed-Variable Context Encoding**|Denis Gudovskiy et.al.|[2406.00578v1](http://arxiv.org/abs/2406.00578v1)|
 |**2024-06-01**|**Towards a Unified Framework of Clustering-based Anomaly Detection**|Zeyu Fang et.al.|[2406.00452v1](http://arxiv.org/abs/2406.00452v1)|
 
@@ -65,7 +65,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2024-05-30**|**Landslide mapping from Sentinel-2 imagery through change detection**|Tommaso Monopoli et.al.|[2405.20161v1](http://arxiv.org/abs/2405.20161v1)|
-|**2024-05-29**|**FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding**|Shuai Yuan et.al.|[2405.19055v1](http://arxiv.org/abs/2405.19055v1)|
+|**2024-05-29**|**FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding**|Shuai Yuan et.al.|[2405.19055v2](http://arxiv.org/abs/2405.19055v2)|
 |**2024-05-28**|**SSLChange: A Self-supervised Change Detection Framework Based on Domain Adaptation**|Yitao Zhao et.al.|[2405.18224v1](http://arxiv.org/abs/2405.18224v1)|
 |**2024-05-24**|**Post-selection inference for quantifying uncertainty in changes in variance**|Rachel Carrington et.al.|[2405.15670v1](http://arxiv.org/abs/2405.15670v1)|
 |**2024-05-23**|**A Behavior-Aware Approach for Deep Reinforcement Learning in Non-stationary Environments without Known Change Points**|Zihe Liu et.al.|[2405.14214v1](http://arxiv.org/abs/2405.14214v1)|
