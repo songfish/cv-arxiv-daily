@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-05**|**ADer: A Comprehensive Benchmark for Multi-class Visual Anomaly Detection**|Jiangning Zhang et.al.|[2406.03262v1](http://arxiv.org/abs/2406.03262v1)|
+|**2024-06-05**|**DA-Flow: Dual Attention Normalizing Flow for Skeleton-based Video Anomaly Detection**|Ruituo Wu et.al.|[2406.02976v1](http://arxiv.org/abs/2406.02976v1)|
+|**2024-06-05**|**Multivariate Physics-Informed Convolutional Autoencoder for Anomaly Detection in Power Distribution Systems with High Penetration of DERs**|Mehdi Jabbari Zideh et.al.|[2406.02927v1](http://arxiv.org/abs/2406.02927v1)|
+|**2024-06-05**|**Distilling Aggregated Knowledge for Weakly-Supervised Video Anomaly Detection**|Jash Dalvi et.al.|[2406.02831v1](http://arxiv.org/abs/2406.02831v1)|
+|**2024-06-04**|**Diagnostic Digital Twin for Anomaly Detection in Floating Offshore Wind Energy**|Florian Stadtmann et.al.|[2406.02775v1](http://arxiv.org/abs/2406.02775v1)|
+|**2024-06-04**|**Pancreatic Tumor Segmentation as Anomaly Detection in CT Images Using Denoising Diffusion Models**|Reza Babaei et.al.|[2406.02653v1](http://arxiv.org/abs/2406.02653v1)|
 |**2024-06-04**|**PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection**|Ronghui Xu et.al.|[2406.02318v1](http://arxiv.org/abs/2406.02318v1)|
 |**2024-06-04**|**M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising**|Chengjie Wang et.al.|[2406.02263v1](http://arxiv.org/abs/2406.02263v1)|
 |**2024-06-04**|**Review of searches for new physics at CMS**|Anne-Mazarine Lyon et.al.|[2406.02010v1](http://arxiv.org/abs/2406.02010v1)|
 |**2024-06-03**|**An Origami-Inspired Endoscopic Capsule with Tactile Perception for Early Tissue Anomaly Detection**|Yukun Ge et.al.|[2406.01371v1](http://arxiv.org/abs/2406.01371v1)|
-|**2024-06-03**|**CUT: A Controllable, Universal, and Training-Free Visual Anomaly Generation Framework**|Han Sun et.al.|[2406.01078v1](http://arxiv.org/abs/2406.01078v1)|
-|**2024-06-03**|**Enhancing Fairness in Unsupervised Graph Anomaly Detection through Disentanglement**|Wenjing Chang et.al.|[2406.00987v1](http://arxiv.org/abs/2406.00987v1)|
-|**2024-06-02**|**GLADformer: A Mixed Perspective for Graph-level Anomaly Detection**|Fan Xu et.al.|[2406.00734v1](http://arxiv.org/abs/2406.00734v1)|
-|**2024-06-02**|**SAM-LAD: Segment Anything Model Meets Zero-Shot Logic Anomaly Detection**|Yun Peng et.al.|[2406.00625v2](http://arxiv.org/abs/2406.00625v2)|
-|**2024-06-02**|**ContextFlow++: Generalist-Specialist Flow-based Generative Models with Mixed-Variable Context Encoding**|Denis Gudovskiy et.al.|[2406.00578v1](http://arxiv.org/abs/2406.00578v1)|
-|**2024-06-01**|**Towards a Unified Framework of Clustering-based Anomaly Detection**|Zeyu Fang et.al.|[2406.00452v1](http://arxiv.org/abs/2406.00452v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-05**|**Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types**|Pierluigi Cassotti et.al.|[2406.03452v1](http://arxiv.org/abs/2406.03452v1)|
 |**2024-05-30**|**Landslide mapping from Sentinel-2 imagery through change detection**|Tommaso Monopoli et.al.|[2405.20161v1](http://arxiv.org/abs/2405.20161v1)|
 |**2024-05-29**|**FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding**|Shuai Yuan et.al.|[2405.19055v2](http://arxiv.org/abs/2405.19055v2)|
 |**2024-05-28**|**SSLChange: A Self-supervised Change Detection Framework Based on Domain Adaptation**|Yitao Zhao et.al.|[2405.18224v1](http://arxiv.org/abs/2405.18224v1)|
@@ -73,5 +74,4 @@
 |**2024-05-16**|**Confidence Estimation in Unsupervised Deep Change Vector Analysis**|Sudipan Saha et.al.|[2405.09896v1](http://arxiv.org/abs/2405.09896v1)|
 |**2024-05-13**|**IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data**|Ziyang Zhang et.al.|[2405.07916v1](http://arxiv.org/abs/2405.07916v1)|
 |**2024-05-11**|**Syndrome-based Fusion Rules in Heterogeneous Distributed Quickest Change Detection**|Wen-Hsuan Li et.al.|[2405.06933v1](http://arxiv.org/abs/2405.06933v1)|
-|**2024-05-10**|**Open Access Battle Damage Detection via Pixel-Wise T-Test on Sentinel-1 Imagery**|Ollie Ballinger et.al.|[2405.06323v1](http://arxiv.org/abs/2405.06323v1)|
 
