@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-06**|**Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models**|Ali Behrouz et.al.|[2406.04320v1](http://arxiv.org/abs/2406.04320v1)|
+|**2024-06-05**|**Advancing Anomaly Detection: Non-Semantic Financial Data Encoding with LLMs**|Alexander Bakumenko et.al.|[2406.03614v1](http://arxiv.org/abs/2406.03614v1)|
 |**2024-06-05**|**ADer: A Comprehensive Benchmark for Multi-class Visual Anomaly Detection**|Jiangning Zhang et.al.|[2406.03262v2](http://arxiv.org/abs/2406.03262v2)|
 |**2024-06-05**|**DA-Flow: Dual Attention Normalizing Flow for Skeleton-based Video Anomaly Detection**|Ruituo Wu et.al.|[2406.02976v1](http://arxiv.org/abs/2406.02976v1)|
 |**2024-06-05**|**Multivariate Physics-Informed Convolutional Autoencoder for Anomaly Detection in Power Distribution Systems with High Penetration of DERs**|Mehdi Jabbari Zideh et.al.|[2406.02927v1](http://arxiv.org/abs/2406.02927v1)|
@@ -57,13 +59,13 @@
 |**2024-06-04**|**Pancreatic Tumor Segmentation as Anomaly Detection in CT Images Using Denoising Diffusion Models**|Reza Babaei et.al.|[2406.02653v1](http://arxiv.org/abs/2406.02653v1)|
 |**2024-06-04**|**PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection**|Ronghui Xu et.al.|[2406.02318v1](http://arxiv.org/abs/2406.02318v1)|
 |**2024-06-04**|**M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising**|Chengjie Wang et.al.|[2406.02263v1](http://arxiv.org/abs/2406.02263v1)|
-|**2024-06-04**|**Review of searches for new physics at CMS**|Anne-Mazarine Lyon et.al.|[2406.02010v1](http://arxiv.org/abs/2406.02010v1)|
-|**2024-06-03**|**An Origami-Inspired Endoscopic Capsule with Tactile Perception for Early Tissue Anomaly Detection**|Yukun Ge et.al.|[2406.01371v1](http://arxiv.org/abs/2406.01371v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-06**|**Sound Event Bounding Boxes**|Janek Ebbers et.al.|[2406.04212v1](http://arxiv.org/abs/2406.04212v1)|
+|**2024-06-06**|**CDMamba: Remote Sensing Image Change Detection with Mamba**|Haotian Zhang et.al.|[2406.04207v1](http://arxiv.org/abs/2406.04207v1)|
 |**2024-06-05**|**Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types**|Pierluigi Cassotti et.al.|[2406.03452v2](http://arxiv.org/abs/2406.03452v2)|
 |**2024-05-30**|**Landslide mapping from Sentinel-2 imagery through change detection**|Tommaso Monopoli et.al.|[2405.20161v1](http://arxiv.org/abs/2405.20161v1)|
 |**2024-05-29**|**FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding**|Shuai Yuan et.al.|[2405.19055v2](http://arxiv.org/abs/2405.19055v2)|
@@ -72,6 +74,4 @@
 |**2024-05-23**|**A Behavior-Aware Approach for Deep Reinforcement Learning in Non-stationary Environments without Known Change Points**|Zihe Liu et.al.|[2405.14214v1](http://arxiv.org/abs/2405.14214v1)|
 |**2024-05-19**|**Online Action Representation using Change Detection and Symbolic Programming**|Vishnu S Nair et.al.|[2405.11511v1](http://arxiv.org/abs/2405.11511v1)|
 |**2024-05-16**|**Confidence Estimation in Unsupervised Deep Change Vector Analysis**|Sudipan Saha et.al.|[2405.09896v1](http://arxiv.org/abs/2405.09896v1)|
-|**2024-05-13**|**IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data**|Ziyang Zhang et.al.|[2405.07916v1](http://arxiv.org/abs/2405.07916v1)|
-|**2024-05-11**|**Syndrome-based Fusion Rules in Heterogeneous Distributed Quickest Change Detection**|Wen-Hsuan Li et.al.|[2405.06933v1](http://arxiv.org/abs/2405.06933v1)|
 
