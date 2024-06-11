@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-10**|**Hybrid Video Anomaly Detection for Anomalous Scenarios in Autonomous Driving**|Daniel Bogdoll et.al.|[2406.06423v1](http://arxiv.org/abs/2406.06423v1)|
+|**2024-06-10**|**UMAD: Unsupervised Mask-Level Anomaly Detection for Autonomous Driving**|Daniel Bogdoll et.al.|[2406.06370v1](http://arxiv.org/abs/2406.06370v1)|
+|**2024-06-10**|**fSEAD: a Composable FPGA-based Streaming Ensemble Anomaly Detection Library**|Binglei Lou et.al.|[2406.05999v1](http://arxiv.org/abs/2406.05999v1)|
+|**2024-06-08**|**A Novel Generative AI-Based Framework for Anomaly Detection in Multicast Messages in Smart Grid Communications**|Aydin Zaboli et.al.|[2406.05472v1](http://arxiv.org/abs/2406.05472v1)|
+|**2024-06-08**|**RAPID: Robust APT Detection and Investigation Using Context-Aware Deep Learning**|Yonatan Amaru et.al.|[2406.05362v1](http://arxiv.org/abs/2406.05362v1)|
 |**2024-06-07**|**GANetic Loss for Generative Adversarial Networks with a Focus on Medical Applications**|Shakhnaz Akhmedova et.al.|[2406.05023v1](http://arxiv.org/abs/2406.05023v1)|
 |**2024-06-07**|**Higher-order Structure Based Anomaly Detection on Attributed Networks**|Xu Yuan et.al.|[2406.04690v1](http://arxiv.org/abs/2406.04690v1)|
 |**2024-06-07**|**LogiCode: an LLM-Driven Framework for Logical Anomaly Detection**|Yiheng Zhang et.al.|[2406.04687v1](http://arxiv.org/abs/2406.04687v1)|
 |**2024-06-07**|**A Recover-then-Discriminate Framework for Robust Anomaly Detection**|Peng Xing et.al.|[2406.04608v1](http://arxiv.org/abs/2406.04608v1)|
 |**2024-06-07**|**Boosting Large-scale Parallel Training Efficiency with C4: A Communication-Driven Approach**|Jianbo Dong et.al.|[2406.04594v1](http://arxiv.org/abs/2406.04594v1)|
-|**2024-06-07**|**Attention Fusion Reverse Distillation for Multi-Lighting Image Anomaly Detection**|Yiheng Zhang et.al.|[2406.04573v1](http://arxiv.org/abs/2406.04573v1)|
-|**2024-06-06**|**Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models**|Ali Behrouz et.al.|[2406.04320v1](http://arxiv.org/abs/2406.04320v1)|
-|**2024-06-05**|**Advancing Anomaly Detection: Non-Semantic Financial Data Encoding with LLMs**|Alexander Bakumenko et.al.|[2406.03614v1](http://arxiv.org/abs/2406.03614v1)|
-|**2024-06-05**|**ADer: A Comprehensive Benchmark for Multi-class Visual Anomaly Detection**|Jiangning Zhang et.al.|[2406.03262v2](http://arxiv.org/abs/2406.03262v2)|
-|**2024-06-05**|**DA-Flow: Dual Attention Normalizing Flow for Skeleton-based Video Anomaly Detection**|Ruituo Wu et.al.|[2406.02976v1](http://arxiv.org/abs/2406.02976v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-09**|**SRC-Net: Bi-Temporal Spatial Relationship Concerned Network for Change Detection**|Hongjia Chen et.al.|[2406.05668v1](http://arxiv.org/abs/2406.05668v1)|
 |**2024-06-06**|**Sound Event Bounding Boxes**|Janek Ebbers et.al.|[2406.04212v1](http://arxiv.org/abs/2406.04212v1)|
 |**2024-06-06**|**CDMamba: Remote Sensing Image Change Detection with Mamba**|Haotian Zhang et.al.|[2406.04207v1](http://arxiv.org/abs/2406.04207v1)|
 |**2024-06-05**|**Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types**|Pierluigi Cassotti et.al.|[2406.03452v2](http://arxiv.org/abs/2406.03452v2)|
@@ -73,5 +74,4 @@
 |**2024-05-24**|**Post-selection inference for quantifying uncertainty in changes in variance**|Rachel Carrington et.al.|[2405.15670v1](http://arxiv.org/abs/2405.15670v1)|
 |**2024-05-23**|**A Behavior-Aware Approach for Deep Reinforcement Learning in Non-stationary Environments without Known Change Points**|Zihe Liu et.al.|[2405.14214v1](http://arxiv.org/abs/2405.14214v1)|
 |**2024-05-19**|**Online Action Representation using Change Detection and Symbolic Programming**|Vishnu S Nair et.al.|[2405.11511v1](http://arxiv.org/abs/2405.11511v1)|
-|**2024-05-16**|**Confidence Estimation in Unsupervised Deep Change Vector Analysis**|Sudipan Saha et.al.|[2405.09896v1](http://arxiv.org/abs/2405.09896v1)|
 
