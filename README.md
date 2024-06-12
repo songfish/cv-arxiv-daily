@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-11**|**GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection**|Hang Yao et.al.|[2406.07487v1](http://arxiv.org/abs/2406.07487v1)|
+|**2024-06-11**|**Anomaly Detection on Unstable Logs with GPT Models**|Fatemeh Hadadi et.al.|[2406.07467v1](http://arxiv.org/abs/2406.07467v1)|
+|**2024-06-11**|**Global-Regularized Neighborhood Regression for Efficient Zero-Shot Texture Anomaly Detection**|Haiming Yao et.al.|[2406.07333v1](http://arxiv.org/abs/2406.07333v1)|
+|**2024-06-11**|**Description and Discussion on DCASE 2024 Challenge Task 2: First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring**|Tomoya Nishida et.al.|[2406.07250v1](http://arxiv.org/abs/2406.07250v1)|
+|**2024-06-11**|**RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection**|Yuqi Cheng et.al.|[2406.07176v1](http://arxiv.org/abs/2406.07176v1)|
 |**2024-06-10**|**Hybrid Video Anomaly Detection for Anomalous Scenarios in Autonomous Driving**|Daniel Bogdoll et.al.|[2406.06423v1](http://arxiv.org/abs/2406.06423v1)|
 |**2024-06-10**|**UMAD: Unsupervised Mask-Level Anomaly Detection for Autonomous Driving**|Daniel Bogdoll et.al.|[2406.06370v1](http://arxiv.org/abs/2406.06370v1)|
 |**2024-06-10**|**fSEAD: a Composable FPGA-based Streaming Ensemble Anomaly Detection Library**|Binglei Lou et.al.|[2406.05999v1](http://arxiv.org/abs/2406.05999v1)|
 |**2024-06-08**|**A Novel Generative AI-Based Framework for Anomaly Detection in Multicast Messages in Smart Grid Communications**|Aydin Zaboli et.al.|[2406.05472v1](http://arxiv.org/abs/2406.05472v1)|
 |**2024-06-08**|**RAPID: Robust APT Detection and Investigation Using Context-Aware Deep Learning**|Yonatan Amaru et.al.|[2406.05362v1](http://arxiv.org/abs/2406.05362v1)|
-|**2024-06-07**|**GANetic Loss for Generative Adversarial Networks with a Focus on Medical Applications**|Shakhnaz Akhmedova et.al.|[2406.05023v1](http://arxiv.org/abs/2406.05023v1)|
-|**2024-06-07**|**Higher-order Structure Based Anomaly Detection on Attributed Networks**|Xu Yuan et.al.|[2406.04690v1](http://arxiv.org/abs/2406.04690v1)|
-|**2024-06-07**|**LogiCode: an LLM-Driven Framework for Logical Anomaly Detection**|Yiheng Zhang et.al.|[2406.04687v1](http://arxiv.org/abs/2406.04687v1)|
-|**2024-06-07**|**A Recover-then-Discriminate Framework for Robust Anomaly Detection**|Peng Xing et.al.|[2406.04608v1](http://arxiv.org/abs/2406.04608v1)|
-|**2024-06-07**|**Boosting Large-scale Parallel Training Efficiency with C4: A Communication-Driven Approach**|Jianbo Dong et.al.|[2406.04594v1](http://arxiv.org/abs/2406.04594v1)|
 
 ## change detection
 
