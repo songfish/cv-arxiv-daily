@@ -66,7 +66,7 @@
 |---|---|---|---|
 |**2024-06-14**|**Automated GIS-Based Framework for Detecting Crosswalk Changes from Bi-Temporal High-Resolution Aerial Images**|Richard Boadu Antwi et.al.|[2406.09731v1](http://arxiv.org/abs/2406.09731v1)|
 |**2024-06-12**|**SCDNet: Self-supervised Learning Feature-based Speaker Change Detection**|Yue Li et.al.|[2406.08393v1](http://arxiv.org/abs/2406.08393v1)|
-|**2024-06-12**|**A$^{2}$-MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Lixian Zhang et.al.|[2406.08079v2](http://arxiv.org/abs/2406.08079v2)|
+|**2024-06-12**|**A$^{2}$-MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Lixian Zhang et.al.|[2406.08079v3](http://arxiv.org/abs/2406.08079v3)|
 |**2024-06-12**|**Generalizable Disaster Damage Assessment via Change Detection with Vision Foundation Model**|Kyeongjin Ahn et.al.|[2406.08020v1](http://arxiv.org/abs/2406.08020v1)|
 |**2024-06-09**|**SRC-Net: Bi-Temporal Spatial Relationship Concerned Network for Change Detection**|Hongjia Chen et.al.|[2406.05668v1](http://arxiv.org/abs/2406.05668v1)|
 |**2024-06-06**|**Sound Event Bounding Boxes**|Janek Ebbers et.al.|[2406.04212v1](http://arxiv.org/abs/2406.04212v1)|
