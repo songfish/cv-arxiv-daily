@@ -49,21 +49,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-17**|**Prior Normality Prompt Transformer for Multi-class Industrial Image Anomaly Detection**|Haiming Yao et.al.|[2406.11507v1](http://arxiv.org/abs/2406.11507v1)|
+|**2024-06-17**|**VideoVista: A Versatile Benchmark for Video Understanding and Reasoning**|Yunxin Li et.al.|[2406.11303v1](http://arxiv.org/abs/2406.11303v1)|
+|**2024-06-16**|**Make Your Home Safe: Time-aware Unsupervised User Behavior Anomaly Detection in Smart Homes via Loss-guided Mask**|Xiao Jingyu et.al.|[2406.10928v1](http://arxiv.org/abs/2406.10928v1)|
+|**2024-06-15**|**Enhancing Anomaly Detection Generalization through Knowledge Exposure: The Dual Effects of Augmentation**|Mohammad Akhavan Anvari et.al.|[2406.10617v1](http://arxiv.org/abs/2406.10617v1)|
+|**2024-06-14**|**VANE-Bench: Video Anomaly Evaluation Benchmark for Conversational LMMs**|Rohit Bharadwaj et.al.|[2406.10326v1](http://arxiv.org/abs/2406.10326v1)|
 |**2024-06-14**|**Unraveling Anomalies in Time: Unsupervised Discovery and Isolation of Anomalous Behavior in Bio-regenerative Life Support System Telemetry**|Ferdinand Rewicki et.al.|[2406.09825v1](http://arxiv.org/abs/2406.09825v1)|
 |**2024-06-13**|**Weakly-supervised anomaly detection for multimodal data distributions**|Xu Tan et.al.|[2406.09147v1](http://arxiv.org/abs/2406.09147v1)|
 |**2024-06-13**|**Cross-Modal Learning for Anomaly Detection in Fused Magnesium Smelting Process: Methodology and Benchmark**|Gaochang Wu et.al.|[2406.09016v1](http://arxiv.org/abs/2406.09016v1)|
 |**2024-06-13**|**Few-Shot Anomaly Detection via Category-Agnostic Registration Learning**|Chaoqin Huang et.al.|[2406.08810v1](http://arxiv.org/abs/2406.08810v1)|
 |**2024-06-12**|**Large Language Model(LLM) assisted End-to-End Network Health Management based on Multi-Scale Semanticization**|Fengxiao Tang et.al.|[2406.08305v1](http://arxiv.org/abs/2406.08305v1)|
-|**2024-06-12**|**Multivariate Log-based Anomaly Detection for Distributed Database**|Lingzhe Zhang et.al.|[2406.07976v1](http://arxiv.org/abs/2406.07976v1)|
-|**2024-06-11**|**GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection**|Hang Yao et.al.|[2406.07487v1](http://arxiv.org/abs/2406.07487v1)|
-|**2024-06-11**|**Anomaly Detection on Unstable Logs with GPT Models**|Fatemeh Hadadi et.al.|[2406.07467v1](http://arxiv.org/abs/2406.07467v1)|
-|**2024-06-11**|**Global-Regularized Neighborhood Regression for Efficient Zero-Shot Texture Anomaly Detection**|Haiming Yao et.al.|[2406.07333v1](http://arxiv.org/abs/2406.07333v1)|
-|**2024-06-11**|**Description and Discussion on DCASE 2024 Challenge Task 2: First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring**|Tomoya Nishida et.al.|[2406.07250v1](http://arxiv.org/abs/2406.07250v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-17**|**Zero-Shot Scene Change Detection**|Kyusik Cho et.al.|[2406.11210v1](http://arxiv.org/abs/2406.11210v1)|
+|**2024-06-15**|**A Late-Stage Bitemporal Feature Fusion Network for Semantic Change Detection**|Chenyao Zhou et.al.|[2406.10678v1](http://arxiv.org/abs/2406.10678v1)|
 |**2024-06-14**|**Automated GIS-Based Framework for Detecting Crosswalk Changes from Bi-Temporal High-Resolution Aerial Images**|Richard Boadu Antwi et.al.|[2406.09731v1](http://arxiv.org/abs/2406.09731v1)|
 |**2024-06-12**|**SCDNet: Self-supervised Learning Feature-based Speaker Change Detection**|Yue Li et.al.|[2406.08393v1](http://arxiv.org/abs/2406.08393v1)|
 |**2024-06-12**|**A$^{2}$-MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Lixian Zhang et.al.|[2406.08079v3](http://arxiv.org/abs/2406.08079v3)|
@@ -72,6 +74,4 @@
 |**2024-06-06**|**Sound Event Bounding Boxes**|Janek Ebbers et.al.|[2406.04212v1](http://arxiv.org/abs/2406.04212v1)|
 |**2024-06-06**|**CDMamba: Remote Sensing Image Change Detection with Mamba**|Haotian Zhang et.al.|[2406.04207v1](http://arxiv.org/abs/2406.04207v1)|
 |**2024-06-05**|**Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types**|Pierluigi Cassotti et.al.|[2406.03452v3](http://arxiv.org/abs/2406.03452v3)|
-|**2024-05-30**|**Landslide mapping from Sentinel-2 imagery through change detection**|Tommaso Monopoli et.al.|[2405.20161v1](http://arxiv.org/abs/2405.20161v1)|
-|**2024-05-29**|**FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding**|Shuai Yuan et.al.|[2405.19055v3](http://arxiv.org/abs/2405.19055v3)|
 
