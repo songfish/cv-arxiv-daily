@@ -49,29 +49,29 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-20**|**Energy Mapping of Existing Building Stock in Cambridge using Energy Performance Certificates and Thermal Infrared Imagery**|Yinglong He et.al.|[2406.14520v1](http://arxiv.org/abs/2406.14520v1)|
+|**2024-06-20**|**ATAC-Net: Zoomed view works better for Anomaly Detection**|Shaurya Gupta et.al.|[2406.14398v1](http://arxiv.org/abs/2406.14398v1)|
+|**2024-06-20**|**aeon: a Python toolkit for learning from time series**|Matthew Middlehurst et.al.|[2406.14231v1](http://arxiv.org/abs/2406.14231v1)|
+|**2024-06-20**|**Image anomaly detection and prediction scheme based on SSA optimized ResNet50-BiGRU model**|Qianhui Wan et.al.|[2406.13987v1](http://arxiv.org/abs/2406.13987v1)|
 |**2024-06-18**|**Online-Adaptive Anomaly Detection for Defect Identification in Aircraft Assembly**|Siddhant Shete et.al.|[2406.12698v1](http://arxiv.org/abs/2406.12698v1)|
 |**2024-06-18**|**Tracking Real-time Anomalies in Cyber-Physical Systems Through Dynamic Behavioral Analysis**|Prashanth Krishnamurthy et.al.|[2406.12438v1](http://arxiv.org/abs/2406.12438v1)|
 |**2024-06-18**|**Self-Supervised Time-Series Anomaly Detection Using Learnable Data Augmentation**|Kukjin Choi et.al.|[2406.12260v1](http://arxiv.org/abs/2406.12260v1)|
 |**2024-06-18**|**Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM**|Huaxin Zhang et.al.|[2406.12235v1](http://arxiv.org/abs/2406.12235v1)|
-|**2024-06-15**|**Model Evaluation and Anomaly Detection in Temporal Complex Networks using Deep Learning Methods**|Alireza Rashnu et.al.|[2406.11901v1](http://arxiv.org/abs/2406.11901v1)|
 |**2024-06-17**|**Prior Normality Prompt Transformer for Multi-class Industrial Image Anomaly Detection**|Haiming Yao et.al.|[2406.11507v1](http://arxiv.org/abs/2406.11507v1)|
 |**2024-06-17**|**VideoVista: A Versatile Benchmark for Video Understanding and Reasoning**|Yunxin Li et.al.|[2406.11303v1](http://arxiv.org/abs/2406.11303v1)|
-|**2024-06-16**|**Make Your Home Safe: Time-aware Unsupervised User Behavior Anomaly Detection in Smart Homes via Loss-guided Mask**|Jingyu Xiao et.al.|[2406.10928v2](http://arxiv.org/abs/2406.10928v2)|
-|**2024-06-15**|**Enhancing Anomaly Detection Generalization through Knowledge Exposure: The Dual Effects of Augmentation**|Mohammad Akhavan Anvari et.al.|[2406.10617v1](http://arxiv.org/abs/2406.10617v1)|
-|**2024-06-14**|**VANE-Bench: Video Anomaly Evaluation Benchmark for Conversational LMMs**|Rohit Bharadwaj et.al.|[2406.10326v1](http://arxiv.org/abs/2406.10326v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-20**|**Definition generation for lexical semantic change detection**|Mariia Fedorova et.al.|[2406.14167v1](http://arxiv.org/abs/2406.14167v1)|
+|**2024-06-20**|**Efficient Transmission Scheme for LEO Satellite-Based NB-IoT: A Data-Driven Perspective**|Ayush Kumar Dwivedi et.al.|[2406.14107v1](http://arxiv.org/abs/2406.14107v1)|
+|**2024-06-19**|**DDLNet: Boosting Remote Sensing Change Detection with Dual-Domain Learning**|Xiaowen Ma et.al.|[2406.13606v1](http://arxiv.org/abs/2406.13606v1)|
+|**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424v1](http://arxiv.org/abs/2406.13424v1)|
 |**2024-06-18**|**ChangeViT: Unleashing Plain Vision Transformers for Change Detection**|Duowang Zhu et.al.|[2406.12847v1](http://arxiv.org/abs/2406.12847v1)|
 |**2024-06-18**|**Scintillation velocity and arc observations of FRB 20201124A**|Ziwei Wu et.al.|[2406.12218v1](http://arxiv.org/abs/2406.12218v1)|
 |**2024-06-17**|**Zero-Shot Scene Change Detection**|Kyusik Cho et.al.|[2406.11210v1](http://arxiv.org/abs/2406.11210v1)|
 |**2024-06-15**|**A Late-Stage Bitemporal Feature Fusion Network for Semantic Change Detection**|Chenyao Zhou et.al.|[2406.10678v1](http://arxiv.org/abs/2406.10678v1)|
 |**2024-06-14**|**Automated GIS-Based Framework for Detecting Crosswalk Changes from Bi-Temporal High-Resolution Aerial Images**|Richard Boadu Antwi et.al.|[2406.09731v1](http://arxiv.org/abs/2406.09731v1)|
 |**2024-06-12**|**SCDNet: Self-supervised Learning Feature-based Speaker Change Detection**|Yue Li et.al.|[2406.08393v1](http://arxiv.org/abs/2406.08393v1)|
-|**2024-06-12**|**A$^{2}$-MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Lixian Zhang et.al.|[2406.08079v3](http://arxiv.org/abs/2406.08079v3)|
-|**2024-06-12**|**Generalizable Disaster Damage Assessment via Change Detection with Vision Foundation Model**|Kyeongjin Ahn et.al.|[2406.08020v1](http://arxiv.org/abs/2406.08020v1)|
-|**2024-06-09**|**SRC-Net: Bi-Temporal Spatial Relationship Concerned Network for Change Detection**|Hongjia Chen et.al.|[2406.05668v1](http://arxiv.org/abs/2406.05668v1)|
-|**2024-06-06**|**Sound Event Bounding Boxes**|Janek Ebbers et.al.|[2406.04212v1](http://arxiv.org/abs/2406.04212v1)|
 
