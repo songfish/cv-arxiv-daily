@@ -1,4 +1,4 @@
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 
 ## super-resolution
 
@@ -52,7 +52,7 @@
 |**2024-06-20**|**Energy Mapping of Existing Building Stock in Cambridge using Energy Performance Certificates and Thermal Infrared Imagery**|Yinglong He et.al.|[2406.14520v1](http://arxiv.org/abs/2406.14520v1)|
 |**2024-06-20**|**ATAC-Net: Zoomed view works better for Anomaly Detection**|Shaurya Gupta et.al.|[2406.14398v1](http://arxiv.org/abs/2406.14398v1)|
 |**2024-06-20**|**aeon: a Python toolkit for learning from time series**|Matthew Middlehurst et.al.|[2406.14231v1](http://arxiv.org/abs/2406.14231v1)|
-|**2024-06-20**|**Image anomaly detection and prediction scheme based on SSA optimized ResNet50-BiGRU model**|Qianhui Wan et.al.|[2406.13987v1](http://arxiv.org/abs/2406.13987v1)|
+|**2024-06-20**|**Image anomaly detection and prediction scheme based on SSA optimized ResNet50-BiGRU model**|Qianhui Wan et.al.|[2406.13987v2](http://arxiv.org/abs/2406.13987v2)|
 |**2024-06-18**|**Online-Adaptive Anomaly Detection for Defect Identification in Aircraft Assembly**|Siddhant Shete et.al.|[2406.12698v1](http://arxiv.org/abs/2406.12698v1)|
 |**2024-06-18**|**Tracking Real-time Anomalies in Cyber-Physical Systems Through Dynamic Behavioral Analysis**|Prashanth Krishnamurthy et.al.|[2406.12438v1](http://arxiv.org/abs/2406.12438v1)|
 |**2024-06-18**|**Self-Supervised Time-Series Anomaly Detection Using Learnable Data Augmentation**|Kukjin Choi et.al.|[2406.12260v1](http://arxiv.org/abs/2406.12260v1)|
