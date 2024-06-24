@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-21**|**FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection**|Austin Coursey et.al.|[2406.15283v1](http://arxiv.org/abs/2406.15283v1)|
+|**2024-06-21**|**AI-based Anomaly Detection for Clinical-Grade Histopathological Diagnostics**|Jonas Dippel et.al.|[2406.14866v1](http://arxiv.org/abs/2406.14866v1)|
 |**2024-06-20**|**Energy Mapping of Existing Building Stock in Cambridge using Energy Performance Certificates and Thermal Infrared Imagery**|Yinglong He et.al.|[2406.14520v1](http://arxiv.org/abs/2406.14520v1)|
 |**2024-06-20**|**ATAC-Net: Zoomed view works better for Anomaly Detection**|Shaurya Gupta et.al.|[2406.14398v1](http://arxiv.org/abs/2406.14398v1)|
 |**2024-06-20**|**aeon: a Python toolkit for learning from time series**|Matthew Middlehurst et.al.|[2406.14231v1](http://arxiv.org/abs/2406.14231v1)|
@@ -57,13 +59,12 @@
 |**2024-06-18**|**Tracking Real-time Anomalies in Cyber-Physical Systems Through Dynamic Behavioral Analysis**|Prashanth Krishnamurthy et.al.|[2406.12438v1](http://arxiv.org/abs/2406.12438v1)|
 |**2024-06-18**|**Self-Supervised Time-Series Anomaly Detection Using Learnable Data Augmentation**|Kukjin Choi et.al.|[2406.12260v1](http://arxiv.org/abs/2406.12260v1)|
 |**2024-06-18**|**Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM**|Huaxin Zhang et.al.|[2406.12235v1](http://arxiv.org/abs/2406.12235v1)|
-|**2024-06-17**|**Prior Normality Prompt Transformer for Multi-class Industrial Image Anomaly Detection**|Haiming Yao et.al.|[2406.11507v1](http://arxiv.org/abs/2406.11507v1)|
-|**2024-06-17**|**VideoVista: A Versatile Benchmark for Video Understanding and Reasoning**|Yunxin Li et.al.|[2406.11303v1](http://arxiv.org/abs/2406.11303v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-21**|**Rethinking Remote Sensing Change Detection With A Mask View**|Xiaowen Ma et.al.|[2406.15320v1](http://arxiv.org/abs/2406.15320v1)|
 |**2024-06-20**|**Definition generation for lexical semantic change detection**|Mariia Fedorova et.al.|[2406.14167v1](http://arxiv.org/abs/2406.14167v1)|
 |**2024-06-20**|**Efficient Transmission Scheme for LEO Satellite-Based NB-IoT: A Data-Driven Perspective**|Ayush Kumar Dwivedi et.al.|[2406.14107v1](http://arxiv.org/abs/2406.14107v1)|
 |**2024-06-19**|**DDLNet: Boosting Remote Sensing Change Detection with Dual-Domain Learning**|Xiaowen Ma et.al.|[2406.13606v1](http://arxiv.org/abs/2406.13606v1)|
@@ -73,5 +74,4 @@
 |**2024-06-17**|**Zero-Shot Scene Change Detection**|Kyusik Cho et.al.|[2406.11210v1](http://arxiv.org/abs/2406.11210v1)|
 |**2024-06-15**|**A Late-Stage Bitemporal Feature Fusion Network for Semantic Change Detection**|Chenyao Zhou et.al.|[2406.10678v1](http://arxiv.org/abs/2406.10678v1)|
 |**2024-06-14**|**Automated GIS-Based Framework for Detecting Crosswalk Changes from Bi-Temporal High-Resolution Aerial Images**|Richard Boadu Antwi et.al.|[2406.09731v1](http://arxiv.org/abs/2406.09731v1)|
-|**2024-06-12**|**SCDNet: Self-supervised Learning Feature-based Speaker Change Detection**|Yue Li et.al.|[2406.08393v1](http://arxiv.org/abs/2406.08393v1)|
 
