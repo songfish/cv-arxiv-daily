@@ -49,29 +49,29 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-24**|**Deep Learning and Chaos: A combined Approach To Image Encryption and Decryption**|Bharath V Nair et.al.|[2406.16792v1](http://arxiv.org/abs/2406.16792v1)|
+|**2024-06-24**|**Anomaly Detection based on Markov Data: A Statistical Depth Approach**|Carlos Fernández et.al.|[2406.16759v1](http://arxiv.org/abs/2406.16759v1)|
+|**2024-06-24**|**Machine Learning with Real-time and Small Footprint Anomaly Detection System for In-Vehicle Gateway**|Yi Wang et.al.|[2406.16369v1](http://arxiv.org/abs/2406.16369v1)|
+|**2024-06-24**|**Anomaly Detection of Tabular Data Using LLMs**|Aodong Li et.al.|[2406.16308v1](http://arxiv.org/abs/2406.16308v1)|
+|**2024-06-23**|**Detecting Abnormal Operations in Concentrated Solar Power Plants from Irregular Sequences of Thermal Images**|Sukanya Patra et.al.|[2406.16077v1](http://arxiv.org/abs/2406.16077v1)|
+|**2024-06-22**|**DABL: Detecting Semantic Anomalies in Business Processes Using Large Language Models**|Wei Guan et.al.|[2406.15781v1](http://arxiv.org/abs/2406.15781v1)|
+|**2024-06-21**|**GenSQL: A Probabilistic Programming System for Querying Generative Models of Database Tables**|Mathieu Huot et.al.|[2406.15652v1](http://arxiv.org/abs/2406.15652v1)|
+|**2024-06-21**|**Root Cause Analysis of Anomalies in 5G RAN Using Graph Neural Network and Transformer**|Antor Hasan et.al.|[2406.15638v1](http://arxiv.org/abs/2406.15638v1)|
 |**2024-06-21**|**FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection**|Austin Coursey et.al.|[2406.15283v2](http://arxiv.org/abs/2406.15283v2)|
 |**2024-06-21**|**AI-based Anomaly Detection for Clinical-Grade Histopathological Diagnostics**|Jonas Dippel et.al.|[2406.14866v1](http://arxiv.org/abs/2406.14866v1)|
-|**2024-06-20**|**Energy Mapping of Existing Building Stock in Cambridge using Energy Performance Certificates and Thermal Infrared Imagery**|Yinglong He et.al.|[2406.14520v1](http://arxiv.org/abs/2406.14520v1)|
-|**2024-06-20**|**ATAC-Net: Zoomed view works better for Anomaly Detection**|Shaurya Gupta et.al.|[2406.14398v1](http://arxiv.org/abs/2406.14398v1)|
-|**2024-06-20**|**aeon: a Python toolkit for learning from time series**|Matthew Middlehurst et.al.|[2406.14231v1](http://arxiv.org/abs/2406.14231v1)|
-|**2024-06-20**|**Image anomaly detection and prediction scheme based on SSA optimized ResNet50-BiGRU model**|Qianhui Wan et.al.|[2406.13987v2](http://arxiv.org/abs/2406.13987v2)|
-|**2024-06-18**|**Online-Adaptive Anomaly Detection for Defect Identification in Aircraft Assembly**|Siddhant Shete et.al.|[2406.12698v1](http://arxiv.org/abs/2406.12698v1)|
-|**2024-06-18**|**Tracking Real-time Anomalies in Cyber-Physical Systems Through Dynamic Behavioral Analysis**|Prashanth Krishnamurthy et.al.|[2406.12438v1](http://arxiv.org/abs/2406.12438v1)|
-|**2024-06-18**|**Self-Supervised Time-Series Anomaly Detection Using Learnable Data Augmentation**|Kukjin Choi et.al.|[2406.12260v1](http://arxiv.org/abs/2406.12260v1)|
-|**2024-06-18**|**Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM**|Huaxin Zhang et.al.|[2406.12235v1](http://arxiv.org/abs/2406.12235v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-23**|**Distribution-Free Online Change Detection for Low-Rank Images**|Tingnan Gong et.al.|[2406.16136v1](http://arxiv.org/abs/2406.16136v1)|
+|**2024-06-23**|**UDHF2-Net: An Uncertainty-diffusion-model-based High-Frequency TransFormer Network for High-accuracy Interpretation of Remotely Sensed Imagery**|Pengfei Zhang et.al.|[2406.16129v1](http://arxiv.org/abs/2406.16129v1)|
+|**2024-06-22**|**Self Training and Ensembling Frequency Dependent Networks with Coarse Prediction Pooling and Sound Event Bounding Boxes**|Hyeonuk Nam et.al.|[2406.15725v1](http://arxiv.org/abs/2406.15725v1)|
+|**2024-06-22**|**Single-Temporal Supervised Learning for Universal Remote Sensing Change Detection**|Zhuo Zheng et.al.|[2406.15694v1](http://arxiv.org/abs/2406.15694v1)|
 |**2024-06-21**|**Rethinking Remote Sensing Change Detection With A Mask View**|Xiaowen Ma et.al.|[2406.15320v1](http://arxiv.org/abs/2406.15320v1)|
 |**2024-06-20**|**Definition generation for lexical semantic change detection**|Mariia Fedorova et.al.|[2406.14167v1](http://arxiv.org/abs/2406.14167v1)|
 |**2024-06-20**|**Efficient Transmission Scheme for LEO Satellite-Based NB-IoT: A Data-Driven Perspective**|Ayush Kumar Dwivedi et.al.|[2406.14107v1](http://arxiv.org/abs/2406.14107v1)|
 |**2024-06-19**|**DDLNet: Boosting Remote Sensing Change Detection with Dual-Domain Learning**|Xiaowen Ma et.al.|[2406.13606v1](http://arxiv.org/abs/2406.13606v1)|
 |**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424v1](http://arxiv.org/abs/2406.13424v1)|
 |**2024-06-18**|**ChangeViT: Unleashing Plain Vision Transformers for Change Detection**|Duowang Zhu et.al.|[2406.12847v1](http://arxiv.org/abs/2406.12847v1)|
-|**2024-06-18**|**Scintillation velocity and arc observations of FRB 20201124A**|Ziwei Wu et.al.|[2406.12218v1](http://arxiv.org/abs/2406.12218v1)|
-|**2024-06-17**|**Zero-Shot Scene Change Detection**|Kyusik Cho et.al.|[2406.11210v1](http://arxiv.org/abs/2406.11210v1)|
-|**2024-06-15**|**A Late-Stage Bitemporal Feature Fusion Network for Semantic Change Detection**|Chenyao Zhou et.al.|[2406.10678v1](http://arxiv.org/abs/2406.10678v1)|
-|**2024-06-14**|**Automated GIS-Based Framework for Detecting Crosswalk Changes from Bi-Temporal High-Resolution Aerial Images**|Richard Boadu Antwi et.al.|[2406.09731v1](http://arxiv.org/abs/2406.09731v1)|
 
