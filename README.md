@@ -1,4 +1,4 @@
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 
 ## super-resolution
 
@@ -36,7 +36,7 @@
 |---|---|---|---|
 |**2024-05-29**|**Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI**|Wei-Bang Jiang et.al.|[2405.18765v1](http://arxiv.org/abs/2405.18765v1)|
 |**2024-05-22**|**Detecting Gait Abnormalities in Foot-Floor Contacts During Walking Through FootstepInduced Structural Vibrations**|Yiwen Dong et.al.|[2405.13996v1](http://arxiv.org/abs/2405.13996v1)|
-|**2024-05-09**|**MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI**|Yan Zhuang et.al.|[2405.05944v1](http://arxiv.org/abs/2405.05944v1)|
+|**2024-05-09**|**MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI**|Yan Zhuang et.al.|[2405.05944v2](http://arxiv.org/abs/2405.05944v2)|
 |**2024-05-09**|**Artificial intelligence for abnormality detection in high volume neuroimaging: a systematic review and meta-analysis**|Siddharth Agarwal et.al.|[2405.05658v1](http://arxiv.org/abs/2405.05658v1)|
 |**2024-05-05**|**A self-supervised text-vision framework for automated brain abnormality detection**|David A. Wood et.al.|[2405.02782v2](http://arxiv.org/abs/2405.02782v2)|
 |**2024-04-06**|**A Deep Look Into -- Automated Lung X-Ray Abnormality Detection System**|Nagullas KS et.al.|[2404.04635v1](http://arxiv.org/abs/2404.04635v1)|
