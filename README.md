@@ -1,4 +1,4 @@
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 
 ## super-resolution
 
@@ -53,7 +53,7 @@
 |**2024-06-24**|**Robust Zero Trust Architecture: Joint Blockchain based Federated learning and Anomaly Detection based Framework**|Shiva Raj Pokhrel et.al.|[2406.17172v1](http://arxiv.org/abs/2406.17172v1)|
 |**2024-06-24**|**Integrating Generative AI with Network Digital Twins for Enhanced Network Operations**|Kassi Muhammad et.al.|[2406.17112v1](http://arxiv.org/abs/2406.17112v1)|
 |**2024-06-24**|**Deep Learning and Chaos: A combined Approach To Image Encryption and Decryption**|Bharath V Nair et.al.|[2406.16792v1](http://arxiv.org/abs/2406.16792v1)|
-|**2024-06-24**|**Anomaly Detection based on Markov Data: A Statistical Depth Approach**|Carlos Fernández et.al.|[2406.16759v1](http://arxiv.org/abs/2406.16759v1)|
+|**2024-06-24**|**Anomaly Detection based on Markov Data: A Statistical Depth Approach**|Carlos Fernández et.al.|[2406.16759v2](http://arxiv.org/abs/2406.16759v2)|
 |**2024-06-24**|**Machine Learning with Real-time and Small Footprint Anomaly Detection System for In-Vehicle Gateway**|Yi Wang et.al.|[2406.16369v1](http://arxiv.org/abs/2406.16369v1)|
 |**2024-06-24**|**Anomaly Detection of Tabular Data Using LLMs**|Aodong Li et.al.|[2406.16308v1](http://arxiv.org/abs/2406.16308v1)|
 |**2024-06-23**|**Detecting Abnormal Operations in Concentrated Solar Power Plants from Irregular Sequences of Thermal Images**|Sukanya Patra et.al.|[2406.16077v1](http://arxiv.org/abs/2406.16077v1)|
