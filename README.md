@@ -49,21 +49,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-06-28**|**Odd-One-Out: Anomaly Detection by Comparing with Neighbors**|Ankan Bhunia et.al.|[2406.20099v1](http://arxiv.org/abs/2406.20099v1)|
-|**2024-06-28**|**Self-Supervised Spatial-Temporal Normality Learning for Time Series Anomaly Detection**|Yutong Chen et.al.|[2406.19770v1](http://arxiv.org/abs/2406.19770v1)|
-|**2024-06-28**|**xSemAD: Explainable Semantic Anomaly Detection in Event Logs Using Sequence-to-Sequence Models**|Kiran Busch et.al.|[2406.19763v1](http://arxiv.org/abs/2406.19763v1)|
-|**2024-06-28**|**CHASE: A Causal Heterogeneous Graph based Framework for Root Cause Analysis in Multimodal Microservice Systems**|Ziming Zhao et.al.|[2406.19711v1](http://arxiv.org/abs/2406.19711v1)|
-|**2024-06-27**|**Looking 3D: Anomaly Detection with 2D-3D Alignment**|Ankan Bhunia et.al.|[2406.19393v1](http://arxiv.org/abs/2406.19393v1)|
-|**2024-06-27**|**Hack Me If You Can: Aggregating AutoEncoders for Countering Persistent Access Threats Within Highly Imbalanced Data**|Sidahmed Benabderrahmane et.al.|[2406.19220v1](http://arxiv.org/abs/2406.19220v1)|
-|**2024-06-27**|**QSketch: An Efficient Sketch for Weighted Cardinality Estimation in Streams**|Yiyan Qi et.al.|[2406.19143v1](http://arxiv.org/abs/2406.19143v1)|
-|**2024-06-27**|**CLIP3D-AD: Extending CLIP for 3D Few-Shot Anomaly Detection with Multi-View Images Generation**|Zuo Zuo et.al.|[2406.18941v1](http://arxiv.org/abs/2406.18941v1)|
-|**2024-06-27**|**MissionGNN: Hierarchical Multimodal GNN-based Weakly Supervised Video Anomaly Recognition with Mission-Specific Knowledge Graph Generation**|Sanggeon Yun et.al.|[2406.18815v1](http://arxiv.org/abs/2406.18815v1)|
-|**2024-06-26**|**Universal Anomaly Detection at the LHC: Transforming Optimal Classifiers and the DDD Method**|Sascha Caron et.al.|[2406.18469v1](http://arxiv.org/abs/2406.18469v1)|
+|**2024-07-02**|**Evaluating the Ability of LLMs to Solve Semantics-Aware Process Mining Tasks**|Adrian Rebmann et.al.|[2407.02310v1](http://arxiv.org/abs/2407.02310v1)|
+|**2024-07-02**|**Counterfactual Data Augmentation with Denoising Diffusion for Graph Anomaly Detection**|Chunjing Xiao et.al.|[2407.02143v1](http://arxiv.org/abs/2407.02143v1)|
+|**2024-07-02**|**HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection**|Yali Fu et.al.|[2407.02057v1](http://arxiv.org/abs/2407.02057v1)|
+|**2024-07-02**|**Enhancing Multi-Class Anomaly Detection via Diffusion Refinement with Dual Conditioning**|Jiawei Zhan et.al.|[2407.01905v1](http://arxiv.org/abs/2407.01905v1)|
+|**2024-07-02**|**LogEval: A Comprehensive Benchmark Suite for Large Language Models In Log Analysis**|Tianyu Cui et.al.|[2407.01896v1](http://arxiv.org/abs/2407.01896v1)|
+|**2024-07-01**|**ToCoAD: Two-Stage Contrastive Learning for Industrial Anomaly Detection**|Yun Liang et.al.|[2407.01312v1](http://arxiv.org/abs/2407.01312v1)|
+|**2024-06-30**|**Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models**|Sangwoong Yoon et.al.|[2407.00626v1](http://arxiv.org/abs/2407.00626v1)|
+|**2024-06-29**|**Infrared Computer Vision for Utility-Scale Photovoltaic Array Inspection**|David F. Ramirez et.al.|[2407.00544v1](http://arxiv.org/abs/2407.00544v1)|
+|**2024-06-29**|**Real-Time Energy Measurement for Non-Intrusive Well-Being Monitoring of Elderly People -- a Case Study**|Mateusz Brzozowski et.al.|[2407.00524v1](http://arxiv.org/abs/2407.00524v1)|
+|**2024-06-29**|**FANFOLD: Graph Normalizing Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection**|Rui Cao et.al.|[2407.00383v1](http://arxiv.org/abs/2407.00383v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-01**|**SpectralKAN: Kolmogorov-Arnold Network for Hyperspectral Images Change Detection**|Yanheng Wang et.al.|[2407.00949v1](http://arxiv.org/abs/2407.00949v1)|
+|**2024-06-30**|**SAFE: a SAR Feature Extractor based on self-supervised learning and masked Siamese ViTs**|Max Muzeau et.al.|[2407.00851v1](http://arxiv.org/abs/2407.00851v1)|
 |**2024-06-26**|**Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model**|Zhuo Zheng et.al.|[2406.17998v1](http://arxiv.org/abs/2406.17998v1)|
 |**2024-06-25**|**Continuous Urban Change Detection from Satellite Image Time Series with Temporal Feature Refinement and Multi-Task Integration**|Sebastian Hafner et.al.|[2406.17458v1](http://arxiv.org/abs/2406.17458v1)|
 |**2024-06-23**|**Distribution-Free Online Change Detection for Low-Rank Images**|Tingnan Gong et.al.|[2406.16136v1](http://arxiv.org/abs/2406.16136v1)|
@@ -72,6 +74,4 @@
 |**2024-06-22**|**Single-Temporal Supervised Learning for Universal Remote Sensing Change Detection**|Zhuo Zheng et.al.|[2406.15694v1](http://arxiv.org/abs/2406.15694v1)|
 |**2024-06-21**|**Rethinking Remote Sensing Change Detection With A Mask View**|Xiaowen Ma et.al.|[2406.15320v1](http://arxiv.org/abs/2406.15320v1)|
 |**2024-06-20**|**Definition generation for lexical semantic change detection**|Mariia Fedorova et.al.|[2406.14167v1](http://arxiv.org/abs/2406.14167v1)|
-|**2024-06-20**|**Efficient Transmission Scheme for LEO Satellite-Based NB-IoT: A Data-Driven Perspective**|Ayush Kumar Dwivedi et.al.|[2406.14107v1](http://arxiv.org/abs/2406.14107v1)|
-|**2024-06-19**|**DDLNet: Boosting Remote Sensing Change Detection with Dual-Domain Learning**|Xiaowen Ma et.al.|[2406.13606v1](http://arxiv.org/abs/2406.13606v1)|
 
