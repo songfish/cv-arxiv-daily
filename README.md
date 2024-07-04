@@ -49,21 +49,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-03**|**Anomaly-based Framework for Detecting Power Overloading Cyberattacks in Smart Grid AMI**|Abdelaziz Amara Korba et.al.|[2407.03264v1](http://arxiv.org/abs/2407.03264v1)|
+|**2024-07-03**|**Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization**|Hanxi Li et.al.|[2407.03130v1](http://arxiv.org/abs/2407.03130v1)|
+|**2024-07-03**|**Unified Anomaly Detection methods on Edge Device using Knowledge Distillation and Quantization**|Sushovan Jena et.al.|[2407.02968v1](http://arxiv.org/abs/2407.02968v1)|
+|**2024-07-03**|**Efficient IoT Devices Localization Through Wi-Fi CSI Feature Fusion and Anomaly Detection**|Yan Li et.al.|[2407.02919v1](http://arxiv.org/abs/2407.02919v1)|
+|**2024-07-03**|**Domain-independent detection of known anomalies**|Jonas Bühler et.al.|[2407.02910v1](http://arxiv.org/abs/2407.02910v1)|
+|**2024-07-03**|**Early-Stage Anomaly Detection: A Study of Model Performance on Complete vs. Partial Flows**|Adrian Pekar et.al.|[2407.02856v1](http://arxiv.org/abs/2407.02856v1)|
+|**2024-07-02**|**Navigating Connected Car Cybersecurity: Location Anomaly Detection with RAN Data**|Feng Wang et.al.|[2407.02698v1](http://arxiv.org/abs/2407.02698v1)|
 |**2024-07-02**|**Evaluating the Ability of LLMs to Solve Semantics-Aware Process Mining Tasks**|Adrian Rebmann et.al.|[2407.02310v1](http://arxiv.org/abs/2407.02310v1)|
 |**2024-07-02**|**Counterfactual Data Augmentation with Denoising Diffusion for Graph Anomaly Detection**|Chunjing Xiao et.al.|[2407.02143v1](http://arxiv.org/abs/2407.02143v1)|
 |**2024-07-02**|**HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection**|Yali Fu et.al.|[2407.02057v1](http://arxiv.org/abs/2407.02057v1)|
-|**2024-07-02**|**Enhancing Multi-Class Anomaly Detection via Diffusion Refinement with Dual Conditioning**|Jiawei Zhan et.al.|[2407.01905v1](http://arxiv.org/abs/2407.01905v1)|
-|**2024-07-02**|**LogEval: A Comprehensive Benchmark Suite for Large Language Models In Log Analysis**|Tianyu Cui et.al.|[2407.01896v1](http://arxiv.org/abs/2407.01896v1)|
-|**2024-07-01**|**ToCoAD: Two-Stage Contrastive Learning for Industrial Anomaly Detection**|Yun Liang et.al.|[2407.01312v1](http://arxiv.org/abs/2407.01312v1)|
-|**2024-06-30**|**Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models**|Sangwoong Yoon et.al.|[2407.00626v1](http://arxiv.org/abs/2407.00626v1)|
-|**2024-06-29**|**Infrared Computer Vision for Utility-Scale Photovoltaic Array Inspection**|David F. Ramirez et.al.|[2407.00544v1](http://arxiv.org/abs/2407.00544v1)|
-|**2024-06-29**|**Real-Time Energy Measurement for Non-Intrusive Well-Being Monitoring of Elderly People -- a Case Study**|Mateusz Brzozowski et.al.|[2407.00524v1](http://arxiv.org/abs/2407.00524v1)|
-|**2024-06-29**|**FANFOLD: Graph Normalizing Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection**|Rui Cao et.al.|[2407.00383v1](http://arxiv.org/abs/2407.00383v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-03**|**Relating CNN-Transformer Fusion Network for Change Detection**|Yuhao Gao et.al.|[2407.03178v1](http://arxiv.org/abs/2407.03178v1)|
+|**2024-07-03**|**Investigating the Contextualised Word Embedding Dimensions Responsible for Contextual and Temporal Semantic Changes**|Taichi Aida et.al.|[2407.02820v1](http://arxiv.org/abs/2407.02820v1)|
 |**2024-07-01**|**SpectralKAN: Kolmogorov-Arnold Network for Hyperspectral Images Change Detection**|Yanheng Wang et.al.|[2407.00949v1](http://arxiv.org/abs/2407.00949v1)|
 |**2024-06-30**|**SAFE: a SAR Feature Extractor based on self-supervised learning and masked Siamese ViTs**|Max Muzeau et.al.|[2407.00851v1](http://arxiv.org/abs/2407.00851v1)|
 |**2024-06-26**|**Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model**|Zhuo Zheng et.al.|[2406.17998v1](http://arxiv.org/abs/2406.17998v1)|
@@ -72,6 +74,4 @@
 |**2024-06-23**|**UDHF2-Net: An Uncertainty-diffusion-model-based High-Frequency TransFormer Network for High-accuracy Interpretation of Remotely Sensed Imagery**|Pengfei Zhang et.al.|[2406.16129v1](http://arxiv.org/abs/2406.16129v1)|
 |**2024-06-22**|**Self Training and Ensembling Frequency Dependent Networks with Coarse Prediction Pooling and Sound Event Bounding Boxes**|Hyeonuk Nam et.al.|[2406.15725v1](http://arxiv.org/abs/2406.15725v1)|
 |**2024-06-22**|**Single-Temporal Supervised Learning for Universal Remote Sensing Change Detection**|Zhuo Zheng et.al.|[2406.15694v1](http://arxiv.org/abs/2406.15694v1)|
-|**2024-06-21**|**Rethinking Remote Sensing Change Detection With A Mask View**|Xiaowen Ma et.al.|[2406.15320v1](http://arxiv.org/abs/2406.15320v1)|
-|**2024-06-20**|**Definition generation for lexical semantic change detection**|Mariia Fedorova et.al.|[2406.14167v1](http://arxiv.org/abs/2406.14167v1)|
 
