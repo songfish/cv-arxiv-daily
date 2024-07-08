@@ -1,10 +1,10 @@
-## Updated on 2024.07.07
+## Updated on 2024.07.08
 
 ## super-resolution
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-01-28**|**Towards Arbitrary-Scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework via Implicit Self-texture Enhancement**|Minghong Duan et.al.|[2401.15613v3](http://arxiv.org/abs/2401.15613v3)|
+|**2024-01-28**|**Towards Arbitrary-Scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework via Implicit Self-texture Enhancement**|Minghong Duan et.al.|[2401.15613v4](http://arxiv.org/abs/2401.15613v4)|
 |**2024-01-16**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v2](http://arxiv.org/abs/2401.08115v2)|
 |**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633v1](http://arxiv.org/abs/2401.05633v1)|
 |**2023-12-27**|**Learn From Orientation Prior for Radiograph Super-Resolution: Orientation Operator Transformer**|Yongsong Huang et.al.|[2312.16455v1](http://arxiv.org/abs/2312.16455v1)|
@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2024-07-03**|**Anomaly-based Framework for Detecting Power Overloading Cyberattacks in Smart Grid AMI**|Abdelaziz Amara Korba et.al.|[2407.03264v1](http://arxiv.org/abs/2407.03264v1)|
-|**2024-07-03**|**Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization**|Hanxi Li et.al.|[2407.03130v1](http://arxiv.org/abs/2407.03130v1)|
+|**2024-07-03**|**Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization**|Hanxi Li et.al.|[2407.03130v2](http://arxiv.org/abs/2407.03130v2)|
 |**2024-07-03**|**Unified Anomaly Detection methods on Edge Device using Knowledge Distillation and Quantization**|Sushovan Jena et.al.|[2407.02968v1](http://arxiv.org/abs/2407.02968v1)|
 |**2024-07-03**|**Efficient IoT Devices Localization Through Wi-Fi CSI Feature Fusion and Anomaly Detection**|Yan Li et.al.|[2407.02919v1](http://arxiv.org/abs/2407.02919v1)|
 |**2024-07-03**|**Domain-independent detection of known anomalies**|Jonas Bühler et.al.|[2407.02910v1](http://arxiv.org/abs/2407.02910v1)|
