@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-08**|**Bounding Boxes and Probabilistic Graphical Models: Video Anomaly Detection Simplified**|Mia Siemon et.al.|[2407.06000v1](http://arxiv.org/abs/2407.06000v1)|
+|**2024-07-08**|**Graph Anomaly Detection with Noisy Labels by Reinforcement Learning**|Zhu Wang et.al.|[2407.05934v1](http://arxiv.org/abs/2407.05934v1)|
+|**2024-07-08**|**Deep Learning-based Anomaly Detection and Log Analysis for Computer Networks**|Shuzhan Wang et.al.|[2407.05639v1](http://arxiv.org/abs/2407.05639v1)|
+|**2024-07-07**|**CAV-AD: A Robust Framework for Detection of Anomalous Data and Malicious Sensors in CAV Networks**|Md Sazedur Rahman et.al.|[2407.05461v1](http://arxiv.org/abs/2407.05461v1)|
+|**2024-07-05**|**SPINEX: Similarity-based Predictions with Explainable Neighbors Exploration for Anomaly and Outlier Detection**|MZ Naser et.al.|[2407.04760v1](http://arxiv.org/abs/2407.04760v1)|
 |**2024-07-05**|**Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection**|YeongHyeon Park et.al.|[2407.04597v1](http://arxiv.org/abs/2407.04597v1)|
 |**2024-07-05**|**Machine Learning for Complex Systems with Abnormal Pattern by Exception Maximization Outlier Detection Method**|Zhikun Zhang et.al.|[2407.04248v1](http://arxiv.org/abs/2407.04248v1)|
 |**2024-07-04**|**An Autoencoder Architecture for L-band Passive Microwave Retrieval of Landscape Freeze-Thaw Cycle**|Divya Kumawat et.al.|[2407.04119v1](http://arxiv.org/abs/2407.04119v1)|
 |**2024-07-04**|**Looking for Tiny Defects via Forward-Backward Feature Transfer**|Alex Costanzino et.al.|[2407.04092v2](http://arxiv.org/abs/2407.04092v2)|
 |**2024-07-04**|**Support Vector Based Anomaly Detection in Federated Learning**|Massimo Frasson et.al.|[2407.03920v1](http://arxiv.org/abs/2407.03920v1)|
-|**2024-07-04**|**Seamless Monitoring of Stress Levels Leveraging a Universal Model for Time Sequences**|Davide Gabrielli et.al.|[2407.03821v1](http://arxiv.org/abs/2407.03821v1)|
-|**2024-07-04**|**SOWA: Adapting Hierarchical Frozen Window Self-Attention to Visual-Language Models for Better Anomaly Detection**|Zongxiang Hu et.al.|[2407.03634v1](http://arxiv.org/abs/2407.03634v1)|
-|**2024-07-03**|**Anomaly-based Framework for Detecting Power Overloading Cyberattacks in Smart Grid AMI**|Abdelaziz Amara Korba et.al.|[2407.03264v1](http://arxiv.org/abs/2407.03264v1)|
-|**2024-07-03**|**Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization**|Hanxi Li et.al.|[2407.03130v2](http://arxiv.org/abs/2407.03130v2)|
-|**2024-07-03**|**Unified Anomaly Detection methods on Edge Device using Knowledge Distillation and Quantization**|Sushovan Jena et.al.|[2407.02968v1](http://arxiv.org/abs/2407.02968v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-06**|**Co-Scale Cross-Attentional Transformer for Rearrangement Target Detection**|Haruka Matsuo et.al.|[2407.05063v1](http://arxiv.org/abs/2407.05063v1)|
 |**2024-07-05**|**TokenVerse: Unifying Speech and NLP Tasks via Transducer-based ASR**|Shashi Kumar et.al.|[2407.04444v1](http://arxiv.org/abs/2407.04444v1)|
 |**2024-07-04**|**MineNetCD: A Benchmark for Global Mining Change Detection on Remote Sensing Imagery**|Weikang Yu et.al.|[2407.03971v1](http://arxiv.org/abs/2407.03971v1)|
 |**2024-07-04**|**M^3:Manipulation Mask Manufacturer for Arbitrary-Scale Super-Resolution Mask**|Xinyu Yang et.al.|[2407.03695v1](http://arxiv.org/abs/2407.03695v1)|
@@ -73,5 +74,4 @@
 |**2024-06-30**|**SAFE: a SAR Feature Extractor based on self-supervised learning and masked Siamese ViTs**|Max Muzeau et.al.|[2407.00851v1](http://arxiv.org/abs/2407.00851v1)|
 |**2024-06-26**|**Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model**|Zhuo Zheng et.al.|[2406.17998v1](http://arxiv.org/abs/2406.17998v1)|
 |**2024-06-25**|**Continuous Urban Change Detection from Satellite Image Time Series with Temporal Feature Refinement and Multi-Task Integration**|Sebastian Hafner et.al.|[2406.17458v1](http://arxiv.org/abs/2406.17458v1)|
-|**2024-06-23**|**Distribution-Free Online Change Detection for Low-Rank Images**|Tingnan Gong et.al.|[2406.16136v1](http://arxiv.org/abs/2406.16136v1)|
 
