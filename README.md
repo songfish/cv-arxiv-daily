@@ -52,7 +52,7 @@
 |**2024-07-05**|**Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection**|YeongHyeon Park et.al.|[2407.04597v1](http://arxiv.org/abs/2407.04597v1)|
 |**2024-07-05**|**Machine Learning for Complex Systems with Abnormal Pattern by Exception Maximization Outlier Detection Method**|Zhikun Zhang et.al.|[2407.04248v1](http://arxiv.org/abs/2407.04248v1)|
 |**2024-07-04**|**An Autoencoder Architecture for L-band Passive Microwave Retrieval of Landscape Freeze-Thaw Cycle**|Divya Kumawat et.al.|[2407.04119v1](http://arxiv.org/abs/2407.04119v1)|
-|**2024-07-04**|**Looking for Tiny Defects via Forward-Backward Feature Transfer**|Alex Costanzino et.al.|[2407.04092v1](http://arxiv.org/abs/2407.04092v1)|
+|**2024-07-04**|**Looking for Tiny Defects via Forward-Backward Feature Transfer**|Alex Costanzino et.al.|[2407.04092v2](http://arxiv.org/abs/2407.04092v2)|
 |**2024-07-04**|**Support Vector Based Anomaly Detection in Federated Learning**|Massimo Frasson et.al.|[2407.03920v1](http://arxiv.org/abs/2407.03920v1)|
 |**2024-07-04**|**Seamless Monitoring of Stress Levels Leveraging a Universal Model for Time Sequences**|Davide Gabrielli et.al.|[2407.03821v1](http://arxiv.org/abs/2407.03821v1)|
 |**2024-07-04**|**SOWA: Adapting Hierarchical Frozen Window Self-Attention to Visual-Language Models for Better Anomaly Detection**|Zongxiang Hu et.al.|[2407.03634v1](http://arxiv.org/abs/2407.03634v1)|
