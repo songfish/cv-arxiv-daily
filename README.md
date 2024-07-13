@@ -1,4 +1,4 @@
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 
 ## super-resolution
 
@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-11**|**Real-Time Anomaly Detection and Reactive Planning with Large Language Models**|Rohan Sinha et.al.|[2407.08735v1](http://arxiv.org/abs/2407.08735v1)|
+|**2024-07-10**|**Estimation and Control of Motor Core Temperature with Online Learning of Thermal Model Parameters: Application to Musculoskeletal Humanoids**|Kento Kawaharazuka et.al.|[2407.08055v1](http://arxiv.org/abs/2407.08055v1)|
+|**2024-07-10**|**Unsupervised Beyond-Standard-Model Event Discovery at the LHC with a Novel Quantum Autoencoder**|Callum Duffy et.al.|[2407.07961v1](http://arxiv.org/abs/2407.07961v1)|
 |**2024-07-10**|**GothX: a generator of customizable, legitimate and malicious IoT network traffic**|Manuel Poisson et.al.|[2407.07456v1](http://arxiv.org/abs/2407.07456v1)|
 |**2024-07-10**|**Federated PCA on Grassmann Manifold for IoT Anomaly Detection**|Tung-Anh Nguyen et.al.|[2407.07421v1](http://arxiv.org/abs/2407.07421v1)|
 |**2024-07-09**|**Integrating Ontology Design with the CRISP-DM in the context of Cyber-Physical Systems Maintenance**|Milapji Singh Gill et.al.|[2407.06930v1](http://arxiv.org/abs/2407.06930v1)|
@@ -56,14 +59,12 @@
 |**2024-07-09**|**PSPU: Enhanced Positive and Unlabeled Learning by Leveraging Pseudo Supervision**|Chengjie Wang et.al.|[2407.06698v1](http://arxiv.org/abs/2407.06698v1)|
 |**2024-07-09**|**Ensembled Cold-Diffusion Restorations for Unsupervised Anomaly Detection**|Sergio Naval Marimont et.al.|[2407.06635v1](http://arxiv.org/abs/2407.06635v1)|
 |**2024-07-09**|**Comparison of Optimizers for Fault Isolation and Diagnostics of Control Rod Drives**|Ark Ifeanyi et.al.|[2407.06557v1](http://arxiv.org/abs/2407.06557v1)|
-|**2024-07-09**|**F2PAD: A General Optimization Framework for Feature-Level to Pixel-Level Anomaly Detection**|Chengyu Tao et.al.|[2407.06519v1](http://arxiv.org/abs/2407.06519v1)|
-|**2024-07-08**|**Non-Robust Features are Not Always Useful in One-Class Classification**|Matthew Lau et.al.|[2407.06372v1](http://arxiv.org/abs/2407.06372v1)|
-|**2024-07-08**|**Bounding Boxes and Probabilistic Graphical Models: Video Anomaly Detection Simplified**|Mia Siemon et.al.|[2407.06000v1](http://arxiv.org/abs/2407.06000v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-11**|**Paving the way toward foundation models for irregular and unaligned Satellite Image Time Series**|Iris Dumeur et.al.|[2407.08448v1](http://arxiv.org/abs/2407.08448v1)|
 |**2024-07-10**|**Satellite Image Time Series Semantic Change Detection: Novel Architecture and Analysis of Domain Shift**|Elliot Vincent et.al.|[2407.07616v1](http://arxiv.org/abs/2407.07616v1)|
 |**2024-07-08**|**A Mamba-based Siamese Network for Remote Sensing Change Detection**|Jay N. Paranjape et.al.|[2407.06839v1](http://arxiv.org/abs/2407.06839v1)|
 |**2024-07-06**|**Co-Scale Cross-Attentional Transformer for Rearrangement Target Detection**|Haruka Matsuo et.al.|[2407.05063v1](http://arxiv.org/abs/2407.05063v1)|
@@ -73,5 +74,4 @@
 |**2024-07-03**|**Relating CNN-Transformer Fusion Network for Change Detection**|Yuhao Gao et.al.|[2407.03178v1](http://arxiv.org/abs/2407.03178v1)|
 |**2024-07-03**|**Investigating the Contextualised Word Embedding Dimensions Responsible for Contextual and Temporal Semantic Changes**|Taichi Aida et.al.|[2407.02820v1](http://arxiv.org/abs/2407.02820v1)|
 |**2024-07-01**|**SpectralKAN: Kolmogorov-Arnold Network for Hyperspectral Images Change Detection**|Yanheng Wang et.al.|[2407.00949v1](http://arxiv.org/abs/2407.00949v1)|
-|**2024-06-30**|**SAFE: a SAR Feature Extractor based on self-supervised learning and masked Siamese ViTs**|Max Muzeau et.al.|[2407.00851v1](http://arxiv.org/abs/2407.00851v1)|
 
