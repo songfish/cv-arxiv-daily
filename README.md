@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-15**|**R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection**|Zheyuan Zhou et.al.|[2407.10862v1](http://arxiv.org/abs/2407.10862v1)|
+|**2024-07-15**|**An Autonomous Drone Swarm for Detecting and Tracking Anomalies among Dense Vegetation**|Rakesh John Amala Arokia Nathan et.al.|[2407.10754v1](http://arxiv.org/abs/2407.10754v1)|
+|**2024-07-15**|**Omni-Dimensional Frequency Learner for General Time Series Analysis**|Xianing Chen. Hanting Chen et.al.|[2407.10419v1](http://arxiv.org/abs/2407.10419v1)|
+|**2024-07-14**|**Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models**|Yuchen Yang et.al.|[2407.10299v1](http://arxiv.org/abs/2407.10299v1)|
+|**2024-07-14**|**Harnessing Feature Clustering For Enhanced Anomaly Detection With Variational Autoencoder And Dynamic Threshold**|Tolulope Ale et.al.|[2407.10042v1](http://arxiv.org/abs/2407.10042v1)|
+|**2024-07-12**|**BoBa: Boosting Backdoor Detection through Data Distribution Inference in Federated Learning**|Ning Wang et.al.|[2407.09658v1](http://arxiv.org/abs/2407.09658v1)|
+|**2024-07-12**|**Unsupervised Anomaly Detection Using Diffusion Trend Analysis**|Eunwoo Kim et.al.|[2407.09578v1](http://arxiv.org/abs/2407.09578v1)|
 |**2024-07-12**|**A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization**|Qiyu Chen et.al.|[2407.09359v1](http://arxiv.org/abs/2407.09359v1)|
 |**2024-07-12**|**Challenges of Anomaly Detection in the Object-Centric Setting: Dimensions and the Role of Domain Knowledge**|Alessandro Berti et.al.|[2407.09023v1](http://arxiv.org/abs/2407.09023v1)|
 |**2024-07-11**|**Deep Learning for Network Anomaly Detection under Data Contamination: Evaluating Robustness and Mitigating Performance Degradation**|D'Jeff K. Nkashama et.al.|[2407.08838v1](http://arxiv.org/abs/2407.08838v1)|
-|**2024-07-11**|**Real-Time Anomaly Detection and Reactive Planning with Large Language Models**|Rohan Sinha et.al.|[2407.08735v1](http://arxiv.org/abs/2407.08735v1)|
-|**2024-07-10**|**Estimation and Control of Motor Core Temperature with Online Learning of Thermal Model Parameters: Application to Musculoskeletal Humanoids**|Kento Kawaharazuka et.al.|[2407.08055v1](http://arxiv.org/abs/2407.08055v1)|
-|**2024-07-10**|**Unsupervised Beyond-Standard-Model Event Discovery at the LHC with a Novel Quantum Autoencoder**|Callum Duffy et.al.|[2407.07961v1](http://arxiv.org/abs/2407.07961v1)|
-|**2024-07-10**|**GothX: a generator of customizable, legitimate and malicious IoT network traffic**|Manuel Poisson et.al.|[2407.07456v1](http://arxiv.org/abs/2407.07456v1)|
-|**2024-07-10**|**Federated PCA on Grassmann Manifold for IoT Anomaly Detection**|Tung-Anh Nguyen et.al.|[2407.07421v1](http://arxiv.org/abs/2407.07421v1)|
-|**2024-07-09**|**Integrating Ontology Design with the CRISP-DM in the context of Cyber-Physical Systems Maintenance**|Milapji Singh Gill et.al.|[2407.06930v1](http://arxiv.org/abs/2407.06930v1)|
-|**2024-07-09**|**TeVAE: A Variational Autoencoder Approach for Discrete Online Anomaly Detection in Variable-state Multivariate Time-series Data**|Lucas Correia et.al.|[2407.06849v1](http://arxiv.org/abs/2407.06849v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-13**|**SeFi-CD: A Semantic First Change Detection Paradigm That Can Detect Any Change You Want**|Ling Zhao et.al.|[2407.09874v1](http://arxiv.org/abs/2407.09874v1)|
 |**2024-07-12**|**Open-Canopy: A Country-Scale Benchmark for Canopy Height Estimation at Very High Resolution**|Fajwel Fogel et.al.|[2407.09392v1](http://arxiv.org/abs/2407.09392v1)|
 |**2024-07-11**|**Paving the way toward foundation models for irregular and unaligned Satellite Image Time Series**|Iris Dumeur et.al.|[2407.08448v1](http://arxiv.org/abs/2407.08448v1)|
 |**2024-07-10**|**Satellite Image Time Series Semantic Change Detection: Novel Architecture and Analysis of Domain Shift**|Elliot Vincent et.al.|[2407.07616v1](http://arxiv.org/abs/2407.07616v1)|
@@ -73,5 +74,4 @@
 |**2024-07-04**|**MineNetCD: A Benchmark for Global Mining Change Detection on Remote Sensing Imagery**|Weikang Yu et.al.|[2407.03971v1](http://arxiv.org/abs/2407.03971v1)|
 |**2024-07-04**|**M^3:Manipulation Mask Manufacturer for Arbitrary-Scale Super-Resolution Mask**|Xinyu Yang et.al.|[2407.03695v1](http://arxiv.org/abs/2407.03695v1)|
 |**2024-07-03**|**Relating CNN-Transformer Fusion Network for Change Detection**|Yuhao Gao et.al.|[2407.03178v1](http://arxiv.org/abs/2407.03178v1)|
-|**2024-07-03**|**Investigating the Contextualised Word Embedding Dimensions Responsible for Contextual and Temporal Semantic Changes**|Taichi Aida et.al.|[2407.02820v1](http://arxiv.org/abs/2407.02820v1)|
 
