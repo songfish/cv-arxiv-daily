@@ -1,4 +1,4 @@
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 
 ## super-resolution
 
@@ -64,7 +64,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-07-16**|**UP-Diff: Latent Diffusion Model for Remote Sensing Urban Prediction**|Zeyu Wang et.al.|[2407.11578v1](http://arxiv.org/abs/2407.11578v1)|
+|**2024-07-16**|**UP-Diff: Latent Diffusion Model for Remote Sensing Urban Prediction**|Zeyu Wang et.al.|[2407.11578v2](http://arxiv.org/abs/2407.11578v2)|
 |**2024-07-15**|**Robust Score-Based Quickest Change Detection**|Sean Moushegian et.al.|[2407.11094v1](http://arxiv.org/abs/2407.11094v1)|
 |**2024-07-13**|**SeFi-CD: A Semantic First Change Detection Paradigm That Can Detect Any Change You Want**|Ling Zhao et.al.|[2407.09874v1](http://arxiv.org/abs/2407.09874v1)|
 |**2024-07-12**|**Open-Canopy: A Country-Scale Benchmark for Canopy Height Estimation at Very High Resolution**|Fajwel Fogel et.al.|[2407.09392v1](http://arxiv.org/abs/2407.09392v1)|
