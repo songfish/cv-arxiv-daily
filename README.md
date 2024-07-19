@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-18**|**Motif-Consistent Counterfactuals with Adversarial Refinement for Graph-Level Anomaly Detection**|Chunjing Xiao et.al.|[2407.13251v1](http://arxiv.org/abs/2407.13251v1)|
+|**2024-07-17**|**INTELLECT: Adapting Cyber Threat Detection to Heterogeneous Computing Environments**|Simone Magnani et.al.|[2407.13043v1](http://arxiv.org/abs/2407.13043v1)|
 |**2024-07-17**|**In-Situ Infrared Camera Monitoring for Defect and Anomaly Detection in Laser Powder Bed Fusion: Calibration, Data Mapping, and Feature Extraction**|Shawn Hinnebusch et.al.|[2407.12682v1](http://arxiv.org/abs/2407.12682v1)|
 |**2024-07-17**|**SigDLA: A Deep Learning Accelerator Extension for Signal Processing**|Fangfa Fu et.al.|[2407.12565v1](http://arxiv.org/abs/2407.12565v1)|
 |**2024-07-17**|**Leveraging the Mahalanobis Distance to enhance Unsupervised Brain MRI Anomaly Detection**|Finn Behrendt et.al.|[2407.12474v1](http://arxiv.org/abs/2407.12474v1)|
@@ -57,13 +59,12 @@
 |**2024-07-16**|**Agglomerative Clustering of Simulation Output Distributions Using Regularized Wasserstein Distance**|Mohammadmahdi Ghasemloo et.al.|[2407.12100v1](http://arxiv.org/abs/2407.12100v1)|
 |**2024-07-16**|**Learning Multi-view Anomaly Detection**|Haoyang He et.al.|[2407.11935v1](http://arxiv.org/abs/2407.11935v1)|
 |**2024-07-16**|**Variance Norms for Kernelized Anomaly Detection**|Thomas Cass et.al.|[2407.11873v1](http://arxiv.org/abs/2407.11873v1)|
-|**2024-07-16**|**An AI System for Continuous Knee Osteoarthritis Severity Grading Using Self-Supervised Anomaly Detection with Limited Data**|Niamh Belton et.al.|[2407.11500v1](http://arxiv.org/abs/2407.11500v1)|
-|**2024-07-16**|**Detection of Global Anomalies on Distributed IoT Edges with Device-to-Device Communication**|Hideya Ochiai et.al.|[2407.11308v1](http://arxiv.org/abs/2407.11308v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-18**|**Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection**|Jiangwei Xie et.al.|[2407.13151v1](http://arxiv.org/abs/2407.13151v1)|
 |**2024-07-16**|**UP-Diff: Latent Diffusion Model for Remote Sensing Urban Prediction**|Zeyu Wang et.al.|[2407.11578v2](http://arxiv.org/abs/2407.11578v2)|
 |**2024-07-15**|**Robust Score-Based Quickest Change Detection**|Sean Moushegian et.al.|[2407.11094v1](http://arxiv.org/abs/2407.11094v1)|
 |**2024-07-13**|**SeFi-CD: A Semantic First Change Detection Paradigm That Can Detect Any Change You Want**|Ling Zhao et.al.|[2407.09874v1](http://arxiv.org/abs/2407.09874v1)|
@@ -73,5 +74,4 @@
 |**2024-07-08**|**A Mamba-based Siamese Network for Remote Sensing Change Detection**|Jay N. Paranjape et.al.|[2407.06839v1](http://arxiv.org/abs/2407.06839v1)|
 |**2024-07-06**|**Co-Scale Cross-Attentional Transformer for Rearrangement Target Detection**|Haruka Matsuo et.al.|[2407.05063v1](http://arxiv.org/abs/2407.05063v1)|
 |**2024-07-05**|**TokenVerse: Unifying Speech and NLP Tasks via Transducer-based ASR**|Shashi Kumar et.al.|[2407.04444v1](http://arxiv.org/abs/2407.04444v1)|
-|**2024-07-04**|**MineNetCD: A Benchmark for Global Mining Change Detection on Remote Sensing Imagery**|Weikang Yu et.al.|[2407.03971v1](http://arxiv.org/abs/2407.03971v1)|
 
