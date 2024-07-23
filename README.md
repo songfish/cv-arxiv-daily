@@ -51,7 +51,7 @@
 |---|---|---|---|
 |**2024-07-19**|**Evaluation of Provenance Serialisations for Astronomical Provenance**|Michael A. C. Johnson et.al.|[2407.14290v1](http://arxiv.org/abs/2407.14290v1)|
 |**2024-07-18**|**Motif-Consistent Counterfactuals with Adversarial Refinement for Graph-Level Anomaly Detection**|Chunjing Xiao et.al.|[2407.13251v1](http://arxiv.org/abs/2407.13251v1)|
-|**2024-07-17**|**INTELLECT: Adapting Cyber Threat Detection to Heterogeneous Computing Environments**|Simone Magnani et.al.|[2407.13043v1](http://arxiv.org/abs/2407.13043v1)|
+|**2024-07-17**|**INTELLECT: Adapting Cyber Threat Detection to Heterogeneous Computing Environments**|Simone Magnani et.al.|[2407.13043v2](http://arxiv.org/abs/2407.13043v2)|
 |**2024-07-17**|**In-Situ Infrared Camera Monitoring for Defect and Anomaly Detection in Laser Powder Bed Fusion: Calibration, Data Mapping, and Feature Extraction**|Shawn Hinnebusch et.al.|[2407.12682v1](http://arxiv.org/abs/2407.12682v1)|
 |**2024-07-17**|**SigDLA: A Deep Learning Accelerator Extension for Signal Processing**|Fangfa Fu et.al.|[2407.12565v1](http://arxiv.org/abs/2407.12565v1)|
 |**2024-07-17**|**Leveraging the Mahalanobis Distance to enhance Unsupervised Brain MRI Anomaly Detection**|Finn Behrendt et.al.|[2407.12474v1](http://arxiv.org/abs/2407.12474v1)|
