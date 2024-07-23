@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-22**|**AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection**|Yunkang Cao et.al.|[2407.15795v1](http://arxiv.org/abs/2407.15795v1)|
+|**2024-07-22**|**Towards Open-World Object-based Anomaly Detection via Self-Supervised Outlier Synthesis**|Brian K. S. Isaac-Medina et.al.|[2407.15763v1](http://arxiv.org/abs/2407.15763v1)|
+|**2024-07-22**|**Semi-Supervised Learning for Anomaly Detection in Blockchain-based Supply Chains**|Do Hai Son et.al.|[2407.15603v1](http://arxiv.org/abs/2407.15603v1)|
+|**2024-07-22**|**Bidirectional skip-frame prediction for video anomaly detection with intra-domain disparity-driven attention**|Jiahao Lyu et.al.|[2407.15424v1](http://arxiv.org/abs/2407.15424v1)|
+|**2024-07-21**|**Diffusion Models for Unsupervised Anomaly Detection in Fetal Brain Ultrasound**|Hanna Mykula et.al.|[2407.15119v1](http://arxiv.org/abs/2407.15119v1)|
+|**2024-07-20**|**A Two-Phase Visualization System for Continuous Human-AI Collaboration in Sequelae Analysis and Modeling**|Yang Ouyang et.al.|[2407.14769v1](http://arxiv.org/abs/2407.14769v1)|
 |**2024-07-19**|**Evaluation of Provenance Serialisations for Astronomical Provenance**|Michael A. C. Johnson et.al.|[2407.14290v1](http://arxiv.org/abs/2407.14290v1)|
 |**2024-07-18**|**Motif-Consistent Counterfactuals with Adversarial Refinement for Graph-Level Anomaly Detection**|Chunjing Xiao et.al.|[2407.13251v1](http://arxiv.org/abs/2407.13251v1)|
 |**2024-07-17**|**INTELLECT: Adapting Cyber Threat Detection to Heterogeneous Computing Environments**|Simone Magnani et.al.|[2407.13043v2](http://arxiv.org/abs/2407.13043v2)|
 |**2024-07-17**|**In-Situ Infrared Camera Monitoring for Defect and Anomaly Detection in Laser Powder Bed Fusion: Calibration, Data Mapping, and Feature Extraction**|Shawn Hinnebusch et.al.|[2407.12682v1](http://arxiv.org/abs/2407.12682v1)|
-|**2024-07-17**|**SigDLA: A Deep Learning Accelerator Extension for Signal Processing**|Fangfa Fu et.al.|[2407.12565v1](http://arxiv.org/abs/2407.12565v1)|
-|**2024-07-17**|**Leveraging the Mahalanobis Distance to enhance Unsupervised Brain MRI Anomaly Detection**|Finn Behrendt et.al.|[2407.12474v1](http://arxiv.org/abs/2407.12474v1)|
-|**2024-07-17**|**GeneralAD: Anomaly Detection Across Domains by Attending to Distorted Features**|Luc P. J. Sträter et.al.|[2407.12427v1](http://arxiv.org/abs/2407.12427v1)|
-|**2024-07-16**|**The object detection method aids in image reconstruction evaluation and clinical interpretation of meniscal abnormalities**|Natalia Konovalova et.al.|[2407.12184v1](http://arxiv.org/abs/2407.12184v1)|
-|**2024-07-16**|**Agglomerative Clustering of Simulation Output Distributions Using Regularized Wasserstein Distance**|Mohammadmahdi Ghasemloo et.al.|[2407.12100v1](http://arxiv.org/abs/2407.12100v1)|
-|**2024-07-16**|**Learning Multi-view Anomaly Detection**|Haoyang He et.al.|[2407.11935v1](http://arxiv.org/abs/2407.11935v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-22**|**Open-CD: A Comprehensive Toolbox for Change Detection**|Kaiyu Li et.al.|[2407.15317v1](http://arxiv.org/abs/2407.15317v1)|
 |**2024-07-19**|**Semantic-CC: Boosting Remote Sensing Image Change Captioning via Foundational Knowledge and Semantic Guidance**|Yongshuo Zhu et.al.|[2407.14032v1](http://arxiv.org/abs/2407.14032v1)|
 |**2024-07-18**|**Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection**|Jiangwei Xie et.al.|[2407.13151v1](http://arxiv.org/abs/2407.13151v1)|
 |**2024-07-16**|**UP-Diff: Latent Diffusion Model for Remote Sensing Urban Prediction**|Zeyu Wang et.al.|[2407.11578v2](http://arxiv.org/abs/2407.11578v2)|
@@ -73,5 +74,4 @@
 |**2024-07-11**|**Paving the way toward foundation models for irregular and unaligned Satellite Image Time Series**|Iris Dumeur et.al.|[2407.08448v1](http://arxiv.org/abs/2407.08448v1)|
 |**2024-07-10**|**Satellite Image Time Series Semantic Change Detection: Novel Architecture and Analysis of Domain Shift**|Elliot Vincent et.al.|[2407.07616v1](http://arxiv.org/abs/2407.07616v1)|
 |**2024-07-08**|**A Mamba-based Siamese Network for Remote Sensing Change Detection**|Jay N. Paranjape et.al.|[2407.06839v1](http://arxiv.org/abs/2407.06839v1)|
-|**2024-07-06**|**Co-Scale Cross-Attentional Transformer for Rearrangement Target Detection**|Haruka Matsuo et.al.|[2407.05063v1](http://arxiv.org/abs/2407.05063v1)|
 
