@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-24**|**Looking at Model Debiasing through the Lens of Anomaly Detection**|Vito Paolo Pastore et.al.|[2407.17449v1](http://arxiv.org/abs/2407.17449v1)|
+|**2024-07-24**|**Global and Local Confidence Based Fraud Detection Graph Neural Network**|Jiaxun Liu et.al.|[2407.17333v1](http://arxiv.org/abs/2407.17333v1)|
+|**2024-07-24**|**When Text and Images Don't Mix: Bias-Correcting Language-Image Similarity Scores for Anomaly Detection**|Adam Goodge et.al.|[2407.17083v1](http://arxiv.org/abs/2407.17083v1)|
 |**2024-07-23**|**Securing Tomorrow's Smart Cities: Investigating Software Security in Internet of Vehicles and Deep Learning Technologies**|Ridhi Jain et.al.|[2407.16410v1](http://arxiv.org/abs/2407.16410v1)|
 |**2024-07-20**|**Decentralized Federated Anomaly Detection in Smart Grids: A P2P Gossip Approach**|Muhammad Akbar Husnoo et.al.|[2407.15879v1](http://arxiv.org/abs/2407.15879v1)|
 |**2024-07-22**|**AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection**|Yunkang Cao et.al.|[2407.15795v1](http://arxiv.org/abs/2407.15795v1)|
@@ -56,9 +59,6 @@
 |**2024-07-22**|**Semi-Supervised Learning for Anomaly Detection in Blockchain-based Supply Chains**|Do Hai Son et.al.|[2407.15603v1](http://arxiv.org/abs/2407.15603v1)|
 |**2024-07-22**|**Bidirectional skip-frame prediction for video anomaly detection with intra-domain disparity-driven attention**|Jiahao Lyu et.al.|[2407.15424v2](http://arxiv.org/abs/2407.15424v2)|
 |**2024-07-21**|**Diffusion Models for Unsupervised Anomaly Detection in Fetal Brain Ultrasound**|Hanna Mykula et.al.|[2407.15119v1](http://arxiv.org/abs/2407.15119v1)|
-|**2024-07-20**|**A Two-Phase Visualization System for Continuous Human-AI Collaboration in Sequelae Analysis and Modeling**|Yang Ouyang et.al.|[2407.14769v1](http://arxiv.org/abs/2407.14769v1)|
-|**2024-07-19**|**Evaluation of Provenance Serialisations for Astronomical Provenance**|Michael A. C. Johnson et.al.|[2407.14290v1](http://arxiv.org/abs/2407.14290v1)|
-|**2024-07-18**|**Motif-Consistent Counterfactuals with Adversarial Refinement for Graph-Level Anomaly Detection**|Chunjing Xiao et.al.|[2407.13251v1](http://arxiv.org/abs/2407.13251v1)|
 
 ## change detection
 
