@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-26**|**MistralBSM: Leveraging Mistral-7B for Vehicular Networks Misbehavior Detection**|Wissal Hamhoum et.al.|[2407.18462v1](http://arxiv.org/abs/2407.18462v1)|
 |**2024-07-10**|**High-Resolution Cloud Detection Network**|Jingsheng Li et.al.|[2407.07365v1](http://arxiv.org/abs/2407.07365v1)|
 |**2024-06-03**|**Unambiguous detection of mesospheric CO2 clouds on Mars using 2.7 μm absorption band from the ACS/TGO solar occultations**|M. Luginin et.al.|[2406.01515v1](http://arxiv.org/abs/2406.01515v1)|
 |**2024-05-08**|**CloudSense: A Model for Cloud Type Identification using Machine Learning from Radar data**|Mehzooz Nizar et.al.|[2405.05988v1](http://arxiv.org/abs/2405.05988v1)|
@@ -28,7 +29,6 @@
 |**2024-03-01**|**Cloud properties across spatial scales in simulations of the interstellar medium**|Tine Colman et.al.|[2403.00512v1](http://arxiv.org/abs/2403.00512v1)|
 |**2024-02-29**|**RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation**|Jie Zhang et.al.|[2402.19004v1](http://arxiv.org/abs/2402.19004v1)|
 |**2024-02-21**|**BenchCloudVision: A Benchmark Analysis of Deep Learning Approaches for Cloud Detection and Segmentation in Remote Sensing Imagery**|Loddo Fabio et.al.|[2402.13918v3](http://arxiv.org/abs/2402.13918v3)|
-|**2023-12-18**|**FAKEPCD: Fake Point Cloud Detection via Source Attribution**|Yiting Qu et.al.|[2312.11213v1](http://arxiv.org/abs/2312.11213v1)|
 
 ## abnormal detection
 
@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-26**|**HADES: Detecting Active Directory Attacks via Whole Network Provenance Analytics**|Qi Liu et.al.|[2407.18858v1](http://arxiv.org/abs/2407.18858v1)|
+|**2024-07-26**|**Textile Anomaly Detection: Evaluation of the State-of-the-Art for Automated Quality Inspection of Carpet**|Briony Forsberg et.al.|[2407.18450v1](http://arxiv.org/abs/2407.18450v1)|
+|**2024-07-26**|**Impact of Recurrent Neural Networks and Deep Learning Frameworks on Real-time Lightweight Time Series Anomaly Detection**|Ming-Chang Lee et.al.|[2407.18439v1](http://arxiv.org/abs/2407.18439v1)|
 |**2024-07-25**|**Separating Novel Features for Logical Anomaly Detection: A Straightforward yet Effective Approach**|Kangil Lee et.al.|[2407.17909v1](http://arxiv.org/abs/2407.17909v1)|
 |**2024-07-24**|**Large Language Models for Anomaly Detection in Computational Workflows: from Supervised Fine-Tuning to In-Context Learning**|Hongwei Jin et.al.|[2407.17545v1](http://arxiv.org/abs/2407.17545v1)|
 |**2024-07-24**|**Looking at Model Debiasing through the Lens of Anomaly Detection**|Vito Paolo Pastore et.al.|[2407.17449v2](http://arxiv.org/abs/2407.17449v2)|
@@ -56,9 +59,6 @@
 |**2024-07-24**|**When Text and Images Don't Mix: Bias-Correcting Language-Image Similarity Scores for Anomaly Detection**|Adam Goodge et.al.|[2407.17083v1](http://arxiv.org/abs/2407.17083v1)|
 |**2024-07-23**|**Securing Tomorrow's Smart Cities: Investigating Software Security in Internet of Vehicles and Deep Learning Technologies**|Ridhi Jain et.al.|[2407.16410v1](http://arxiv.org/abs/2407.16410v1)|
 |**2024-07-22**|**AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection**|Yunkang Cao et.al.|[2407.15795v1](http://arxiv.org/abs/2407.15795v1)|
-|**2024-07-22**|**Towards Open-World Object-based Anomaly Detection via Self-Supervised Outlier Synthesis**|Brian K. S. Isaac-Medina et.al.|[2407.15763v1](http://arxiv.org/abs/2407.15763v1)|
-|**2024-07-22**|**Semi-Supervised Learning for Anomaly Detection in Blockchain-based Supply Chains**|Do Hai Son et.al.|[2407.15603v1](http://arxiv.org/abs/2407.15603v1)|
-|**2024-07-22**|**Bidirectional skip-frame prediction for video anomaly detection with intra-domain disparity-driven attention**|Jiahao Lyu et.al.|[2407.15424v2](http://arxiv.org/abs/2407.15424v2)|
 
 ## change detection
 
