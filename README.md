@@ -36,7 +36,6 @@
 |---|---|---|---|
 |**2024-07-23**|**Hyperbolic embedding of brain networks detects regions disrupted by neurodegeneration**|Alice Longhena et.al.|[2407.16589v1](http://arxiv.org/abs/2407.16589v1)|
 |**2024-07-19**|**TTA-OOD: Test-time Augmentation for Improving Out-of-Distribution Detection in Gastrointestinal Vision**|Sandesh Pokhrel et.al.|[2407.14024v1](http://arxiv.org/abs/2407.14024v1)|
-|**2024-07-17**|**Enhancing Wrist Fracture Detection with YOLO**|Ammar Ahmed et.al.|[2407.12597v2](http://arxiv.org/abs/2407.12597v2)|
 |**2024-07-05**|**Computer Vision for Clinical Gait Analysis: A Gait Abnormality Video Dataset**|Rahm Ranjan et.al.|[2407.04190v1](http://arxiv.org/abs/2407.04190v1)|
 |**2024-05-29**|**Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI**|Wei-Bang Jiang et.al.|[2405.18765v1](http://arxiv.org/abs/2405.18765v1)|
 |**2024-05-22**|**Detecting Gait Abnormalities in Foot-Floor Contacts During Walking Through FootstepInduced Structural Vibrations**|Yiwen Dong et.al.|[2405.13996v1](http://arxiv.org/abs/2405.13996v1)|
@@ -44,11 +43,14 @@
 |**2024-05-09**|**Artificial intelligence for abnormality detection in high volume neuroimaging: a systematic review and meta-analysis**|Siddharth Agarwal et.al.|[2405.05658v1](http://arxiv.org/abs/2405.05658v1)|
 |**2024-05-05**|**A self-supervised text-vision framework for automated brain abnormality detection**|David A. Wood et.al.|[2405.02782v2](http://arxiv.org/abs/2405.02782v2)|
 |**2024-04-06**|**A Deep Look Into -- Automated Lung X-Ray Abnormality Detection System**|Nagullas KS et.al.|[2404.04635v1](http://arxiv.org/abs/2404.04635v1)|
+|**2024-03-26**|**A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities**|Ibrahim Ethem Hamamci et.al.|[2403.17834v1](http://arxiv.org/abs/2403.17834v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-30**|**Efficient Quantum One-Class Support Vector Machines for Anomaly Detection Using Randomized Measurements and Variable Subsampling**|Michael Kölle et.al.|[2407.20753v1](http://arxiv.org/abs/2407.20753v1)|
+|**2024-07-30**|**Time Series Anomaly Detection with CNN for Environmental Sensors in Healthcare-IoT**|Mirza Akhi Khatun et.al.|[2407.20695v1](http://arxiv.org/abs/2407.20695v1)|
 |**2024-07-29**|**Can I trust my anomaly detection system? A case study based on explainable AI**|Muhammad Rashid et.al.|[2407.19951v1](http://arxiv.org/abs/2407.19951v1)|
 |**2024-07-29**|**Anomalous State Sequence Modeling to Enhance Safety in Reinforcement Learning**|Leen Kweider et.al.|[2407.19860v1](http://arxiv.org/abs/2407.19860v1)|
 |**2024-07-29**|**Normality Addition via Normality Detection in Industrial Image Anomaly Detection Models**|Jihun Yi et.al.|[2407.19849v1](http://arxiv.org/abs/2407.19849v1)|
@@ -57,8 +59,6 @@
 |**2024-07-29**|**Foundations for Unfairness in Anomaly Detection -- Case Studies in Facial Imaging Data**|Michael Livanos et.al.|[2407.19646v1](http://arxiv.org/abs/2407.19646v1)|
 |**2024-07-26**|**HADES: Detecting Active Directory Attacks via Whole Network Provenance Analytics**|Qi Liu et.al.|[2407.18858v1](http://arxiv.org/abs/2407.18858v1)|
 |**2024-07-26**|**Textile Anomaly Detection: Evaluation of the State-of-the-Art for Automated Quality Inspection of Carpet**|Briony Forsberg et.al.|[2407.18450v1](http://arxiv.org/abs/2407.18450v1)|
-|**2024-07-26**|**Impact of Recurrent Neural Networks and Deep Learning Frameworks on Real-time Lightweight Time Series Anomaly Detection**|Ming-Chang Lee et.al.|[2407.18439v1](http://arxiv.org/abs/2407.18439v1)|
-|**2024-07-25**|**Separating Novel Features for Logical Anomaly Detection: A Straightforward yet Effective Approach**|Kangil Lee et.al.|[2407.17909v1](http://arxiv.org/abs/2407.17909v1)|
 
 ## change detection
 
