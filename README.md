@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-31**|**Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey**|Atsuyuki Miyai et.al.|[2407.21794v1](http://arxiv.org/abs/2407.21794v1)|
+|**2024-07-31**|**Artificial Intelligence Approaches for Energy Efficiency: A Review**|Alberto Pasqualetto et.al.|[2407.21726v1](http://arxiv.org/abs/2407.21726v1)|
+|**2024-07-31**|**Small Object Few-shot Segmentation for Vision-based Industrial Inspection**|Zilong Zhang et.al.|[2407.21351v1](http://arxiv.org/abs/2407.21351v1)|
 |**2024-07-30**|**Efficient Quantum One-Class Support Vector Machines for Anomaly Detection Using Randomized Measurements and Variable Subsampling**|Michael Kölle et.al.|[2407.20753v1](http://arxiv.org/abs/2407.20753v1)|
 |**2024-07-30**|**Time Series Anomaly Detection with CNN for Environmental Sensors in Healthcare-IoT**|Mirza Akhi Khatun et.al.|[2407.20695v1](http://arxiv.org/abs/2407.20695v1)|
 |**2024-07-29**|**Can I trust my anomaly detection system? A case study based on explainable AI**|Muhammad Rashid et.al.|[2407.19951v1](http://arxiv.org/abs/2407.19951v1)|
@@ -56,9 +59,6 @@
 |**2024-07-29**|**Normality Addition via Normality Detection in Industrial Image Anomaly Detection Models**|Jihun Yi et.al.|[2407.19849v1](http://arxiv.org/abs/2407.19849v1)|
 |**2024-07-29**|**Detecting Unsafe Behavior in Neural Network Imitation Policies for Caregiving Robotics**|Andrii Tytarenko et.al.|[2407.19819v1](http://arxiv.org/abs/2407.19819v1)|
 |**2024-07-29**|**Accelerating template generation in resonant anomaly detection searches with optimal transport**|Matthew Leigh et.al.|[2407.19818v1](http://arxiv.org/abs/2407.19818v1)|
-|**2024-07-29**|**Foundations for Unfairness in Anomaly Detection -- Case Studies in Facial Imaging Data**|Michael Livanos et.al.|[2407.19646v1](http://arxiv.org/abs/2407.19646v1)|
-|**2024-07-26**|**HADES: Detecting Active Directory Attacks via Whole Network Provenance Analytics**|Qi Liu et.al.|[2407.18858v1](http://arxiv.org/abs/2407.18858v1)|
-|**2024-07-26**|**Textile Anomaly Detection: Evaluation of the State-of-the-Art for Automated Quality Inspection of Carpet**|Briony Forsberg et.al.|[2407.18450v1](http://arxiv.org/abs/2407.18450v1)|
 
 ## change detection
 
