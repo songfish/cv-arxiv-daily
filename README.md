@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-01**|**Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing**|Shayan Hashemi et.al.|[2408.00645v1](http://arxiv.org/abs/2408.00645v1)|
+|**2024-07-31**|**CT-based Anomaly Detection of Liver Tumors Using Generative Diffusion Prior**|Yongyi Shi et.al.|[2408.00092v1](http://arxiv.org/abs/2408.00092v1)|
 |**2024-07-31**|**Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey**|Atsuyuki Miyai et.al.|[2407.21794v1](http://arxiv.org/abs/2407.21794v1)|
 |**2024-07-31**|**Artificial Intelligence Approaches for Energy Efficiency: A Review**|Alberto Pasqualetto et.al.|[2407.21726v1](http://arxiv.org/abs/2407.21726v1)|
 |**2024-07-31**|**Small Object Few-shot Segmentation for Vision-based Industrial Inspection**|Zilong Zhang et.al.|[2407.21351v1](http://arxiv.org/abs/2407.21351v1)|
@@ -57,8 +59,6 @@
 |**2024-07-29**|**Can I trust my anomaly detection system? A case study based on explainable AI**|Muhammad Rashid et.al.|[2407.19951v1](http://arxiv.org/abs/2407.19951v1)|
 |**2024-07-29**|**Anomalous State Sequence Modeling to Enhance Safety in Reinforcement Learning**|Leen Kweider et.al.|[2407.19860v1](http://arxiv.org/abs/2407.19860v1)|
 |**2024-07-29**|**Normality Addition via Normality Detection in Industrial Image Anomaly Detection Models**|Jihun Yi et.al.|[2407.19849v1](http://arxiv.org/abs/2407.19849v1)|
-|**2024-07-29**|**Detecting Unsafe Behavior in Neural Network Imitation Policies for Caregiving Robotics**|Andrii Tytarenko et.al.|[2407.19819v1](http://arxiv.org/abs/2407.19819v1)|
-|**2024-07-29**|**Accelerating template generation in resonant anomaly detection searches with optimal transport**|Matthew Leigh et.al.|[2407.19818v1](http://arxiv.org/abs/2407.19818v1)|
 
 ## change detection
 
