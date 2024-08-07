@@ -1,4 +1,4 @@
-## Updated on 2024.08.06
+## Updated on 2024.08.07
 
 ## super-resolution
 
@@ -38,7 +38,7 @@
 |**2024-07-19**|**TTA-OOD: Test-time Augmentation for Improving Out-of-Distribution Detection in Gastrointestinal Vision**|Sandesh Pokhrel et.al.|[2407.14024v1](http://arxiv.org/abs/2407.14024v1)|
 |**2024-07-05**|**Computer Vision for Clinical Gait Analysis: A Gait Abnormality Video Dataset**|Rahm Ranjan et.al.|[2407.04190v1](http://arxiv.org/abs/2407.04190v1)|
 |**2024-05-29**|**Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI**|Wei-Bang Jiang et.al.|[2405.18765v1](http://arxiv.org/abs/2405.18765v1)|
-|**2024-05-22**|**Detecting Gait Abnormalities in Foot-Floor Contacts During Walking Through FootstepInduced Structural Vibrations**|Yiwen Dong et.al.|[2405.13996v1](http://arxiv.org/abs/2405.13996v1)|
+|**2024-05-22**|**Detecting Gait Abnormalities in Foot-Floor Contacts During Walking Through Footstep-Induced Structural Vibrations**|Yiwen Dong et.al.|[2405.13996v2](http://arxiv.org/abs/2405.13996v2)|
 |**2024-05-09**|**MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI**|Yan Zhuang et.al.|[2405.05944v2](http://arxiv.org/abs/2405.05944v2)|
 |**2024-05-09**|**Artificial intelligence for abnormality detection in high volume neuroimaging: a systematic review and meta-analysis**|Siddharth Agarwal et.al.|[2405.05658v1](http://arxiv.org/abs/2405.05658v1)|
 |**2024-05-05**|**A self-supervised text-vision framework for automated brain abnormality detection**|David A. Wood et.al.|[2405.02782v2](http://arxiv.org/abs/2405.02782v2)|
