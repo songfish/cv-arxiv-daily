@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-06**|**CKNN: Cleansed k-Nearest Neighbor for Unsupervised Video Anomaly Detection**|Jihun Yi et.al.|[2408.03014v1](http://arxiv.org/abs/2408.03014v1)|
 |**2024-08-05**|**Operational range bounding of spectroscopy models with anomaly detection**|Luís F. Simões et.al.|[2408.02581v1](http://arxiv.org/abs/2408.02581v1)|
 |**2024-08-05**|**AssemAI: Interpretable Image-Based Anomaly Detection for Manufacturing Pipelines**|Renjith Prasad et.al.|[2408.02181v1](http://arxiv.org/abs/2408.02181v1)|
 |**2024-08-04**|**Individualized multi-horizon MRI trajectory prediction for Alzheimer's Disease**|Rosemary He et.al.|[2408.02018v1](http://arxiv.org/abs/2408.02018v1)|
@@ -58,7 +59,6 @@
 |**2024-08-01**|**Online Detection of Anomalies in Temporal Knowledge Graphs with Interpretability**|Jiasheng Zhang et.al.|[2408.00872v1](http://arxiv.org/abs/2408.00872v1)|
 |**2024-08-01**|**Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing**|Shayan Hashemi et.al.|[2408.00645v1](http://arxiv.org/abs/2408.00645v1)|
 |**2024-07-31**|**CT-based Anomaly Detection of Liver Tumors Using Generative Diffusion Prior**|Yongyi Shi et.al.|[2408.00092v1](http://arxiv.org/abs/2408.00092v1)|
-|**2024-07-31**|**Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey**|Atsuyuki Miyai et.al.|[2407.21794v1](http://arxiv.org/abs/2407.21794v1)|
 
 ## change detection
 
