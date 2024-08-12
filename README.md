@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-09**|**Cross-Domain Learning for Video Anomaly Detection with Limited Supervision**|Yashika Jain et.al.|[2408.05191v1](http://arxiv.org/abs/2408.05191v1)|
+|**2024-08-09**|**Adversarially Robust Industrial Anomaly Detection Through Diffusion Model**|Yuanpu Cao et.al.|[2408.04839v1](http://arxiv.org/abs/2408.04839v1)|
+|**2024-08-09**|**Performance Metric for Multiple Anomaly Score Distributions with Discrete Severity Levels**|Wonjun Yi et.al.|[2408.04817v1](http://arxiv.org/abs/2408.04817v1)|
 |**2024-08-08**|**Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning**|Hongze Zhu et.al.|[2408.04604v1](http://arxiv.org/abs/2408.04604v1)|
 |**2024-08-08**|**FedAD-Bench: A Unified Benchmark for Federated Unsupervised Anomaly Detection in Tabular Data**|Ahmed Anwar et.al.|[2408.04442v1](http://arxiv.org/abs/2408.04442v1)|
+|**2024-08-08**|**Anomaly Prediction: A Novel Approach with Explicit Delay and Horizon**|Jiang You et.al.|[2408.04377v2](http://arxiv.org/abs/2408.04377v2)|
 |**2024-08-08**|**Self-Supervised Contrastive Graph Clustering Network via Structural Information Fusion**|Xiaoyang Ji et.al.|[2408.04339v1](http://arxiv.org/abs/2408.04339v1)|
 |**2024-08-08**|**Generating Fine-Grained Causality in Climate Time Series Data for Forecasting and Anomaly Detection**|Dongqi Fu et.al.|[2408.04254v1](http://arxiv.org/abs/2408.04254v1)|
 |**2024-08-08**|**Cluster-Wide Task Slowdown Detection in Cloud System**|Feiyi Chen et.al.|[2408.04236v1](http://arxiv.org/abs/2408.04236v1)|
 |**2024-08-07**|**Dual-Modeling Decouple Distillation for Unsupervised Anomaly Detection**|Xinyue Liu et.al.|[2408.03888v1](http://arxiv.org/abs/2408.03888v1)|
-|**2024-08-07**|**Online Model-based Anomaly Detection in Multivariate Time Series: Taxonomy, Survey, Research Challenges and Future Directions**|Lucas Correia et.al.|[2408.03747v2](http://arxiv.org/abs/2408.03747v2)|
-|**2024-08-07**|**Unsupervised Detection of Fetal Brain Anomalies using Denoising Diffusion Models**|Markus Ditlev Sjøgren Olsen et.al.|[2408.03654v1](http://arxiv.org/abs/2408.03654v1)|
-|**2024-08-06**|**Can LLMs Serve As Time Series Anomaly Detectors?**|Manqing Dong et.al.|[2408.03475v1](http://arxiv.org/abs/2408.03475v1)|
-|**2024-08-06**|**CKNN: Cleansed k-Nearest Neighbor for Unsupervised Video Anomaly Detection**|Jihun Yi et.al.|[2408.03014v1](http://arxiv.org/abs/2408.03014v1)|
 
 ## change detection
 
