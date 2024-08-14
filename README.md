@@ -51,7 +51,7 @@
 |---|---|---|---|
 |**2024-08-12**|**Hi-SAM: A high-scalable authentication model for satellite-ground Zero-Trust system using mean field game**|Xuesong Wu et.al.|[2408.06185v1](http://arxiv.org/abs/2408.06185v1)|
 |**2024-08-12**|**A Methodological Report on Anomaly Detection on Dynamic Knowledge Graphs**|Xiaohua Lu et.al.|[2408.06121v1](http://arxiv.org/abs/2408.06121v1)|
-|**2024-08-12**|**Weakly Supervised Video Anomaly Detection and Localization with Spatio-Temporal Prompts**|Peng Wu et.al.|[2408.05905v1](http://arxiv.org/abs/2408.05905v1)|
+|**2024-08-12**|**Weakly Supervised Video Anomaly Detection and Localization with Spatio-Temporal Prompts**|Peng Wu et.al.|[2408.05905v2](http://arxiv.org/abs/2408.05905v2)|
 |**2024-08-10**|**What Matters in Autonomous Driving Anomaly Detection: A Weakly Supervised Horizon**|Utkarsh Tiwari et.al.|[2408.05562v1](http://arxiv.org/abs/2408.05562v1)|
 |**2024-08-09**|**Hybrid Efficient Unsupervised Anomaly Detection for Early Pandemic Case Identification**|Ghazal Ghajari et.al.|[2408.05347v1](http://arxiv.org/abs/2408.05347v1)|
 |**2024-08-09**|**Audio-visual cross-modality knowledge transfer for machine learning-based in-situ monitoring in laser additive manufacturing**|Jiarui Xie et.al.|[2408.05307v1](http://arxiv.org/abs/2408.05307v1)|
