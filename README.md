@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-13**|**RW-NSGCN: A Robust Approach to Structural Attacks via Negative Sampling**|Shuqi He et.al.|[2408.06665v1](http://arxiv.org/abs/2408.06665v1)|
+|**2024-08-13**|**Unveiling the Flaws: A Critical Analysis of Initialization Effect on Time Series Anomaly Detection**|Alex Koran et.al.|[2408.06620v1](http://arxiv.org/abs/2408.06620v1)|
 |**2024-08-12**|**Hi-SAM: A high-scalable authentication model for satellite-ground Zero-Trust system using mean field game**|Xuesong Wu et.al.|[2408.06185v1](http://arxiv.org/abs/2408.06185v1)|
 |**2024-08-12**|**A Methodological Report on Anomaly Detection on Dynamic Knowledge Graphs**|Xiaohua Lu et.al.|[2408.06121v1](http://arxiv.org/abs/2408.06121v1)|
 |**2024-08-12**|**Weakly Supervised Video Anomaly Detection and Localization with Spatio-Temporal Prompts**|Peng Wu et.al.|[2408.05905v2](http://arxiv.org/abs/2408.05905v2)|
@@ -57,13 +59,12 @@
 |**2024-08-09**|**Audio-visual cross-modality knowledge transfer for machine learning-based in-situ monitoring in laser additive manufacturing**|Jiarui Xie et.al.|[2408.05307v1](http://arxiv.org/abs/2408.05307v1)|
 |**2024-08-09**|**Cross-Domain Learning for Video Anomaly Detection with Limited Supervision**|Yashika Jain et.al.|[2408.05191v1](http://arxiv.org/abs/2408.05191v1)|
 |**2024-08-09**|**Adversarially Robust Industrial Anomaly Detection Through Diffusion Model**|Yuanpu Cao et.al.|[2408.04839v1](http://arxiv.org/abs/2408.04839v1)|
-|**2024-08-09**|**Performance Metric for Multiple Anomaly Score Distributions with Discrete Severity Levels**|Wonjun Yi et.al.|[2408.04817v1](http://arxiv.org/abs/2408.04817v1)|
-|**2024-08-08**|**Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning**|Hongze Zhu et.al.|[2408.04604v1](http://arxiv.org/abs/2408.04604v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-13**|**Specialized Change Detection using Segment Anything**|Tahir Ahmad et.al.|[2408.06644v1](http://arxiv.org/abs/2408.06644v1)|
 |**2024-08-11**|**High Probability Low Latency Sequential Change Detection over an Unknown Finite Horizon**|Yu-Han Huang et.al.|[2408.05817v1](http://arxiv.org/abs/2408.05817v1)|
 |**2024-08-08**|**Integrated Dynamic Phenological Feature for Remote Sensing Image Land Cover Change Detection**|Yi Liu et.al.|[2408.04144v1](http://arxiv.org/abs/2408.04144v1)|
 |**2024-08-07**|**Testing for a general changepoint in psychometric studies: changes detection and sample size planning**|Nicoletta D'Angelo et.al.|[2408.04056v1](http://arxiv.org/abs/2408.04056v1)|
@@ -73,5 +74,4 @@
 |**2024-07-19**|**Semantic-CC: Boosting Remote Sensing Image Change Captioning via Foundational Knowledge and Semantic Guidance**|Yongshuo Zhu et.al.|[2407.14032v1](http://arxiv.org/abs/2407.14032v1)|
 |**2024-07-18**|**Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection**|Jiangwei Xie et.al.|[2407.13151v1](http://arxiv.org/abs/2407.13151v1)|
 |**2024-07-16**|**UP-Diff: Latent Diffusion Model for Remote Sensing Urban Prediction**|Zeyu Wang et.al.|[2407.11578v2](http://arxiv.org/abs/2407.11578v2)|
-|**2024-07-15**|**Robust Score-Based Quickest Change Detection**|Sean Moushegian et.al.|[2407.11094v1](http://arxiv.org/abs/2407.11094v1)|
 
