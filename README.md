@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-16**|**A Novel Buffered Federated Learning Framework for Privacy-Driven Anomaly Detection in IIoT**|Samira Kamali Poorazad et.al.|[2408.08722v1](http://arxiv.org/abs/2408.08722v1)|
+|**2024-08-15**|**Efficient Data-Sketches and Fine-Tuning for Early Detection of Distributional Drift in Medical Imaging**|Yusen Wu et.al.|[2408.08456v1](http://arxiv.org/abs/2408.08456v1)|
 |**2024-08-15**|**HELP: Hierarchical Embeddings-based Log Parsing**|Andy Xu et.al.|[2408.08300v1](http://arxiv.org/abs/2408.08300v1)|
 |**2024-08-15**|**Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective**|Zixuan Pan et.al.|[2408.08228v1](http://arxiv.org/abs/2408.08228v1)|
 |**2024-08-14**|**How Industry Tackles Anomalies during Runtime: Approaches and Key Monitoring Parameters**|Monika Steidl et.al.|[2408.07816v1](http://arxiv.org/abs/2408.07816v1)|
@@ -57,8 +59,6 @@
 |**2024-08-14**|**Latent Anomaly Detection Through Density Matrices**|Joseph Gallego-Mejia et.al.|[2408.07623v1](http://arxiv.org/abs/2408.07623v1)|
 |**2024-08-14**|**Attention-Guided Perturbation for Unsupervised Image Anomaly Detection**|Tingfeng Huang et.al.|[2408.07490v1](http://arxiv.org/abs/2408.07490v1)|
 |**2024-08-13**|**Investigation of unsupervised and supervised hyperspectral anomaly detection**|Mazharul Hossain et.al.|[2408.07114v1](http://arxiv.org/abs/2408.07114v1)|
-|**2024-08-13**|**RW-NSGCN: A Robust Approach to Structural Attacks via Negative Sampling**|Shuqi He et.al.|[2408.06665v1](http://arxiv.org/abs/2408.06665v1)|
-|**2024-08-13**|**Unveiling the Flaws: A Critical Analysis of Initialization Effect on Time Series Anomaly Detection**|Alex Koran et.al.|[2408.06620v1](http://arxiv.org/abs/2408.06620v1)|
 
 ## change detection
 
