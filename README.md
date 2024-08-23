@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-22**|**UMAD: University of Macau Anomaly Detection Benchmark Dataset**|Dong Li et.al.|[2408.12527v1](http://arxiv.org/abs/2408.12527v1)|
+|**2024-08-22**|**Efficient Multivariate Time Series Anomaly Detection Through Transfer Learning for Large-Scale Web services**|Shenglin Zhang et.al.|[2408.12247v1](http://arxiv.org/abs/2408.12247v1)|
+|**2024-08-21**|**Explainable Anomaly Detection: Counterfactual driven What-If Analysis**|Logan Cummins et.al.|[2408.11935v1](http://arxiv.org/abs/2408.11935v1)|
 |**2024-08-21**|**RODEM Jet Datasets**|Knut Zoch et.al.|[2408.11616v1](http://arxiv.org/abs/2408.11616v1)|
 |**2024-08-21**|**Self-Supervised Iterative Refinement for Anomaly Detection in Industrial Quality Control**|Muhammad Aqeel et.al.|[2408.11561v1](http://arxiv.org/abs/2408.11561v1)|
 |**2024-08-21**|**Hypergraph Learning based Recommender System for Anomaly Detection, Control and Optimization**|Sakhinana Sagar Srinivas et.al.|[2408.11359v1](http://arxiv.org/abs/2408.11359v1)|
@@ -56,14 +59,12 @@
 |**2024-08-20**|**Physics-Driven AI Correction in Laser Absorption Sensing Quantification**|Ruiyuan Kang et.al.|[2408.10714v1](http://arxiv.org/abs/2408.10714v1)|
 |**2024-08-16**|**Deep Generative Classification of Blood Cell Morphology**|Simon Deltadahl et.al.|[2408.08982v1](http://arxiv.org/abs/2408.08982v1)|
 |**2024-08-16**|**A Novel Buffered Federated Learning Framework for Privacy-Driven Anomaly Detection in IIoT**|Samira Kamali Poorazad et.al.|[2408.08722v1](http://arxiv.org/abs/2408.08722v1)|
-|**2024-08-15**|**Efficient Data-Sketches and Fine-Tuning for Early Detection of Distributional Drift in Medical Imaging**|Yusen Wu et.al.|[2408.08456v1](http://arxiv.org/abs/2408.08456v1)|
-|**2024-08-15**|**HELP: Hierarchical Embeddings-based Log Parsing**|Andy Xu et.al.|[2408.08300v1](http://arxiv.org/abs/2408.08300v1)|
-|**2024-08-15**|**Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective**|Zixuan Pan et.al.|[2408.08228v1](http://arxiv.org/abs/2408.08228v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-22**|**UMAD: University of Macau Anomaly Detection Benchmark Dataset**|Dong Li et.al.|[2408.12527v1](http://arxiv.org/abs/2408.12527v1)|
 |**2024-08-20**|**Asymmetric Graph Error Control with Low Complexity in Causal Bandits**|Chen Peng et.al.|[2408.11240v1](http://arxiv.org/abs/2408.11240v1)|
 |**2024-08-20**|**Novel Change Detection Framework in Remote Sensing Imagery Using Diffusion Models and Structural Similarity Index (SSIM)**|Andrew Kiruluta et.al.|[2408.10619v1](http://arxiv.org/abs/2408.10619v1)|
 |**2024-08-15**|**Treat Stillness with Movement: Remote Sensing Change Detection via Coarse-grained Temporal Foregrounds Mining**|Xixi Wang et.al.|[2408.08078v1](http://arxiv.org/abs/2408.08078v1)|
@@ -73,5 +74,4 @@
 |**2024-08-07**|**Testing for a general changepoint in psychometric studies: changes detection and sample size planning**|Nicoletta D'Angelo et.al.|[2408.04056v1](http://arxiv.org/abs/2408.04056v1)|
 |**2024-07-23**|**Cross-Domain Separable Translation Network for Multimodal Image Change Detection**|Tao Zhan et.al.|[2407.16158v1](http://arxiv.org/abs/2407.16158v1)|
 |**2024-07-22**|**EfficientCD: A New Strategy For Change Detection Based With Bi-temporal Layers Exchanged**|Sijun Dong et.al.|[2407.15999v1](http://arxiv.org/abs/2407.15999v1)|
-|**2024-07-22**|**Open-CD: A Comprehensive Toolbox for Change Detection**|Kaiyu Li et.al.|[2407.15317v1](http://arxiv.org/abs/2407.15317v1)|
 
