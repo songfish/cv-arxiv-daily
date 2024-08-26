@@ -1,4 +1,4 @@
-## Updated on 2024.08.25
+## Updated on 2024.08.26
 
 ## super-resolution
 
@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2024-08-22**|**UMAD: University of Macau Anomaly Detection Benchmark Dataset**|Dong Li et.al.|[2408.12527v1](http://arxiv.org/abs/2408.12527v1)|
-|**2024-08-22**|**Efficient Multivariate Time Series Anomaly Detection Through Transfer Learning for Large-Scale Web services**|Shenglin Zhang et.al.|[2408.12247v1](http://arxiv.org/abs/2408.12247v1)|
+|**2024-08-22**|**Enhanced Fine-Tuning of Lightweight Domain-Specific Q&A Model Based on Large Language Models**|Shenglin Zhang et.al.|[2408.12247v2](http://arxiv.org/abs/2408.12247v2)|
 |**2024-08-21**|**Explainable Anomaly Detection: Counterfactual driven What-If Analysis**|Logan Cummins et.al.|[2408.11935v1](http://arxiv.org/abs/2408.11935v1)|
 |**2024-08-21**|**RODEM Jet Datasets**|Knut Zoch et.al.|[2408.11616v1](http://arxiv.org/abs/2408.11616v1)|
 |**2024-08-21**|**Self-Supervised Iterative Refinement for Anomaly Detection in Industrial Quality Control**|Muhammad Aqeel et.al.|[2408.11561v1](http://arxiv.org/abs/2408.11561v1)|
