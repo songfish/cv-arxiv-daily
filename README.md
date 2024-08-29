@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-28**|**Efficient Slice Anomaly Detection Network for 3D Brain MRI Volume**|Zeduo Zhang et.al.|[2408.15958v1](http://arxiv.org/abs/2408.15958v1)|
+|**2024-08-28**|**CSAD: Unsupervised Component Segmentation for Logical Anomaly Detection**|Yu-Hsuan Hsieh et.al.|[2408.15628v1](http://arxiv.org/abs/2408.15628v1)|
+|**2024-08-28**|**VFLIP: A Backdoor Defense for Vertical Federated Learning via Identification and Purification**|Yungi Cho et.al.|[2408.15591v1](http://arxiv.org/abs/2408.15591v1)|
 |**2024-08-27**|**PoseWatch: A Transformer-based Architecture for Human-centric Video Anomaly Detection Using Spatio-temporal Pose Tokenization**|Ghazal Alinezhad Noghre et.al.|[2408.15185v1](http://arxiv.org/abs/2408.15185v1)|
 |**2024-08-27**|**AnomalousPatchCore: Exploring the Use of Anomalous Samples in Industrial Anomaly Detection**|Mykhailo Koshil et.al.|[2408.15113v1](http://arxiv.org/abs/2408.15113v1)|
 |**2024-08-27**|**ERX: A Fast Real-Time Anomaly Detection Algorithm for Hyperspectral Line-Scanning**|Samuel Garske et.al.|[2408.14947v1](http://arxiv.org/abs/2408.14947v1)|
@@ -56,14 +59,14 @@
 |**2024-08-27**|**Channel-wise Influence: Estimating Data Influence for Multivariate Time Series**|Muyao Wang et.al.|[2408.14763v1](http://arxiv.org/abs/2408.14763v1)|
 |**2024-08-27**|**Training-Free Time-Series Anomaly Detection: Leveraging Image Foundation Models**|Nobuo Namura et.al.|[2408.14756v1](http://arxiv.org/abs/2408.14756v1)|
 |**2024-08-26**|**Anomaly Detection Within Mission-Critical Call Processing**|Sean Doris et.al.|[2408.14599v1](http://arxiv.org/abs/2408.14599v1)|
-|**2024-08-25**|**Variational autoencoder-based neural network model compression**|Liang Cheng et.al.|[2408.14513v1](http://arxiv.org/abs/2408.14513v1)|
-|**2024-08-26**|**PHEVA: A Privacy-preserving Human-centric Video Anomaly Detection Dataset**|Ghazal Alinezhad Noghre et.al.|[2408.14329v1](http://arxiv.org/abs/2408.14329v1)|
-|**2024-08-25**|**Time Series Analysis for Education: Methods, Applications, and Future Directions**|Shengzhong Mao et.al.|[2408.13960v2](http://arxiv.org/abs/2408.13960v2)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-28**|**ClimDetect: A Benchmark Dataset for Climate Change Detection and Attribution**|Sungduk Yu et.al.|[2408.15993v1](http://arxiv.org/abs/2408.15993v1)|
+|**2024-08-28**|**TempoFormer: A Transformer for Temporally-aware Representations in Change Detection**|Talia Tseriotou et.al.|[2408.15689v1](http://arxiv.org/abs/2408.15689v1)|
+|**2024-08-28**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678v1](http://arxiv.org/abs/2408.15678v1)|
 |**2024-08-26**|**Towards Better Comprehension of Breaking Changes in the NPM Ecosystem**|Dezhen Kong et.al.|[2408.14431v1](http://arxiv.org/abs/2408.14431v1)|
 |**2024-08-23**|**Find the Assembly Mistakes: Error Segmentation for Industrial Applications**|Dan Lehman et.al.|[2408.12945v1](http://arxiv.org/abs/2408.12945v1)|
 |**2024-08-22**|**UMAD: University of Macau Anomaly Detection Benchmark Dataset**|Dong Li et.al.|[2408.12527v1](http://arxiv.org/abs/2408.12527v1)|
@@ -71,7 +74,4 @@
 |**2024-08-20**|**Novel Change Detection Framework in Remote Sensing Imagery Using Diffusion Models and Structural Similarity Index (SSIM)**|Andrew Kiruluta et.al.|[2408.10619v1](http://arxiv.org/abs/2408.10619v1)|
 |**2024-08-15**|**Treat Stillness with Movement: Remote Sensing Change Detection via Coarse-grained Temporal Foregrounds Mining**|Xixi Wang et.al.|[2408.08078v1](http://arxiv.org/abs/2408.08078v1)|
 |**2024-08-13**|**Specialized Change Detection using Segment Anything**|Tahir Ahmad et.al.|[2408.06644v1](http://arxiv.org/abs/2408.06644v1)|
-|**2024-08-11**|**High Probability Low Latency Sequential Change Detection over an Unknown Finite Horizon**|Yu-Han Huang et.al.|[2408.05817v1](http://arxiv.org/abs/2408.05817v1)|
-|**2024-08-08**|**Integrated Dynamic Phenological Feature for Remote Sensing Image Land Cover Change Detection**|Yi Liu et.al.|[2408.04144v1](http://arxiv.org/abs/2408.04144v1)|
-|**2024-08-07**|**Testing for a general changepoint in psychometric studies: changes detection and sample size planning**|Nicoletta D'Angelo et.al.|[2408.04056v1](http://arxiv.org/abs/2408.04056v1)|
 
