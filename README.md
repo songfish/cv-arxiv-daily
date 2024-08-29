@@ -1,4 +1,4 @@
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 
 ## super-resolution
 
@@ -52,7 +52,7 @@
 |**2024-08-27**|**PoseWatch: A Transformer-based Architecture for Human-centric Video Anomaly Detection Using Spatio-temporal Pose Tokenization**|Ghazal Alinezhad Noghre et.al.|[2408.15185v1](http://arxiv.org/abs/2408.15185v1)|
 |**2024-08-27**|**AnomalousPatchCore: Exploring the Use of Anomalous Samples in Industrial Anomaly Detection**|Mykhailo Koshil et.al.|[2408.15113v1](http://arxiv.org/abs/2408.15113v1)|
 |**2024-08-27**|**ERX: A Fast Real-Time Anomaly Detection Algorithm for Hyperspectral Line-Scanning**|Samuel Garske et.al.|[2408.14947v1](http://arxiv.org/abs/2408.14947v1)|
-|**2024-08-27**|**User-level Social Multimedia Traffic Anomaly Detection with Meta-Learning**|Tongtong Feng et.al.|[2408.14884v1](http://arxiv.org/abs/2408.14884v1)|
+|**2024-08-27**|**User-level Social Multimedia Traffic Anomaly Detection with Meta-Learning**|Tongtong Feng et.al.|[2408.14884v2](http://arxiv.org/abs/2408.14884v2)|
 |**2024-08-27**|**Channel-wise Influence: Estimating Data Influence for Multivariate Time Series**|Muyao Wang et.al.|[2408.14763v1](http://arxiv.org/abs/2408.14763v1)|
 |**2024-08-27**|**Training-Free Time-Series Anomaly Detection: Leveraging Image Foundation Models**|Nobuo Namura et.al.|[2408.14756v1](http://arxiv.org/abs/2408.14756v1)|
 |**2024-08-26**|**Anomaly Detection Within Mission-Critical Call Processing**|Sean Doris et.al.|[2408.14599v1](http://arxiv.org/abs/2408.14599v1)|
