@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-29**|**FRAM Next Generation at the Pierre Auger Observatory: cloud monitoring in the age of CMOS cameras**|Jan Ebr et.al.|[2408.16735v1](http://arxiv.org/abs/2408.16735v1)|
 |**2024-07-26**|**MistralBSM: Leveraging Mistral-7B for Vehicular Networks Misbehavior Detection**|Wissal Hamhoum et.al.|[2407.18462v1](http://arxiv.org/abs/2407.18462v1)|
 |**2024-07-10**|**High-Resolution Cloud Detection Network**|Jingsheng Li et.al.|[2407.07365v1](http://arxiv.org/abs/2407.07365v1)|
 |**2024-06-03**|**Unambiguous detection of mesospheric CO2 clouds on Mars using 2.7 μm absorption band from the ACS/TGO solar occultations**|M. Luginin et.al.|[2406.01515v1](http://arxiv.org/abs/2406.01515v1)|
@@ -28,7 +29,6 @@
 |**2024-03-13**|**Deep Learning for In-Orbit Cloud Segmentation and Classification in Hyperspectral Satellite Data**|Daniel Kovac et.al.|[2403.08695v1](http://arxiv.org/abs/2403.08695v1)|
 |**2024-03-01**|**Cloud properties across spatial scales in simulations of the interstellar medium**|Tine Colman et.al.|[2403.00512v1](http://arxiv.org/abs/2403.00512v1)|
 |**2024-02-29**|**RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation**|Jie Zhang et.al.|[2402.19004v1](http://arxiv.org/abs/2402.19004v1)|
-|**2024-02-21**|**BenchCloudVision: A Benchmark Analysis of Deep Learning Approaches for Cloud Detection and Segmentation in Remote Sensing Imagery**|Loddo Fabio et.al.|[2402.13918v3](http://arxiv.org/abs/2402.13918v3)|
 
 ## abnormal detection
 
@@ -49,21 +49,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-29**|**Data Quality Monitoring through Transfer Learning on Anomaly Detection for the Hadron Calorimeters**|Mulugeta Weldezgina Asres et.al.|[2408.16612v1](http://arxiv.org/abs/2408.16612v1)|
+|**2024-08-29**|**Multitask learning for improved scour detection: A dynamic wave tank study**|Simon M. Brealy et.al.|[2408.16527v1](http://arxiv.org/abs/2408.16527v1)|
+|**2024-08-29**|**Uni-3DAD: GAN-Inversion Aided Universal 3D Anomaly Detection on Model-free Products**|Jiayu Liu et.al.|[2408.16201v1](http://arxiv.org/abs/2408.16201v1)|
+|**2024-08-29**|**Real-Time Energy Pricing in New Zealand: An Evolving Stream Analysis**|Yibin Sun et.al.|[2408.16187v1](http://arxiv.org/abs/2408.16187v1)|
+|**2024-08-28**|**ANVIL: Anomaly-based Vulnerability Identification without Labelled Training Data**|Weizhou Wang et.al.|[2408.16028v1](http://arxiv.org/abs/2408.16028v1)|
 |**2024-08-28**|**Efficient Slice Anomaly Detection Network for 3D Brain MRI Volume**|Zeduo Zhang et.al.|[2408.15958v1](http://arxiv.org/abs/2408.15958v1)|
 |**2024-08-28**|**CSAD: Unsupervised Component Segmentation for Logical Anomaly Detection**|Yu-Hsuan Hsieh et.al.|[2408.15628v1](http://arxiv.org/abs/2408.15628v1)|
 |**2024-08-28**|**VFLIP: A Backdoor Defense for Vertical Federated Learning via Identification and Purification**|Yungi Cho et.al.|[2408.15591v2](http://arxiv.org/abs/2408.15591v2)|
 |**2024-08-27**|**PoseWatch: A Transformer-based Architecture for Human-centric Video Anomaly Detection Using Spatio-temporal Pose Tokenization**|Ghazal Alinezhad Noghre et.al.|[2408.15185v1](http://arxiv.org/abs/2408.15185v1)|
 |**2024-08-27**|**AnomalousPatchCore: Exploring the Use of Anomalous Samples in Industrial Anomaly Detection**|Mykhailo Koshil et.al.|[2408.15113v2](http://arxiv.org/abs/2408.15113v2)|
-|**2024-08-27**|**ERX: A Fast Real-Time Anomaly Detection Algorithm for Hyperspectral Line-Scanning**|Samuel Garske et.al.|[2408.14947v1](http://arxiv.org/abs/2408.14947v1)|
-|**2024-08-27**|**User-level Social Multimedia Traffic Anomaly Detection with Meta-Learning**|Tongtong Feng et.al.|[2408.14884v2](http://arxiv.org/abs/2408.14884v2)|
-|**2024-08-27**|**Channel-wise Influence: Estimating Data Influence for Multivariate Time Series**|Muyao Wang et.al.|[2408.14763v1](http://arxiv.org/abs/2408.14763v1)|
-|**2024-08-27**|**Training-Free Time-Series Anomaly Detection: Leveraging Image Foundation Models**|Nobuo Namura et.al.|[2408.14756v1](http://arxiv.org/abs/2408.14756v1)|
-|**2024-08-26**|**Anomaly Detection Within Mission-Critical Call Processing**|Sean Doris et.al.|[2408.14599v1](http://arxiv.org/abs/2408.14599v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-13**|**Granger causal inference for climate change attribution**|Mark D. Risser et.al.|[2408.16004v1](http://arxiv.org/abs/2408.16004v1)|
 |**2024-08-28**|**ClimDetect: A Benchmark Dataset for Climate Change Detection and Attribution**|Sungduk Yu et.al.|[2408.15993v1](http://arxiv.org/abs/2408.15993v1)|
 |**2024-08-28**|**TempoFormer: A Transformer for Temporally-aware Representations in Change Detection**|Talia Tseriotou et.al.|[2408.15689v1](http://arxiv.org/abs/2408.15689v1)|
 |**2024-08-28**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678v2](http://arxiv.org/abs/2408.15678v2)|
@@ -73,5 +74,4 @@
 |**2024-08-20**|**Asymmetric Graph Error Control with Low Complexity in Causal Bandits**|Chen Peng et.al.|[2408.11240v1](http://arxiv.org/abs/2408.11240v1)|
 |**2024-08-20**|**Novel Change Detection Framework in Remote Sensing Imagery Using Diffusion Models and Structural Similarity Index (SSIM)**|Andrew Kiruluta et.al.|[2408.10619v1](http://arxiv.org/abs/2408.10619v1)|
 |**2024-08-15**|**Treat Stillness with Movement: Remote Sensing Change Detection via Coarse-grained Temporal Foregrounds Mining**|Xixi Wang et.al.|[2408.08078v1](http://arxiv.org/abs/2408.08078v1)|
-|**2024-08-13**|**Specialized Change Detection using Segment Anything**|Tahir Ahmad et.al.|[2408.06644v1](http://arxiv.org/abs/2408.06644v1)|
 
