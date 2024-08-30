@@ -1,4 +1,4 @@
-## Updated on 2024.08.29
+## Updated on 2024.08.30
 
 ## super-resolution
 
@@ -51,9 +51,9 @@
 |---|---|---|---|
 |**2024-08-28**|**Efficient Slice Anomaly Detection Network for 3D Brain MRI Volume**|Zeduo Zhang et.al.|[2408.15958v1](http://arxiv.org/abs/2408.15958v1)|
 |**2024-08-28**|**CSAD: Unsupervised Component Segmentation for Logical Anomaly Detection**|Yu-Hsuan Hsieh et.al.|[2408.15628v1](http://arxiv.org/abs/2408.15628v1)|
-|**2024-08-28**|**VFLIP: A Backdoor Defense for Vertical Federated Learning via Identification and Purification**|Yungi Cho et.al.|[2408.15591v1](http://arxiv.org/abs/2408.15591v1)|
+|**2024-08-28**|**VFLIP: A Backdoor Defense for Vertical Federated Learning via Identification and Purification**|Yungi Cho et.al.|[2408.15591v2](http://arxiv.org/abs/2408.15591v2)|
 |**2024-08-27**|**PoseWatch: A Transformer-based Architecture for Human-centric Video Anomaly Detection Using Spatio-temporal Pose Tokenization**|Ghazal Alinezhad Noghre et.al.|[2408.15185v1](http://arxiv.org/abs/2408.15185v1)|
-|**2024-08-27**|**AnomalousPatchCore: Exploring the Use of Anomalous Samples in Industrial Anomaly Detection**|Mykhailo Koshil et.al.|[2408.15113v1](http://arxiv.org/abs/2408.15113v1)|
+|**2024-08-27**|**AnomalousPatchCore: Exploring the Use of Anomalous Samples in Industrial Anomaly Detection**|Mykhailo Koshil et.al.|[2408.15113v2](http://arxiv.org/abs/2408.15113v2)|
 |**2024-08-27**|**ERX: A Fast Real-Time Anomaly Detection Algorithm for Hyperspectral Line-Scanning**|Samuel Garske et.al.|[2408.14947v1](http://arxiv.org/abs/2408.14947v1)|
 |**2024-08-27**|**User-level Social Multimedia Traffic Anomaly Detection with Meta-Learning**|Tongtong Feng et.al.|[2408.14884v2](http://arxiv.org/abs/2408.14884v2)|
 |**2024-08-27**|**Channel-wise Influence: Estimating Data Influence for Multivariate Time Series**|Muyao Wang et.al.|[2408.14763v1](http://arxiv.org/abs/2408.14763v1)|
@@ -66,7 +66,7 @@
 |---|---|---|---|
 |**2024-08-28**|**ClimDetect: A Benchmark Dataset for Climate Change Detection and Attribution**|Sungduk Yu et.al.|[2408.15993v1](http://arxiv.org/abs/2408.15993v1)|
 |**2024-08-28**|**TempoFormer: A Transformer for Temporally-aware Representations in Change Detection**|Talia Tseriotou et.al.|[2408.15689v1](http://arxiv.org/abs/2408.15689v1)|
-|**2024-08-28**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678v1](http://arxiv.org/abs/2408.15678v1)|
+|**2024-08-28**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678v2](http://arxiv.org/abs/2408.15678v2)|
 |**2024-08-26**|**Towards Better Comprehension of Breaking Changes in the NPM Ecosystem**|Dezhen Kong et.al.|[2408.14431v1](http://arxiv.org/abs/2408.14431v1)|
 |**2024-08-23**|**Find the Assembly Mistakes: Error Segmentation for Industrial Applications**|Dan Lehman et.al.|[2408.12945v1](http://arxiv.org/abs/2408.12945v1)|
 |**2024-08-22**|**UMAD: University of Macau Anomaly Detection Benchmark Dataset**|Dong Li et.al.|[2408.12527v1](http://arxiv.org/abs/2408.12527v1)|
