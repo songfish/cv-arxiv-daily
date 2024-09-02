@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-30**|**Semi-supervised permutation invariant particle-level anomaly detection**|Gabriel Matos et.al.|[2408.17409v1](http://arxiv.org/abs/2408.17409v1)|
+|**2024-08-30**|**Self-supervised Anomaly Detection Pretraining Enhances Long-tail ECG Diagnosis**|Aofan Jiang et.al.|[2408.17154v1](http://arxiv.org/abs/2408.17154v1)|
+|**2024-08-30**|**Meta-UAD: A Meta-Learning Scheme for User-level Network Traffic Anomaly Detection**|Tongtong Feng et.al.|[2408.17031v1](http://arxiv.org/abs/2408.17031v1)|
+|**2024-08-29**|**HLogformer: A Hierarchical Transformer for Representing Log Data**|Zhichao Hou et.al.|[2408.16803v1](http://arxiv.org/abs/2408.16803v1)|
 |**2024-08-29**|**Data Quality Monitoring through Transfer Learning on Anomaly Detection for the Hadron Calorimeters**|Mulugeta Weldezgina Asres et.al.|[2408.16612v1](http://arxiv.org/abs/2408.16612v1)|
 |**2024-08-29**|**Multitask learning for improved scour detection: A dynamic wave tank study**|Simon M. Brealy et.al.|[2408.16527v1](http://arxiv.org/abs/2408.16527v1)|
 |**2024-08-29**|**Uni-3DAD: GAN-Inversion Aided Universal 3D Anomaly Detection on Model-free Products**|Jiayu Liu et.al.|[2408.16201v1](http://arxiv.org/abs/2408.16201v1)|
 |**2024-08-29**|**Real-Time Energy Pricing in New Zealand: An Evolving Stream Analysis**|Yibin Sun et.al.|[2408.16187v1](http://arxiv.org/abs/2408.16187v1)|
-|**2024-08-28**|**ANVIL: Anomaly-based Vulnerability Identification without Labelled Training Data**|Weizhou Wang et.al.|[2408.16028v1](http://arxiv.org/abs/2408.16028v1)|
 |**2024-08-28**|**Efficient Slice Anomaly Detection Network for 3D Brain MRI Volume**|Zeduo Zhang et.al.|[2408.15958v1](http://arxiv.org/abs/2408.15958v1)|
 |**2024-08-28**|**CSAD: Unsupervised Component Segmentation for Logical Anomaly Detection**|Yu-Hsuan Hsieh et.al.|[2408.15628v1](http://arxiv.org/abs/2408.15628v1)|
-|**2024-08-28**|**VFLIP: A Backdoor Defense for Vertical Federated Learning via Identification and Purification**|Yungi Cho et.al.|[2408.15591v2](http://arxiv.org/abs/2408.15591v2)|
-|**2024-08-27**|**PoseWatch: A Transformer-based Architecture for Human-centric Video Anomaly Detection Using Spatio-temporal Pose Tokenization**|Ghazal Alinezhad Noghre et.al.|[2408.15185v1](http://arxiv.org/abs/2408.15185v1)|
-|**2024-08-27**|**AnomalousPatchCore: Exploring the Use of Anomalous Samples in Industrial Anomaly Detection**|Mykhailo Koshil et.al.|[2408.15113v2](http://arxiv.org/abs/2408.15113v2)|
 
 ## change detection
 
