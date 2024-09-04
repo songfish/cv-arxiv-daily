@@ -58,7 +58,7 @@
 |**2024-08-29**|**Uni-3DAD: GAN-Inversion Aided Universal 3D Anomaly Detection on Model-free Products**|Jiayu Liu et.al.|[2408.16201v1](http://arxiv.org/abs/2408.16201v1)|
 |**2024-08-29**|**Real-Time Energy Pricing in New Zealand: An Evolving Stream Analysis**|Yibin Sun et.al.|[2408.16187v1](http://arxiv.org/abs/2408.16187v1)|
 |**2024-08-28**|**Efficient Slice Anomaly Detection Network for 3D Brain MRI Volume**|Zeduo Zhang et.al.|[2408.15958v1](http://arxiv.org/abs/2408.15958v1)|
-|**2024-08-28**|**CSAD: Unsupervised Component Segmentation for Logical Anomaly Detection**|Yu-Hsuan Hsieh et.al.|[2408.15628v1](http://arxiv.org/abs/2408.15628v1)|
+|**2024-08-28**|**CSAD: Unsupervised Component Segmentation for Logical Anomaly Detection**|Yu-Hsuan Hsieh et.al.|[2408.15628v2](http://arxiv.org/abs/2408.15628v2)|
 
 ## change detection
 
