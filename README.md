@@ -49,22 +49,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-08-30**|**Semi-supervised permutation invariant particle-level anomaly detection**|Gabriel Matos et.al.|[2408.17409v1](http://arxiv.org/abs/2408.17409v1)|
-|**2024-08-30**|**Self-supervised Anomaly Detection Pretraining Enhances Long-tail ECG Diagnosis**|Aofan Jiang et.al.|[2408.17154v1](http://arxiv.org/abs/2408.17154v1)|
-|**2024-08-30**|**Meta-UAD: A Meta-Learning Scheme for User-level Network Traffic Anomaly Detection**|Tongtong Feng et.al.|[2408.17031v1](http://arxiv.org/abs/2408.17031v1)|
-|**2024-08-29**|**HLogformer: A Hierarchical Transformer for Representing Log Data**|Zhichao Hou et.al.|[2408.16803v1](http://arxiv.org/abs/2408.16803v1)|
-|**2024-08-29**|**Data Quality Monitoring through Transfer Learning on Anomaly Detection for the Hadron Calorimeters**|Mulugeta Weldezgina Asres et.al.|[2408.16612v1](http://arxiv.org/abs/2408.16612v1)|
-|**2024-08-29**|**Multitask learning for improved scour detection: A dynamic wave tank study**|Simon M. Brealy et.al.|[2408.16527v1](http://arxiv.org/abs/2408.16527v1)|
-|**2024-08-29**|**Uni-3DAD: GAN-Inversion Aided Universal 3D Anomaly Detection on Model-free Products**|Jiayu Liu et.al.|[2408.16201v1](http://arxiv.org/abs/2408.16201v1)|
-|**2024-08-29**|**Real-Time Energy Pricing in New Zealand: An Evolving Stream Analysis**|Yibin Sun et.al.|[2408.16187v1](http://arxiv.org/abs/2408.16187v1)|
-|**2024-08-28**|**Efficient Slice Anomaly Detection Network for 3D Brain MRI Volume**|Zeduo Zhang et.al.|[2408.15958v1](http://arxiv.org/abs/2408.15958v1)|
-|**2024-08-28**|**CSAD: Unsupervised Component Segmentation for Logical Anomaly Detection**|Yu-Hsuan Hsieh et.al.|[2408.15628v2](http://arxiv.org/abs/2408.15628v2)|
+|**2024-09-04**|**Anomaly Detection in Offshore Open Radio Access Network Using Long Short-Term Memory Models on a Novel Artificial Intelligence-Driven Cloud-Native Data Platform**|Abdelrahim Ahmad et.al.|[2409.02849v1](http://arxiv.org/abs/2409.02849v1)|
+|**2024-09-03**|**TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model**|Defu Cao et.al.|[2409.02322v1](http://arxiv.org/abs/2409.02322v1)|
+|**2024-09-02**|**AutoEncoder Convolutional Neural Network for Pneumonia Detection**|Michael Nosa-Omoruyi et.al.|[2409.02142v1](http://arxiv.org/abs/2409.02142v1)|
+|**2024-09-02**|**The Role of Transformer Models in Advancing Blockchain Technology: A Systematic Review**|Tianxu Liu et.al.|[2409.02139v1](http://arxiv.org/abs/2409.02139v1)|
+|**2024-09-03**|**Activity-Guided Industrial Anomalous Sound Detection against Interferences**|Yunjoo Lee et.al.|[2409.01885v1](http://arxiv.org/abs/2409.01885v1)|
+|**2024-09-03**|**Interpreting Outliers in Time Series Data through Decoding Autoencoder**|Patrick Knab et.al.|[2409.01713v1](http://arxiv.org/abs/2409.01713v1)|
+|**2024-09-03**|**Improving Robustness of Spectrogram Classifiers with Neural Stochastic Differential Equations**|Joel Brogan et.al.|[2409.01532v1](http://arxiv.org/abs/2409.01532v1)|
+|**2024-09-02**|**VQ-Flow: Taming Normalizing Flows for Multi-Class Anomaly Detection via Hierarchical Vector Quantization**|Yixuan Zhou et.al.|[2409.00942v1](http://arxiv.org/abs/2409.00942v1)|
+|**2024-08-31**|**FADE: Few-shot/zero-shot Anomaly Detection Engine using Large Vision-Language Model**|Yuanwei Li et.al.|[2409.00556v1](http://arxiv.org/abs/2409.00556v1)|
+|**2024-08-30**|**Quantum Machine Learning for Anomaly Detection in Consumer Electronics**|Sounak Bhowmik et.al.|[2409.00294v1](http://arxiv.org/abs/2409.00294v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-08-13**|**Granger causal inference for climate change attribution**|Mark D. Risser et.al.|[2408.16004v1](http://arxiv.org/abs/2408.16004v1)|
+|**2024-09-04**|**Neuromorphic Heart Rate Monitors: Neural State Machines for Monotonic Change Detection**|Alessio Carpegna et.al.|[2409.02618v1](http://arxiv.org/abs/2409.02618v1)|
+|**2024-09-01**|**Change-Aware Siamese Network for Surface Defects Segmentation under Complex Background**|Biyuan Liu et.al.|[2409.00589v1](http://arxiv.org/abs/2409.00589v1)|
 |**2024-08-28**|**ClimDetect: A Benchmark Dataset for Climate Change Detection and Attribution**|Sungduk Yu et.al.|[2408.15993v1](http://arxiv.org/abs/2408.15993v1)|
 |**2024-08-28**|**TempoFormer: A Transformer for Temporally-aware Representations in Change Detection**|Talia Tseriotou et.al.|[2408.15689v1](http://arxiv.org/abs/2408.15689v1)|
 |**2024-08-28**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678v2](http://arxiv.org/abs/2408.15678v2)|
@@ -73,5 +74,4 @@
 |**2024-08-22**|**UMAD: University of Macau Anomaly Detection Benchmark Dataset**|Dong Li et.al.|[2408.12527v1](http://arxiv.org/abs/2408.12527v1)|
 |**2024-08-20**|**Asymmetric Graph Error Control with Low Complexity in Causal Bandits**|Chen Peng et.al.|[2408.11240v1](http://arxiv.org/abs/2408.11240v1)|
 |**2024-08-20**|**Novel Change Detection Framework in Remote Sensing Imagery Using Diffusion Models and Structural Similarity Index (SSIM)**|Andrew Kiruluta et.al.|[2408.10619v1](http://arxiv.org/abs/2408.10619v1)|
-|**2024-08-15**|**Treat Stillness with Movement: Remote Sensing Change Detection via Coarse-grained Temporal Foregrounds Mining**|Xixi Wang et.al.|[2408.08078v1](http://arxiv.org/abs/2408.08078v1)|
 
