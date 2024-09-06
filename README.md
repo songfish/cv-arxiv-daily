@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-05**|**Unsupervised Anomaly Detection and Localization with Generative Adversarial Networks**|Khouloud Abdelli et.al.|[2409.03657v1](http://arxiv.org/abs/2409.03657v1)|
+|**2024-09-05**|**A Dual-Path Framework with Frequency-and-Time Excited Network for Anomalous Sound Detection**|Yucong Zhang et.al.|[2409.03610v1](http://arxiv.org/abs/2409.03610v1)|
+|**2024-09-05**|**Unveiling Context-Related Anomalies: Knowledge Graph Empowered Decoupling of Scene and Action for Human-Related Video Anomaly Detection**|Chenglizhao Chen et.al.|[2409.03236v1](http://arxiv.org/abs/2409.03236v1)|
+|**2024-09-04**|**ADFilter -- A Web Tool for New Physics Searches With Autoencoder-Based Anomaly Detection Using Deep Unsupervised Neural Networks**|Sergei V. Chekanov et.al.|[2409.03065v1](http://arxiv.org/abs/2409.03065v1)|
+|**2024-09-04**|**Oddballness: universal anomaly detection with language models**|Filip Graliński et.al.|[2409.03046v1](http://arxiv.org/abs/2409.03046v1)|
+|**2024-09-04**|**NUMOSIM: A Synthetic Mobility Dataset with Anomaly Detection Benchmarks**|Chris Stanford et.al.|[2409.03024v1](http://arxiv.org/abs/2409.03024v1)|
+|**2024-09-04**|**SDOoop: Capturing Periodical Patterns and Out-of-phase Anomalies in Streaming Data Analysis**|Alexander Hartl et.al.|[2409.02973v1](http://arxiv.org/abs/2409.02973v1)|
 |**2024-09-04**|**Anomaly Detection in Offshore Open Radio Access Network Using Long Short-Term Memory Models on a Novel Artificial Intelligence-Driven Cloud-Native Data Platform**|Abdelrahim Ahmad et.al.|[2409.02849v1](http://arxiv.org/abs/2409.02849v1)|
 |**2024-09-03**|**TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model**|Defu Cao et.al.|[2409.02322v1](http://arxiv.org/abs/2409.02322v1)|
-|**2024-09-02**|**AutoEncoder Convolutional Neural Network for Pneumonia Detection**|Michael Nosa-Omoruyi et.al.|[2409.02142v1](http://arxiv.org/abs/2409.02142v1)|
-|**2024-09-02**|**The Role of Transformer Models in Advancing Blockchain Technology: A Systematic Survey**|Tianxu Liu et.al.|[2409.02139v2](http://arxiv.org/abs/2409.02139v2)|
 |**2024-09-03**|**Activity-Guided Industrial Anomalous Sound Detection against Interferences**|Yunjoo Lee et.al.|[2409.01885v1](http://arxiv.org/abs/2409.01885v1)|
-|**2024-09-03**|**Interpreting Outliers in Time Series Data through Decoding Autoencoder**|Patrick Knab et.al.|[2409.01713v1](http://arxiv.org/abs/2409.01713v1)|
-|**2024-09-03**|**Improving Robustness of Spectrogram Classifiers with Neural Stochastic Differential Equations**|Joel Brogan et.al.|[2409.01532v1](http://arxiv.org/abs/2409.01532v1)|
-|**2024-09-02**|**VQ-Flow: Taming Normalizing Flows for Multi-Class Anomaly Detection via Hierarchical Vector Quantization**|Yixuan Zhou et.al.|[2409.00942v1](http://arxiv.org/abs/2409.00942v1)|
-|**2024-08-31**|**FADE: Few-shot/zero-shot Anomaly Detection Engine using Large Vision-Language Model**|Yuanwei Li et.al.|[2409.00556v1](http://arxiv.org/abs/2409.00556v1)|
-|**2024-08-30**|**Quantum Machine Learning for Anomaly Detection in Consumer Electronics**|Sounak Bhowmik et.al.|[2409.00294v1](http://arxiv.org/abs/2409.00294v1)|
 
 ## change detection
 
