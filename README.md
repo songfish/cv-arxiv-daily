@@ -1,4 +1,4 @@
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 
 ## super-resolution
 
@@ -52,7 +52,7 @@
 |**2024-09-04**|**Anomaly Detection in Offshore Open Radio Access Network Using Long Short-Term Memory Models on a Novel Artificial Intelligence-Driven Cloud-Native Data Platform**|Abdelrahim Ahmad et.al.|[2409.02849v1](http://arxiv.org/abs/2409.02849v1)|
 |**2024-09-03**|**TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model**|Defu Cao et.al.|[2409.02322v1](http://arxiv.org/abs/2409.02322v1)|
 |**2024-09-02**|**AutoEncoder Convolutional Neural Network for Pneumonia Detection**|Michael Nosa-Omoruyi et.al.|[2409.02142v1](http://arxiv.org/abs/2409.02142v1)|
-|**2024-09-02**|**The Role of Transformer Models in Advancing Blockchain Technology: A Systematic Review**|Tianxu Liu et.al.|[2409.02139v1](http://arxiv.org/abs/2409.02139v1)|
+|**2024-09-02**|**The Role of Transformer Models in Advancing Blockchain Technology: A Systematic Survey**|Tianxu Liu et.al.|[2409.02139v2](http://arxiv.org/abs/2409.02139v2)|
 |**2024-09-03**|**Activity-Guided Industrial Anomalous Sound Detection against Interferences**|Yunjoo Lee et.al.|[2409.01885v1](http://arxiv.org/abs/2409.01885v1)|
 |**2024-09-03**|**Interpreting Outliers in Time Series Data through Decoding Autoencoder**|Patrick Knab et.al.|[2409.01713v1](http://arxiv.org/abs/2409.01713v1)|
 |**2024-09-03**|**Improving Robustness of Spectrogram Classifiers with Neural Stochastic Differential Equations**|Joel Brogan et.al.|[2409.01532v1](http://arxiv.org/abs/2409.01532v1)|
