@@ -54,7 +54,7 @@
 |**2024-09-05**|**Unveiling Context-Related Anomalies: Knowledge Graph Empowered Decoupling of Scene and Action for Human-Related Video Anomaly Detection**|Chenglizhao Chen et.al.|[2409.03236v1](http://arxiv.org/abs/2409.03236v1)|
 |**2024-09-04**|**ADFilter -- A Web Tool for New Physics Searches With Autoencoder-Based Anomaly Detection Using Deep Unsupervised Neural Networks**|Sergei V. Chekanov et.al.|[2409.03065v1](http://arxiv.org/abs/2409.03065v1)|
 |**2024-09-04**|**Oddballness: universal anomaly detection with language models**|Filip Graliński et.al.|[2409.03046v1](http://arxiv.org/abs/2409.03046v1)|
-|**2024-09-04**|**NUMOSIM: A Synthetic Mobility Dataset with Anomaly Detection Benchmarks**|Chris Stanford et.al.|[2409.03024v1](http://arxiv.org/abs/2409.03024v1)|
+|**2024-09-04**|**NUMOSIM: A Synthetic Mobility Dataset with Anomaly Detection Benchmarks**|Chris Stanford et.al.|[2409.03024v2](http://arxiv.org/abs/2409.03024v2)|
 |**2024-09-04**|**SDOoop: Capturing Periodical Patterns and Out-of-phase Anomalies in Streaming Data Analysis**|Alexander Hartl et.al.|[2409.02973v1](http://arxiv.org/abs/2409.02973v1)|
 |**2024-09-04**|**Anomaly Detection in Offshore Open Radio Access Network Using Long Short-Term Memory Models on a Novel Artificial Intelligence-Driven Cloud-Native Data Platform**|Abdelrahim Ahmad et.al.|[2409.02849v1](http://arxiv.org/abs/2409.02849v1)|
 |**2024-09-03**|**TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model**|Defu Cao et.al.|[2409.02322v1](http://arxiv.org/abs/2409.02322v1)|
