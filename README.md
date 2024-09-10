@@ -1,4 +1,4 @@
-## Updated on 2024.09.09
+## Updated on 2024.09.10
 
 ## super-resolution
 
@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-09-06**|**{\tt{CLOWN}}: The PASO cloud detection for optimization of automatic optical surveys**|Luís Gonçalves et.al.|[2409.04245v1](http://arxiv.org/abs/2409.04245v1)|
+|**2024-09-06**|**CLOWN: The PASO cloud detection for optimization of automatic optical surveys**|Luís Gonçalves et.al.|[2409.04245v1](http://arxiv.org/abs/2409.04245v1)|
 |**2024-08-29**|**FRAM Next Generation at the Pierre Auger Observatory: cloud monitoring in the age of CMOS cameras**|Jan Ebr et.al.|[2408.16735v1](http://arxiv.org/abs/2408.16735v1)|
 |**2024-07-26**|**MistralBSM: Leveraging Mistral-7B for Vehicular Networks Misbehavior Detection**|Wissal Hamhoum et.al.|[2407.18462v1](http://arxiv.org/abs/2407.18462v1)|
 |**2024-07-10**|**High-Resolution Cloud Detection Network**|Jingsheng Li et.al.|[2407.07365v1](http://arxiv.org/abs/2407.07365v1)|
