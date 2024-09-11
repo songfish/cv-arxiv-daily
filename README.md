@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-10**|**GeMuCo: Generalized Multisensory Correlational Model for Body Schema Learning**|Kento Kawaharazuka et.al.|[2409.06427v1](http://arxiv.org/abs/2409.06427v1)|
+|**2024-09-10**|**Texture-AD: An Anomaly Detection Dataset and Benchmark for Real Algorithm Development**|Tianwu Lei et.al.|[2409.06367v1](http://arxiv.org/abs/2409.06367v1)|
+|**2024-09-10**|**Context Enhancement with Reconstruction as Sequence for Unified Unsupervised Anomaly Detection**|Hui-Yue Yang et.al.|[2409.06285v1](http://arxiv.org/abs/2409.06285v1)|
 |**2024-09-09**|**Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection**|Tianwu Lei et.al.|[2409.05611v1](http://arxiv.org/abs/2409.05611v1)|
 |**2024-09-09**|**A Novel Representation of Periodic Pattern and Its Application to Untrained Anomaly Detection**|Peng Ye et.al.|[2409.05389v1](http://arxiv.org/abs/2409.05389v1)|
 |**2024-09-09**|**Deep Learning for Video Anomaly Detection: A Review**|Peng Wu et.al.|[2409.05383v1](http://arxiv.org/abs/2409.05383v1)|
@@ -56,14 +59,12 @@
 |**2024-09-09**|**GDFlow: Anomaly Detection with NCDE-based Normalizing Flow for Advanced Driver Assistance System**|Kangjun Lee et.al.|[2409.05346v1](http://arxiv.org/abs/2409.05346v1)|
 |**2024-09-08**|**NetDPSyn: Synthesizing Network Traces under Differential Privacy**|Danyu Sun et.al.|[2409.05249v1](http://arxiv.org/abs/2409.05249v1)|
 |**2024-09-08**|**Lung-DETR: Deformable Detection Transformer for Sparse Lung Nodule Anomaly Detection**|Hooman Ramezani et.al.|[2409.05200v1](http://arxiv.org/abs/2409.05200v1)|
-|**2024-09-08**|**2DSig-Detect: a semi-supervised framework for anomaly detection on image data using 2D-signatures**|Xinheng Xie et.al.|[2409.04982v1](http://arxiv.org/abs/2409.04982v1)|
-|**2024-09-08**|**Anomaly Detection for Real-World Cyber-Physical Security using Quantum Hybrid Support Vector Machines**|Tyler Cultice et.al.|[2409.04935v1](http://arxiv.org/abs/2409.04935v1)|
-|**2024-09-07**|**Reducing Events to Augment Log-based Anomaly Detection Models: An Empirical Study**|Lingzhe Zhang et.al.|[2409.04834v1](http://arxiv.org/abs/2409.04834v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-10**|**Towards Generalizable Scene Change Detection**|Jaewoo Kim et.al.|[2409.06214v1](http://arxiv.org/abs/2409.06214v1)|
 |**2024-09-09**|**AnomalyCD: A benchmark for Earth anomaly change detection with high-resolution and time-series observations**|Jingtao Li et.al.|[2409.05679v1](http://arxiv.org/abs/2409.05679v1)|
 |**2024-09-04**|**Neuromorphic Heart Rate Monitors: Neural State Machines for Monotonic Change Detection**|Alessio Carpegna et.al.|[2409.02618v1](http://arxiv.org/abs/2409.02618v1)|
 |**2024-09-01**|**Change-Aware Siamese Network for Surface Defects Segmentation under Complex Background**|Biyuan Liu et.al.|[2409.00589v1](http://arxiv.org/abs/2409.00589v1)|
@@ -73,5 +74,4 @@
 |**2024-08-26**|**Towards Better Comprehension of Breaking Changes in the NPM Ecosystem**|Dezhen Kong et.al.|[2408.14431v1](http://arxiv.org/abs/2408.14431v1)|
 |**2024-08-23**|**Find the Assembly Mistakes: Error Segmentation for Industrial Applications**|Dan Lehman et.al.|[2408.12945v1](http://arxiv.org/abs/2408.12945v1)|
 |**2024-08-22**|**UMAD: University of Macau Anomaly Detection Benchmark Dataset**|Dong Li et.al.|[2408.12527v1](http://arxiv.org/abs/2408.12527v1)|
-|**2024-08-20**|**Asymmetric Graph Error Control with Low Complexity in Causal Bandits**|Chen Peng et.al.|[2408.11240v1](http://arxiv.org/abs/2408.11240v1)|
 
