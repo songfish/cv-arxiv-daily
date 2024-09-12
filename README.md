@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-11**|**A Continual and Incremental Learning Approach for TinyML On-device Training Using Dataset Distillation and Model Size Adaption**|Marcus Rüb et.al.|[2409.07114v1](http://arxiv.org/abs/2409.07114v1)|
+|**2024-09-11**|**Detect anomalous quartic gauge couplings at muon colliders with quantum kernel k-means**|Shuai Zhang et.al.|[2409.07010v1](http://arxiv.org/abs/2409.07010v1)|
+|**2024-09-10**|**Atom dimension adaptation for infinite set dictionary learning**|Andra Băltoiu et.al.|[2409.06831v1](http://arxiv.org/abs/2409.06831v1)|
 |**2024-09-10**|**GeMuCo: Generalized Multisensory Correlational Model for Body Schema Learning**|Kento Kawaharazuka et.al.|[2409.06427v1](http://arxiv.org/abs/2409.06427v1)|
 |**2024-09-10**|**Texture-AD: An Anomaly Detection Dataset and Benchmark for Real Algorithm Development**|Tianwu Lei et.al.|[2409.06367v1](http://arxiv.org/abs/2409.06367v1)|
 |**2024-09-10**|**Context Enhancement with Reconstruction as Sequence for Unified Unsupervised Anomaly Detection**|Hui-Yue Yang et.al.|[2409.06285v1](http://arxiv.org/abs/2409.06285v1)|
@@ -56,9 +59,6 @@
 |**2024-09-09**|**A Novel Representation of Periodic Pattern and Its Application to Untrained Anomaly Detection**|Peng Ye et.al.|[2409.05389v1](http://arxiv.org/abs/2409.05389v1)|
 |**2024-09-09**|**Deep Learning for Video Anomaly Detection: A Review**|Peng Wu et.al.|[2409.05383v1](http://arxiv.org/abs/2409.05383v1)|
 |**2024-09-09**|**Memoryless Multimodal Anomaly Detection via Student-Teacher Network and Signed Distance Learning**|Zhongbin Sun et.al.|[2409.05378v1](http://arxiv.org/abs/2409.05378v1)|
-|**2024-09-09**|**GDFlow: Anomaly Detection with NCDE-based Normalizing Flow for Advanced Driver Assistance System**|Kangjun Lee et.al.|[2409.05346v1](http://arxiv.org/abs/2409.05346v1)|
-|**2024-09-08**|**NetDPSyn: Synthesizing Network Traces under Differential Privacy**|Danyu Sun et.al.|[2409.05249v1](http://arxiv.org/abs/2409.05249v1)|
-|**2024-09-08**|**Lung-DETR: Deformable Detection Transformer for Sparse Lung Nodule Anomaly Detection**|Hooman Ramezani et.al.|[2409.05200v1](http://arxiv.org/abs/2409.05200v1)|
 
 ## change detection
 
