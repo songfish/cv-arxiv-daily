@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-11**|**Unsupervised anomaly detection in spatio-temporal stream network sensor data**|Edgar Santos-Fernandez et.al.|[2409.07667v1](http://arxiv.org/abs/2409.07667v1)|
+|**2024-09-11**|**Ensemble Methods for Sequence Classification with Hidden Markov Models**|Maxime Kawawa-Beaudan et.al.|[2409.07619v1](http://arxiv.org/abs/2409.07619v1)|
+|**2024-09-11**|**A Survey of Anomaly Detection in In-Vehicle Networks**|Övgü Özdemir et.al.|[2409.07505v1](http://arxiv.org/abs/2409.07505v1)|
 |**2024-09-11**|**A Continual and Incremental Learning Approach for TinyML On-device Training Using Dataset Distillation and Model Size Adaption**|Marcus Rüb et.al.|[2409.07114v1](http://arxiv.org/abs/2409.07114v1)|
 |**2024-09-11**|**Detect anomalous quartic gauge couplings at muon colliders with quantum kernel k-means**|Shuai Zhang et.al.|[2409.07010v1](http://arxiv.org/abs/2409.07010v1)|
 |**2024-09-10**|**Atom dimension adaptation for infinite set dictionary learning**|Andra Băltoiu et.al.|[2409.06831v1](http://arxiv.org/abs/2409.06831v1)|
@@ -56,14 +59,12 @@
 |**2024-09-10**|**Texture-AD: An Anomaly Detection Dataset and Benchmark for Real Algorithm Development**|Tianwu Lei et.al.|[2409.06367v1](http://arxiv.org/abs/2409.06367v1)|
 |**2024-09-10**|**Context Enhancement with Reconstruction as Sequence for Unified Unsupervised Anomaly Detection**|Hui-Yue Yang et.al.|[2409.06285v1](http://arxiv.org/abs/2409.06285v1)|
 |**2024-09-09**|**Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection**|Tianwu Lei et.al.|[2409.05611v1](http://arxiv.org/abs/2409.05611v1)|
-|**2024-09-09**|**A Novel Representation of Periodic Pattern and Its Application to Untrained Anomaly Detection**|Peng Ye et.al.|[2409.05389v1](http://arxiv.org/abs/2409.05389v1)|
-|**2024-09-09**|**Deep Learning for Video Anomaly Detection: A Review**|Peng Wu et.al.|[2409.05383v1](http://arxiv.org/abs/2409.05383v1)|
-|**2024-09-09**|**Memoryless Multimodal Anomaly Detection via Student-Teacher Network and Signed Distance Learning**|Zhongbin Sun et.al.|[2409.05378v1](http://arxiv.org/abs/2409.05378v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-12**|**Quickest Change Detection Using Mismatched CUSUM**|Austin Cooper et.al.|[2409.07948v1](http://arxiv.org/abs/2409.07948v1)|
 |**2024-09-10**|**Towards Generalizable Scene Change Detection**|Jaewoo Kim et.al.|[2409.06214v1](http://arxiv.org/abs/2409.06214v1)|
 |**2024-09-09**|**AnomalyCD: A benchmark for Earth anomaly change detection with high-resolution and time-series observations**|Jingtao Li et.al.|[2409.05679v1](http://arxiv.org/abs/2409.05679v1)|
 |**2024-09-04**|**Neuromorphic Heart Rate Monitors: Neural State Machines for Monotonic Change Detection**|Alessio Carpegna et.al.|[2409.02618v1](http://arxiv.org/abs/2409.02618v1)|
@@ -73,5 +74,4 @@
 |**2024-08-28**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678v2](http://arxiv.org/abs/2408.15678v2)|
 |**2024-08-26**|**Towards Better Comprehension of Breaking Changes in the NPM Ecosystem**|Dezhen Kong et.al.|[2408.14431v1](http://arxiv.org/abs/2408.14431v1)|
 |**2024-08-23**|**Find the Assembly Mistakes: Error Segmentation for Industrial Applications**|Dan Lehman et.al.|[2408.12945v1](http://arxiv.org/abs/2408.12945v1)|
-|**2024-08-22**|**UMAD: University of Macau Anomaly Detection Benchmark Dataset**|Dong Li et.al.|[2408.12527v1](http://arxiv.org/abs/2408.12527v1)|
 
