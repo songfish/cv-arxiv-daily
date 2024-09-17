@@ -49,21 +49,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-16**|**Real-bogus scores for active anomaly detection**|T. A. Semenikhin et.al.|[2409.10256v1](http://arxiv.org/abs/2409.10256v1)|
+|**2024-09-16**|**Enhancing Anomaly Detection via Generating Diversified and Hard-to-distinguish Synthetic Anomalies**|Hyuntae Kim et.al.|[2409.10069v1](http://arxiv.org/abs/2409.10069v1)|
+|**2024-09-16**|**Deep Graph Anomaly Detection: A Survey and New Perspectives**|Hezhe Qiao et.al.|[2409.09957v1](http://arxiv.org/abs/2409.09957v1)|
+|**2024-09-15**|**Abnormal Event Detection In Videos Using Deep Embedding**|Darshan Venkatrayappa et.al.|[2409.09804v1](http://arxiv.org/abs/2409.09804v1)|
+|**2024-09-15**|**Towards Multi-view Graph Anomaly Detection with Similarity-Guided Contrastive Clustering**|Lecheng Zheng et.al.|[2409.09770v1](http://arxiv.org/abs/2409.09770v1)|
+|**2024-09-15**|**OML-AD: Online Machine Learning for Anomaly Detection in Time Series Data**|Sebastian Wette et.al.|[2409.09742v1](http://arxiv.org/abs/2409.09742v1)|
+|**2024-09-14**|**Matrix Profile for Anomaly Detection on Multidimensional Time Series**|Chin-Chia Michael Yeh et.al.|[2409.09298v1](http://arxiv.org/abs/2409.09298v1)|
 |**2024-09-13**|**Optimal Classification-based Anomaly Detection with Neural Networks: Theory and Practice**|Tian-Yi Zhou et.al.|[2409.08521v1](http://arxiv.org/abs/2409.08521v1)|
 |**2024-09-11**|**Unsupervised anomaly detection in spatio-temporal stream network sensor data**|Edgar Santos-Fernandez et.al.|[2409.07667v1](http://arxiv.org/abs/2409.07667v1)|
 |**2024-09-11**|**Ensemble Methods for Sequence Classification with Hidden Markov Models**|Maxime Kawawa-Beaudan et.al.|[2409.07619v1](http://arxiv.org/abs/2409.07619v1)|
-|**2024-09-11**|**A Survey of Anomaly Detection in In-Vehicle Networks**|Övgü Özdemir et.al.|[2409.07505v1](http://arxiv.org/abs/2409.07505v1)|
-|**2024-09-11**|**A Continual and Incremental Learning Approach for TinyML On-device Training Using Dataset Distillation and Model Size Adaption**|Marcus Rüb et.al.|[2409.07114v1](http://arxiv.org/abs/2409.07114v1)|
-|**2024-09-11**|**Detect anomalous quartic gauge couplings at muon colliders with quantum kernel k-means**|Shuai Zhang et.al.|[2409.07010v1](http://arxiv.org/abs/2409.07010v1)|
-|**2024-09-10**|**Atom dimension adaptation for infinite set dictionary learning**|Andra Băltoiu et.al.|[2409.06831v1](http://arxiv.org/abs/2409.06831v1)|
-|**2024-09-10**|**GeMuCo: Generalized Multisensory Correlational Model for Body Schema Learning**|Kento Kawaharazuka et.al.|[2409.06427v1](http://arxiv.org/abs/2409.06427v1)|
-|**2024-09-10**|**Texture-AD: An Anomaly Detection Dataset and Benchmark for Real Algorithm Development**|Tianwu Lei et.al.|[2409.06367v1](http://arxiv.org/abs/2409.06367v1)|
-|**2024-09-10**|**Context Enhancement with Reconstruction as Sequence for Unified Unsupervised Anomaly Detection**|Hui-Yue Yang et.al.|[2409.06285v1](http://arxiv.org/abs/2409.06285v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-16**|**ExelMap: Explainable Element-based HD-Map Change Detection and Update**|Lena Wild et.al.|[2409.10178v1](http://arxiv.org/abs/2409.10178v1)|
+|**2024-09-15**|**High Definition Map Mapping and Update: A General Overview and Future Directions**|Benny Wijaya et.al.|[2409.09726v1](http://arxiv.org/abs/2409.09726v1)|
 |**2024-09-13**|**ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning**|Pei Deng et.al.|[2409.08582v1](http://arxiv.org/abs/2409.08582v1)|
 |**2024-09-12**|**Quickest Change Detection Using Mismatched CUSUM**|Austin Cooper et.al.|[2409.07948v1](http://arxiv.org/abs/2409.07948v1)|
 |**2024-09-10**|**Towards Generalizable Scene Change Detection**|Jaewoo Kim et.al.|[2409.06214v1](http://arxiv.org/abs/2409.06214v1)|
@@ -72,6 +74,4 @@
 |**2024-09-01**|**Change-Aware Siamese Network for Surface Defects Segmentation under Complex Background**|Biyuan Liu et.al.|[2409.00589v1](http://arxiv.org/abs/2409.00589v1)|
 |**2024-08-28**|**ClimDetect: A Benchmark Dataset for Climate Change Detection and Attribution**|Sungduk Yu et.al.|[2408.15993v1](http://arxiv.org/abs/2408.15993v1)|
 |**2024-08-28**|**TempoFormer: A Transformer for Temporally-aware Representations in Change Detection**|Talia Tseriotou et.al.|[2408.15689v1](http://arxiv.org/abs/2408.15689v1)|
-|**2024-08-28**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678v2](http://arxiv.org/abs/2408.15678v2)|
-|**2024-08-26**|**Towards Better Comprehension of Breaking Changes in the NPM Ecosystem**|Dezhen Kong et.al.|[2408.14431v1](http://arxiv.org/abs/2408.14431v1)|
 
