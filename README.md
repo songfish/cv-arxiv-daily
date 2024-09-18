@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-17**|**Physical conditions in Centaurus A's northern filaments II: Does the HCO$^+$ emission highlight the presence of shocks?**|Quentin Salomé et.al.|[2409.11031v1](http://arxiv.org/abs/2409.11031v1)|
+|**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018v1](http://arxiv.org/abs/2409.11018v1)|
 |**2024-09-06**|**CLOWN: The PASO cloud detection for optimization of automatic optical surveys**|Luís Gonçalves et.al.|[2409.04245v1](http://arxiv.org/abs/2409.04245v1)|
 |**2024-08-29**|**FRAM Next Generation at the Pierre Auger Observatory: cloud monitoring in the age of CMOS cameras**|Jan Ebr et.al.|[2408.16735v1](http://arxiv.org/abs/2408.16735v1)|
 |**2024-07-26**|**MistralBSM: Leveraging Mistral-7B for Vehicular Networks Misbehavior Detection**|Wissal Hamhoum et.al.|[2407.18462v1](http://arxiv.org/abs/2407.18462v1)|
@@ -27,8 +29,6 @@
 |**2024-05-08**|**CloudSense: A Model for Cloud Type Identification using Machine Learning from Radar data**|Mehzooz Nizar et.al.|[2405.05988v1](http://arxiv.org/abs/2405.05988v1)|
 |**2024-05-04**|**Machine Learning in Space: Surveying the Robustness of on-board ML models to Radiation**|Kevin Lange et.al.|[2405.02642v2](http://arxiv.org/abs/2405.02642v2)|
 |**2024-03-13**|**Limits on the OH Molecule in the Smith High Velocity Cloud**|Anthony H. Minter et.al.|[2403.08704v1](http://arxiv.org/abs/2403.08704v1)|
-|**2024-03-13**|**Deep Learning for In-Orbit Cloud Segmentation and Classification in Hyperspectral Satellite Data**|Daniel Kovac et.al.|[2403.08695v1](http://arxiv.org/abs/2403.08695v1)|
-|**2024-03-01**|**Cloud properties across spatial scales in simulations of the interstellar medium**|Tine Colman et.al.|[2403.00512v1](http://arxiv.org/abs/2403.00512v1)|
 
 ## abnormal detection
 
@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-17**|**An Empirical Study of Sensitive Information in Logs**|Roozbeh Aghili et.al.|[2409.11313v1](http://arxiv.org/abs/2409.11313v1)|
+|**2024-09-17**|**Multimodal Attention-Enhanced Feature Fusion-based Weekly Supervised Anomaly Violence Detection**|Yuta Kaneko et.al.|[2409.11223v1](http://arxiv.org/abs/2409.11223v1)|
+|**2024-09-17**|**Fair Anomaly Detection For Imbalanced Groups**|Ziwei Wu et.al.|[2409.10951v1](http://arxiv.org/abs/2409.10951v1)|
 |**2024-09-16**|**Real-bogus scores for active anomaly detection**|T. A. Semenikhin et.al.|[2409.10256v1](http://arxiv.org/abs/2409.10256v1)|
 |**2024-09-16**|**Enhancing Anomaly Detection via Generating Diversified and Hard-to-distinguish Synthetic Anomalies**|Hyuntae Kim et.al.|[2409.10069v1](http://arxiv.org/abs/2409.10069v1)|
 |**2024-09-16**|**Deep Graph Anomaly Detection: A Survey and New Perspectives**|Hezhe Qiao et.al.|[2409.09957v1](http://arxiv.org/abs/2409.09957v1)|
@@ -56,9 +59,6 @@
 |**2024-09-15**|**Towards Multi-view Graph Anomaly Detection with Similarity-Guided Contrastive Clustering**|Lecheng Zheng et.al.|[2409.09770v1](http://arxiv.org/abs/2409.09770v1)|
 |**2024-09-15**|**OML-AD: Online Machine Learning for Anomaly Detection in Time Series Data**|Sebastian Wette et.al.|[2409.09742v1](http://arxiv.org/abs/2409.09742v1)|
 |**2024-09-14**|**Matrix Profile for Anomaly Detection on Multidimensional Time Series**|Chin-Chia Michael Yeh et.al.|[2409.09298v1](http://arxiv.org/abs/2409.09298v1)|
-|**2024-09-13**|**Optimal Classification-based Anomaly Detection with Neural Networks: Theory and Practice**|Tian-Yi Zhou et.al.|[2409.08521v1](http://arxiv.org/abs/2409.08521v1)|
-|**2024-09-11**|**Unsupervised anomaly detection in spatio-temporal stream network sensor data**|Edgar Santos-Fernandez et.al.|[2409.07667v1](http://arxiv.org/abs/2409.07667v1)|
-|**2024-09-11**|**Ensemble Methods for Sequence Classification with Hidden Markov Models**|Maxime Kawawa-Beaudan et.al.|[2409.07619v1](http://arxiv.org/abs/2409.07619v1)|
 
 ## change detection
 
