@@ -1,4 +1,4 @@
-## Updated on 2024.09.18
+## Updated on 2024.09.25
 
 ## super-resolution
 
@@ -10,7 +10,7 @@
 |**2024-01-16**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v2](http://arxiv.org/abs/2401.08115v2)|
 |**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633v1](http://arxiv.org/abs/2401.05633v1)|
 |**2023-12-27**|**Learn From Orientation Prior for Radiograph Super-Resolution: Orientation Operator Transformer**|Yongsong Huang et.al.|[2312.16455v1](http://arxiv.org/abs/2312.16455v1)|
-|**2023-12-24**|**Perception-Distortion Balanced Super-Resolution: A Multi-Objective Optimization Perspective**|Lingchen Sun et.al.|[2312.15408v1](http://arxiv.org/abs/2312.15408v1)|
+|**2023-12-24**|**Perception-Distortion Balanced Super-Resolution: A Multi-Objective Optimization Perspective**|Lingchen Sun et.al.|[2312.15408v2](http://arxiv.org/abs/2312.15408v2)|
 |**2023-12-20**|**Learning Exhaustive Correlation for Spectral Super-Resolution: Where Spatial-Spectral Attention Meets Linear Dependence**|Hongyuan Wang et.al.|[2312.12833v2](http://arxiv.org/abs/2312.12833v2)|
 |**2023-11-28**|**Super-Resolution through StyleGAN Regularized Latent Search: A Realism-Fidelity Trade-off**|Marzieh Gheisari et.al.|[2311.16923v1](http://arxiv.org/abs/2311.16923v1)|
 |**2023-11-16**|**Redefining Super-Resolution: Fine-mesh PDE predictions without classical simulations**|Rajat Kumar Sarkar et.al.|[2311.09740v3](http://arxiv.org/abs/2311.09740v3)|
@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-09-17**|**Physical conditions in Centaurus A's northern filaments II: Does the HCO$^+$ emission highlight the presence of shocks?**|Quentin Salomé et.al.|[2409.11031v1](http://arxiv.org/abs/2409.11031v1)|
+|**2024-09-17**|**Physical conditions in Centaurus A's northern filaments II: Does the HCO$^+$ emission highlight the presence of shocks?**|Quentin Salomé et.al.|[2409.11031v2](http://arxiv.org/abs/2409.11031v2)|
 |**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018v1](http://arxiv.org/abs/2409.11018v1)|
 |**2024-09-06**|**CLOWN: The PASO cloud detection for optimization of automatic optical surveys**|Luís Gonçalves et.al.|[2409.04245v1](http://arxiv.org/abs/2409.04245v1)|
 |**2024-08-29**|**FRAM Next Generation at the Pierre Auger Observatory: cloud monitoring in the age of CMOS cameras**|Jan Ebr et.al.|[2408.16735v1](http://arxiv.org/abs/2408.16735v1)|
@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-18**|**Log2graphs: An Unsupervised Framework for Log Anomaly Detection with Efficient Feature Extraction**|Caihong Wang et.al.|[2409.11890v1](http://arxiv.org/abs/2409.11890v1)|
+|**2024-09-18**|**Constraint Guided AutoEncoders for Joint Optimization of Condition Indicator Estimation and Anomaly Detection in Machine Condition Monitoring**|Maarten Meire et.al.|[2409.11807v1](http://arxiv.org/abs/2409.11807v1)|
+|**2024-09-18**|**PieClam: A Universal Graph Autoencoder Based on Overlapping Inclusive and Exclusive Communities**|Daniel Zilberg et.al.|[2409.11618v1](http://arxiv.org/abs/2409.11618v1)|
+|**2024-09-17**|**Unsupervised Hybrid framework for ANomaly Detection (HAND) -- applied to Screening Mammogram**|Zhemin Zhang et.al.|[2409.11534v1](http://arxiv.org/abs/2409.11534v1)|
+|**2024-09-17**|**Adaptive Anomaly Detection in Network Flows with Low-Rank Tensor Decompositions and Deep Unrolling**|Lukas Schynol et.al.|[2409.11529v1](http://arxiv.org/abs/2409.11529v1)|
 |**2024-09-17**|**An Empirical Study of Sensitive Information in Logs**|Roozbeh Aghili et.al.|[2409.11313v1](http://arxiv.org/abs/2409.11313v1)|
 |**2024-09-17**|**Multimodal Attention-Enhanced Feature Fusion-based Weekly Supervised Anomaly Violence Detection**|Yuta Kaneko et.al.|[2409.11223v1](http://arxiv.org/abs/2409.11223v1)|
 |**2024-09-17**|**Fair Anomaly Detection For Imbalanced Groups**|Ziwei Wu et.al.|[2409.10951v1](http://arxiv.org/abs/2409.10951v1)|
 |**2024-09-16**|**Real-bogus scores for active anomaly detection**|T. A. Semenikhin et.al.|[2409.10256v1](http://arxiv.org/abs/2409.10256v1)|
 |**2024-09-16**|**Enhancing Anomaly Detection via Generating Diversified and Hard-to-distinguish Synthetic Anomalies**|Hyuntae Kim et.al.|[2409.10069v1](http://arxiv.org/abs/2409.10069v1)|
-|**2024-09-16**|**Deep Graph Anomaly Detection: A Survey and New Perspectives**|Hezhe Qiao et.al.|[2409.09957v1](http://arxiv.org/abs/2409.09957v1)|
-|**2024-09-15**|**Abnormal Event Detection In Videos Using Deep Embedding**|Darshan Venkatrayappa et.al.|[2409.09804v1](http://arxiv.org/abs/2409.09804v1)|
-|**2024-09-15**|**Towards Multi-view Graph Anomaly Detection with Similarity-Guided Contrastive Clustering**|Lecheng Zheng et.al.|[2409.09770v1](http://arxiv.org/abs/2409.09770v1)|
-|**2024-09-15**|**OML-AD: Online Machine Learning for Anomaly Detection in Time Series Data**|Sebastian Wette et.al.|[2409.09742v1](http://arxiv.org/abs/2409.09742v1)|
-|**2024-09-14**|**Matrix Profile for Anomaly Detection on Multidimensional Time Series**|Chin-Chia Michael Yeh et.al.|[2409.09298v1](http://arxiv.org/abs/2409.09298v1)|
 
 ## change detection
 
