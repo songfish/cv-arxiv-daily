@@ -1,4 +1,4 @@
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 
 ## super-resolution
 
@@ -49,21 +49,24 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-09-18**|**Log2graphs: An Unsupervised Framework for Log Anomaly Detection with Efficient Feature Extraction**|Caihong Wang et.al.|[2409.11890v1](http://arxiv.org/abs/2409.11890v1)|
-|**2024-09-18**|**Constraint Guided AutoEncoders for Joint Optimization of Condition Indicator Estimation and Anomaly Detection in Machine Condition Monitoring**|Maarten Meire et.al.|[2409.11807v1](http://arxiv.org/abs/2409.11807v1)|
-|**2024-09-18**|**PieClam: A Universal Graph Autoencoder Based on Overlapping Inclusive and Exclusive Communities**|Daniel Zilberg et.al.|[2409.11618v1](http://arxiv.org/abs/2409.11618v1)|
-|**2024-09-17**|**Unsupervised Hybrid framework for ANomaly Detection (HAND) -- applied to Screening Mammogram**|Zhemin Zhang et.al.|[2409.11534v1](http://arxiv.org/abs/2409.11534v1)|
-|**2024-09-17**|**Adaptive Anomaly Detection in Network Flows with Low-Rank Tensor Decompositions and Deep Unrolling**|Lukas Schynol et.al.|[2409.11529v1](http://arxiv.org/abs/2409.11529v1)|
-|**2024-09-17**|**An Empirical Study of Sensitive Information in Logs**|Roozbeh Aghili et.al.|[2409.11313v1](http://arxiv.org/abs/2409.11313v1)|
-|**2024-09-17**|**Multimodal Attention-Enhanced Feature Fusion-based Weekly Supervised Anomaly Violence Detection**|Yuta Kaneko et.al.|[2409.11223v1](http://arxiv.org/abs/2409.11223v1)|
-|**2024-09-17**|**Fair Anomaly Detection For Imbalanced Groups**|Ziwei Wu et.al.|[2409.10951v1](http://arxiv.org/abs/2409.10951v1)|
-|**2024-09-16**|**Real-bogus scores for active anomaly detection**|T. A. Semenikhin et.al.|[2409.10256v1](http://arxiv.org/abs/2409.10256v1)|
-|**2024-09-16**|**Enhancing Anomaly Detection via Generating Diversified and Hard-to-distinguish Synthetic Anomalies**|Hyuntae Kim et.al.|[2409.10069v1](http://arxiv.org/abs/2409.10069v1)|
+|**2024-09-24**|**VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection**|Sunghyun Ahn et.al.|[2409.16225v1](http://arxiv.org/abs/2409.16225v1)|
+|**2024-09-24**|**Exploring the Impact of Outlier Variability on Anomaly Detection Evaluation Metrics**|Minjae Ok et.al.|[2409.15986v1](http://arxiv.org/abs/2409.15986v1)|
+|**2024-09-24**|**Leveraging Unsupervised Learning for Cost-Effective Visual Anomaly Detection**|Yunbo Long et.al.|[2409.15980v1](http://arxiv.org/abs/2409.15980v1)|
+|**2024-09-24**|**A Multi-Level Approach for Class Imbalance Problem in Federated Learning for Remote Industry 4.0 Applications**|Razin Farhan Hussain et.al.|[2409.15802v1](http://arxiv.org/abs/2409.15802v1)|
+|**2024-09-23**|**MotifDisco: Motif Causal Discovery For Time Series Motifs**|Josephine Lamp et.al.|[2409.15219v1](http://arxiv.org/abs/2409.15219v1)|
+|**2024-09-23**|**Anomaly Detection from a Tensor Train Perspective**|Alejandro Mata Ali et.al.|[2409.15030v1](http://arxiv.org/abs/2409.15030v1)|
+|**2024-09-23**|**VARADE: a Variational-based AutoRegressive model for Anomaly Detection on the Edge**|Alessio Mascolini et.al.|[2409.14816v1](http://arxiv.org/abs/2409.14816v1)|
+|**2024-09-23**|**Research on Dynamic Data Flow Anomaly Detection based on Machine Learning**|Liyang Wang et.al.|[2409.14796v1](http://arxiv.org/abs/2409.14796v1)|
+|**2024-09-22**|**LatentQGAN: A Hybrid QGAN with Classical Convolutional Autoencoder**|Vieloszynski Alexis et.al.|[2409.14622v1](http://arxiv.org/abs/2409.14622v1)|
+|**2024-09-22**|**Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding**|Yan Shu et.al.|[2409.14485v2](http://arxiv.org/abs/2409.14485v2)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-23**|**ZeroSCD: Zero-Shot Street Scene Change Detection**|Shyam Sundar Kannan et.al.|[2409.15255v1](http://arxiv.org/abs/2409.15255v1)|
+|**2024-09-23**|**Cross Branch Feature Fusion Decoder for Consistency Regularization-based Semi-Supervised Change Detection**|Yan Xing et.al.|[2409.15021v1](http://arxiv.org/abs/2409.15021v1)|
+|**2024-09-19**|**Enhancing Perception of Key Changes in Remote Sensing Image Change Captioning**|Cong Yang et.al.|[2409.12612v1](http://arxiv.org/abs/2409.12612v1)|
 |**2024-09-16**|**ExelMap: Explainable Element-based HD-Map Change Detection and Update**|Lena Wild et.al.|[2409.10178v1](http://arxiv.org/abs/2409.10178v1)|
 |**2024-09-15**|**High Definition Map Mapping and Update: A General Overview and Future Directions**|Benny Wijaya et.al.|[2409.09726v1](http://arxiv.org/abs/2409.09726v1)|
 |**2024-09-13**|**ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning**|Pei Deng et.al.|[2409.08582v1](http://arxiv.org/abs/2409.08582v1)|
@@ -71,7 +74,4 @@
 |**2024-09-10**|**Towards Generalizable Scene Change Detection**|Jaewoo Kim et.al.|[2409.06214v1](http://arxiv.org/abs/2409.06214v1)|
 |**2024-09-09**|**AnomalyCD: A benchmark for Earth anomaly change detection with high-resolution and time-series observations**|Jingtao Li et.al.|[2409.05679v1](http://arxiv.org/abs/2409.05679v1)|
 |**2024-09-04**|**Neuromorphic Heart Rate Monitors: Neural State Machines for Monotonic Change Detection**|Alessio Carpegna et.al.|[2409.02618v1](http://arxiv.org/abs/2409.02618v1)|
-|**2024-09-01**|**Change-Aware Siamese Network for Surface Defects Segmentation under Complex Background**|Biyuan Liu et.al.|[2409.00589v1](http://arxiv.org/abs/2409.00589v1)|
-|**2024-08-28**|**ClimDetect: A Benchmark Dataset for Climate Change Detection and Attribution**|Sungduk Yu et.al.|[2408.15993v1](http://arxiv.org/abs/2408.15993v1)|
-|**2024-08-28**|**TempoFormer: A Transformer for Temporally-aware Representations in Change Detection**|Talia Tseriotou et.al.|[2408.15689v1](http://arxiv.org/abs/2408.15689v1)|
 
