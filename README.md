@@ -1,4 +1,4 @@
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 
 ## super-resolution
 
@@ -50,13 +50,13 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2024-09-25**|**XAI-guided Insulator Anomaly Detection for Imbalanced Datasets**|Maximilian Andreas Hoefler et.al.|[2409.16821v1](http://arxiv.org/abs/2409.16821v1)|
-|**2024-09-24**|**VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection**|Sunghyun Ahn et.al.|[2409.16225v1](http://arxiv.org/abs/2409.16225v1)|
+|**2024-09-24**|**VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection**|Sunghyun Ahn et.al.|[2409.16225v2](http://arxiv.org/abs/2409.16225v2)|
 |**2024-09-24**|**Exploring the Impact of Outlier Variability on Anomaly Detection Evaluation Metrics**|Minjae Ok et.al.|[2409.15986v1](http://arxiv.org/abs/2409.15986v1)|
 |**2024-09-24**|**Leveraging Unsupervised Learning for Cost-Effective Visual Anomaly Detection**|Yunbo Long et.al.|[2409.15980v1](http://arxiv.org/abs/2409.15980v1)|
 |**2024-09-24**|**A Multi-Level Approach for Class Imbalance Problem in Federated Learning for Remote Industry 4.0 Applications**|Razin Farhan Hussain et.al.|[2409.15802v1](http://arxiv.org/abs/2409.15802v1)|
 |**2024-09-23**|**MotifDisco: Motif Causal Discovery For Time Series Motifs**|Josephine Lamp et.al.|[2409.15219v1](http://arxiv.org/abs/2409.15219v1)|
 |**2024-09-23**|**Anomaly Detection from a Tensor Train Perspective**|Alejandro Mata Ali et.al.|[2409.15030v1](http://arxiv.org/abs/2409.15030v1)|
-|**2024-09-23**|**VARADE: a Variational-based AutoRegressive model for Anomaly Detection on the Edge**|Alessio Mascolini et.al.|[2409.14816v1](http://arxiv.org/abs/2409.14816v1)|
+|**2024-09-23**|**VARADE: a Variational-based AutoRegressive model for Anomaly Detection on the Edge**|Alessio Mascolini et.al.|[2409.14816v2](http://arxiv.org/abs/2409.14816v2)|
 |**2024-09-23**|**Research on Dynamic Data Flow Anomaly Detection based on Machine Learning**|Liyang Wang et.al.|[2409.14796v1](http://arxiv.org/abs/2409.14796v1)|
 |**2024-09-22**|**LatentQGAN: A Hybrid QGAN with Classical Convolutional Autoencoder**|Vieloszynski Alexis et.al.|[2409.14622v1](http://arxiv.org/abs/2409.14622v1)|
 
