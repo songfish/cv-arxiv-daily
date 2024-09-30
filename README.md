@@ -1,4 +1,4 @@
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 
 ## super-resolution
 
@@ -54,7 +54,7 @@
 |**2024-09-26**|**Revisiting Deep Ensemble Uncertainty for Enhanced Medical Anomaly Detection**|Yi Gu et.al.|[2409.17485v1](http://arxiv.org/abs/2409.17485v1)|
 |**2024-09-25**|**VL4AD: Vision-Language Models Improve Pixel-wise Anomaly Detection**|Liangyu Zhong et.al.|[2409.17330v1](http://arxiv.org/abs/2409.17330v1)|
 |**2024-09-25**|**XAI-guided Insulator Anomaly Detection for Imbalanced Datasets**|Maximilian Andreas Hoefler et.al.|[2409.16821v1](http://arxiv.org/abs/2409.16821v1)|
-|**2024-09-24**|**VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection**|Sunghyun Ahn et.al.|[2409.16225v2](http://arxiv.org/abs/2409.16225v2)|
+|**2024-09-24**|**VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection**|Sunghyun Ahn et.al.|[2409.16225v3](http://arxiv.org/abs/2409.16225v3)|
 |**2024-09-24**|**Exploring the Impact of Outlier Variability on Anomaly Detection Evaluation Metrics**|Minjae Ok et.al.|[2409.15986v1](http://arxiv.org/abs/2409.15986v1)|
 |**2024-09-24**|**Leveraging Unsupervised Learning for Cost-Effective Visual Anomaly Detection**|Yunbo Long et.al.|[2409.15980v1](http://arxiv.org/abs/2409.15980v1)|
 |**2024-09-24**|**A Multi-Level Approach for Class Imbalance Problem in Federated Learning for Remote Industry 4.0 Applications**|Razin Farhan Hussain et.al.|[2409.15802v1](http://arxiv.org/abs/2409.15802v1)|
