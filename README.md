@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-01**|**AI Persuasion, Bayesian Attribution, and Career Concerns of Doctors**|Hanzhe Li et.al.|[2410.01114v1](http://arxiv.org/abs/2410.01114v1)|
 |**2024-08-27**|**Bayesian Inference General Procedures for A Single-subject Test Study**|Jie Li et.al.|[2408.15419v3](http://arxiv.org/abs/2408.15419v3)|
 |**2024-08-17**|**FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated Knowledge Injection**|Jiaqi Wang et.al.|[2408.09227v1](http://arxiv.org/abs/2408.09227v1)|
 |**2024-07-23**|**Hyperbolic embedding of brain networks detects regions disrupted by neurodegeneration**|Alice Longhena et.al.|[2407.16589v1](http://arxiv.org/abs/2407.16589v1)|
@@ -43,22 +44,21 @@
 |**2024-05-22**|**Detecting Gait Abnormalities in Foot-Floor Contacts During Walking Through Footstep-Induced Structural Vibrations**|Yiwen Dong et.al.|[2405.13996v2](http://arxiv.org/abs/2405.13996v2)|
 |**2024-05-09**|**MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI**|Yan Zhuang et.al.|[2405.05944v2](http://arxiv.org/abs/2405.05944v2)|
 |**2024-05-09**|**Artificial intelligence for abnormality detection in high volume neuroimaging: a systematic review and meta-analysis**|Siddharth Agarwal et.al.|[2405.05658v1](http://arxiv.org/abs/2405.05658v1)|
-|**2024-05-05**|**A self-supervised text-vision framework for automated brain abnormality detection**|David A. Wood et.al.|[2405.02782v2](http://arxiv.org/abs/2405.02782v2)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-02**|**RADAR: Robust Two-stage Modality-incomplete Industrial Anomaly Detection**|Bingchen Miao et.al.|[2410.01737v1](http://arxiv.org/abs/2410.01737v1)|
+|**2024-10-02**|**LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**|Dexuan Ding et.al.|[2410.01506v1](http://arxiv.org/abs/2410.01506v1)|
+|**2024-10-02**|**Uncertainty-aware Human Mobility Modeling and Anomaly Detection**|Haomin Wen et.al.|[2410.01281v1](http://arxiv.org/abs/2410.01281v1)|
+|**2024-10-01**|**Finding radio transients with anomaly detection and active learning based on volunteer classifications**|Alex Andersson et.al.|[2410.01034v1](http://arxiv.org/abs/2410.01034v1)|
+|**2024-10-01**|**Back to Bayesics: Uncovering Human Mobility Distributions and Anomalies with an Integrated Statistical and Neural Framework**|Minxuan Duan et.al.|[2410.01011v1](http://arxiv.org/abs/2410.01011v1)|
+|**2024-10-01**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al.|[2410.00713v1](http://arxiv.org/abs/2410.00713v1)|
+|**2024-10-01**|**PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al.|[2410.00320v1](http://arxiv.org/abs/2410.00320v1)|
 |**2024-09-30**|**What Information Contributes to Log-based Anomaly Detection? Insights from a Configurable Transformer-Based Approach**|Xingfang Wu et.al.|[2409.20503v1](http://arxiv.org/abs/2409.20503v1)|
 |**2024-09-30**|**ALLO: A Photorealistic Dataset and Data Generation Pipeline for Anomaly Detection During Robotic Proximity Operations in Lunar Orbit**|Selina Leveugle et.al.|[2409.20435v1](http://arxiv.org/abs/2409.20435v1)|
 |**2024-09-30**|**Novel machine learning applications at the LHC**|Javier M. Duarte et.al.|[2409.20413v1](http://arxiv.org/abs/2409.20413v1)|
-|**2024-09-30**|**CableInspect-AD: An Expert-Annotated Anomaly Detection Dataset**|Akshatha Arodi et.al.|[2409.20353v1](http://arxiv.org/abs/2409.20353v1)|
-|**2024-09-30**|**Constraining Anomaly Detection with Anomaly-Free Regions**|Maximilian Toller et.al.|[2409.20208v1](http://arxiv.org/abs/2409.20208v1)|
-|**2024-09-30**|**VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection**|Huilin Deng et.al.|[2409.20146v1](http://arxiv.org/abs/2409.20146v1)|
-|**2024-09-29**|**MCDDPM: Multichannel Conditional Denoising Diffusion Model for Unsupervised Anomaly Detection in Brain MRI**|Vivek Kumar Trivedi et.al.|[2409.19623v1](http://arxiv.org/abs/2409.19623v1)|
-|**2024-09-28**|**Sparse Modelling for Feature Learning in High Dimensional Data**|Harish Neelam et.al.|[2409.19361v1](http://arxiv.org/abs/2409.19361v1)|
-|**2024-09-27**|**Semi-Supervised Bone Marrow Lesion Detection from Knee MRI Segmentation Using Mask Inpainting Models**|Shihua Qin et.al.|[2409.19185v1](http://arxiv.org/abs/2409.19185v1)|
-|**2024-09-27**|**Kinematic Detection of Anomalies in Human Trajectory Data**|Lance Kennedy et.al.|[2409.19136v1](http://arxiv.org/abs/2409.19136v1)|
 
 ## change detection
 
