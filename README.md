@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721v1](http://arxiv.org/abs/2410.02721v1)|
+|**2024-10-02**|**HyperBrain: Anomaly Detection for Temporal Hypergraph Brain Networks**|Sadaf Sadeghian et.al.|[2410.02087v1](http://arxiv.org/abs/2410.02087v1)|
 |**2024-10-02**|**RADAR: Robust Two-stage Modality-incomplete Industrial Anomaly Detection**|Bingchen Miao et.al.|[2410.01737v1](http://arxiv.org/abs/2410.01737v1)|
 |**2024-10-02**|**LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**|Dexuan Ding et.al.|[2410.01506v2](http://arxiv.org/abs/2410.01506v2)|
 |**2024-10-02**|**Uncertainty-aware Human Mobility Modeling and Anomaly Detection**|Haomin Wen et.al.|[2410.01281v1](http://arxiv.org/abs/2410.01281v1)|
@@ -57,8 +59,6 @@
 |**2024-10-01**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al.|[2410.00713v1](http://arxiv.org/abs/2410.00713v1)|
 |**2024-10-01**|**PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al.|[2410.00320v1](http://arxiv.org/abs/2410.00320v1)|
 |**2024-09-30**|**What Information Contributes to Log-based Anomaly Detection? Insights from a Configurable Transformer-Based Approach**|Xingfang Wu et.al.|[2409.20503v1](http://arxiv.org/abs/2409.20503v1)|
-|**2024-09-30**|**ALLO: A Photorealistic Dataset and Data Generation Pipeline for Anomaly Detection During Robotic Proximity Operations in Lunar Orbit**|Selina Leveugle et.al.|[2409.20435v1](http://arxiv.org/abs/2409.20435v1)|
-|**2024-09-30**|**Novel machine learning applications at the LHC**|Javier M. Duarte et.al.|[2409.20413v1](http://arxiv.org/abs/2409.20413v1)|
 
 ## change detection
 
