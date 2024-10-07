@@ -1,4 +1,4 @@
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 
 ## super-resolution
 
@@ -55,7 +55,7 @@
 |**2024-10-02**|**LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**|Dexuan Ding et.al.|[2410.01506v2](http://arxiv.org/abs/2410.01506v2)|
 |**2024-10-02**|**Uncertainty-aware Human Mobility Modeling and Anomaly Detection**|Haomin Wen et.al.|[2410.01281v1](http://arxiv.org/abs/2410.01281v1)|
 |**2024-10-01**|**Finding radio transients with anomaly detection and active learning based on volunteer classifications**|Alex Andersson et.al.|[2410.01034v1](http://arxiv.org/abs/2410.01034v1)|
-|**2024-10-01**|**Back to Bayesics: Uncovering Human Mobility Distributions and Anomalies with an Integrated Statistical and Neural Framework**|Minxuan Duan et.al.|[2410.01011v1](http://arxiv.org/abs/2410.01011v1)|
+|**2024-10-01**|**Back to Bayesics: Uncovering Human Mobility Distributions and Anomalies with an Integrated Statistical and Neural Framework**|Minxuan Duan et.al.|[2410.01011v2](http://arxiv.org/abs/2410.01011v2)|
 |**2024-10-01**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al.|[2410.00713v1](http://arxiv.org/abs/2410.00713v1)|
 |**2024-10-01**|**PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al.|[2410.00320v1](http://arxiv.org/abs/2410.00320v1)|
 |**2024-09-30**|**What Information Contributes to Log-based Anomaly Detection? Insights from a Configurable Transformer-Based Approach**|Xingfang Wu et.al.|[2409.20503v1](http://arxiv.org/abs/2409.20503v1)|
