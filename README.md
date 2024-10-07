@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-04**|**Selective Test-Time Adaptation for Unsupervised Anomaly Detection using Neural Implicit Representations**|Sameer Ambekar et.al.|[2410.03306v1](http://arxiv.org/abs/2410.03306v1)|
 |**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721v1](http://arxiv.org/abs/2410.02721v1)|
 |**2024-10-02**|**HyperBrain: Anomaly Detection for Temporal Hypergraph Brain Networks**|Sadaf Sadeghian et.al.|[2410.02087v1](http://arxiv.org/abs/2410.02087v1)|
 |**2024-10-02**|**RADAR: Robust Two-stage Modality-incomplete Industrial Anomaly Detection**|Bingchen Miao et.al.|[2410.01737v1](http://arxiv.org/abs/2410.01737v1)|
@@ -58,12 +59,12 @@
 |**2024-10-01**|**Back to Bayesics: Uncovering Human Mobility Distributions and Anomalies with an Integrated Statistical and Neural Framework**|Minxuan Duan et.al.|[2410.01011v2](http://arxiv.org/abs/2410.01011v2)|
 |**2024-10-01**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al.|[2410.00713v1](http://arxiv.org/abs/2410.00713v1)|
 |**2024-10-01**|**PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al.|[2410.00320v1](http://arxiv.org/abs/2410.00320v1)|
-|**2024-09-30**|**What Information Contributes to Log-based Anomaly Detection? Insights from a Configurable Transformer-Based Approach**|Xingfang Wu et.al.|[2409.20503v1](http://arxiv.org/abs/2409.20503v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-04**|**Robust Quickest Correlation Change Detection in High-Dimensional Random Vectors**|Assma Alghamdi et.al.|[2410.03593v1](http://arxiv.org/abs/2410.03593v1)|
 |**2024-09-26**|**Safe Time-Varying Optimization based on Gaussian Processes with Spatio-Temporal Kernel**|Jialin Li et.al.|[2409.18000v1](http://arxiv.org/abs/2409.18000v1)|
 |**2024-09-25**|**Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms**|Chun-Jung Lin et.al.|[2409.16850v1](http://arxiv.org/abs/2409.16850v1)|
 |**2024-09-23**|**ZeroSCD: Zero-Shot Street Scene Change Detection**|Shyam Sundar Kannan et.al.|[2409.15255v1](http://arxiv.org/abs/2409.15255v1)|
@@ -73,5 +74,4 @@
 |**2024-09-15**|**High Definition Map Mapping and Update: A General Overview and Future Directions**|Benny Wijaya et.al.|[2409.09726v1](http://arxiv.org/abs/2409.09726v1)|
 |**2024-09-13**|**ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning**|Pei Deng et.al.|[2409.08582v1](http://arxiv.org/abs/2409.08582v1)|
 |**2024-09-12**|**Quickest Change Detection Using Mismatched CUSUM**|Austin Cooper et.al.|[2409.07948v1](http://arxiv.org/abs/2409.07948v1)|
-|**2024-09-10**|**Towards Generalizable Scene Change Detection**|Jaewoo Kim et.al.|[2409.06214v1](http://arxiv.org/abs/2409.06214v1)|
 
