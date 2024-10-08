@@ -49,16 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-07**|**Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis**|Minjung Kim et.al.|[2410.04703v1](http://arxiv.org/abs/2410.04703v1)|
+|**2024-10-06**|**Multi Armed Bandit Algorithms Based Virtual Machine Allocation Policy for Security in Multi-Tenant Distributed Systems**|Pravin Patil et.al.|[2410.04363v1](http://arxiv.org/abs/2410.04363v1)|
+|**2024-10-05**|**Self-Supervised Anomaly Detection in the Wild: Favor Joint Embeddings Methods**|Daniel Otero et.al.|[2410.04289v1](http://arxiv.org/abs/2410.04289v1)|
+|**2024-10-05**|**Applying Quantum Autoencoders for Time Series Anomaly Detection**|Robin Frehner et.al.|[2410.04154v1](http://arxiv.org/abs/2410.04154v1)|
+|**2024-10-05**|**Beyond Forecasting: Compositional Time Series Reasoning for End-to-End Task Execution**|Wen Ye et.al.|[2410.04047v1](http://arxiv.org/abs/2410.04047v1)|
+|**2024-10-05**|**BlockFound: Customized blockchain foundation model for anomaly detection**|Jiahao Yu et.al.|[2410.04039v1](http://arxiv.org/abs/2410.04039v1)|
+|**2024-10-04**|**Did You Hear That? Introducing AADG: A Framework for Generating Benchmark Data in Audio Anomaly Detection**|Ksheeraja Raghavan et.al.|[2410.03904v1](http://arxiv.org/abs/2410.03904v1)|
+|**2024-10-04**|**Identification of Anomalous Geospatial Trajectories via Persistent Homology**|Kyle Evans-Lee et.al.|[2410.03889v1](http://arxiv.org/abs/2410.03889v1)|
 |**2024-10-04**|**Selective Test-Time Adaptation for Unsupervised Anomaly Detection using Neural Implicit Representations**|Sameer Ambekar et.al.|[2410.03306v1](http://arxiv.org/abs/2410.03306v1)|
 |**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721v1](http://arxiv.org/abs/2410.02721v1)|
-|**2024-10-02**|**HyperBrain: Anomaly Detection for Temporal Hypergraph Brain Networks**|Sadaf Sadeghian et.al.|[2410.02087v1](http://arxiv.org/abs/2410.02087v1)|
-|**2024-10-02**|**RADAR: Robust Two-stage Modality-incomplete Industrial Anomaly Detection**|Bingchen Miao et.al.|[2410.01737v1](http://arxiv.org/abs/2410.01737v1)|
-|**2024-10-02**|**LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**|Dexuan Ding et.al.|[2410.01506v2](http://arxiv.org/abs/2410.01506v2)|
-|**2024-10-02**|**Uncertainty-aware Human Mobility Modeling and Anomaly Detection**|Haomin Wen et.al.|[2410.01281v1](http://arxiv.org/abs/2410.01281v1)|
-|**2024-10-01**|**Finding radio transients with anomaly detection and active learning based on volunteer classifications**|Alex Andersson et.al.|[2410.01034v1](http://arxiv.org/abs/2410.01034v1)|
-|**2024-10-01**|**Back to Bayesics: Uncovering Human Mobility Distributions and Anomalies with an Integrated Statistical and Neural Framework**|Minxuan Duan et.al.|[2410.01011v2](http://arxiv.org/abs/2410.01011v2)|
-|**2024-10-01**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al.|[2410.00713v1](http://arxiv.org/abs/2410.00713v1)|
-|**2024-10-01**|**PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al.|[2410.00320v1](http://arxiv.org/abs/2410.00320v1)|
 
 ## change detection
 
