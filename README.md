@@ -15,20 +15,65 @@
 |**2023-12-20**|**Learning Exhaustive Correlation for Spectral Super-Resolution: Where Spatial-Spectral Attention Meets Linear Dependence**|Hongyuan Wang et.al.|[2312.12833v2](http://arxiv.org/abs/2312.12833v2)|
 |**2023-11-28**|**Super-Resolution through StyleGAN Regularized Latent Search: A Realism-Fidelity Trade-off**|Marzieh Gheisari et.al.|[2311.16923v1](http://arxiv.org/abs/2311.16923v1)|
 
-## cloud detection
+## deepfake
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-09-17**|**Physical conditions in Centaurus A's northern filaments II: Does the HCO$^+$ emission highlight the presence of shocks?**|Quentin Salomé et.al.|[2409.11031v2](http://arxiv.org/abs/2409.11031v2)|
-|**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018v1](http://arxiv.org/abs/2409.11018v1)|
-|**2024-09-06**|**CLOWN: The PASO cloud detection for optimization of automatic optical surveys**|Luís Gonçalves et.al.|[2409.04245v1](http://arxiv.org/abs/2409.04245v1)|
-|**2024-08-29**|**FRAM Next Generation at the Pierre Auger Observatory: cloud monitoring in the age of CMOS cameras**|Jan Ebr et.al.|[2408.16735v1](http://arxiv.org/abs/2408.16735v1)|
-|**2024-07-26**|**MistralBSM: Leveraging Mistral-7B for Vehicular Networks Misbehavior Detection**|Wissal Hamhoum et.al.|[2407.18462v1](http://arxiv.org/abs/2407.18462v1)|
-|**2024-07-10**|**High-Resolution Cloud Detection Network**|Jingsheng Li et.al.|[2407.07365v1](http://arxiv.org/abs/2407.07365v1)|
-|**2024-06-03**|**Unambiguous detection of mesospheric CO2 clouds on Mars using 2.7 μm absorption band from the ACS/TGO solar occultations**|M. Luginin et.al.|[2406.01515v1](http://arxiv.org/abs/2406.01515v1)|
-|**2024-05-08**|**CloudSense: A Model for Cloud Type Identification using Machine Learning from Radar data**|Mehzooz Nizar et.al.|[2405.05988v1](http://arxiv.org/abs/2405.05988v1)|
-|**2024-05-04**|**Machine Learning in Space: Surveying the Robustness of on-board ML models to Radiation**|Kevin Lange et.al.|[2405.02642v2](http://arxiv.org/abs/2405.02642v2)|
-|**2024-03-13**|**Limits on the OH Molecule in the Smith High Velocity Cloud**|Anthony H. Minter et.al.|[2403.08704v1](http://arxiv.org/abs/2403.08704v1)|
+|**2024-10-06**|**DiffusionFake: Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion**|Ke Sun et.al.|[2410.04372v1](http://arxiv.org/abs/2410.04372v1)|
+|**2024-10-06**|**SONAR: A Synthetic AI-Audio Detection Framework and Benchmark**|Xiang Li et.al.|[2410.04324v2](http://arxiv.org/abs/2410.04324v2)|
+|**2024-10-05**|**Exploring Strengths and Weaknesses of Super-Resolution Attack in Deepfake Detection**|Davide Alessandro Coccomini et.al.|[2410.04205v1](http://arxiv.org/abs/2410.04205v1)|
+|**2024-10-04**|**A Multimodal Framework for Deepfake Detection**|Kashish Gandhi et.al.|[2410.03487v1](http://arxiv.org/abs/2410.03487v1)|
+|**2024-10-03**|**FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models**|Zhipei Xu et.al.|[2410.02761v1](http://arxiv.org/abs/2410.02761v1)|
+|**2024-10-02**|**Social Media Authentication and Combating Deepfakes using Semi-fragile Invisible Image Watermarking**|Aakash Varma Nadimpalli et.al.|[2410.01906v1](http://arxiv.org/abs/2410.01906v1)|
+|**2024-10-01**|**Augmentation through Laundering Attacks for Audio Spoof Detection**|Hashim Ali et.al.|[2410.01108v1](http://arxiv.org/abs/2410.01108v1)|
+|**2024-10-01**|**A Hitchhikers Guide to Fine-Grained Face Forgery Detection Using Common Sense Reasoning**|Niki Maria Foteinopoulou et.al.|[2410.00485v1](http://arxiv.org/abs/2410.00485v1)|
+|**2024-09-29**|**Self-supervised Auxiliary Learning for Texture and Model-based Hybrid Robust and Fair Featuring in Face Analysis**|Shukesh Reddy et.al.|[2409.19582v1](http://arxiv.org/abs/2409.19582v1)|
+|**2024-09-27**|**XWSB: A Blend System Utilizing XLS-R and WavLM with SLS Classifier detection system for SVDD 2024 Challenge**|Qishan Zhang et.al.|[2409.18558v1](http://arxiv.org/abs/2409.18558v1)|
+
+## federated learning
+
+|Publish Date|Title|Authors|PDF|
+|---|---|---|---|
+|**2024-10-07**|**FRIDA: Free-Rider Detection using Privacy Attacks**|Pol G. Recasens et.al.|[2410.05020v1](http://arxiv.org/abs/2410.05020v1)|
+|**2024-10-07**|**FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models**|Haokun Chen et.al.|[2410.04810v1](http://arxiv.org/abs/2410.04810v1)|
+|**2024-10-07**|**Federated Learning Nodes Can Reconstruct Peers' Image Data**|Ethan Wilson et.al.|[2410.04661v1](http://arxiv.org/abs/2410.04661v1)|
+|**2024-10-05**|**ConDa: Fast Federated Unlearning with Contribution Dampening**|Vikram S Chundawat et.al.|[2410.04144v1](http://arxiv.org/abs/2410.04144v1)|
+|**2024-10-05**|**pFedGame -- Decentralized Federated Learning using Game Theory in Dynamic Topology**|Monik Raj Behera et.al.|[2410.04058v1](http://arxiv.org/abs/2410.04058v1)|
+|**2024-10-04**|**A Survey on Group Fairness in Federated Learning: Challenges, Taxonomy of Solutions and Directions for Future Research**|Teresa Salazar et.al.|[2410.03855v1](http://arxiv.org/abs/2410.03855v1)|
+|**2024-10-04**|**FedStein: Enhancing Multi-Domain Federated Learning Through James-Stein Estimator**|Sunny Gupta et.al.|[2410.03499v1](http://arxiv.org/abs/2410.03499v1)|
+|**2024-10-04**|**Collaborative and Efficient Personalization with Mixtures of Adaptors**|Abdulla Jasem Almansoori et.al.|[2410.03497v1](http://arxiv.org/abs/2410.03497v1)|
+|**2024-10-04**|**Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy**|Shuangqing Xu et.al.|[2410.03407v1](http://arxiv.org/abs/2410.03407v1)|
+|**2024-10-04**|**Influence-oriented Personalized Federated Learning**|Yue Tan et.al.|[2410.03315v1](http://arxiv.org/abs/2410.03315v1)|
+
+## Differential Privacy
+
+|Publish Date|Title|Authors|PDF|
+|---|---|---|---|
+|**2024-10-04**|**DiSK: Differentially Private Optimizer with Simplified Kalman Filter for Noise Reduction**|Xinwei Zhang et.al.|[2410.03883v1](http://arxiv.org/abs/2410.03883v1)|
+|**2024-10-04**|**Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy**|Shuangqing Xu et.al.|[2410.03407v1](http://arxiv.org/abs/2410.03407v1)|
+|**2024-10-03**|**Fine-Tuning Language Models with Differential Privacy through Adaptive Noise Allocation**|Xianzhi Li et.al.|[2410.02912v1](http://arxiv.org/abs/2410.02912v1)|
+|**2024-10-02**|**Addressing Data Heterogeneity in Federated Learning with Adaptive Normalization-Free Feature Recalibration**|Vasilis Siomos et.al.|[2410.02006v1](http://arxiv.org/abs/2410.02006v1)|
+|**2024-10-02**|**Differentially Private Parameter-Efficient Fine-tuning for Large ASR Models**|Hongbin Liu et.al.|[2410.01948v1](http://arxiv.org/abs/2410.01948v1)|
+|**2024-10-01**|**Efficient and Private Marginal Reconstruction with Local Non-Negativity**|Brett Mullins et.al.|[2410.01091v1](http://arxiv.org/abs/2410.01091v1)|
+|**2024-10-01**|**Convergent Privacy Loss of Noisy-SGD without Convexity and Smoothness**|Eli Chien et.al.|[2410.01068v1](http://arxiv.org/abs/2410.01068v1)|
+|**2024-10-01**|**Thinking Outside of the Differential Privacy Box: A Case Study in Text Privatization with Language Model Prompting**|Stephen Meisenbacher et.al.|[2410.00751v1](http://arxiv.org/abs/2410.00751v1)|
+|**2024-10-01**|**Differentially Private Active Learning: Balancing Effective Data Selection and Privacy**|Kristian Schwethelm et.al.|[2410.00542v1](http://arxiv.org/abs/2410.00542v1)|
+|**2024-09-29**|**Survey of Security and Data Attacks on Machine Unlearning In Financial and E-Commerce**|Carl E. J. Brodzinski et.al.|[2410.00055v1](http://arxiv.org/abs/2410.00055v1)|
+
+## Data Masking
+
+|Publish Date|Title|Authors|PDF|
+|---|---|---|---|
+|**2024-08-06**|**MaskAnyone Toolkit: Offering Strategies for Minimizing Privacy Risks and Maximizing Utility in Audio-Visual Data Archiving**|Babajide Alamu Owoyele et.al.|[2408.03185v1](http://arxiv.org/abs/2408.03185v1)|
+|**2024-05-17**|**Dark Energy Survey Year 3 results: simulation-based cosmological inference with wavelet harmonics, scattering transforms, and moments of weak lensing mass maps II. Cosmological results**|M. Gatti et.al.|[2405.10881v1](http://arxiv.org/abs/2405.10881v1)|
+|**2024-03-16**|**Frizzle: Combining spectra or images by forward modeling**|David W. Hogg et.al.|[2403.11011v1](http://arxiv.org/abs/2403.11011v1)|
+|**2024-03-05**|**Word Importance Explains How Prompts Affect Language Model Outputs**|Stefan Hackmann et.al.|[2403.03028v1](http://arxiv.org/abs/2403.03028v1)|
+|**2023-12-06**|**Securing Data Platforms: Strategic Masking Techniques for Privacy and Security for B2B Enterprise Data**|Mandar Khoje et.al.|[2312.03293v1](http://arxiv.org/abs/2312.03293v1)|
+|**2023-10-26**|**Dark Energy Survey Year 3 results: simulation-based cosmological inference with wavelet harmonics, scattering transforms, and moments of weak lensing mass maps I: validation on simulations**|M. Gatti et.al.|[2310.17557v2](http://arxiv.org/abs/2310.17557v2)|
+|**2023-09-26**|**Fixing the NTK: From Neural Network Linearizations to Exact Convex Programs**|Rajat Vadiraj Dwaraknath et.al.|[2309.15096v1](http://arxiv.org/abs/2309.15096v1)|
+|**2023-05-14**|**Lightweight privacy-preserving truth discovery for vehicular air quality monitoring**|Rui Liu et.al.|[2305.08258v1](http://arxiv.org/abs/2305.08258v1)|
+|**2023-03-26**|**SASS: Data and Methods for Subject Aware Sentence Simplification**|Brad Windsor et.al.|[2303.14589v1](http://arxiv.org/abs/2303.14589v1)|
+|**2022-12-06**|**A new method to invert InSAR data to resolve stress changes on a fracture embedded in a 3D heterogeneous crust**|Farshid Dabaghi et.al.|[2212.03198v1](http://arxiv.org/abs/2212.03198v1)|
 
 ## abnormal detection
 
