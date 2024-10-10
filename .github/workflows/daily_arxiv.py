@@ -136,7 +136,10 @@ if __name__ == "__main__":
     data_collector = []
     keywords = dict()
     keywords["super-resolution"] = "super-resolution"
-    keywords["cloud detection"] =  "\"cloud detection\""
+    keywords["deepfake"] =  "\"deepfake\""
+    keywords["federated learning"] =  "\"federated learning\""
+    keywords["Differential Privacy"] =  "\"Differential Privacy\""
+    keywords["Data Masking"] =  "\"Data Masking\""
     keywords["abnormal detection"] =  "\"abnormal detection\""
     keywords["anomaly detection"] =  "\"anomaly detection\""
     keywords["change detection"] =  "\"change detection\""
