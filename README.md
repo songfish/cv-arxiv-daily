@@ -1,4 +1,4 @@
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 
 ## super-resolution
 
@@ -25,7 +25,7 @@
 |**2024-10-08**|**$\textit{X}^2$-DFD: A framework for e${X}$plainable and e${X}$tendable Deepfake Detection**|Yize Chen et.al.|[2410.06126v1](http://arxiv.org/abs/2410.06126v1)|
 |**2024-10-07**|**Herd Mentality in Augmentation -- Not a Good Idea! A Robust Multi-stage Approach towards Deepfake Detection**|Monu et.al.|[2410.05466v1](http://arxiv.org/abs/2410.05466v1)|
 |**2024-10-06**|**DiffusionFake: Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion**|Ke Sun et.al.|[2410.04372v1](http://arxiv.org/abs/2410.04372v1)|
-|**2024-10-06**|**SONAR: A Synthetic AI-Audio Detection Framework and Benchmark**|Xiang Li et.al.|[2410.04324v2](http://arxiv.org/abs/2410.04324v2)|
+|**2024-10-06**|**SONAR: A Synthetic AI-Audio Detection Framework and Benchmark**|Xiang Li et.al.|[2410.04324v3](http://arxiv.org/abs/2410.04324v3)|
 |**2024-10-05**|**Exploring Strengths and Weaknesses of Super-Resolution Attack in Deepfake Detection**|Davide Alessandro Coccomini et.al.|[2410.04205v1](http://arxiv.org/abs/2410.04205v1)|
 |**2024-10-04**|**A Multimodal Framework for Deepfake Detection**|Kashish Gandhi et.al.|[2410.03487v1](http://arxiv.org/abs/2410.03487v1)|
 |**2024-10-03**|**FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models**|Zhipei Xu et.al.|[2410.02761v1](http://arxiv.org/abs/2410.02761v1)|
@@ -42,15 +42,15 @@
 |**2024-10-08**|**Communication-Efficient Federated Group Distributionally Robust Optimization**|Zhishuai Guo et.al.|[2410.06369v1](http://arxiv.org/abs/2410.06369v1)|
 |**2024-10-08**|**De-VertiFL: A Solution for Decentralized Vertical Federated Learning**|Alberto Huertas Celdrán et.al.|[2410.06127v1](http://arxiv.org/abs/2410.06127v1)|
 |**2024-10-08**|**Privacy-Enhanced Over-the-Air Federated Learning via Client-Driven Power Balancing**|Bumjun Kim et.al.|[2410.05907v1](http://arxiv.org/abs/2410.05907v1)|
-|**2024-10-08**|**Private and Communication-Efficient Federated Learning based on Differentially Private Sketches**|Meifan Zhang et.al.|[2410.05733v1](http://arxiv.org/abs/2410.05733v1)|
-|**2024-10-08**|**KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**|Wenhao Wang et.al.|[2410.05725v1](http://arxiv.org/abs/2410.05725v1)|
+|**2024-10-08**|**Private and Communication-Efficient Federated Learning based on Differentially Private Sketches**|Meifan Zhang et.al.|[2410.05733v2](http://arxiv.org/abs/2410.05733v2)|
+|**2024-10-08**|**KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**|Wenhao Wang et.al.|[2410.05725v2](http://arxiv.org/abs/2410.05725v2)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-10-08**|**Private and Communication-Efficient Federated Learning based on Differentially Private Sketches**|Meifan Zhang et.al.|[2410.05733v1](http://arxiv.org/abs/2410.05733v1)|
-|**2024-10-08**|**KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**|Wenhao Wang et.al.|[2410.05725v1](http://arxiv.org/abs/2410.05725v1)|
+|**2024-10-08**|**Private and Communication-Efficient Federated Learning based on Differentially Private Sketches**|Meifan Zhang et.al.|[2410.05733v2](http://arxiv.org/abs/2410.05733v2)|
+|**2024-10-08**|**KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**|Wenhao Wang et.al.|[2410.05725v2](http://arxiv.org/abs/2410.05725v2)|
 |**2024-10-08**|**A Blockchain-Enhanced Framework for Privacy and Data Integrity in Crowdsourced Drone Services**|Junaid Akram et.al.|[2410.05653v1](http://arxiv.org/abs/2410.05653v1)|
 |**2024-10-07**|**Privacy Vulnerabilities in Marginals-based Synthetic Data**|Steven Golob et.al.|[2410.05506v1](http://arxiv.org/abs/2410.05506v1)|
 |**2024-10-07**|**Testing Credibility of Public and Private Surveys through the Lens of Regression**|Debabrota Basu et.al.|[2410.05458v1](http://arxiv.org/abs/2410.05458v1)|
@@ -96,7 +96,7 @@
 |---|---|---|---|
 |**2024-10-09**|**Spatiotemporal Modeling and Forecasting at Scale with Dynamic Generalized Linear Models**|Pranay Pherwani et.al.|[2410.07161v1](http://arxiv.org/abs/2410.07161v1)|
 |**2024-10-09**|**Revisiting Multi-Permutation Equivariance through the Lens of Irreducible Representations**|Yonatan Sverdlov et.al.|[2410.06665v1](http://arxiv.org/abs/2410.06665v1)|
-|**2024-10-09**|**Task-oriented Time Series Imputation Evaluation via Generalized Representers**|Zhixian Wang et.al.|[2410.06652v1](http://arxiv.org/abs/2410.06652v1)|
+|**2024-10-09**|**Task-oriented Time Series Imputation Evaluation via Generalized Representers**|Zhixian Wang et.al.|[2410.06652v2](http://arxiv.org/abs/2410.06652v2)|
 |**2024-10-09**|**On The Relationship between Visual Anomaly-free and Anomalous Representations**|Riya Sadrani et.al.|[2410.06576v1](http://arxiv.org/abs/2410.06576v1)|
 |**2024-10-09**|**DiffGAD: A Diffusion-based Unsupervised Graph Anomaly Detector**|Jinghan Li et.al.|[2410.06549v1](http://arxiv.org/abs/2410.06549v1)|
 |**2024-10-08**|**MTFL: Multi-Timescale Feature Learning for Weakly-Supervised Anomaly Detection in Surveillance Videos**|Yiling Zhang et.al.|[2410.05900v1](http://arxiv.org/abs/2410.05900v1)|
