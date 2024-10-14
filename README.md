@@ -34,31 +34,31 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-11**|**Evaluating Federated Kolmogorov-Arnold Networks on Non-IID Data**|Arthur Mendonça Sasse et.al.|[2410.08961v1](http://arxiv.org/abs/2410.08961v1)|
+|**2024-10-11**|**The Effect of Personalization in FedProx: A Fine-grained Analysis on Statistical Accuracy and Communication Efficiency**|Xin Yu et.al.|[2410.08934v1](http://arxiv.org/abs/2410.08934v1)|
+|**2024-10-11**|**Federated Learning in Practice: Reflections and Projections**|Katharine Daly et.al.|[2410.08892v1](http://arxiv.org/abs/2410.08892v1)|
+|**2024-10-11**|**Unlocking FedNL: Self-Contained Compute-Optimized Implementation**|Konstantin Burlachenko et.al.|[2410.08760v1](http://arxiv.org/abs/2410.08760v1)|
+|**2024-10-11**|**Gradients Stand-in for Defending Deep Leakage in Federated Learning**|H. Yi et.al.|[2410.08734v1](http://arxiv.org/abs/2410.08734v1)|
+|**2024-10-11**|**DistDD: Distributed Data Distillation Aggregation through Gradient Matching**|Peiran Wang et.al.|[2410.08665v1](http://arxiv.org/abs/2410.08665v1)|
+|**2024-10-11**|**GAI-Enabled Explainable Personalized Federated Semi-Supervised Learning**|Yubo Peng et.al.|[2410.08634v1](http://arxiv.org/abs/2410.08634v1)|
+|**2024-10-11**|**Accelerated Distributed Stochastic Non-Convex Optimization over Time-Varying Directed Networks**|Yiyue Chen et.al.|[2410.08508v1](http://arxiv.org/abs/2410.08508v1)|
+|**2024-10-10**|**Randomized Asymmetric Chain of LoRA: The First Meaningful Theoretical Framework for Low-Rank Adaptation**|Grigory Malinovsky et.al.|[2410.08305v1](http://arxiv.org/abs/2410.08305v1)|
 |**2024-10-10**|**A Comprehensive Survey on Joint Resource Allocation Strategies in Federated Edge Learning**|Jingbo Zhang et.al.|[2410.07881v1](http://arxiv.org/abs/2410.07881v1)|
-|**2024-10-10**|**Enhancing Federated Domain Adaptation with Multi-Domain Prototype-Based Federated Fine-Tuning**|Jingyuan Zhang et.al.|[2410.07738v1](http://arxiv.org/abs/2410.07738v1)|
-|**2024-10-10**|**FedEP: Tailoring Attention to Heterogeneous Data Distribution with Entropy Pooling for Decentralized Federated Learning**|Chao Feng et.al.|[2410.07678v1](http://arxiv.org/abs/2410.07678v1)|
-|**2024-10-10**|**Scalable and Resource-Efficient Second-Order Federated Learning via Over-the-Air Aggregation**|Abdulmomen Ghalkha et.al.|[2410.07662v1](http://arxiv.org/abs/2410.07662v1)|
-|**2024-10-09**|**Benchmarking Data Heterogeneity Evaluation Approaches for Personalized Federated Learning**|Zhilong Li et.al.|[2410.07286v1](http://arxiv.org/abs/2410.07286v1)|
-|**2024-10-09**|**Boosting the Performance of Decentralized Federated Learning via Catalyst Acceleration**|Qinglun Li et.al.|[2410.07272v1](http://arxiv.org/abs/2410.07272v1)|
-|**2024-10-09**|**Distributionally Robust Clustered Federated Learning: A Case Study in Healthcare**|Xenia Konti et.al.|[2410.07039v1](http://arxiv.org/abs/2410.07039v1)|
-|**2024-10-09**|**Forgetting Through Transforming: Enabling Federated Unlearning via Class-Aware Representation Transformation**|Qi Guo et.al.|[2410.06848v1](http://arxiv.org/abs/2410.06848v1)|
-|**2024-10-09**|**PFAttack: Stealthy Attack Bypassing Group Fairness in Federated Learning**|Jiashi Gao et.al.|[2410.06509v1](http://arxiv.org/abs/2410.06509v1)|
-|**2024-10-09**|**FedL2G: Learning to Guide Local Training in Heterogeneous Federated Learning**|Jianqing Zhang et.al.|[2410.06490v1](http://arxiv.org/abs/2410.06490v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-11**|**Federated Learning in Practice: Reflections and Projections**|Katharine Daly et.al.|[2410.08892v1](http://arxiv.org/abs/2410.08892v1)|
+|**2024-10-11**|**Privacy-Preserving Optimal State Estimation with Low Complexity via Cramér-Rao Lower Bound Approach**|Liping Guo et.al.|[2410.08756v1](http://arxiv.org/abs/2410.08756v1)|
+|**2024-10-11**|**Balancing Innovation and Privacy: Data Security Strategies in Natural Language Processing Applications**|Shaobo Liu et.al.|[2410.08553v1](http://arxiv.org/abs/2410.08553v1)|
+|**2024-10-10**|**Privately Learning from Graphs with Applications in Fine-tuning Large Language Models**|Haoteng Yin et.al.|[2410.08299v1](http://arxiv.org/abs/2410.08299v1)|
+|**2024-10-10**|**Federated Graph Learning for Cross-Domain Recommendation**|Ziqi Yang et.al.|[2410.08249v1](http://arxiv.org/abs/2410.08249v1)|
 |**2024-10-10**|**Private Language Models via Truncated Laplacian Mechanism**|Tianhao Huang et.al.|[2410.08027v1](http://arxiv.org/abs/2410.08027v1)|
 |**2024-10-10**|**Enhancing Federated Domain Adaptation with Multi-Domain Prototype-Based Federated Fine-Tuning**|Jingyuan Zhang et.al.|[2410.07738v1](http://arxiv.org/abs/2410.07738v1)|
 |**2024-10-10**|**Adaptive Batch Size for Privately Finding Second-Order Stationary Points**|Daogao Liu et.al.|[2410.07502v1](http://arxiv.org/abs/2410.07502v1)|
 |**2024-10-09**|**Bayes-Nash Generative Privacy Protection Against Membership Inference Attacks**|Tao Zhang et.al.|[2410.07414v1](http://arxiv.org/abs/2410.07414v1)|
 |**2024-10-08**|**Private and Communication-Efficient Federated Learning based on Differentially Private Sketches**|Meifan Zhang et.al.|[2410.05733v2](http://arxiv.org/abs/2410.05733v2)|
-|**2024-10-08**|**KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**|Wenhao Wang et.al.|[2410.05725v2](http://arxiv.org/abs/2410.05725v2)|
-|**2024-10-08**|**A Blockchain-Enhanced Framework for Privacy and Data Integrity in Crowdsourced Drone Services**|Junaid Akram et.al.|[2410.05653v1](http://arxiv.org/abs/2410.05653v1)|
-|**2024-10-07**|**Privacy Vulnerabilities in Marginals-based Synthetic Data**|Steven Golob et.al.|[2410.05506v1](http://arxiv.org/abs/2410.05506v1)|
-|**2024-10-07**|**Testing Credibility of Public and Private Surveys through the Lens of Regression**|Debabrota Basu et.al.|[2410.05458v1](http://arxiv.org/abs/2410.05458v1)|
-|**2024-10-04**|**DiSK: Differentially Private Optimizer with Simplified Kalman Filter for Noise Reduction**|Xinwei Zhang et.al.|[2410.03883v1](http://arxiv.org/abs/2410.03883v1)|
 
 ## Data Masking
 
@@ -94,16 +94,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-11**|**Low-complexity Attention-based Unsupervised Anomalous Sound Detection exploiting Separable Convolutions and Angular Loss**|Michael Neri et.al.|[2410.08919v1](http://arxiv.org/abs/2410.08919v1)|
+|**2024-10-11**|**Interdependency Matters: Graph Alignment for Multivariate Time Series Anomaly Detection**|Yuanyi Wang et.al.|[2410.08877v1](http://arxiv.org/abs/2410.08877v1)|
+|**2024-10-11**|**Towards Cross-domain Few-shot Graph Anomaly Detection**|Jiazhen Chen et.al.|[2410.08629v1](http://arxiv.org/abs/2410.08629v1)|
+|**2024-10-11**|**A Theoretical Framework for AI-driven data quality monitoring in high-volume data environments**|Nikhil Bangad et.al.|[2410.08576v1](http://arxiv.org/abs/2410.08576v1)|
+|**2024-10-10**|**KnowGraph: Knowledge-Enabled Anomaly Detection via Logical Reasoning on Graph Data**|Andy Zhou et.al.|[2410.08390v1](http://arxiv.org/abs/2410.08390v1)|
 |**2024-10-09**|**Spatiotemporal Modeling and Forecasting at Scale with Dynamic Generalized Linear Models**|Pranay Pherwani et.al.|[2410.07161v1](http://arxiv.org/abs/2410.07161v1)|
 |**2024-10-09**|**Revisiting Multi-Permutation Equivariance through the Lens of Irreducible Representations**|Yonatan Sverdlov et.al.|[2410.06665v1](http://arxiv.org/abs/2410.06665v1)|
 |**2024-10-09**|**Task-oriented Time Series Imputation Evaluation via Generalized Representers**|Zhixian Wang et.al.|[2410.06652v2](http://arxiv.org/abs/2410.06652v2)|
 |**2024-10-09**|**On The Relationship between Visual Anomaly-free and Anomalous Representations**|Riya Sadrani et.al.|[2410.06576v1](http://arxiv.org/abs/2410.06576v1)|
 |**2024-10-09**|**DiffGAD: A Diffusion-based Unsupervised Graph Anomaly Detector**|Jinghan Li et.al.|[2410.06549v1](http://arxiv.org/abs/2410.06549v1)|
-|**2024-10-08**|**MTFL: Multi-Timescale Feature Learning for Weakly-Supervised Anomaly Detection in Surveillance Videos**|Yiling Zhang et.al.|[2410.05900v1](http://arxiv.org/abs/2410.05900v1)|
-|**2024-10-08**|**Extreme Value Modelling of Feature Residuals for Anomaly Detection in Dynamic Graphs**|Sevvandi Kandanaarachchi et.al.|[2410.05687v1](http://arxiv.org/abs/2410.05687v1)|
-|**2024-10-07**|**Can LLMs Understand Time Series Anomalies?**|Zihao Zhou et.al.|[2410.05440v1](http://arxiv.org/abs/2410.05440v1)|
-|**2024-10-07**|**Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis**|Minjung Kim et.al.|[2410.04703v1](http://arxiv.org/abs/2410.04703v1)|
-|**2024-10-06**|**Multi Armed Bandit Algorithms Based Virtual Machine Allocation Policy for Security in Multi-Tenant Distributed Systems**|Pravin Patil et.al.|[2410.04363v1](http://arxiv.org/abs/2410.04363v1)|
 
 ## change detection
 
