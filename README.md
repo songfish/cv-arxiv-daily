@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-10-14**|**Capture Artifacts via Progressive Disentangling and Purifying Blended Identities for Deepfake Detection**|Weijie Zhou et.al.|[2410.10244v1](http://arxiv.org/abs/2410.10244v1)|
+|**2024-10-14**|**Capture Artifacts via Progressive Disentangling and Purifying Blended Identities for Deepfake Detection**|Weijie Zhou et.al.|[2410.10244v2](http://arxiv.org/abs/2410.10244v2)|
 |**2024-10-13**|**Prompt Tuning for Audio Deepfake Detection: Computationally Efficient Test-time Domain Adaptation with Limited Target Dataset**|Hideyuki Oiso et.al.|[2410.09869v1](http://arxiv.org/abs/2410.09869v1)|
 |**2024-10-11**|**Quantum-Trained Convolutional Neural Network for Deepfake Audio Detection**|Chu-Hsuan Abraham Lin et.al.|[2410.09250v1](http://arxiv.org/abs/2410.09250v1)|
 |**2024-10-10**|**Deepfake detection in videos with multiple faces using geometric-fakeness features**|Kirill Vyshegorodtsev et.al.|[2410.07888v1](http://arxiv.org/abs/2410.07888v1)|
