@@ -94,7 +94,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-10-16**|**Automatic Mapping of Anatomical Landmarks from Free-Text Using Large Language Models: Insights from Llama-2**|Mohamad Abdi et.al.|[2410.12686v1](http://arxiv.org/abs/2410.12686v1)|
+|**2024-10-16**|**Automatic Mapping of Anatomical Landmarks from Free-Text Using Large Language Models: Insights from Llama-2**|Mohamad Abdi et.al.|[2410.12686v2](http://arxiv.org/abs/2410.12686v2)|
 |**2024-10-16**|**Improved Anomaly Detection through Conditional Latent Space VAE Ensembles**|Oskar Åström et.al.|[2410.12328v1](http://arxiv.org/abs/2410.12328v1)|
 |**2024-10-16**|**Revisited Large Language Model for Time Series Analysis through Modality Alignment**|Liangwei Nathan Zheng et.al.|[2410.12326v1](http://arxiv.org/abs/2410.12326v1)|
 |**2024-10-16**|**CATCH: Channel-Aware multivariate Time Series Anomaly Detection via Frequency Patching**|Xingjian Wu et.al.|[2410.12261v1](http://arxiv.org/abs/2410.12261v1)|
