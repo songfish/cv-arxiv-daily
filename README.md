@@ -5,11 +5,11 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2024-09-25**|**NTIRE 2024 Challenge on Stereo Image Super-Resolution: Methods and Results**|Longguang Wang et.al.|[2409.16947v1](http://arxiv.org/abs/2409.16947v1)|
-|**2024-08-27**|**Enhancing License Plate Super-Resolution: A Layout-Aware and Character-Driven Approach**|Valfride Nascimento et.al.|[2408.15103v1](http://arxiv.org/abs/2408.15103v1)|
+|**2024-08-27**|**Enhancing License Plate Super-Resolution: A Layout-Aware and Character-Driven Approach**|Valfride Nascimento et.al.|[2408.15103v2](http://arxiv.org/abs/2408.15103v2)|
 |**2024-07-28**|**Model-based Super-resolution: Towards a Unified Framework for Super-resolution**|Zetao Fei et.al.|[2407.19480v1](http://arxiv.org/abs/2407.19480v1)|
 |**2024-01-28**|**Towards Arbitrary-Scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework via Implicit Self-texture Enhancement**|Minghong Duan et.al.|[2401.15613v6](http://arxiv.org/abs/2401.15613v6)|
 |**2024-01-16**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v2](http://arxiv.org/abs/2401.08115v2)|
-|**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633v1](http://arxiv.org/abs/2401.05633v1)|
+|**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633v2](http://arxiv.org/abs/2401.05633v2)|
 |**2023-12-27**|**Learn From Orientation Prior for Radiograph Super-Resolution: Orientation Operator Transformer**|Yongsong Huang et.al.|[2312.16455v1](http://arxiv.org/abs/2312.16455v1)|
 |**2023-12-24**|**Perception-Distortion Balanced Super-Resolution: A Multi-Objective Optimization Perspective**|Lingchen Sun et.al.|[2312.15408v2](http://arxiv.org/abs/2312.15408v2)|
 |**2023-12-20**|**Learning Exhaustive Correlation for Spectral Super-Resolution: Where Spatial-Spectral Attention Meets Linear Dependence**|Hongyuan Wang et.al.|[2312.12833v2](http://arxiv.org/abs/2312.12833v2)|
@@ -39,7 +39,7 @@
 |**2024-10-18**|**FedMSE: Federated learning for IoT network intrusion detection**|Van Tuan Nguyen et.al.|[2410.14121v1](http://arxiv.org/abs/2410.14121v1)|
 |**2024-10-18**|**A Communication and Computation Efficient Fully First-order Method for Decentralized Bilevel Optimization**|Min Wen et.al.|[2410.14115v1](http://arxiv.org/abs/2410.14115v1)|
 |**2024-10-17**|**FedPAE: Peer-Adaptive Ensemble Learning for Asynchronous and Model-Heterogeneous Federated Learning**|Brianna Mueller et.al.|[2410.14075v1](http://arxiv.org/abs/2410.14075v1)|
-|**2024-10-17**|**Optimal Communication and Key Rate Region for Hierarchical Secure Aggregation with User Collusion**|Xiang Zhang et.al.|[2410.14035v1](http://arxiv.org/abs/2410.14035v1)|
+|**2024-10-17**|**Optimal Communication and Key Rate Region for Hierarchical Secure Aggregation with User Collusion**|Xiang Zhang et.al.|[2410.14035v2](http://arxiv.org/abs/2410.14035v2)|
 |**2024-10-17**|**Conformal Prediction for Federated Graph Neural Networks with Missing Neighbor Information**|Ömer Faruk Akgül et.al.|[2410.14010v1](http://arxiv.org/abs/2410.14010v1)|
 |**2024-10-17**|**DPFedBank: Crafting a Privacy-Preserving Federated Learning Framework for Financial Institutions with Policy Pillars**|Peilin He et.al.|[2410.13753v1](http://arxiv.org/abs/2410.13753v1)|
 |**2024-10-17**|**On-device Federated Learning in Smartphones for Detecting Depression from Reddit Posts**|Mustofa Ahmed et.al.|[2410.13709v1](http://arxiv.org/abs/2410.13709v1)|
@@ -111,7 +111,7 @@
 |---|---|---|---|
 |**2024-10-18**|**Asymptotically Optimal Change Detection for Unnormalized Pre- and Post-Change Distributions**|Arman Adibi et.al.|[2410.14615v1](http://arxiv.org/abs/2410.14615v1)|
 |**2024-10-17**|**Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree**|Michelangelo Olmo Nogara Notarianni et.al.|[2410.13778v1](http://arxiv.org/abs/2410.13778v1)|
-|**2024-10-17**|**Is Prior-Free Black-Box Non-Stationary Reinforcement Learning Feasible?**|Argyrios Gerogiannis et.al.|[2410.13772v1](http://arxiv.org/abs/2410.13772v1)|
+|**2024-10-17**|**Is Prior-Free Black-Box Non-Stationary Reinforcement Learning Feasible?**|Argyrios Gerogiannis et.al.|[2410.13772v2](http://arxiv.org/abs/2410.13772v2)|
 |**2024-10-14**|**LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism**|Wenyu Liu et.al.|[2410.11580v1](http://arxiv.org/abs/2410.11580v1)|
 |**2024-10-13**|**ChangeMinds: Multi-task Framework for Detecting and Describing Changes in Remote Sensing**|Yuduo Wang et.al.|[2410.10047v2](http://arxiv.org/abs/2410.10047v2)|
 |**2024-10-12**|**Bi-temporal Gaussian Feature Dependency Guided Change Detection in Remote Sensing Images**|Yi Xiao et.al.|[2410.09539v1](http://arxiv.org/abs/2410.09539v1)|
