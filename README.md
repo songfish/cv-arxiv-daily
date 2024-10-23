@@ -1,4 +1,4 @@
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 
 ## super-resolution
 
@@ -39,7 +39,7 @@
 |**2024-10-21**|**Distributed Learning for UAV Swarms**|Chen Hu et.al.|[2410.15882v1](http://arxiv.org/abs/2410.15882v1)|
 |**2024-10-21**|**Geographical Node Clustering and Grouping to Guarantee Data IIDness in Federated Learning**|Minkwon Lee et.al.|[2410.15693v1](http://arxiv.org/abs/2410.15693v1)|
 |**2024-10-21**|**Federated Learning with MMD-based Early Stopping for Adaptive GNSS Interference Classification**|Nishant S. Gaikwad et.al.|[2410.15681v1](http://arxiv.org/abs/2410.15681v1)|
-|**2024-10-20**|**Bayesian data fusion for distributed learning**|Peng Wu et.al.|[2410.15473v1](http://arxiv.org/abs/2410.15473v1)|
+|**2024-10-20**|**A Bayesian Framework for Clustered Federated Learning**|Peng Wu et.al.|[2410.15473v2](http://arxiv.org/abs/2410.15473v2)|
 |**2024-10-20**|**Tighter Performance Theory of FedExProx**|Wojciech Anyszka et.al.|[2410.15368v1](http://arxiv.org/abs/2410.15368v1)|
 |**2024-10-19**|**DPVS-Shapley:Faster and Universal Contribution Evaluation Component in Federated Learning**|Ketin Yin et.al.|[2410.15093v1](http://arxiv.org/abs/2410.15093v1)|
 |**2024-10-19**|**Personalized Federated Learning with Adaptive Feature Aggregation and Knowledge Transfer**|Keting Yin et.al.|[2410.15073v1](http://arxiv.org/abs/2410.15073v1)|
