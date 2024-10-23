@@ -34,6 +34,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-22**|**Beyond Yao's Millionaires: Secure Multi-Party Computation of Non-Polynomial Functions**|Seyed Reza Hoseini Najarkolaei et.al.|[2410.17000v1](http://arxiv.org/abs/2410.17000v1)|
+|**2024-10-22**|**Federated Causal Inference: Multi-Centric ATE Estimation beyond Meta-Analysis**|Rémi Khellaf et.al.|[2410.16870v1](http://arxiv.org/abs/2410.16870v1)|
+|**2024-10-21**|**Subword Embedding from Bytes Gains Privacy without Sacrificing Accuracy and Complexity**|Mengjiao Zhang et.al.|[2410.16410v1](http://arxiv.org/abs/2410.16410v1)|
 |**2024-10-21**|**DMM: Distributed Matrix Mechanism for Differentially-Private Federated Learning using Packed Secret Sharing**|Alexander Bienstock et.al.|[2410.16161v1](http://arxiv.org/abs/2410.16161v1)|
 |**2024-10-21**|**Extracting Spatiotemporal Data from Gradients with Large Language Models**|Lele Zheng et.al.|[2410.16121v1](http://arxiv.org/abs/2410.16121v1)|
 |**2024-10-21**|**Distributed Learning for UAV Swarms**|Chen Hu et.al.|[2410.15882v1](http://arxiv.org/abs/2410.15882v1)|
@@ -41,14 +44,14 @@
 |**2024-10-21**|**Federated Learning with MMD-based Early Stopping for Adaptive GNSS Interference Classification**|Nishant S. Gaikwad et.al.|[2410.15681v1](http://arxiv.org/abs/2410.15681v1)|
 |**2024-10-20**|**A Bayesian Framework for Clustered Federated Learning**|Peng Wu et.al.|[2410.15473v2](http://arxiv.org/abs/2410.15473v2)|
 |**2024-10-20**|**Tighter Performance Theory of FedExProx**|Wojciech Anyszka et.al.|[2410.15368v1](http://arxiv.org/abs/2410.15368v1)|
-|**2024-10-19**|**DPVS-Shapley:Faster and Universal Contribution Evaluation Component in Federated Learning**|Ketin Yin et.al.|[2410.15093v1](http://arxiv.org/abs/2410.15093v1)|
-|**2024-10-19**|**Personalized Federated Learning with Adaptive Feature Aggregation and Knowledge Transfer**|Keting Yin et.al.|[2410.15073v1](http://arxiv.org/abs/2410.15073v1)|
-|**2024-10-18**|**FedSpaLLM: Federated Pruning of Large Language Models**|Guangji Bai et.al.|[2410.14852v1](http://arxiv.org/abs/2410.14852v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-22**|**Masked Differential Privacy**|David Schneider et.al.|[2410.17098v1](http://arxiv.org/abs/2410.17098v1)|
+|**2024-10-22**|**On the Vulnerability of Text Sanitization**|Meng Tong et.al.|[2410.17052v1](http://arxiv.org/abs/2410.17052v1)|
+|**2024-10-21**|**Position: Challenges and Opportunities for Differential Privacy in the U.S. Federal Government**|Amol Khanna et.al.|[2410.16423v1](http://arxiv.org/abs/2410.16423v1)|
 |**2024-10-21**|**DMM: Distributed Matrix Mechanism for Differentially-Private Federated Learning using Packed Secret Sharing**|Alexander Bienstock et.al.|[2410.16161v1](http://arxiv.org/abs/2410.16161v1)|
 |**2024-10-20**|**Formalization of Differential Privacy in Isabelle/HOL**|Tetsuya Sato et.al.|[2410.15386v1](http://arxiv.org/abs/2410.15386v1)|
 |**2024-10-19**|**Adanonymizer: Interactively Navigating and Balancing the Duality of Privacy and Output Performance in Human-LLM Interaction**|Shuning Zhang et.al.|[2410.15044v1](http://arxiv.org/abs/2410.15044v1)|
@@ -56,9 +59,6 @@
 |**2024-10-18**|**What's New in My Data? Novelty Exploration via Contrastive Generation**|Masaru Isonuma et.al.|[2410.14765v1](http://arxiv.org/abs/2410.14765v1)|
 |**2024-10-17**|**DPFedBank: Crafting a Privacy-Preserving Federated Learning Framework for Financial Institutions with Policy Pillars**|Peilin He et.al.|[2410.13753v1](http://arxiv.org/abs/2410.13753v1)|
 |**2024-10-16**|**DEeR: Deviation Eliminating and Noise Regulating for Privacy-preserving Federated Low-rank Adaptation**|Meilu Zhu et.al.|[2410.12926v1](http://arxiv.org/abs/2410.12926v1)|
-|**2024-10-16**|**Reconstruction of Differentially Private Text Sanitization via Large Language Models**|Shuchao Pang et.al.|[2410.12443v1](http://arxiv.org/abs/2410.12443v1)|
-|**2024-10-15**|**Data-adaptive Differentially Private Prompt Synthesis for In-Context Learning**|Fengyu Gao et.al.|[2410.12085v1](http://arxiv.org/abs/2410.12085v1)|
-|**2024-10-15**|**Differential Privacy on Trust Graphs**|Badih Ghazi et.al.|[2410.12045v1](http://arxiv.org/abs/2410.12045v1)|
 
 ## Data Masking
 
@@ -94,21 +94,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-22**|**Coniferest: a complete active anomaly detection framework**|M. V. Kornilov et.al.|[2410.17142v1](http://arxiv.org/abs/2410.17142v1)|
+|**2024-10-22**|**OMLog: Online Log Anomaly Detection for Evolving System with Meta-learning**|Jiyu Tian et.al.|[2410.16612v1](http://arxiv.org/abs/2410.16612v1)|
+|**2024-10-22**|**Generative AI for Overall Mission Effectiveness at the Habitable Worlds Observatory**|Megan Shabram et.al.|[2410.16609v1](http://arxiv.org/abs/2410.16609v1)|
+|**2024-10-21**|**Spatio-temporal Multivariate Cluster Evolution Analysis for Detecting and Tracking Climate Impacts**|Warren L. Davis IV et.al.|[2410.16544v1](http://arxiv.org/abs/2410.16544v1)|
+|**2024-10-21**|**LLM-TS Integrator: Integrating LLM for Enhanced Time Series Modeling**|Can Chen et.al.|[2410.16489v1](http://arxiv.org/abs/2410.16489v1)|
 |**2024-10-21**|**Revisiting Deep Feature Reconstruction for Logical and Structural Industrial Anomaly Detection**|Sukanya Patra et.al.|[2410.16255v1](http://arxiv.org/abs/2410.16255v1)|
 |**2024-10-21**|**TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis**|Shiyu Wang et.al.|[2410.16032v1](http://arxiv.org/abs/2410.16032v1)|
 |**2024-10-21**|**MultiRC: Joint Learning for Time Series Anomaly Prediction and Detection with Multi-scale Reconstructive Contrast**|Shiyan Hu et.al.|[2410.15997v1](http://arxiv.org/abs/2410.15997v1)|
 |**2024-10-21**|**Hybrid Architecture for Real-Time Video Anomaly Detection: Integrating Spatial and Temporal Analysis**|Fabien Poirier et.al.|[2410.15909v1](http://arxiv.org/abs/2410.15909v1)|
 |**2024-10-20**|**MedDiff-FM: A Diffusion-based Foundation Model for Versatile Medical Image Applications**|Yongrui Yu et.al.|[2410.15432v1](http://arxiv.org/abs/2410.15432v1)|
-|**2024-10-20**|**XAI-based Feature Ensemble for Enhanced Anomaly Detection in Autonomous Driving Systems**|Sazid Nazat et.al.|[2410.15405v1](http://arxiv.org/abs/2410.15405v1)|
-|**2024-10-19**|**Controllable RANSAC-based Anomaly Detection via Hypothesis Testing**|Le Hong Phong et.al.|[2410.15133v1](http://arxiv.org/abs/2410.15133v1)|
-|**2024-10-19**|**ReeFRAME: Reeb Graph based Trajectory Analysis Framework to Capture Top-Down and Bottom-Up Patterns of Life**|Chandrakanth Gudavalli et.al.|[2410.14913v1](http://arxiv.org/abs/2410.14913v1)|
-|**2024-10-18**|**Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts**|Chaoxi Niu et.al.|[2410.14886v1](http://arxiv.org/abs/2410.14886v1)|
-|**2024-10-18**|**Towards Unsupervised Validation of Anomaly-Detection Models**|Lihi Idan et.al.|[2410.14579v1](http://arxiv.org/abs/2410.14579v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-22**|**Tracing the Development of the Virtual Particle Concept Using Semantic Change Detection**|Michael Zichert et.al.|[2410.16855v1](http://arxiv.org/abs/2410.16855v1)|
 |**2024-10-18**|**Asymptotically Optimal Change Detection for Unnormalized Pre- and Post-Change Distributions**|Arman Adibi et.al.|[2410.14615v1](http://arxiv.org/abs/2410.14615v1)|
 |**2024-10-17**|**Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree**|Michelangelo Olmo Nogara Notarianni et.al.|[2410.13778v1](http://arxiv.org/abs/2410.13778v1)|
 |**2024-10-17**|**Is Prior-Free Black-Box Non-Stationary Reinforcement Learning Feasible?**|Argyrios Gerogiannis et.al.|[2410.13772v2](http://arxiv.org/abs/2410.13772v2)|
@@ -118,5 +119,4 @@
 |**2024-10-10**|**Exploring Foundation Models in Remote Sensing Image Change Detection: A Comprehensive Survey**|Zihan Yu et.al.|[2410.07824v1](http://arxiv.org/abs/2410.07824v1)|
 |**2024-10-10**|**Almost Minimax Optimal Best Arm Identification in Piecewise Stationary Linear Bandits**|Yunlong Hou et.al.|[2410.07638v1](http://arxiv.org/abs/2410.07638v1)|
 |**2024-10-08**|**TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data**|Jeremy Andrew Irvin et.al.|[2410.06234v1](http://arxiv.org/abs/2410.06234v1)|
-|**2024-10-08**|**Diminishing Exploration: A Minimalist Approach to Piecewise Stationary Multi-Armed Bandits**|Kuan-Ta Li et.al.|[2410.05734v1](http://arxiv.org/abs/2410.05734v1)|
 
