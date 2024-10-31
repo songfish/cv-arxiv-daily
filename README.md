@@ -34,31 +34,31 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-10-29**|**$\mathsf{OPA}$: One-shot Private Aggregation with Single Client Interaction and its Applications to Federated Learning**|Harish Karthikeyan et.al.|[2410.22303v1](http://arxiv.org/abs/2410.22303v1)|
-|**2024-10-29**|**$r$Age-$k$: Communication-Efficient Federated Learning Using Age Factor**|Matin Mortaheb et.al.|[2410.22192v1](http://arxiv.org/abs/2410.22192v1)|
-|**2024-10-29**|**Cognitive Semantic Augmentation LEO Satellite Networks for Earth Observation**|Hong-fu Chou et.al.|[2410.21916v1](http://arxiv.org/abs/2410.21916v1)|
-|**2024-10-29**|**Online Mirror Descent for Tchebycheff Scalarization in Multi-Objective Optimization**|Meitong Liu et.al.|[2410.21764v1](http://arxiv.org/abs/2410.21764v1)|
-|**2024-10-29**|**BF-Meta: Secure Blockchain-enhanced Privacy-preserving Federated Learning for Metaverse**|Wenbo Liu et.al.|[2410.21675v1](http://arxiv.org/abs/2410.21675v1)|
-|**2024-10-28**|**Personalized Federated Learning with Mixture of Models for Adaptive Prediction and Model Fine-Tuning**|Pouya M. Ghari et.al.|[2410.21547v1](http://arxiv.org/abs/2410.21547v1)|
-|**2024-10-28**|**On Homomorphic Encryption Based Strategies for Class Imbalance in Federated Learning**|Arpit Guleria et.al.|[2410.21192v1](http://arxiv.org/abs/2410.21192v1)|
-|**2024-10-28**|**Unharmful Backdoor-based Client-side Watermarking in Federated Learning**|Kaijing Luo et.al.|[2410.21179v1](http://arxiv.org/abs/2410.21179v1)|
-|**2024-10-28**|**A Unified Solution to Diverse Heterogeneities in One-shot Federated Learning**|Jun Bai et.al.|[2410.21119v1](http://arxiv.org/abs/2410.21119v1)|
-|**2024-10-28**|**Federated Time Series Generation on Feature and Temporally Misaligned Data**|Chenrui Fan et.al.|[2410.21072v1](http://arxiv.org/abs/2410.21072v1)|
+|**2024-10-30**|**(FL)$^2$: Overcoming Few Labels in Federated Semi-Supervised Learning**|Seungjoo Lee et.al.|[2410.23227v1](http://arxiv.org/abs/2410.23227v1)|
+|**2024-10-30**|**Federated Learning under Periodic Client Participation and Heterogeneous Data: A New Communication-Efficient Algorithm and Analysis**|Michael Crawshaw et.al.|[2410.23131v1](http://arxiv.org/abs/2410.23131v1)|
+|**2024-10-30**|**Why Gradient Subspace? Identifying and Mitigating LoRA's Bottlenecks in Federated Fine-Tuning of Large Language Models**|Navyansh Mahla et.al.|[2410.23111v1](http://arxiv.org/abs/2410.23111v1)|
+|**2024-10-30**|**A Study of Secure Algorithms for Vertical Federated Learning: Take Secure Logistic Regression as an Example**|Huan-Chih Wang et.al.|[2410.22960v1](http://arxiv.org/abs/2410.22960v1)|
+|**2024-10-30**|**CopRA: A Progressive LoRA Training Strategy**|Zhan Zhuang et.al.|[2410.22911v1](http://arxiv.org/abs/2410.22911v1)|
+|**2024-10-30**|**Federated UCBVI: Communication-Efficient Federated Regret Minimization with Heterogeneous Agents**|Safwan Labbi et.al.|[2410.22908v1](http://arxiv.org/abs/2410.22908v1)|
+|**2024-10-30**|**Towards Robust and Efficient Federated Low-Rank Adaptation with Heterogeneous Clients**|Jabin Koo et.al.|[2410.22815v1](http://arxiv.org/abs/2410.22815v1)|
+|**2024-10-30**|**Byzantine-Robust Federated Learning: An Overview With Focus on Developing Sybil-based Attacks to Backdoor Augmented Secure Aggregation Protocols**|Atharv Deshmukh et.al.|[2410.22680v1](http://arxiv.org/abs/2410.22680v1)|
+|**2024-10-30**|**FISC: Federated Domain Generalization via Interpolative Style Transfer and Contrastive Learning**|Dung Thuy Nguyen et.al.|[2410.22622v1](http://arxiv.org/abs/2410.22622v1)|
+|**2024-10-29**|**Vertical Federated Learning with Missing Features During Training and Inference**|Pedro Valdeira et.al.|[2410.22564v1](http://arxiv.org/abs/2410.22564v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-30**|**Private Synthetic Text Generation with Diffusion Models**|Sebastian Ochs et.al.|[2410.22971v1](http://arxiv.org/abs/2410.22971v1)|
+|**2024-10-30**|**Exactly Minimax-Optimal Locally Differentially Private Sampling**|Hyun-Young Park et.al.|[2410.22699v1](http://arxiv.org/abs/2410.22699v1)|
+|**2024-10-30**|**Calibrating Practical Privacy Risks for Differentially Private Machine Learning**|Yuechun Gu et.al.|[2410.22673v1](http://arxiv.org/abs/2410.22673v1)|
+|**2024-10-30**|**FT-PrivacyScore: Personalized Privacy Scoring Service for Machine Learning Participation**|Yuechun Gu et.al.|[2410.22651v1](http://arxiv.org/abs/2410.22651v1)|
+|**2024-10-29**|**Privacy-Preserving Dynamic Assortment Selection**|Young Hyun Cho et.al.|[2410.22488v1](http://arxiv.org/abs/2410.22488v1)|
 |**2024-10-29**|**Auditing $f$-Differential Privacy in One Run**|Saeed Mahloujifar et.al.|[2410.22235v1](http://arxiv.org/abs/2410.22235v1)|
 |**2024-10-28**|**Differentially Private Learned Indexes**|Jianzhang Du et.al.|[2410.21164v1](http://arxiv.org/abs/2410.21164v1)|
 |**2024-10-27**|**Privacy-Enhanced Adaptive Authentication: User Profiling with Privacy Guarantees**|Yaser Baseri et.al.|[2410.20555v1](http://arxiv.org/abs/2410.20555v1)|
 |**2024-10-26**|**FL-DABE-BC: A Privacy-Enhanced, Decentralized Authentication, and Secure Communication for Federated Learning Framework with Decentralized Attribute-Based Encryption and Blockchain for IoT Scenarios**|Sathwik Narkedimilli et.al.|[2410.20259v1](http://arxiv.org/abs/2410.20259v1)|
 |**2024-10-25**|**Privacy without Noisy Gradients: Slicing Mechanism for Generative Model Training**|Kristjan Greenewald et.al.|[2410.19941v1](http://arxiv.org/abs/2410.19941v1)|
-|**2024-10-25**|**Collaborative Inference over Wireless Channels with Feature Differential Privacy**|Mohamed Seif et.al.|[2410.19917v1](http://arxiv.org/abs/2410.19917v1)|
-|**2024-10-25**|**Noise-Aware Differentially Private Variational Inference**|Talal Alrawajfeh et.al.|[2410.19371v1](http://arxiv.org/abs/2410.19371v1)|
-|**2024-10-24**|**Research on Key Technologies for Cross-Cloud Federated Training of Large Language Models**|Haowei Yang et.al.|[2410.19130v1](http://arxiv.org/abs/2410.19130v1)|
-|**2024-10-24**|**PSY: Posterior Sampling Based Privacy Enhancer in Large Language Models**|Yulian Sun et.al.|[2410.18824v1](http://arxiv.org/abs/2410.18824v1)|
-|**2024-10-24**|**Does Differential Privacy Impact Bias in Pretrained NLP Models?**|Md. Khairul Islam et.al.|[2410.18749v1](http://arxiv.org/abs/2410.18749v1)|
 
 ## Data Masking
 
@@ -94,16 +94,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-30**|**Partial Channel Dependence with Channel Masks for Time Series Foundation Models**|Seunghan Lee et.al.|[2410.23222v1](http://arxiv.org/abs/2410.23222v1)|
+|**2024-10-30**|**Directional anomaly detection**|Oliver Urs Lenz et.al.|[2410.23158v1](http://arxiv.org/abs/2410.23158v1)|
+|**2024-10-30**|**Dynamic Threshold-based Two-layer Online Unsupervised Anomaly Detector**|Yachao Yuan et.al.|[2410.22967v1](http://arxiv.org/abs/2410.22967v1)|
+|**2024-10-30**|**MIXAD: Memory-Induced Explainable Time Series Anomaly Detection**|Minha Kim et.al.|[2410.22735v1](http://arxiv.org/abs/2410.22735v1)|
+|**2024-10-30**|**PV-VTT: A Privacy-Centric Dataset for Mission-Specific Anomaly Detection and Natural Language Interpretation**|Ryozo Masukawa et.al.|[2410.22623v1](http://arxiv.org/abs/2410.22623v1)|
+|**2024-10-29**|**Unsupervised Multimodal Fusion of In-process Sensor Data for Advanced Manufacturing Process Monitoring**|Matthew McKinney et.al.|[2410.22558v1](http://arxiv.org/abs/2410.22558v1)|
 |**2024-10-29**|**Hypergraph-based multi-scale spatio-temporal graph convolution network for Time-Series anomaly detection**|Hongyi Xu et.al.|[2410.22256v1](http://arxiv.org/abs/2410.22256v1)|
 |**2024-10-29**|**A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Anomaly Detection**|Yuxuan Lin et.al.|[2410.21982v1](http://arxiv.org/abs/2410.21982v1)|
 |**2024-10-29**|**LogSHIELD: A Graph-based Real-time Anomaly Detection Framework using Frequency Analysis**|Krishna Chandra Roy et.al.|[2410.21936v1](http://arxiv.org/abs/2410.21936v1)|
 |**2024-10-29**|**Sliced-Wasserstein-based Anomaly Detection and Open Dataset for Localized Critical Peak Rebates**|Julien Pallage et.al.|[2410.21712v1](http://arxiv.org/abs/2410.21712v1)|
-|**2024-10-28**|**A Systematic Review of Machine Learning in Sports Betting: Techniques, Challenges, and Future Directions**|René Manassé Galekwa et.al.|[2410.21484v1](http://arxiv.org/abs/2410.21484v1)|
-|**2024-10-28**|**Topological Identification of Agent Status in Information Contagions: Application to Financial Markets**|Anubha Goel et.al.|[2410.21104v1](http://arxiv.org/abs/2410.21104v1)|
-|**2024-10-27**|**SIGMA: Single Interpolated Generative Model for Anomalies**|Ranit Das et.al.|[2410.20537v1](http://arxiv.org/abs/2410.20537v1)|
-|**2024-10-27**|**Causal Modeling in Multi-Context Systems: Distinguishing Multiple Context-Specific Causal Graphs which Account for Observational Support**|Martin Rabel et.al.|[2410.20405v1](http://arxiv.org/abs/2410.20405v1)|
-|**2024-10-27**|**Rethinking Reconstruction-based Graph-Level Anomaly Detection: Limitations and a Simple Remedy**|Sunwoo Kim et.al.|[2410.20366v1](http://arxiv.org/abs/2410.20366v1)|
-|**2024-10-27**|**ANOMIX: A Simple yet Effective Hard Negative Generation via Mixing for Graph Anomaly Detection**|Hwan Kim et.al.|[2410.20310v1](http://arxiv.org/abs/2410.20310v1)|
 
 ## change detection
 
