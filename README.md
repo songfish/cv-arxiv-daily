@@ -21,7 +21,7 @@
 |---|---|---|---|
 |**2024-10-29**|**FakeFormer: Efficient Vulnerability-Driven Transformers for Generalisable Deepfake Detection**|Dat Nguyen et.al.|[2410.21964v1](http://arxiv.org/abs/2410.21964v1)|
 |**2024-10-28**|**Mitigating Unauthorized Speech Synthesis for Voice Protection**|Zhisheng Zhang et.al.|[2410.20742v1](http://arxiv.org/abs/2410.20742v1)|
-|**2024-10-27**|**Meta-Learning Approaches for Improving Detection of Unseen Speech Deepfakes**|Ivan Kukanov et.al.|[2410.20578v1](http://arxiv.org/abs/2410.20578v1)|
+|**2024-10-27**|**Meta-Learning Approaches for Improving Detection of Unseen Speech Deepfakes**|Ivan Kukanov et.al.|[2410.20578v2](http://arxiv.org/abs/2410.20578v2)|
 |**2024-10-26**|**Strategic Control of Facial Expressions by the Fed Chair**|Hunter Ng et.al.|[2410.20214v1](http://arxiv.org/abs/2410.20214v1)|
 |**2024-10-24**|**The Cat and Mouse Game: The Ongoing Arms Race Between Diffusion Models and Detection Methods**|Linda Laurier et.al.|[2410.18866v1](http://arxiv.org/abs/2410.18866v1)|
 |**2024-10-24**|**ODDN: Addressing Unpaired Data Challenges in Open-World Deepfake Detection on Online Social Networks**|Renshuai Tao et.al.|[2410.18687v1](http://arxiv.org/abs/2410.18687v1)|
