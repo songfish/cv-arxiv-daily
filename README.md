@@ -8,7 +8,7 @@
 |**2024-08-27**|**Enhancing License Plate Super-Resolution: A Layout-Aware and Character-Driven Approach**|Valfride Nascimento et.al.|[2408.15103v2](http://arxiv.org/abs/2408.15103v2)|
 |**2024-07-28**|**Model-based Super-resolution: Towards a Unified Framework for Super-resolution**|Zetao Fei et.al.|[2407.19480v1](http://arxiv.org/abs/2407.19480v1)|
 |**2024-05-09**|**Multimodal Super-Resolution: Discovering hidden physics and its application to fusion plasmas**|Azarakhsh Jalalvand et.al.|[2405.05908v4](http://arxiv.org/abs/2405.05908v4)|
-|**2024-01-28**|**Towards Arbitrary-Scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework via Implicit Self-texture Enhancement**|Minghong Duan et.al.|[2401.15613v6](http://arxiv.org/abs/2401.15613v6)|
+|**2024-01-28**|**An efficient dual-branch framework via implicit self-texture enhancement for arbitrary-scale histopathology image super-resolution**|Minghong Duan et.al.|[2401.15613v7](http://arxiv.org/abs/2401.15613v7)|
 |**2024-01-16**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v2](http://arxiv.org/abs/2401.08115v2)|
 |**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633v2](http://arxiv.org/abs/2401.05633v2)|
 |**2023-12-27**|**Learn From Orientation Prior for Radiograph Super-Resolution: Orientation Operator Transformer**|Yongsong Huang et.al.|[2312.16455v1](http://arxiv.org/abs/2312.16455v1)|
@@ -56,7 +56,7 @@
 |**2024-11-05**|**Enhancing DP-SGD through Non-monotonous Adaptive Scaling Gradient Weight**|Tao Huang et.al.|[2411.03059v1](http://arxiv.org/abs/2411.03059v1)|
 |**2024-11-05**|**Gradient-Guided Conditional Diffusion Models for Private Image Reconstruction: Analyzing Adversarial Impacts of Differential Privacy and Denoising**|Tao Huang et.al.|[2411.03053v1](http://arxiv.org/abs/2411.03053v1)|
 |**2024-11-04**|**Sample-Efficient Private Learning of Mixtures of Gaussians**|Hassan Ashtiani et.al.|[2411.02298v1](http://arxiv.org/abs/2411.02298v1)|
-|**2024-11-04**|**Differentially Private Integrated Decision Gradients (IDG-DP) for Radar-based Human Activity Recognition**|Idris Zakariyya et.al.|[2411.02099v1](http://arxiv.org/abs/2411.02099v1)|
+|**2024-11-04**|**Differentially Private Integrated Decision Gradients (IDG-DP) for Radar-based Human Activity Recognition**|Idris Zakariyya et.al.|[2411.02099v2](http://arxiv.org/abs/2411.02099v2)|
 |**2024-11-04**|**R+R:Understanding Hyperparameter Effects in DP-SGD**|Felix Morsbach et.al.|[2411.02051v1](http://arxiv.org/abs/2411.02051v1)|
 |**2024-11-04**|**Differentially private and decentralized randomized power method**|Julien Nicolas et.al.|[2411.01931v1](http://arxiv.org/abs/2411.01931v1)|
 
