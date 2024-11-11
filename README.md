@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2024-11-07**|**Differential Privacy Overview and Fundamental Techniques**|Ferdinando Fioretto et.al.|[2411.04710v1](http://arxiv.org/abs/2411.04710v1)|
-|**2024-11-07**|**Differentially Private Continual Learning using Pre-Trained Models**|Marlon Tobaben et.al.|[2411.04680v1](http://arxiv.org/abs/2411.04680v1)|
+|**2024-11-07**|**Differentially Private Continual Learning using Pre-Trained Models**|Marlon Tobaben et.al.|[2411.04680v2](http://arxiv.org/abs/2411.04680v2)|
 |**2024-11-07**|**Towards Robust Federated Analytics via Differentially Private Measurements of Statistical Heterogeneity**|Mary Scott et.al.|[2411.04579v1](http://arxiv.org/abs/2411.04579v1)|
 |**2024-11-07**|**FedDP: Privacy-preserving method based on federated learning for histopathology image segmentation**|Liangrui Pan et.al.|[2411.04509v1](http://arxiv.org/abs/2411.04509v1)|
 |**2024-11-06**|**NeurIPS 2023 Competition: Privacy Preserving Federated Learning Document VQA**|Marlon Tobaben et.al.|[2411.03730v1](http://arxiv.org/abs/2411.03730v1)|
@@ -95,7 +95,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2024-11-07**|**MISGUIDE: Security-Aware Attack Analytics for Smart Grid Load Frequency Control**|Nur Imtiazul Haque et.al.|[2411.04731v1](http://arxiv.org/abs/2411.04731v1)|
-|**2024-11-07**|**From CNN to ConvRNN: Adapting Visualization Techniques for Time-Series Anomaly Detection**|Fabien Poirier et.al.|[2411.04707v1](http://arxiv.org/abs/2411.04707v1)|
+|**2024-11-07**|**From CNN to ConvRNN: Adapting Visualization Techniques for Time-Series Anomaly Detection**|Fabien Poirier et.al.|[2411.04707v2](http://arxiv.org/abs/2411.04707v2)|
 |**2024-11-07**|**Peri-midFormer: Periodic Pyramid Transformer for Time Series Analysis**|Qiang Wu et.al.|[2411.04554v1](http://arxiv.org/abs/2411.04554v1)|
 |**2024-11-06**|**Astronomaly Protege: Discovery Through Human-Machine Collaboration**|Michelle Lochner et.al.|[2411.04188v1](http://arxiv.org/abs/2411.04188v1)|
 |**2024-11-06**|**Synomaly Noise and Multi-Stage Diffusion: A Novel Approach for Unsupervised Anomaly Detection in Ultrasound Imaging**|Yuan Bi et.al.|[2411.04004v1](http://arxiv.org/abs/2411.04004v1)|
