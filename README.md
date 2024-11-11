@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-07**|**Reducing data resolution for better super-resolution: Reconstructing turbulent flows from noisy observation**|Kyongmin Yeo et.al.|[2411.05240v1](http://arxiv.org/abs/2411.05240v1)|
 |**2024-09-25**|**NTIRE 2024 Challenge on Stereo Image Super-Resolution: Methods and Results**|Longguang Wang et.al.|[2409.16947v1](http://arxiv.org/abs/2409.16947v1)|
 |**2024-08-27**|**Enhancing License Plate Super-Resolution: A Layout-Aware and Character-Driven Approach**|Valfride Nascimento et.al.|[2408.15103v2](http://arxiv.org/abs/2408.15103v2)|
 |**2024-07-28**|**Model-based Super-resolution: Towards a Unified Framework for Super-resolution**|Zetao Fei et.al.|[2407.19480v1](http://arxiv.org/abs/2407.19480v1)|
@@ -13,12 +14,13 @@
 |**2023-12-27**|**Learn From Orientation Prior for Radiograph Super-Resolution: Orientation Operator Transformer**|Yongsong Huang et.al.|[2312.16455v1](http://arxiv.org/abs/2312.16455v1)|
 |**2023-12-24**|**Perception-Distortion Balanced Super-Resolution: A Multi-Objective Optimization Perspective**|Lingchen Sun et.al.|[2312.15408v2](http://arxiv.org/abs/2312.15408v2)|
 |**2023-12-20**|**Learning Exhaustive Correlation for Spectral Super-Resolution: Where Spatial-Spectral Attention Meets Linear Dependence**|Hongyuan Wang et.al.|[2312.12833v2](http://arxiv.org/abs/2312.12833v2)|
-|**2023-11-28**|**Super-Resolution through StyleGAN Regularized Latent Search: A Realism-Fidelity Trade-off**|Marzieh Gheisari et.al.|[2311.16923v1](http://arxiv.org/abs/2311.16923v1)|
 
 ## deepfake
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-08**|**Impact of Fake News on Social Media Towards Public Users of Different Age Groups**|Kahlil bin Abdul Hakim et.al.|[2411.05638v1](http://arxiv.org/abs/2411.05638v1)|
+|**2024-11-08**|**A Quality-Centric Framework for Generic Deepfake Detection**|Wentang Song et.al.|[2411.05335v1](http://arxiv.org/abs/2411.05335v1)|
 |**2024-10-31**|**I Can Hear You: Selective Robust Training for Deepfake Audio Detection**|Zirui Zhang et.al.|[2411.00121v1](http://arxiv.org/abs/2411.00121v1)|
 |**2024-10-31**|**DIP: Diffusion Learning of Inconsistency Pattern for General DeepFake Detection**|Fan Nie et.al.|[2410.23663v1](http://arxiv.org/abs/2410.23663v1)|
 |**2024-10-29**|**FakeFormer: Efficient Vulnerability-Driven Transformers for Generalisable Deepfake Detection**|Dat Nguyen et.al.|[2410.21964v1](http://arxiv.org/abs/2410.21964v1)|
@@ -27,28 +29,28 @@
 |**2024-10-26**|**Strategic Control of Facial Expressions by the Fed Chair**|Hunter Ng et.al.|[2410.20214v1](http://arxiv.org/abs/2410.20214v1)|
 |**2024-10-24**|**The Cat and Mouse Game: The Ongoing Arms Race Between Diffusion Models and Detection Methods**|Linda Laurier et.al.|[2410.18866v1](http://arxiv.org/abs/2410.18866v1)|
 |**2024-10-24**|**ODDN: Addressing Unpaired Data Challenges in Open-World Deepfake Detection on Online Social Networks**|Renshuai Tao et.al.|[2410.18687v1](http://arxiv.org/abs/2410.18687v1)|
-|**2024-10-22**|**Artificial Intelligence in Brazilian News: A Mixed-Methods Analysis**|Raphael Hernandes et.al.|[2410.17423v1](http://arxiv.org/abs/2410.17423v1)|
-|**2024-10-21**|**ALDAS: Audio-Linguistic Data Augmentation for Spoofed Audio Detection**|Zahra Khanjani et.al.|[2410.15577v1](http://arxiv.org/abs/2410.15577v1)|
 
 ## federated learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-08**|**IPMN Risk Assessment under Federated Learning Paradigm**|Hongyi Pan et.al.|[2411.05697v1](http://arxiv.org/abs/2411.05697v1)|
+|**2024-11-08**|**Network EM Algorithm for Gaussian Mixture Model in Decentralized Federated Learning**|Shuyuan Wu et.al.|[2411.05591v1](http://arxiv.org/abs/2411.05591v1)|
+|**2024-11-08**|**QuanCrypt-FL: Quantized Homomorphic Encryption with Pruning for Secure Federated Learning**|Md Jueal Mia et.al.|[2411.05260v1](http://arxiv.org/abs/2411.05260v1)|
+|**2024-11-07**|**DWFL: Enhancing Federated Learning through Dynamic Weighted Averaging**|Prakash Chourasia et.al.|[2411.05173v1](http://arxiv.org/abs/2411.05173v1)|
+|**2024-11-07**|**EPIC: Enhancing Privacy through Iterative Collaboration**|Prakash Chourasia et.al.|[2411.05167v1](http://arxiv.org/abs/2411.05167v1)|
 |**2024-11-07**|**Fed-LDR: Federated Local Data-infused Graph Creation with Node-centric Model Refinement**|Jiechao Gao et.al.|[2411.04936v1](http://arxiv.org/abs/2411.04936v1)|
 |**2024-11-07**|**Personalized Federated Learning for Cross-view Geo-localization**|Christos Anagnostopoulos et.al.|[2411.04692v1](http://arxiv.org/abs/2411.04692v1)|
 |**2024-11-07**|**FedDP: Privacy-preserving method based on federated learning for histopathology image segmentation**|Liangrui Pan et.al.|[2411.04509v1](http://arxiv.org/abs/2411.04509v1)|
-|**2024-11-06**|**Cooperation and Personalization on a Seesaw: Choice-based FL for Safe Cooperation in Wireless Networks**|Han Zhang et.al.|[2411.04159v1](http://arxiv.org/abs/2411.04159v1)|
 |**2024-11-06**|**Fed-EC: Bandwidth-Efficient Clustering-Based Federated Learning For Autonomous Visual Robot Navigation**|Shreya Gummadi et.al.|[2411.04112v1](http://arxiv.org/abs/2411.04112v1)|
 |**2024-11-06**|**Federated mixed effects logistic regression based on one-time shared summary statistics**|Marie Analiz April Limpoco et.al.|[2411.04002v1](http://arxiv.org/abs/2411.04002v1)|
-|**2024-11-06**|**Towards Resource-Efficient Federated Learning in Industrial IoT for Multivariate Time Series Analysis**|Alexandros Gkillas et.al.|[2411.03996v1](http://arxiv.org/abs/2411.03996v1)|
-|**2024-11-06**|**Act in Collusion: A Persistent Distributed Multi-Target Backdoor in Federated Learning**|Tao Liu et.al.|[2411.03926v1](http://arxiv.org/abs/2411.03926v1)|
-|**2024-11-06**|**FedRISE: Rating Induced Sign Election of Gradients for Byzantine Tolerant Federated Aggregation**|Joseph Geo Benjamin et.al.|[2411.03861v1](http://arxiv.org/abs/2411.03861v1)|
-|**2024-11-06**|**Overcoming label shift in targeted federated learning**|Edvin Listo Zec et.al.|[2411.03799v1](http://arxiv.org/abs/2411.03799v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-08**|**Differential Privacy Under Class Imbalance: Methods and Empirical Insights**|Lucas Rosenblatt et.al.|[2411.05733v1](http://arxiv.org/abs/2411.05733v1)|
+|**2024-11-08**|**The Limits of Differential Privacy in Online Learning**|Bo Li et.al.|[2411.05483v1](http://arxiv.org/abs/2411.05483v1)|
 |**2024-11-07**|**Differential Privacy Overview and Fundamental Techniques**|Ferdinando Fioretto et.al.|[2411.04710v1](http://arxiv.org/abs/2411.04710v1)|
 |**2024-11-07**|**Differentially Private Continual Learning using Pre-Trained Models**|Marlon Tobaben et.al.|[2411.04680v2](http://arxiv.org/abs/2411.04680v2)|
 |**2024-11-07**|**Towards Robust Federated Analytics via Differentially Private Measurements of Statistical Heterogeneity**|Mary Scott et.al.|[2411.04579v1](http://arxiv.org/abs/2411.04579v1)|
@@ -57,8 +59,6 @@
 |**2024-11-06**|**Privacy-Preserving Resilient Vector Consensus**|Bing Liu et.al.|[2411.03633v1](http://arxiv.org/abs/2411.03633v1)|
 |**2024-11-05**|**Concurrent Composition for Continual Mechanisms**|Monika Henzinger et.al.|[2411.03299v1](http://arxiv.org/abs/2411.03299v1)|
 |**2024-11-05**|**Enhancing DP-SGD through Non-monotonous Adaptive Scaling Gradient Weight**|Tao Huang et.al.|[2411.03059v1](http://arxiv.org/abs/2411.03059v1)|
-|**2024-11-05**|**Gradient-Guided Conditional Diffusion Models for Private Image Reconstruction: Analyzing Adversarial Impacts of Differential Privacy and Denoising**|Tao Huang et.al.|[2411.03053v1](http://arxiv.org/abs/2411.03053v1)|
-|**2024-11-04**|**Sample-Efficient Private Learning of Mixtures of Gaussians**|Hassan Ashtiani et.al.|[2411.02298v1](http://arxiv.org/abs/2411.02298v1)|
 
 ## Data Masking
 
@@ -94,6 +94,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-08**|**Machine learning-driven Anomaly Detection and Forecasting for Euclid Space Telescope Operations**|Pablo Gómez et.al.|[2411.05596v1](http://arxiv.org/abs/2411.05596v1)|
+|**2024-11-07**|**Interpretable Measurement of CNN Deep Feature Density using Copula and the Generalized Characteristic Function**|David Chapman et.al.|[2411.05183v1](http://arxiv.org/abs/2411.05183v1)|
 |**2024-11-07**|**MISGUIDE: Security-Aware Attack Analytics for Smart Grid Load Frequency Control**|Nur Imtiazul Haque et.al.|[2411.04731v1](http://arxiv.org/abs/2411.04731v1)|
 |**2024-11-07**|**From CNN to ConvRNN: Adapting Visualization Techniques for Time-Series Anomaly Detection**|Fabien Poirier et.al.|[2411.04707v2](http://arxiv.org/abs/2411.04707v2)|
 |**2024-11-07**|**Peri-midFormer: Periodic Pyramid Transformer for Time Series Analysis**|Qiang Wu et.al.|[2411.04554v1](http://arxiv.org/abs/2411.04554v1)|
@@ -102,8 +104,6 @@
 |**2024-11-06**|**Towards Resource-Efficient Federated Learning in Industrial IoT for Multivariate Time Series Analysis**|Alexandros Gkillas et.al.|[2411.03996v1](http://arxiv.org/abs/2411.03996v1)|
 |**2024-11-05**|**Enhanced Real-Time Threat Detection in 5G Networks: A Self-Attention RNN Autoencoder Approach for Spectral Intrusion Analysis**|Mohammadreza Kouchaki et.al.|[2411.03365v1](http://arxiv.org/abs/2411.03365v1)|
 |**2024-11-05**|**iAnomaly: A Toolkit for Generating Performance Anomaly Datasets in Edge-Cloud Integrated Computing Environments**|Duneesha Fernando et.al.|[2411.02868v1](http://arxiv.org/abs/2411.02868v1)|
-|**2024-11-04**|**See it, Think it, Sorted: Large Multimodal Models are Few-shot Time Series Anomaly Analyzers**|Jiaxin Zhuang et.al.|[2411.02465v1](http://arxiv.org/abs/2411.02465v1)|
-|**2024-11-04**|**Advancing Cyber-Attack Detection in Power Systems: A Comparative Study of Machine Learning and Graph Neural Network Approaches**|Tianzhixi Yin et.al.|[2411.02248v1](http://arxiv.org/abs/2411.02248v1)|
 
 ## change detection
 
