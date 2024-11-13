@@ -38,7 +38,7 @@
 |**2024-11-11**|**Revisiting Ensembling in One-Shot Federated Learning**|Youssef Allouah et.al.|[2411.07182v1](http://arxiv.org/abs/2411.07182v1)|
 |**2024-11-11**|**WassFFed: Wasserstein Fair Federated Learning**|Zhongxuan Han et.al.|[2411.06881v1](http://arxiv.org/abs/2411.06881v1)|
 |**2024-11-11**|**Model Partition and Resource Allocation for Split Learning in Vehicular Edge Networks**|Lu Yu et.al.|[2411.06773v1](http://arxiv.org/abs/2411.06773v1)|
-|**2024-11-11**|**Sketched Adaptive Federated Deep Learning: A Sharp Convergence Analysis**|Zhijie Chen et.al.|[2411.06770v1](http://arxiv.org/abs/2411.06770v1)|
+|**2024-11-11**|**Sketched Adaptive Federated Deep Learning: A Sharp Convergence Analysis**|Zhijie Chen et.al.|[2411.06770v2](http://arxiv.org/abs/2411.06770v2)|
 |**2024-11-11**|**Movable Antenna-Aided Federated Learning with Over-the-Air Aggregation: Joint Optimization of Positioning, Beamforming, and User Selection**|Yang Zhao et.al.|[2411.06721v1](http://arxiv.org/abs/2411.06721v1)|
 |**2024-11-10**|**Using Diffusion Models as Generative Replay in Continual Federated Learning -- What will Happen?**|Yongsheng Mei et.al.|[2411.06618v1](http://arxiv.org/abs/2411.06618v1)|
 |**2024-11-10**|**Protection against Source Inference Attacks in Federated Learning using Unary Encoding and Shuffling**|Andreas Athanasiou et.al.|[2411.06458v1](http://arxiv.org/abs/2411.06458v1)|
