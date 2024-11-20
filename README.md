@@ -34,21 +34,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-19**|**Attribute Inference Attacks for Federated Regression Tasks**|Francesco Diana et.al.|[2411.12697v1](http://arxiv.org/abs/2411.12697v1)|
+|**2024-11-19**|**Non-IID data in Federated Learning: A Systematic Review with Taxonomy, Metrics, Methods, Frameworks and Future Directions**|Daniel M. Jimenez G. et.al.|[2411.12377v1](http://arxiv.org/abs/2411.12377v1)|
+|**2024-11-19**|**Hyper-parameter Optimization for Federated Learning with Step-wise Adaptive Mechanism**|Yasaman Saadati et.al.|[2411.12244v1](http://arxiv.org/abs/2411.12244v1)|
+|**2024-11-19**|**DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning**|Kichang Lee et.al.|[2411.12220v1](http://arxiv.org/abs/2411.12220v1)|
+|**2024-11-18**|**Federated Contrastive Learning of Graph-Level Representations**|Xiang Li et.al.|[2411.12098v1](http://arxiv.org/abs/2411.12098v1)|
+|**2024-11-17**|**F$^3$OCUS -- Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics**|Pramit Saha et.al.|[2411.11912v1](http://arxiv.org/abs/2411.11912v1)|
 |**2024-11-18**|**A Potential Game Perspective in Federated Learning**|Kang Liu et.al.|[2411.11793v1](http://arxiv.org/abs/2411.11793v1)|
 |**2024-11-18**|**Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors**|Shovito Barua Soumma et.al.|[2411.11764v2](http://arxiv.org/abs/2411.11764v2)|
 |**2024-11-18**|**FLMarket: Enabling Privacy-preserved Pre-training Data Pricing for Federated Learning**|Zhenyu Wen et.al.|[2411.11713v1](http://arxiv.org/abs/2411.11713v1)|
 |**2024-11-18**|**Toward Personalized Federated Node Classification in One-shot Communication**|Guochen Yan et.al.|[2411.11304v1](http://arxiv.org/abs/2411.11304v1)|
-|**2024-11-17**|**Federated Learning for UAV-Based Spectrum Sensing: Enhancing Accuracy Through SNR-Weighted Model Aggregation**|Kürşat Tekbıyık et.al.|[2411.11159v1](http://arxiv.org/abs/2411.11159v1)|
-|**2024-11-17**|**Efficient Federated Unlearning with Adaptive Differential Privacy Preservation**|Yu Jiang et.al.|[2411.11044v1](http://arxiv.org/abs/2411.11044v1)|
-|**2024-11-17**|**FedUHB: Accelerating Federated Unlearning via Polyak Heavy Ball Method**|Yu Jiang et.al.|[2411.11039v1](http://arxiv.org/abs/2411.11039v1)|
-|**2024-11-16**|**How to Defend Against Large-scale Model Poisoning Attacks in Federated Learning: A Vertical Solution**|Jinbo Wang et.al.|[2411.10673v1](http://arxiv.org/abs/2411.10673v1)|
-|**2024-11-15**|**Electrical Load Forecasting in Smart Grid: A Personalized Federated Learning Approach**|Ratun Rahman et.al.|[2411.10619v1](http://arxiv.org/abs/2411.10619v1)|
-|**2024-11-15**|**FedAli: Personalized Federated Learning with Aligned Prototypes through Optimal Transport**|Sannara Ek et.al.|[2411.10595v1](http://arxiv.org/abs/2411.10595v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-19**|**Empirical Privacy Evaluations of Generative and Predictive Machine Learning Models -- A review and challenges for practice**|Flavio Hafner et.al.|[2411.12451v1](http://arxiv.org/abs/2411.12451v1)|
 |**2024-11-18**|**No-regret Exploration in Shuffle Private Reinforcement Learning**|Shaojie Bai et.al.|[2411.11647v1](http://arxiv.org/abs/2411.11647v1)|
 |**2024-11-18**|**Preempting Text Sanitization Utility in Resource-Constrained Privacy-Preserving LLM Interactions**|Robin Carpentier et.al.|[2411.11521v1](http://arxiv.org/abs/2411.11521v1)|
 |**2024-11-17**|**Efficient Federated Unlearning with Adaptive Differential Privacy Preservation**|Yu Jiang et.al.|[2411.11044v1](http://arxiv.org/abs/2411.11044v1)|
@@ -58,12 +59,12 @@
 |**2024-11-13**|**Minimax Optimal Two-Sample Testing under Local Differential Privacy**|Jongmin Mun et.al.|[2411.09064v1](http://arxiv.org/abs/2411.09064v1)|
 |**2024-11-13**|**Locally Private Sampling with Public Data**|Behnoosh Zamanlooy et.al.|[2411.08791v1](http://arxiv.org/abs/2411.08791v1)|
 |**2024-11-12**|**A Stochastic Optimization Framework for Private and Fair Learning From Decentralized Data**|Devansh Gupta et.al.|[2411.07889v1](http://arxiv.org/abs/2411.07889v1)|
-|**2024-11-12**|**Federated Low-Rank Adaptation with Differential Privacy over Wireless Networks**|Tianqu Kang et.al.|[2411.07806v1](http://arxiv.org/abs/2411.07806v1)|
 
 ## Data Masking
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-19**|**Self-supervised denoising of visual field data improves detection of glaucoma progression**|Sean Wu et.al.|[2411.12146v1](http://arxiv.org/abs/2411.12146v1)|
 |**2024-08-06**|**MaskAnyone Toolkit: Offering Strategies for Minimizing Privacy Risks and Maximizing Utility in Audio-Visual Data Archiving**|Babajide Alamu Owoyele et.al.|[2408.03185v1](http://arxiv.org/abs/2408.03185v1)|
 |**2024-05-17**|**Dark Energy Survey Year 3 results: simulation-based cosmological inference with wavelet harmonics, scattering transforms, and moments of weak lensing mass maps II. Cosmological results**|M. Gatti et.al.|[2405.10881v1](http://arxiv.org/abs/2405.10881v1)|
 |**2024-03-16**|**Frizzle: Combining spectra or images by forward modeling**|David W. Hogg et.al.|[2403.11011v1](http://arxiv.org/abs/2403.11011v1)|
@@ -73,7 +74,6 @@
 |**2023-09-26**|**Fixing the NTK: From Neural Network Linearizations to Exact Convex Programs**|Rajat Vadiraj Dwaraknath et.al.|[2309.15096v1](http://arxiv.org/abs/2309.15096v1)|
 |**2023-05-14**|**Lightweight privacy-preserving truth discovery for vehicular air quality monitoring**|Rui Liu et.al.|[2305.08258v1](http://arxiv.org/abs/2305.08258v1)|
 |**2023-03-26**|**SASS: Data and Methods for Subject Aware Sentence Simplification**|Brad Windsor et.al.|[2303.14589v1](http://arxiv.org/abs/2303.14589v1)|
-|**2022-12-06**|**A new method to invert InSAR data to resolve stress changes on a fracture embedded in a 3D heterogeneous crust**|Farshid Dabaghi et.al.|[2212.03198v1](http://arxiv.org/abs/2212.03198v1)|
 
 ## abnormal detection
 
@@ -94,6 +94,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-19**|**AI Guided Early Screening of Cervical Cancer**|Dharanidharan S I et.al.|[2411.12681v1](http://arxiv.org/abs/2411.12681v1)|
+|**2024-11-19**|**UMGAD: Unsupervised Multiplex Graph Anomaly Detection**|Xiang Li et.al.|[2411.12556v1](http://arxiv.org/abs/2411.12556v1)|
 |**2024-11-18**|**TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection**|Mengxuan Li et.al.|[2411.11641v1](http://arxiv.org/abs/2411.11641v1)|
 |**2024-11-18**|**SADDE: Semi-supervised Anomaly Detection with Dependable Explanations**|Yachao Yuan et.al.|[2411.11293v1](http://arxiv.org/abs/2411.11293v1)|
 |**2024-11-17**|**Digital Twin for Advanced Network Planning: Tackling Interference**|Juan Carlos Estrada-Jimenez et.al.|[2411.11034v1](http://arxiv.org/abs/2411.11034v1)|
@@ -102,8 +104,6 @@
 |**2024-11-17**|**LLM-assisted Physical Invariant Extraction for Cyber-Physical Systems Anomaly Detection**|Danial Abshari et.al.|[2411.10918v1](http://arxiv.org/abs/2411.10918v1)|
 |**2024-11-16**|**Steam Turbine Anomaly Detection: An Unsupervised Learning Approach Using Enhanced Long Short-Term Memory Variational Autoencoder**|Weiming Xu et.al.|[2411.10765v1](http://arxiv.org/abs/2411.10765v1)|
 |**2024-11-16**|**On-device Anomaly Detection in Conveyor Belt Operations**|Luciano S. Martinez-Rau et.al.|[2411.10729v1](http://arxiv.org/abs/2411.10729v1)|
-|**2024-11-15**|**Systematically Constructing the Likelihood for Boosted $H\to gg$ Decays**|Andrew J. Larkoski et.al.|[2411.10539v1](http://arxiv.org/abs/2411.10539v1)|
-|**2024-11-15**|**Outliers resistant image classification by anomaly detection**|Anton Sergeev et.al.|[2411.10150v1](http://arxiv.org/abs/2411.10150v1)|
 
 ## change detection
 
