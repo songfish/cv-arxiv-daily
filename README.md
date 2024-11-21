@@ -34,16 +34,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-20**|**CB$^2$O: Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2411.13394v1](http://arxiv.org/abs/2411.13394v1)|
+|**2024-11-20**|**On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective**|Hung Vinh Tran et.al.|[2411.13052v1](http://arxiv.org/abs/2411.13052v1)|
+|**2024-11-20**|**NCAirFL: CSI-Free Over-the-Air Federated Learning Based on Non-Coherent Detection**|Haifeng Wen et.al.|[2411.13000v1](http://arxiv.org/abs/2411.13000v1)|
 |**2024-11-19**|**Attribute Inference Attacks for Federated Regression Tasks**|Francesco Diana et.al.|[2411.12697v1](http://arxiv.org/abs/2411.12697v1)|
 |**2024-11-19**|**Non-IID data in Federated Learning: A Systematic Review with Taxonomy, Metrics, Methods, Frameworks and Future Directions**|Daniel M. Jimenez G. et.al.|[2411.12377v1](http://arxiv.org/abs/2411.12377v1)|
 |**2024-11-19**|**Hyper-parameter Optimization for Federated Learning with Step-wise Adaptive Mechanism**|Yasaman Saadati et.al.|[2411.12244v1](http://arxiv.org/abs/2411.12244v1)|
 |**2024-11-19**|**DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning**|Kichang Lee et.al.|[2411.12220v1](http://arxiv.org/abs/2411.12220v1)|
 |**2024-11-18**|**Federated Contrastive Learning of Graph-Level Representations**|Xiang Li et.al.|[2411.12098v1](http://arxiv.org/abs/2411.12098v1)|
-|**2024-11-17**|**F$^3$OCUS -- Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics**|Pramit Saha et.al.|[2411.11912v1](http://arxiv.org/abs/2411.11912v1)|
 |**2024-11-18**|**A Potential Game Perspective in Federated Learning**|Kang Liu et.al.|[2411.11793v1](http://arxiv.org/abs/2411.11793v1)|
 |**2024-11-18**|**Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors**|Shovito Barua Soumma et.al.|[2411.11764v2](http://arxiv.org/abs/2411.11764v2)|
-|**2024-11-18**|**FLMarket: Enabling Privacy-preserved Pre-training Data Pricing for Federated Learning**|Zhenyu Wen et.al.|[2411.11713v1](http://arxiv.org/abs/2411.11713v1)|
-|**2024-11-18**|**Toward Personalized Federated Node Classification in One-shot Communication**|Guochen Yan et.al.|[2411.11304v1](http://arxiv.org/abs/2411.11304v1)|
 
 ## Differential Privacy
 
@@ -94,6 +94,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-20**|**Demonstrating the Suitability of Neuromorphic, Event-Based, Dynamic Vision Sensors for In Process Monitoring of Metallic Additive Manufacturing and Welding**|David Mascareñas et.al.|[2411.13108v1](http://arxiv.org/abs/2411.13108v1)|
 |**2024-11-19**|**AI Guided Early Screening of Cervical Cancer**|Dharanidharan S I et.al.|[2411.12681v1](http://arxiv.org/abs/2411.12681v1)|
 |**2024-11-19**|**UMGAD: Unsupervised Multiplex Graph Anomaly Detection**|Xiang Li et.al.|[2411.12556v1](http://arxiv.org/abs/2411.12556v1)|
 |**2024-11-18**|**TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection**|Mengxuan Li et.al.|[2411.11641v2](http://arxiv.org/abs/2411.11641v2)|
@@ -103,7 +104,6 @@
 |**2024-11-17**|**Anomaly Detection for People with Visual Impairments Using an Egocentric 360-Degree Camera**|Inpyo Song et.al.|[2411.10945v1](http://arxiv.org/abs/2411.10945v1)|
 |**2024-11-17**|**LLM-assisted Physical Invariant Extraction for Cyber-Physical Systems Anomaly Detection**|Danial Abshari et.al.|[2411.10918v1](http://arxiv.org/abs/2411.10918v1)|
 |**2024-11-16**|**Steam Turbine Anomaly Detection: An Unsupervised Learning Approach Using Enhanced Long Short-Term Memory Variational Autoencoder**|Weiming Xu et.al.|[2411.10765v1](http://arxiv.org/abs/2411.10765v1)|
-|**2024-11-16**|**On-device Anomaly Detection in Conveyor Belt Operations**|Luciano S. Martinez-Rau et.al.|[2411.10729v1](http://arxiv.org/abs/2411.10729v1)|
 
 ## change detection
 
