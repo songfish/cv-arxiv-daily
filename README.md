@@ -34,21 +34,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-21**|**Towards Adaptive Asynchronous Federated Learning for Human Activity Recognition**|Rastko Gajanin et.al.|[2411.14070v1](http://arxiv.org/abs/2411.14070v1)|
+|**2024-11-21**|**REFOL: Resource-Efficient Federated Online Learning for Traffic Flow Forecasting**|Qingxiang Liu et.al.|[2411.14046v1](http://arxiv.org/abs/2411.14046v1)|
+|**2024-11-21**|**FedRAV: Hierarchically Federated Region-Learning for Traffic Object Classification of Autonomous Vehicles**|Yijun Zhai et.al.|[2411.13979v1](http://arxiv.org/abs/2411.13979v1)|
+|**2024-11-21**|**Split Federated Learning Over Heterogeneous Edge Devices: Algorithm and Optimization**|Yunrui Sun et.al.|[2411.13907v1](http://arxiv.org/abs/2411.13907v1)|
+|**2024-11-21**|**Asynchronous Federated Learning Using Outdated Local Updates Over TDMA Channel**|Jaeyoung Song et.al.|[2411.13861v1](http://arxiv.org/abs/2411.13861v1)|
 |**2024-11-20**|**CB$^2$O: Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2411.13394v1](http://arxiv.org/abs/2411.13394v1)|
 |**2024-11-20**|**On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective**|Hung Vinh Tran et.al.|[2411.13052v1](http://arxiv.org/abs/2411.13052v1)|
 |**2024-11-20**|**NCAirFL: CSI-Free Over-the-Air Federated Learning Based on Non-Coherent Detection**|Haifeng Wen et.al.|[2411.13000v1](http://arxiv.org/abs/2411.13000v1)|
 |**2024-11-19**|**Attribute Inference Attacks for Federated Regression Tasks**|Francesco Diana et.al.|[2411.12697v1](http://arxiv.org/abs/2411.12697v1)|
 |**2024-11-19**|**Non-IID data in Federated Learning: A Systematic Review with Taxonomy, Metrics, Methods, Frameworks and Future Directions**|Daniel M. Jimenez G. et.al.|[2411.12377v1](http://arxiv.org/abs/2411.12377v1)|
-|**2024-11-19**|**Hyper-parameter Optimization for Federated Learning with Step-wise Adaptive Mechanism**|Yasaman Saadati et.al.|[2411.12244v1](http://arxiv.org/abs/2411.12244v1)|
-|**2024-11-19**|**DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning**|Kichang Lee et.al.|[2411.12220v1](http://arxiv.org/abs/2411.12220v1)|
-|**2024-11-18**|**Federated Contrastive Learning of Graph-Level Representations**|Xiang Li et.al.|[2411.12098v1](http://arxiv.org/abs/2411.12098v1)|
-|**2024-11-18**|**A Potential Game Perspective in Federated Learning**|Kang Liu et.al.|[2411.11793v1](http://arxiv.org/abs/2411.11793v1)|
-|**2024-11-18**|**Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors**|Shovito Barua Soumma et.al.|[2411.11764v2](http://arxiv.org/abs/2411.11764v2)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-21**|**$d_X$-Privacy for Text and the Curse of Dimensionality**|Hassan Jameel Asghar et.al.|[2411.13784v1](http://arxiv.org/abs/2411.13784v1)|
+|**2024-11-18**|**Preserving Expert-Level Privacy in Offline Reinforcement Learning**|Navodita Sharma et.al.|[2411.13598v1](http://arxiv.org/abs/2411.13598v1)|
 |**2024-11-19**|**Empirical Privacy Evaluations of Generative and Predictive Machine Learning Models -- A review and challenges for practice**|Flavio Hafner et.al.|[2411.12451v1](http://arxiv.org/abs/2411.12451v1)|
 |**2024-11-18**|**No-regret Exploration in Shuffle Private Reinforcement Learning**|Shaojie Bai et.al.|[2411.11647v1](http://arxiv.org/abs/2411.11647v1)|
 |**2024-11-18**|**Preempting Text Sanitization Utility in Resource-Constrained Privacy-Preserving LLM Interactions**|Robin Carpentier et.al.|[2411.11521v1](http://arxiv.org/abs/2411.11521v1)|
@@ -57,8 +59,6 @@
 |**2024-11-14**|**SAFES: Sequential Privacy and Fairness Enhancing Data Synthesis for Responsible AI**|Spencer Giddens et.al.|[2411.09178v2](http://arxiv.org/abs/2411.09178v2)|
 |**2024-11-14**|**Laplace Transform Interpretation of Differential Privacy**|Rishav Chourasia et.al.|[2411.09142v1](http://arxiv.org/abs/2411.09142v1)|
 |**2024-11-13**|**Minimax Optimal Two-Sample Testing under Local Differential Privacy**|Jongmin Mun et.al.|[2411.09064v1](http://arxiv.org/abs/2411.09064v1)|
-|**2024-11-13**|**Locally Private Sampling with Public Data**|Behnoosh Zamanlooy et.al.|[2411.08791v1](http://arxiv.org/abs/2411.08791v1)|
-|**2024-11-12**|**A Stochastic Optimization Framework for Private and Fair Learning From Decentralized Data**|Devansh Gupta et.al.|[2411.07889v1](http://arxiv.org/abs/2411.07889v1)|
 
 ## Data Masking
 
@@ -79,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-21**|**Is this Generated Person Existed in Real-world? Fine-grained Detecting and Calibrating Abnormal Human-body**|Zeqing Wang et.al.|[2411.14205v1](http://arxiv.org/abs/2411.14205v1)|
 |**2024-11-15**|**A Hybrid Artificial Intelligence System for Automated EEG Background Analysis and Report Generation**|Chin-Sung Tung et.al.|[2411.09874v1](http://arxiv.org/abs/2411.09874v1)|
 |**2024-10-09**|**rECGnition_v1.0: Arrhythmia detection using cardiologist-inspired multi-modal architecture incorporating demographic attributes in ECG**|Shreya Srivastava et.al.|[2410.18985v1](http://arxiv.org/abs/2410.18985v1)|
 |**2024-10-24**|**Integrating Deep Feature Extraction and Hybrid ResNet-DenseNet Model for Multi-Class Abnormality Detection in Endoscopic Images**|Aman Sagar et.al.|[2410.18457v1](http://arxiv.org/abs/2410.18457v1)|
@@ -88,12 +89,13 @@
 |**2024-07-23**|**Hyperbolic embedding of brain networks detects regions disrupted by neurodegeneration**|Alice Longhena et.al.|[2407.16589v1](http://arxiv.org/abs/2407.16589v1)|
 |**2024-07-19**|**TTA-OOD: Test-time Augmentation for Improving Out-of-Distribution Detection in Gastrointestinal Vision**|Sandesh Pokhrel et.al.|[2407.14024v1](http://arxiv.org/abs/2407.14024v1)|
 |**2024-07-05**|**Computer Vision for Clinical Gait Analysis: A Gait Abnormality Video Dataset**|Rahm Ranjan et.al.|[2407.04190v1](http://arxiv.org/abs/2407.04190v1)|
-|**2024-05-29**|**Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI**|Wei-Bang Jiang et.al.|[2405.18765v1](http://arxiv.org/abs/2405.18765v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-21**|**Adaptive Anomaly Detection for Identifying Attacks in Cyber-Physical Systems: A Systematic Literature Review**|Pablo Moriano et.al.|[2411.14278v1](http://arxiv.org/abs/2411.14278v1)|
+|**2024-11-21**|**A Dataset for Evaluating Online Anomaly Detection Approaches for Discrete Multivariate Time Series**|Lucas Correia et.al.|[2411.13951v1](http://arxiv.org/abs/2411.13951v1)|
 |**2024-11-20**|**Demonstrating the Suitability of Neuromorphic, Event-Based, Dynamic Vision Sensors for In Process Monitoring of Metallic Additive Manufacturing and Welding**|David Mascareñas et.al.|[2411.13108v1](http://arxiv.org/abs/2411.13108v1)|
 |**2024-11-19**|**AI Guided Early Screening of Cervical Cancer**|Dharanidharan S I et.al.|[2411.12681v1](http://arxiv.org/abs/2411.12681v1)|
 |**2024-11-19**|**UMGAD: Unsupervised Multiplex Graph Anomaly Detection**|Xiang Li et.al.|[2411.12556v1](http://arxiv.org/abs/2411.12556v1)|
@@ -102,13 +104,12 @@
 |**2024-11-17**|**Digital Twin for Advanced Network Planning: Tackling Interference**|Juan Carlos Estrada-Jimenez et.al.|[2411.11034v1](http://arxiv.org/abs/2411.11034v1)|
 |**2024-11-17**|**TeG: Temporal-Granularity Method for Anomaly Detection with Attention in Smart City Surveillance**|Erkut Akdag et.al.|[2411.11003v1](http://arxiv.org/abs/2411.11003v1)|
 |**2024-11-17**|**Anomaly Detection for People with Visual Impairments Using an Egocentric 360-Degree Camera**|Inpyo Song et.al.|[2411.10945v1](http://arxiv.org/abs/2411.10945v1)|
-|**2024-11-17**|**LLM-assisted Physical Invariant Extraction for Cyber-Physical Systems Anomaly Detection**|Danial Abshari et.al.|[2411.10918v1](http://arxiv.org/abs/2411.10918v1)|
-|**2024-11-16**|**Steam Turbine Anomaly Detection: An Unsupervised Learning Approach Using Enhanced Long Short-Term Memory Variational Autoencoder**|Weiming Xu et.al.|[2411.10765v1](http://arxiv.org/abs/2411.10765v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-21**|**Global and Local Attention-Based Transformer for Hyperspectral Image Change Detection**|Ziyi Wang et.al.|[2411.14109v1](http://arxiv.org/abs/2411.14109v1)|
 |**2024-11-12**|**CDXFormer: Boosting Remote Sensing Change Detection with Extended Long Short-Term Memory**|Zhenkai Wu et.al.|[2411.07863v1](http://arxiv.org/abs/2411.07863v1)|
 |**2024-11-12**|**AdaSemiCD: An Adaptive Semi-Supervised Change Detection Method Based on Pseudo-Label Evaluation**|Ran Lingyan et.al.|[2411.07758v1](http://arxiv.org/abs/2411.07758v1)|
 |**2024-11-12**|**Quantum Information-Empowered Graph Neural Network for Hyperspectral Change Detection**|Chia-Hsiang Lin et.al.|[2411.07608v1](http://arxiv.org/abs/2411.07608v1)|
@@ -118,5 +119,4 @@
 |**2024-11-04**|**Tree level change detection over Ahmedabad city using very high resolution satellite images and Deep Learning**|Jai G Singla et.al.|[2411.02009v1](http://arxiv.org/abs/2411.02009v1)|
 |**2024-10-31**|**MV-CC: Mask Enhanced Video Model for Remote Sensing Change Caption**|Ruixun Liu et.al.|[2410.23946v1](http://arxiv.org/abs/2410.23946v1)|
 |**2024-10-31**|**Show Me What and Where has Changed? Question Answering and Grounding for Remote Sensing Change Detection**|Ke Li et.al.|[2410.23828v2](http://arxiv.org/abs/2410.23828v2)|
-|**2024-10-25**|**GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing**|Hosam Elgendy et.al.|[2410.19552v1](http://arxiv.org/abs/2410.19552v1)|
 
