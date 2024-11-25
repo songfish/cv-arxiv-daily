@@ -58,7 +58,7 @@
 |**2024-11-15**|**To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2411.10614v1](http://arxiv.org/abs/2411.10614v1)|
 |**2024-11-14**|**SAFES: Sequential Privacy and Fairness Enhancing Data Synthesis for Responsible AI**|Spencer Giddens et.al.|[2411.09178v2](http://arxiv.org/abs/2411.09178v2)|
 |**2024-11-14**|**Laplace Transform Interpretation of Differential Privacy**|Rishav Chourasia et.al.|[2411.09142v1](http://arxiv.org/abs/2411.09142v1)|
-|**2024-11-13**|**Minimax Optimal Two-Sample Testing under Local Differential Privacy**|Jongmin Mun et.al.|[2411.09064v1](http://arxiv.org/abs/2411.09064v1)|
+|**2024-11-13**|**Minimax Optimal Two-Sample Testing under Local Differential Privacy**|Jongmin Mun et.al.|[2411.09064v2](http://arxiv.org/abs/2411.09064v2)|
 
 ## Data Masking
 
