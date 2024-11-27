@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-26**|**RealSeal: Revolutionizing Media Authentication with Real-Time Realism Scoring**|Bhaktipriya Radharapu et.al.|[2411.17684v1](http://arxiv.org/abs/2411.17684v1)|
+|**2024-11-26**|**Comparative Analysis of ASR Methods for Speech Deepfake Detection**|Davide Salvi et.al.|[2411.17349v1](http://arxiv.org/abs/2411.17349v1)|
+|**2024-11-26**|**LampMark: Proactive Deepfake Detection via Training-Free Landmark Perceptual Watermarks**|Tianyi Wang et.al.|[2411.17209v1](http://arxiv.org/abs/2411.17209v1)|
 |**2024-11-25**|**Unlocking The Potential of Adaptive Attacks on Diffusion-Based Purification**|Andre Kassis et.al.|[2411.16598v1](http://arxiv.org/abs/2411.16598v1)|
 |**2024-11-23**|**Hindi audio-video-Deepfake (HAV-DF): A Hindi language-based Audio-video Deepfake Dataset**|Sukhandeep Kaur et.al.|[2411.15457v1](http://arxiv.org/abs/2411.15457v1)|
 |**2024-11-22**|**Facial Features Matter: a Dynamic Watermark based Proactive Deepfake Detection Approach**|Shulin Lan et.al.|[2411.14798v1](http://arxiv.org/abs/2411.14798v1)|
@@ -26,14 +29,12 @@
 |**2024-11-17**|**Time Step Generating: A Universal Synthesized Deepfake Image Detector**|Ziyue Zeng et.al.|[2411.11016v2](http://arxiv.org/abs/2411.11016v2)|
 |**2024-11-15**|**DiMoDif: Discourse Modality-information Differentiation for Audio-visual Deepfake Detection and Localization**|Christos Koutlis et.al.|[2411.10193v1](http://arxiv.org/abs/2411.10193v1)|
 |**2024-11-14**|**How Good is ChatGPT at Audiovisual Deepfake Detection: A Comparative Study of ChatGPT, AI Models and Human Perception**|Sahibzada Adil Shahzad et.al.|[2411.09266v1](http://arxiv.org/abs/2411.09266v1)|
-|**2024-11-14**|**Robust AI-Synthesized Speech Detection Using Feature Decomposition Learning and Synthesizer Feature Augmentation**|Kuiyuan Zhang et.al.|[2411.09167v1](http://arxiv.org/abs/2411.09167v1)|
-|**2024-11-12**|**Adaptive Meta-Learning for Robust Deepfake Detection: A Multi-Agent Framework to Data Drift and Model Generalization**|Dinesh Srivasthav P et.al.|[2411.08148v1](http://arxiv.org/abs/2411.08148v1)|
-|**2024-11-12**|**Markov Processes for Enhanced Deepfake Generation and Detection**|Jyoti Bhadana et.al.|[2411.07993v1](http://arxiv.org/abs/2411.07993v1)|
 
 ## federated learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-25**|**Towards Efficient Model-Heterogeneity Federated Learning for Large Models**|Ruofan Jia et.al.|[2411.16796v1](http://arxiv.org/abs/2411.16796v1)|
 |**2024-11-25**|**Distributed, communication-efficient, and differentially private estimation of KL divergence**|Mary Scott et.al.|[2411.16478v1](http://arxiv.org/abs/2411.16478v1)|
 |**2024-11-25**|**Distributed Online Optimization with Stochastic Agent Availability**|Juliette Achddou et.al.|[2411.16477v1](http://arxiv.org/abs/2411.16477v1)|
 |**2024-11-25**|**TIFeD: a Tiny Integer-based Federated learning algorithm with Direct feedback alignment**|Luca Colombo et.al.|[2411.16442v1](http://arxiv.org/abs/2411.16442v1)|
@@ -43,7 +44,6 @@
 |**2024-11-25**|**An Empirical Study of Vulnerability Detection using Federated Learning**|Peiheng Zhou et.al.|[2411.16099v1](http://arxiv.org/abs/2411.16099v1)|
 |**2024-11-24**|**eFedLLM: Efficient LLM Inference Based on Federated Learning**|Shengwen Ding et.al.|[2411.16003v1](http://arxiv.org/abs/2411.16003v1)|
 |**2024-11-24**|**FedQP: Towards Accurate Federated Learning using Quadratic Programming Guided Mutation**|Jiawen Weng et.al.|[2411.15847v1](http://arxiv.org/abs/2411.15847v1)|
-|**2024-11-24**|**Modality Alignment Meets Federated Broadcasting**|Yuting Ma et.al.|[2411.15837v1](http://arxiv.org/abs/2411.15837v1)|
 
 ## Differential Privacy
 
@@ -94,16 +94,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-26**|**A Machine Learning-based Anomaly Detection Framework in Life Insurance Contracts**|Andreas Groll et.al.|[2411.17495v1](http://arxiv.org/abs/2411.17495v1)|
+|**2024-11-26**|**GraphSubDetector: Time Series Subsequence Anomaly Detection via Density-Aware Adaptive Graph Neural Network**|Weiqi Chen et.al.|[2411.17218v1](http://arxiv.org/abs/2411.17218v1)|
+|**2024-11-25**|**Unsupervised Quantum Anomaly Detection on Noisy Quantum Processors**|Daniel Pranjić et.al.|[2411.16970v1](http://arxiv.org/abs/2411.16970v1)|
+|**2024-11-25**|**Spectroscopic Quasar Anomaly Detection (SQuAD) I: Rest-Frame UV Spectra from SDSS DR16**|Arihant Tiwari et.al.|[2411.16858v1](http://arxiv.org/abs/2411.16858v1)|
+|**2024-11-25**|**Revisiting DDIM Inversion for Controlling Defect Generation by Disentangling the Background**|Youngjae Cho et.al.|[2411.16767v1](http://arxiv.org/abs/2411.16767v1)|
 |**2024-11-25**|**Anomaly Detection and RFI Classification with Unsupervised Learning in Narrowband Radio Technosignature Searches**|Ben Jacobson-Bell et.al.|[2411.16556v1](http://arxiv.org/abs/2411.16556v1)|
 |**2024-11-25**|**Unsupervised Event Outlier Detection in Continuous Time**|Somjit Nath et.al.|[2411.16427v1](http://arxiv.org/abs/2411.16427v1)|
 |**2024-11-25**|**FUN-AD: Fully Unsupervised Learning for Anomaly Detection with Noisy Training Data**|Jiin Im et.al.|[2411.16110v1](http://arxiv.org/abs/2411.16110v1)|
 |**2024-11-25**|**ROADS: Robust Prompt-driven Multi-Class Anomaly Detection under Domain Shift**|Hossein Kashiani et.al.|[2411.16049v1](http://arxiv.org/abs/2411.16049v1)|
 |**2024-11-24**|**Streaming SQL Multi-Way Join Method for Long State Streams**|Jinlong Hu et.al.|[2411.15835v1](http://arxiv.org/abs/2411.15835v1)|
-|**2024-11-24**|**Runtime-optimized Multi-way Stream Join Operator for Large-scale Streaming data**|Jinlong Hu et.al.|[2411.15827v1](http://arxiv.org/abs/2411.15827v1)|
-|**2024-11-23**|**Circuit design in biology and machine learning. II. Anomaly detection**|Steven A. Frank et.al.|[2411.15647v1](http://arxiv.org/abs/2411.15647v1)|
-|**2024-11-22**|**Information Extraction from Heterogeneous Documents without Ground Truth Labels using Synthetic Label Generation and Knowledge Distillation**|Aniket Bhattacharyya et.al.|[2411.14957v2](http://arxiv.org/abs/2411.14957v2)|
-|**2024-11-22**|**Evaluating Vision Transformer Models for Visual Quality Control in Industrial Manufacturing**|Miriam Alber et.al.|[2411.14953v1](http://arxiv.org/abs/2411.14953v1)|
-|**2024-11-22**|**Physical and Software Based Fault Injection Attacks Against TEEs in Mobile Devices: A Systemisation of Knowledge**|Aaron Joy et.al.|[2411.14878v1](http://arxiv.org/abs/2411.14878v1)|
 
 ## change detection
 
