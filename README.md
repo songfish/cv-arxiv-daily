@@ -39,7 +39,7 @@
 |**2024-11-25**|**TIFeD: a Tiny Integer-based Federated learning algorithm with Direct feedback alignment**|Luca Colombo et.al.|[2411.16442v1](http://arxiv.org/abs/2411.16442v1)|
 |**2024-11-25**|**Privacy-Preserving Federated Foundation Model for Generalist Ultrasound Artificial Intelligence**|Yuncheng Jiang et.al.|[2411.16380v1](http://arxiv.org/abs/2411.16380v1)|
 |**2024-11-25**|**Understanding Generalization of Federated Learning: the Trade-off between Model Stability and Optimization**|Dun Zeng et.al.|[2411.16303v1](http://arxiv.org/abs/2411.16303v1)|
-|**2024-11-25**|**BadSFL: Backdoor Attack against Scaffold Federated Learning**|Xingshuo Han et.al.|[2411.16167v1](http://arxiv.org/abs/2411.16167v1)|
+|**2024-11-25**|**BadSFL: Backdoor Attack against Scaffold Federated Learning**|Xingshuo Han et.al.|[2411.16167v2](http://arxiv.org/abs/2411.16167v2)|
 |**2024-11-25**|**An Empirical Study of Vulnerability Detection using Federated Learning**|Peiheng Zhou et.al.|[2411.16099v1](http://arxiv.org/abs/2411.16099v1)|
 |**2024-11-24**|**eFedLLM: Efficient LLM Inference Based on Federated Learning**|Shengwen Ding et.al.|[2411.16003v1](http://arxiv.org/abs/2411.16003v1)|
 |**2024-11-24**|**FedQP: Towards Accurate Federated Learning using Quadratic Programming Guided Mutation**|Jiawen Weng et.al.|[2411.15847v1](http://arxiv.org/abs/2411.15847v1)|
