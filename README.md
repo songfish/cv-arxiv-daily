@@ -40,7 +40,7 @@
 |**2024-11-27**|**Hidden Data Privacy Breaches in Federated Learning**|Xueluan Gong et.al.|[2411.18269v1](http://arxiv.org/abs/2411.18269v1)|
 |**2024-11-26**|**Distributed Sign Momentum with Local Steps for Training Transformers**|Shuhua Yu et.al.|[2411.17866v1](http://arxiv.org/abs/2411.17866v1)|
 |**2024-11-26**|**Adaptive Client Selection with Personalization for Communication Efficient Federated Learning**|Allan M. de Souza et.al.|[2411.17833v1](http://arxiv.org/abs/2411.17833v1)|
-|**2024-11-25**|**Distributed, communication-efficient, and differentially private estimation of KL divergence**|Mary Scott et.al.|[2411.16478v1](http://arxiv.org/abs/2411.16478v1)|
+|**2024-11-25**|**Distributed, communication-efficient, and differentially private estimation of KL divergence**|Mary Scott et.al.|[2411.16478v2](http://arxiv.org/abs/2411.16478v2)|
 |**2024-11-25**|**Distributed Online Optimization with Stochastic Agent Availability**|Juliette Achddou et.al.|[2411.16477v1](http://arxiv.org/abs/2411.16477v1)|
 |**2024-11-25**|**TIFeD: a Tiny Integer-based Federated learning algorithm with Direct feedback alignment**|Luca Colombo et.al.|[2411.16442v1](http://arxiv.org/abs/2411.16442v1)|
 |**2024-11-25**|**Privacy-Preserving Federated Foundation Model for Generalist Ultrasound Artificial Intelligence**|Yuncheng Jiang et.al.|[2411.16380v1](http://arxiv.org/abs/2411.16380v1)|
@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2024-11-25**|**Curator Attack: When Blackbox Differential Privacy Auditing Loses Its Power**|Shiming Wang et.al.|[2411.16516v1](http://arxiv.org/abs/2411.16516v1)|
-|**2024-11-25**|**Distributed, communication-efficient, and differentially private estimation of KL divergence**|Mary Scott et.al.|[2411.16478v1](http://arxiv.org/abs/2411.16478v1)|
+|**2024-11-25**|**Distributed, communication-efficient, and differentially private estimation of KL divergence**|Mary Scott et.al.|[2411.16478v2](http://arxiv.org/abs/2411.16478v2)|
 |**2024-11-24**|**Over-the-Air Federated Adaptive Data Analysis: Preserving Accuracy via Opportunistic Differential Privacy**|Amir Hossein Hadavi et.al.|[2411.15948v1](http://arxiv.org/abs/2411.15948v1)|
 |**2024-11-24**|**Efficient and Private: Memorisation under differentially private parameter-efficient fine-tuning in language models**|Olivia Ma et.al.|[2411.15831v1](http://arxiv.org/abs/2411.15831v1)|
 |**2024-11-23**|**Federated PCA and Estimation for Spiked Covariance Matrices: Optimal Rates and Efficient Algorithm**|Jingyang Li et.al.|[2411.15660v1](http://arxiv.org/abs/2411.15660v1)|
