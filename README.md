@@ -100,7 +100,7 @@
 |**2024-12-05**|**Transferring self-supervised pre-trained models for SHM data anomaly detection with scarce labeled data**|Mingyuan Zhou et.al.|[2412.03880v1](http://arxiv.org/abs/2412.03880v1)|
 |**2024-12-05**|**CLIP-FSAC++: Few-Shot Anomaly Classification with Anomaly Descriptor Based on CLIP**|Zuo Zuo et.al.|[2412.03829v1](http://arxiv.org/abs/2412.03829v1)|
 |**2024-12-04**|**Model-agnostic search for dijet resonances with anomalous jet substructure in proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2412.03747v1](http://arxiv.org/abs/2412.03747v1)|
-|**2024-12-04**|**Sifting through the haystack -- efficiently finding rare animal behaviors in large-scale datasets**|Shir Bar et.al.|[2412.03452v1](http://arxiv.org/abs/2412.03452v1)|
+|**2024-12-04**|**Sifting through the haystack -- efficiently finding rare animal behaviors in large-scale datasets**|Shir Bar et.al.|[2412.03452v2](http://arxiv.org/abs/2412.03452v2)|
 |**2024-12-04**|**State Frequency Estimation for Anomaly Detection**|Clinton Cao et.al.|[2412.03442v1](http://arxiv.org/abs/2412.03442v1)|
 |**2024-12-04**|**UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection**|Zhaopeng Gu et.al.|[2412.03342v2](http://arxiv.org/abs/2412.03342v2)|
 |**2024-12-04**|**Frequency-Guided Diffusion Model with Perturbation Training for Skeleton-Based Video Anomaly Detection**|Xiaofeng Tan et.al.|[2412.03044v1](http://arxiv.org/abs/2412.03044v1)|
