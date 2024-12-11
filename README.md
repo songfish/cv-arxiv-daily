@@ -27,7 +27,7 @@
 |**2024-12-02**|**Reject Threshold Adaptation for Open-Set Model Attribution of Deepfake Audio**|Xinrui Yan et.al.|[2412.01425v1](http://arxiv.org/abs/2412.01425v1)|
 |**2024-12-02**|**Exploring the Robustness of AI-Driven Tools in Digital Forensics: A Preliminary Study**|Silvia Lucia Sanna et.al.|[2412.01363v1](http://arxiv.org/abs/2412.01363v1)|
 |**2024-12-02**|**Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection**|Delong Zhu et.al.|[2412.01101v1](http://arxiv.org/abs/2412.01101v1)|
-|**2024-11-30**|**From Audio Deepfake Detection to AI-Generated Music Detection -- A Pathway and Overview**|Yupei Li et.al.|[2412.00571v1](http://arxiv.org/abs/2412.00571v1)|
+|**2024-11-30**|**From Audio Deepfake Detection to AI-Generated Music Detection -- A Pathway and Overview**|Yupei Li et.al.|[2412.00571v2](http://arxiv.org/abs/2412.00571v2)|
 |**2024-11-29**|**Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning**|Dragos-Alexandru Boldisor et.al.|[2412.00175v1](http://arxiv.org/abs/2412.00175v1)|
 
 ## federated learning
@@ -36,7 +36,7 @@
 |---|---|---|---|
 |**2024-12-09**|**FedSynthCT-Brain: A Federated Learning Framework for Multi-Institutional Brain MRI-to-CT Synthesis**|Ciro Benito Raggio et.al.|[2412.06690v1](http://arxiv.org/abs/2412.06690v1)|
 |**2024-12-09**|**A cautionary tale on the cost-effectiveness of collaborative AI in real-world medical applications**|Francesco Cremonesi et.al.|[2412.06494v1](http://arxiv.org/abs/2412.06494v1)|
-|**2024-12-09**|**Federated Split Learning with Model Pruning and Gradient Quantization in Wireless Networks**|Junhe Zhang et.al.|[2412.06414v1](http://arxiv.org/abs/2412.06414v1)|
+|**2024-12-09**|**Federated Split Learning with Model Pruning and Gradient Quantization in Wireless Networks**|Junhe Zhang et.al.|[2412.06414v2](http://arxiv.org/abs/2412.06414v2)|
 |**2024-12-09**|**H-FedSN: Personalized Sparse Networks for Efficient and Accurate Hierarchical Federated Learning for IoT Applications**|Jiechao Gao et.al.|[2412.06210v1](http://arxiv.org/abs/2412.06210v1)|
 |**2024-12-09**|**Membership Inference Attacks and Defenses in Federated Learning: A Survey**|Li Bai et.al.|[2412.06157v1](http://arxiv.org/abs/2412.06157v1)|
 |**2024-12-09**|**Lightweight Federated Learning with Differential Privacy and Straggler Resilience**|Shu Hong et.al.|[2412.06120v1](http://arxiv.org/abs/2412.06120v1)|
@@ -54,7 +54,7 @@
 |**2024-12-09**|**Lightweight Federated Learning with Differential Privacy and Straggler Resilience**|Shu Hong et.al.|[2412.06120v1](http://arxiv.org/abs/2412.06120v1)|
 |**2024-12-09**|**Privacy-Preserving Large Language Models: Mechanisms, Applications, and Future Directions**|Guoshenghui Zhao et.al.|[2412.06113v1](http://arxiv.org/abs/2412.06113v1)|
 |**2024-12-08**|**Adversarially Robust Dense-Sparse Tradeoffs via Heavy-Hitters**|David P. Woodruff et.al.|[2412.05807v1](http://arxiv.org/abs/2412.05807v1)|
-|**2024-12-08**|**DeMem: Privacy-Enhanced Robust Adversarial Learning via De-Memorization**|Xiaoyu Luo et.al.|[2412.05767v1](http://arxiv.org/abs/2412.05767v1)|
+|**2024-12-08**|**DeMem: Privacy-Enhanced Robust Adversarial Learning via De-Memorization**|Xiaoyu Luo et.al.|[2412.05767v2](http://arxiv.org/abs/2412.05767v2)|
 |**2024-12-07**|**Can large language models be privacy preserving and fair medical coders?**|Ali Dadsetan et.al.|[2412.05533v1](http://arxiv.org/abs/2412.05533v1)|
 |**2024-12-07**|**Upcycling Noise for Federated Unlearning**|Jianan Chen et.al.|[2412.05529v1](http://arxiv.org/abs/2412.05529v1)|
 |**2024-12-06**|**Information Flows for Athletes' Health and Performance Data**|Brad Stenger et.al.|[2412.05055v1](http://arxiv.org/abs/2412.05055v1)|
@@ -109,7 +109,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-12-07**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679v1](http://arxiv.org/abs/2412.05679v1)|
+|**2024-12-07**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679v2](http://arxiv.org/abs/2412.05679v2)|
 |**2024-11-27**|**Robust Quickest Change Detection in Multi-Stream Non-Stationary Processes**|Yingze Hou et.al.|[2412.04493v1](http://arxiv.org/abs/2412.04493v1)|
 |**2024-12-05**|**Text Change Detection in Multilingual Documents Using Image Comparison**|Doyoung Park et.al.|[2412.04137v1](http://arxiv.org/abs/2412.04137v1)|
 |**2024-12-05**|**Multi-View Pose-Agnostic Change Localization with Zero Labels**|Chamuditha Jayanga Galappaththige et.al.|[2412.03911v1](http://arxiv.org/abs/2412.03911v1)|
