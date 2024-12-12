@@ -34,21 +34,24 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-11**|**Federated Learning for Traffic Flow Prediction with Synthetic Data Augmentation**|Fermin Orozco et.al.|[2412.08460v1](http://arxiv.org/abs/2412.08460v1)|
+|**2024-12-11**|**How Does the Smoothness Approximation Method Facilitate Generalization for Federated Adversarial Learning?**|Wenjun Ding et.al.|[2412.08282v1](http://arxiv.org/abs/2412.08282v1)|
+|**2024-12-11**|**Learn How to Query from Unlabeled Data Streams in Federated Learning**|Yuchang Sun et.al.|[2412.08138v1](http://arxiv.org/abs/2412.08138v1)|
+|**2024-12-11**|**A Tutorial of Personalized Federated Recommender Systems: Recent Advances and Future Directions**|Jing Jiang et.al.|[2412.08071v1](http://arxiv.org/abs/2412.08071v1)|
+|**2024-12-11**|**Federated In-Context LLM Agent Learning**|Panlong Wu et.al.|[2412.08054v1](http://arxiv.org/abs/2412.08054v1)|
+|**2024-12-11**|**dsLassoCov: a federated machine learning approach incorporating covariate control**|Han Cao et.al.|[2412.07991v1](http://arxiv.org/abs/2412.07991v1)|
+|**2024-12-10**|**Evaluating the Potential of Federated Learning for Maize Leaf Disease Prediction**|Thalita Mendonça Antico et.al.|[2412.07872v1](http://arxiv.org/abs/2412.07872v1)|
 |**2024-12-10**|**Privacy-Preserving Customer Support: A Framework for Secure and Scalable Interactions**|Anant Prakash Awasthi et.al.|[2412.07687v1](http://arxiv.org/abs/2412.07687v1)|
 |**2024-12-10**|**Tazza: Shuffling Neural Network Parameters for Secure and Private Federated Learning**|Kichang Lee et.al.|[2412.07454v1](http://arxiv.org/abs/2412.07454v1)|
 |**2024-12-10**|**When UAV Meets Federated Learning: Latency Minimization via Joint Trajectory Design and Resource Allocation**|Xuhui Zhang et.al.|[2412.07428v1](http://arxiv.org/abs/2412.07428v1)|
-|**2024-12-10**|**Learnable Sparse Customization in Heterogeneous Edge Computing**|Jingjing Xue et.al.|[2412.07216v2](http://arxiv.org/abs/2412.07216v2)|
-|**2024-12-10**|**Hierarchical Split Federated Learning: Convergence Analysis and System Optimization**|Zheng Lin et.al.|[2412.07197v1](http://arxiv.org/abs/2412.07197v1)|
-|**2024-12-10**|**A New Federated Learning Framework Against Gradient Inversion Attacks**|Pengxin Guo et.al.|[2412.07187v1](http://arxiv.org/abs/2412.07187v1)|
-|**2024-12-10**|**Optimizing Personalized Federated Learning through Adaptive Layer-Wise Learning**|Weihang Chen et.al.|[2412.07062v1](http://arxiv.org/abs/2412.07062v1)|
-|**2024-12-09**|**Sequential Compression Layers for Efficient Federated Learning in Foundational Models**|Navyansh Mahla et.al.|[2412.07021v1](http://arxiv.org/abs/2412.07021v1)|
-|**2024-12-09**|**FedSynthCT-Brain: A Federated Learning Framework for Multi-Institutional Brain MRI-to-CT Synthesis**|Ciro Benito Raggio et.al.|[2412.06690v1](http://arxiv.org/abs/2412.06690v1)|
-|**2024-12-09**|**A cautionary tale on the cost-effectiveness of collaborative AI in real-world medical applications**|Francesco Cremonesi et.al.|[2412.06494v1](http://arxiv.org/abs/2412.06494v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-11**|**Protecting Confidentiality, Privacy and Integrity in Collaborative Learning**|Dong Chen et.al.|[2412.08534v1](http://arxiv.org/abs/2412.08534v1)|
+|**2024-12-10**|**Mayfly: Private Aggregate Insights from Ephemeral Streams of On-Device User Data**|Christopher Bian et.al.|[2412.07962v1](http://arxiv.org/abs/2412.07962v1)|
+|**2024-12-10**|**Game-Theoretic Joint Incentive and Cut Layer Selection Mechanism in Split Federated Learning**|Joohyung Lee et.al.|[2412.07813v1](http://arxiv.org/abs/2412.07813v1)|
 |**2024-12-10**|**Privacy-Preserving Customer Support: A Framework for Secure and Scalable Interactions**|Anant Prakash Awasthi et.al.|[2412.07687v1](http://arxiv.org/abs/2412.07687v1)|
 |**2024-12-10**|**A New Federated Learning Framework Against Gradient Inversion Attacks**|Pengxin Guo et.al.|[2412.07187v1](http://arxiv.org/abs/2412.07187v1)|
 |**2024-12-10**|**Streaming Private Continual Counting via Binning**|Joel Daniel Andersson et.al.|[2412.07093v1](http://arxiv.org/abs/2412.07093v1)|
@@ -56,9 +59,6 @@
 |**2024-12-09**|**Numerical Estimation of Spatial Distributions under Differential Privacy**|Leilei Du et.al.|[2412.06541v2](http://arxiv.org/abs/2412.06541v2)|
 |**2024-12-09**|**Lightweight Federated Learning with Differential Privacy and Straggler Resilience**|Shu Hong et.al.|[2412.06120v1](http://arxiv.org/abs/2412.06120v1)|
 |**2024-12-09**|**Privacy-Preserving Large Language Models: Mechanisms, Applications, and Future Directions**|Guoshenghui Zhao et.al.|[2412.06113v1](http://arxiv.org/abs/2412.06113v1)|
-|**2024-12-08**|**Adversarially Robust Dense-Sparse Tradeoffs via Heavy-Hitters**|David P. Woodruff et.al.|[2412.05807v1](http://arxiv.org/abs/2412.05807v1)|
-|**2024-12-08**|**DeMem: Privacy-Enhanced Robust Adversarial Learning via De-Memorization**|Xiaoyu Luo et.al.|[2412.05767v2](http://arxiv.org/abs/2412.05767v2)|
-|**2024-12-07**|**Can large language models be privacy preserving and fair medical coders?**|Ali Dadsetan et.al.|[2412.05533v1](http://arxiv.org/abs/2412.05533v1)|
 
 ## Data Masking
 
@@ -94,16 +94,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-11**|**GradStop: Exploring Training Dynamics in Unsupervised Outlier Detection through Gradient Cohesion**|Yuang Zhang et.al.|[2412.08501v1](http://arxiv.org/abs/2412.08501v1)|
+|**2024-12-11**|**Enhancing Cybersecurity in IoT Networks: A Deep Learning Approach to Anomaly Detection**|Yining Pang et.al.|[2412.08301v1](http://arxiv.org/abs/2412.08301v1)|
+|**2024-12-11**|**Breaking the Bias: Recalibrating the Attention of Industrial Anomaly Detection**|Xin Chen et.al.|[2412.08189v1](http://arxiv.org/abs/2412.08189v1)|
+|**2024-12-11**|**Unsupervised Detection of Anomalous Driving Patterns Using High Resolution Telematics Time Series Data**|Ian Weng Chan et.al.|[2412.08106v1](http://arxiv.org/abs/2412.08106v1)|
 |**2024-12-10**|**Unlocking the Potential of Reverse Distillation for Anomaly Detection**|Xinyue Liu et.al.|[2412.07579v1](http://arxiv.org/abs/2412.07579v1)|
 |**2024-12-10**|**Boundary anomaly detection in two-dimensional subsystem symmetry-protected topological phases**|Ke Ding et.al.|[2412.07563v1](http://arxiv.org/abs/2412.07563v1)|
 |**2024-12-10**|**Anomaly detection using Diffusion-based methods**|Aryan Bhosale et.al.|[2412.07539v1](http://arxiv.org/abs/2412.07539v1)|
 |**2024-12-09**|**Facade: High-Precision Insider Threat Detection Using Deep Contextual Anomaly Detection**|Alex Kantchelian et.al.|[2412.06700v1](http://arxiv.org/abs/2412.06700v1)|
 |**2024-12-09**|**Holmes-VAU: Towards Long-term Video Anomaly Understanding at Any Granularity**|Huaxin Zhang et.al.|[2412.06171v1](http://arxiv.org/abs/2412.06171v1)|
 |**2024-12-08**|**siForest: Detecting Network Anomalies with Set-Structured Isolation Forest**|Christie Djidjev et.al.|[2412.06015v1](http://arxiv.org/abs/2412.06015v1)|
-|**2024-12-07**|**Leveraging Time-Series Foundation Model for Subsurface Well Logs Prediction and Anomaly Detection**|Ardiansyah Koeshidayatullah et.al.|[2412.05681v1](http://arxiv.org/abs/2412.05681v1)|
-|**2024-12-07**|**Hyperedge Anomaly Detection with Hypergraph Neural Network**|Md. Tanvir Alam et.al.|[2412.05641v1](http://arxiv.org/abs/2412.05641v1)|
-|**2024-12-07**|**Self-Supervised Masked Mesh Learning for Unsupervised Anomaly Detection on 3D Cortical Surfaces**|Hao-Chun Yang et.al.|[2412.05580v1](http://arxiv.org/abs/2412.05580v1)|
-|**2024-12-07**|**A New Perspective on Time Series Anomaly Detection: Faster Patch-based Broad Learning System**|Pengyu Li et.al.|[2412.05498v1](http://arxiv.org/abs/2412.05498v1)|
 
 ## change detection
 
