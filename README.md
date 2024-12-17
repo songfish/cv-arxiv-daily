@@ -36,7 +36,7 @@
 |---|---|---|---|
 |**2024-12-13**|**Temporal Causal Discovery in Dynamic Bayesian Networks Using Federated Learning**|Jianhong Chen et.al.|[2412.09814v1](http://arxiv.org/abs/2412.09814v1)|
 |**2024-12-12**|**Multi-client Functional Encryption for Set Intersection with Non-monotonic Access Structures in Federated Learning**|Ruyuan Zhang et.al.|[2412.09259v1](http://arxiv.org/abs/2412.09259v1)|
-|**2024-12-12**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969v1](http://arxiv.org/abs/2412.08969v1)|
+|**2024-12-12**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969v2](http://arxiv.org/abs/2412.08969v2)|
 |**2024-12-12**|**Predicting Quality of Video Gaming Experience Using Global-Scale Telemetry Data and Federated Learning**|Zhongyang Zhang et.al.|[2412.08950v1](http://arxiv.org/abs/2412.08950v1)|
 |**2024-12-12**|**Federated Foundation Models on Heterogeneous Time Series**|Shengchao Chen et.al.|[2412.08906v1](http://arxiv.org/abs/2412.08906v1)|
 |**2024-12-11**|**Federated Learning for Traffic Flow Prediction with Synthetic Data Augmentation**|Fermin Orozco et.al.|[2412.08460v1](http://arxiv.org/abs/2412.08460v1)|
@@ -54,7 +54,7 @@
 |**2024-12-12**|**Differential Privacy Releasing of Hierarchical Origin/Destination Data with a TopDown Approach**|Fabrizio Boninsegna et.al.|[2412.09256v1](http://arxiv.org/abs/2412.09256v1)|
 |**2024-12-12**|**Building a Privacy Web with SPIDEr -- Secure Pipeline for Information De-Identification with End-to-End Encryption**|Novoneel Chakraborty et.al.|[2412.09222v1](http://arxiv.org/abs/2412.09222v1)|
 |**2024-12-12**|**The Utility and Complexity of In- and Out-of-Distribution Machine Unlearning**|Youssef Allouah et.al.|[2412.09119v1](http://arxiv.org/abs/2412.09119v1)|
-|**2024-12-12**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969v1](http://arxiv.org/abs/2412.08969v1)|
+|**2024-12-12**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969v2](http://arxiv.org/abs/2412.08969v2)|
 |**2024-12-11**|**Protecting Confidentiality, Privacy and Integrity in Collaborative Learning**|Dong Chen et.al.|[2412.08534v1](http://arxiv.org/abs/2412.08534v1)|
 |**2024-12-10**|**Mayfly: Private Aggregate Insights from Ephemeral Streams of On-Device User Data**|Christopher Bian et.al.|[2412.07962v1](http://arxiv.org/abs/2412.07962v1)|
 |**2024-12-10**|**Game-Theoretic Joint Incentive and Cut Layer Selection Mechanism in Split Federated Learning**|Joohyung Lee et.al.|[2412.07813v1](http://arxiv.org/abs/2412.07813v1)|
