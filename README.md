@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-16**|**FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning**|Gaojian Wang et.al.|[2412.12032v1](http://arxiv.org/abs/2412.12032v1)|
+|**2024-12-16**|**Region-Based Optimization in Continual Learning for Audio Deepfake Detection**|Yujie Chen et.al.|[2412.11551v1](http://arxiv.org/abs/2412.11551v1)|
+|**2024-12-16**|**Nearly Zero-Cost Protection Against Mimicry by Personalized Diffusion Models**|Namhyuk Ahn et.al.|[2412.11423v1](http://arxiv.org/abs/2412.11423v1)|
 |**2024-12-13**|**FaceShield: Defending Facial Image against Deepfake Threats**|Jaehwan Jeong et.al.|[2412.09921v1](http://arxiv.org/abs/2412.09921v1)|
 |**2024-12-13**|**Is it the model or the metric -- On robustness measures of deeplearning models**|Zhijin Lyu et.al.|[2412.09795v1](http://arxiv.org/abs/2412.09795v1)|
 |**2024-12-12**|**Audios Don't Lie: Multi-Frequency Channel Attention Mechanism for Audio Deepfake Detection**|Yangguang Feng et.al.|[2412.09467v1](http://arxiv.org/abs/2412.09467v1)|
@@ -26,39 +29,36 @@
 |**2024-12-10**|**DFREC: DeepFake Identity Recovery Based on Identity-aware Masked Autoencoder**|Peipeng Yu et.al.|[2412.07260v1](http://arxiv.org/abs/2412.07260v1)|
 |**2024-12-07**|**Nearly Solved? Robust Deepfake Detection Requires More than Visual Forensics**|Guy Levy et.al.|[2412.05676v1](http://arxiv.org/abs/2412.05676v1)|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487v1](http://arxiv.org/abs/2412.05487v1)|
-|**2024-12-05**|**Hidden in the Noise: Two-Stage Robust Watermarking for Images**|Kasra Arabi et.al.|[2412.04653v2](http://arxiv.org/abs/2412.04653v2)|
-|**2024-12-05**|**SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model**|Zhenglin Huang et.al.|[2412.04292v1](http://arxiv.org/abs/2412.04292v1)|
-|**2024-12-04**|**Is JPEG AI going to change image forensics?**|Edoardo Daniele Cannas et.al.|[2412.03261v1](http://arxiv.org/abs/2412.03261v1)|
 
 ## federated learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-12-13**|**Temporal Causal Discovery in Dynamic Bayesian Networks Using Federated Learning**|Jianhong Chen et.al.|[2412.09814v1](http://arxiv.org/abs/2412.09814v1)|
-|**2024-12-12**|**Multi-client Functional Encryption for Set Intersection with Non-monotonic Access Structures in Federated Learning**|Ruyuan Zhang et.al.|[2412.09259v1](http://arxiv.org/abs/2412.09259v1)|
-|**2024-12-12**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969v2](http://arxiv.org/abs/2412.08969v2)|
-|**2024-12-12**|**Predicting Quality of Video Gaming Experience Using Global-Scale Telemetry Data and Federated Learning**|Zhongyang Zhang et.al.|[2412.08950v1](http://arxiv.org/abs/2412.08950v1)|
-|**2024-12-12**|**Federated Foundation Models on Heterogeneous Time Series**|Shengchao Chen et.al.|[2412.08906v1](http://arxiv.org/abs/2412.08906v1)|
-|**2024-12-11**|**Federated Learning for Traffic Flow Prediction with Synthetic Data Augmentation**|Fermin Orozco et.al.|[2412.08460v1](http://arxiv.org/abs/2412.08460v1)|
-|**2024-12-11**|**How Does the Smoothness Approximation Method Facilitate Generalization for Federated Adversarial Learning?**|Wenjun Ding et.al.|[2412.08282v1](http://arxiv.org/abs/2412.08282v1)|
-|**2024-12-11**|**Learn How to Query from Unlabeled Data Streams in Federated Learning**|Yuchang Sun et.al.|[2412.08138v2](http://arxiv.org/abs/2412.08138v2)|
-|**2024-12-11**|**A Tutorial of Personalized Federated Recommender Systems: Recent Advances and Future Directions**|Jing Jiang et.al.|[2412.08071v1](http://arxiv.org/abs/2412.08071v1)|
-|**2024-12-11**|**Federated In-Context LLM Agent Learning**|Panlong Wu et.al.|[2412.08054v1](http://arxiv.org/abs/2412.08054v1)|
+|**2024-12-16**|**Efficiently Achieving Secure Model Training and Secure Aggregation to Ensure Bidirectional Privacy-Preservation in Federated Learning**|Xue Yang et.al.|[2412.11737v1](http://arxiv.org/abs/2412.11737v1)|
+|**2024-12-16**|**Just a Simple Transformation is Enough for Data Protection in Vertical Federated Learning**|Andrei Semenov et.al.|[2412.11689v1](http://arxiv.org/abs/2412.11689v1)|
+|**2024-12-16**|**UA-PDFL: A Personalized Approach for Decentralized Federated Learning**|Hangyu Zhu et.al.|[2412.11674v1](http://arxiv.org/abs/2412.11674v1)|
+|**2024-12-16**|**Non-Convex Optimization in Federated Learning via Variance Reduction and Adaptive Learning**|Dipanwita Thakur et.al.|[2412.11660v1](http://arxiv.org/abs/2412.11660v1)|
+|**2024-12-16**|**BA-BFL: Barycentric Aggregation for Bayesian Federated Learning**|Nour Jamoussi et.al.|[2412.11646v1](http://arxiv.org/abs/2412.11646v1)|
+|**2024-12-16**|**Capacity of Hierarchical Secure Coded Gradient Aggregation with Straggling Communication Links**|Qinyi Lu et.al.|[2412.11496v1](http://arxiv.org/abs/2412.11496v1)|
+|**2024-12-16**|**Vertical Federated Unlearning via Backdoor Certification**|Mengde Han et.al.|[2412.11476v1](http://arxiv.org/abs/2412.11476v1)|
+|**2024-12-16**|**FedCAR: Cross-client Adaptive Re-weighting for Generative Models in Federated Learning**|Minjun Kim et.al.|[2412.11463v1](http://arxiv.org/abs/2412.11463v1)|
+|**2024-12-16**|**TRAIL: Trust-Aware Client Scheduling for Semi-Decentralized Federated Learning**|Gangqiang Hu et.al.|[2412.11448v1](http://arxiv.org/abs/2412.11448v1)|
+|**2024-12-16**|**Federated Domain Generalization with Label Smoothing and Balanced Decentralized Training**|Milad Soltany et.al.|[2412.11408v1](http://arxiv.org/abs/2412.11408v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-16**|**The Impact of Generalization Techniques on the Interplay Among Privacy, Utility, and Fairness in Image Classification**|Ahmad Hassanpour et.al.|[2412.11951v1](http://arxiv.org/abs/2412.11951v1)|
+|**2024-12-16**|**Efficiently Achieving Secure Model Training and Secure Aggregation to Ensure Bidirectional Privacy-Preservation in Federated Learning**|Xue Yang et.al.|[2412.11737v1](http://arxiv.org/abs/2412.11737v1)|
+|**2024-12-16**|**PSGraph: Differentially Private Streaming Graph Synthesis by Considering Temporal Dynamics**|Quan Yuan et.al.|[2412.11369v1](http://arxiv.org/abs/2412.11369v1)|
+|**2024-12-13**|**Meeting Utility Constraints in Differential Privacy: A Privacy-Boosting Approach**|Bo Jiang et.al.|[2412.10612v1](http://arxiv.org/abs/2412.10612v1)|
+|**2024-12-13**|**Differentially Private Multi-Sampling from Distributions**|Albert Cheu et.al.|[2412.10512v1](http://arxiv.org/abs/2412.10512v1)|
 |**2024-12-13**|**Optimal Bounds for Private Minimum Spanning Trees via Input Perturbation**|Rasmus Pagh et.al.|[2412.10130v1](http://arxiv.org/abs/2412.10130v1)|
 |**2024-12-12**|**Private Synthetic Data Generation in Small Memory**|Rayne Holland et.al.|[2412.09756v1](http://arxiv.org/abs/2412.09756v1)|
 |**2024-12-12**|**Differential Privacy Releasing of Hierarchical Origin/Destination Data with a TopDown Approach**|Fabrizio Boninsegna et.al.|[2412.09256v1](http://arxiv.org/abs/2412.09256v1)|
 |**2024-12-12**|**Building a Privacy Web with SPIDEr -- Secure Pipeline for Information De-Identification with End-to-End Encryption**|Novoneel Chakraborty et.al.|[2412.09222v1](http://arxiv.org/abs/2412.09222v1)|
 |**2024-12-12**|**The Utility and Complexity of In- and Out-of-Distribution Machine Unlearning**|Youssef Allouah et.al.|[2412.09119v1](http://arxiv.org/abs/2412.09119v1)|
-|**2024-12-12**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969v2](http://arxiv.org/abs/2412.08969v2)|
-|**2024-12-11**|**Protecting Confidentiality, Privacy and Integrity in Collaborative Learning**|Dong Chen et.al.|[2412.08534v1](http://arxiv.org/abs/2412.08534v1)|
-|**2024-12-10**|**Mayfly: Private Aggregate Insights from Ephemeral Streams of On-Device User Data**|Christopher Bian et.al.|[2412.07962v1](http://arxiv.org/abs/2412.07962v1)|
-|**2024-12-10**|**Game-Theoretic Joint Incentive and Cut Layer Selection Mechanism in Split Federated Learning**|Joohyung Lee et.al.|[2412.07813v1](http://arxiv.org/abs/2412.07813v1)|
-|**2024-12-10**|**Privacy-Preserving Customer Support: A Framework for Secure and Scalable Interactions**|Anant Prakash Awasthi et.al.|[2412.07687v1](http://arxiv.org/abs/2412.07687v1)|
 
 ## Data Masking
 
@@ -94,16 +94,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-16**|**AMI-Net: Adaptive Mask Inpainting Network for Industrial Anomaly Detection and Localization**|Wei Luo et.al.|[2412.11802v1](http://arxiv.org/abs/2412.11802v1)|
+|**2024-12-16**|**Unsupervised Anomaly Detection for Tabular Data Using Noise Evaluation**|Wei Dai et.al.|[2412.11461v1](http://arxiv.org/abs/2412.11461v1)|
+|**2024-12-15**|**Learning Set Functions with Implicit Differentiation**|Gözde Özcan et.al.|[2412.11239v1](http://arxiv.org/abs/2412.11239v1)|
+|**2024-12-15**|**AD-LLM: Benchmarking Large Language Models for Anomaly Detection**|Tiankai Yang et.al.|[2412.11142v1](http://arxiv.org/abs/2412.11142v1)|
+|**2024-12-14**|**Know Unreported Roadway Incidents in Real-time: A Deep Learning Framework for Early Traffic Anomaly Detection**|Haocheng Duan et.al.|[2412.10892v1](http://arxiv.org/abs/2412.10892v1)|
+|**2024-12-14**|**Audio-based Anomaly Detection in Industrial Machines Using Deep One-Class Support Vector Data Description**|Sertac Kilickaya et.al.|[2412.10792v1](http://arxiv.org/abs/2412.10792v1)|
+|**2024-12-14**|**Diagnosing Unknown Attacks in Smart Homes Using Abductive Reasoning**|Kushal Ramkumar et.al.|[2412.10738v1](http://arxiv.org/abs/2412.10738v1)|
 |**2024-12-13**|**Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection**|Zining Chen et.al.|[2412.10115v1](http://arxiv.org/abs/2412.10115v1)|
 |**2024-12-13**|**FDM-Bench: A Comprehensive Benchmark for Evaluating Large Language Models in Additive Manufacturing Tasks**|Ahmadreza Eslaminia et.al.|[2412.09819v1](http://arxiv.org/abs/2412.09819v1)|
 |**2024-12-12**|**Video Anomaly Detection with Motion and Appearance Guided Patch Diffusion Model**|Hang Zhou et.al.|[2412.09026v1](http://arxiv.org/abs/2412.09026v1)|
-|**2024-12-12**|**Multimodal Industrial Anomaly Detection by Crossmodal Reverse Distillation**|Xinyue Liu et.al.|[2412.08949v1](http://arxiv.org/abs/2412.08949v1)|
-|**2024-12-12**|**Federated Foundation Models on Heterogeneous Time Series**|Shengchao Chen et.al.|[2412.08906v1](http://arxiv.org/abs/2412.08906v1)|
-|**2024-12-11**|**GradStop: Exploring Training Dynamics in Unsupervised Outlier Detection through Gradient Cohesion**|Yuang Zhang et.al.|[2412.08501v1](http://arxiv.org/abs/2412.08501v1)|
-|**2024-12-11**|**Enhancing Cybersecurity in IoT Networks: A Deep Learning Approach to Anomaly Detection**|Yining Pang et.al.|[2412.08301v1](http://arxiv.org/abs/2412.08301v1)|
-|**2024-12-11**|**Breaking the Bias: Recalibrating the Attention of Industrial Anomaly Detection**|Xin Chen et.al.|[2412.08189v1](http://arxiv.org/abs/2412.08189v1)|
-|**2024-12-11**|**Unsupervised Detection of Anomalous Driving Patterns Using High Resolution Telematics Time Series Data**|Ian Weng Chan et.al.|[2412.08106v1](http://arxiv.org/abs/2412.08106v1)|
-|**2024-12-10**|**Unlocking the Potential of Reverse Distillation for Anomaly Detection**|Xinyue Liu et.al.|[2412.07579v1](http://arxiv.org/abs/2412.07579v1)|
 
 ## change detection
 
