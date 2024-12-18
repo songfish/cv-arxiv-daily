@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-17**|**Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes**|Kuiyuan Zhang et.al.|[2412.12619v1](http://arxiv.org/abs/2412.12619v1)|
+|**2024-12-16**|**Towards a Universal Synthetic Video Detector: From Face or Background Manipulations to Fully AI-Generated Content**|Rohit Kundu et.al.|[2412.12278v1](http://arxiv.org/abs/2412.12278v1)|
 |**2024-12-16**|**FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning**|Gaojian Wang et.al.|[2412.12032v1](http://arxiv.org/abs/2412.12032v1)|
 |**2024-12-16**|**Region-Based Optimization in Continual Learning for Audio Deepfake Detection**|Yujie Chen et.al.|[2412.11551v1](http://arxiv.org/abs/2412.11551v1)|
 |**2024-12-16**|**Nearly Zero-Cost Protection Against Mimicry by Personalized Diffusion Models**|Namhyuk Ahn et.al.|[2412.11423v1](http://arxiv.org/abs/2412.11423v1)|
@@ -27,13 +29,14 @@
 |**2024-12-12**|**Audios Don't Lie: Multi-Frequency Channel Attention Mechanism for Audio Deepfake Detection**|Yangguang Feng et.al.|[2412.09467v1](http://arxiv.org/abs/2412.09467v1)|
 |**2024-12-10**|**BENet: A Cross-domain Robust Network for Detecting Face Forgeries via Bias Expansion and Latent-space Attention**|Weihua Liu et.al.|[2412.07431v1](http://arxiv.org/abs/2412.07431v1)|
 |**2024-12-10**|**DFREC: DeepFake Identity Recovery Based on Identity-aware Masked Autoencoder**|Peipeng Yu et.al.|[2412.07260v1](http://arxiv.org/abs/2412.07260v1)|
-|**2024-12-07**|**Nearly Solved? Robust Deepfake Detection Requires More than Visual Forensics**|Guy Levy et.al.|[2412.05676v1](http://arxiv.org/abs/2412.05676v1)|
-|**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487v1](http://arxiv.org/abs/2412.05487v1)|
 
 ## federated learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-17**|**Concurrent vertical and horizontal federated learning with fuzzy cognitive maps**|Jose L Salmeron et.al.|[2412.12844v1](http://arxiv.org/abs/2412.12844v1)|
+|**2024-12-17**|**Building Gradient Bridges: Label Leakage from Restricted Gradient Sharing in Federated Learning**|Rui Zhang et.al.|[2412.12640v1](http://arxiv.org/abs/2412.12640v1)|
+|**2024-12-16**|**F-RBA: A Federated Learning-based Framework for Risk-based Authentication**|Hamidreza Fereidouni et.al.|[2412.12324v1](http://arxiv.org/abs/2412.12324v1)|
 |**2024-12-16**|**Efficiently Achieving Secure Model Training and Secure Aggregation to Ensure Bidirectional Privacy-Preservation in Federated Learning**|Xue Yang et.al.|[2412.11737v1](http://arxiv.org/abs/2412.11737v1)|
 |**2024-12-16**|**Just a Simple Transformation is Enough for Data Protection in Vertical Federated Learning**|Andrei Semenov et.al.|[2412.11689v1](http://arxiv.org/abs/2412.11689v1)|
 |**2024-12-16**|**UA-PDFL: A Personalized Approach for Decentralized Federated Learning**|Hangyu Zhu et.al.|[2412.11674v1](http://arxiv.org/abs/2412.11674v1)|
@@ -41,14 +44,13 @@
 |**2024-12-16**|**BA-BFL: Barycentric Aggregation for Bayesian Federated Learning**|Nour Jamoussi et.al.|[2412.11646v1](http://arxiv.org/abs/2412.11646v1)|
 |**2024-12-16**|**Capacity of Hierarchical Secure Coded Gradient Aggregation with Straggling Communication Links**|Qinyi Lu et.al.|[2412.11496v1](http://arxiv.org/abs/2412.11496v1)|
 |**2024-12-16**|**Vertical Federated Unlearning via Backdoor Certification**|Mengde Han et.al.|[2412.11476v1](http://arxiv.org/abs/2412.11476v1)|
-|**2024-12-16**|**FedCAR: Cross-client Adaptive Re-weighting for Generative Models in Federated Learning**|Minjun Kim et.al.|[2412.11463v1](http://arxiv.org/abs/2412.11463v1)|
-|**2024-12-16**|**TRAIL: Trust-Aware Client Scheduling for Semi-Decentralized Federated Learning**|Gangqiang Hu et.al.|[2412.11448v1](http://arxiv.org/abs/2412.11448v1)|
-|**2024-12-16**|**Federated Domain Generalization with Label Smoothing and Balanced Decentralized Training**|Milad Soltany et.al.|[2412.11408v1](http://arxiv.org/abs/2412.11408v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-17**|**Are Data Experts Buying into Differentially Private Synthetic Data? Gathering Community Perspectives**|Lucas Rosenblatt et.al.|[2412.13030v1](http://arxiv.org/abs/2412.13030v1)|
+|**2024-12-16**|**Differential Privacy Preserving Distributed Quantum Computing**|Hui Zhong et.al.|[2412.12387v1](http://arxiv.org/abs/2412.12387v1)|
 |**2024-12-16**|**The Impact of Generalization Techniques on the Interplay Among Privacy, Utility, and Fairness in Image Classification**|Ahmad Hassanpour et.al.|[2412.11951v1](http://arxiv.org/abs/2412.11951v1)|
 |**2024-12-16**|**Efficiently Achieving Secure Model Training and Secure Aggregation to Ensure Bidirectional Privacy-Preservation in Federated Learning**|Xue Yang et.al.|[2412.11737v1](http://arxiv.org/abs/2412.11737v1)|
 |**2024-12-16**|**PSGraph: Differentially Private Streaming Graph Synthesis by Considering Temporal Dynamics**|Quan Yuan et.al.|[2412.11369v1](http://arxiv.org/abs/2412.11369v1)|
@@ -57,8 +59,6 @@
 |**2024-12-13**|**Optimal Bounds for Private Minimum Spanning Trees via Input Perturbation**|Rasmus Pagh et.al.|[2412.10130v1](http://arxiv.org/abs/2412.10130v1)|
 |**2024-12-12**|**Private Synthetic Data Generation in Small Memory**|Rayne Holland et.al.|[2412.09756v1](http://arxiv.org/abs/2412.09756v1)|
 |**2024-12-12**|**Differential Privacy Releasing of Hierarchical Origin/Destination Data with a TopDown Approach**|Fabrizio Boninsegna et.al.|[2412.09256v1](http://arxiv.org/abs/2412.09256v1)|
-|**2024-12-12**|**Building a Privacy Web with SPIDEr -- Secure Pipeline for Information De-Identification with End-to-End Encryption**|Novoneel Chakraborty et.al.|[2412.09222v1](http://arxiv.org/abs/2412.09222v1)|
-|**2024-12-12**|**The Utility and Complexity of In- and Out-of-Distribution Machine Unlearning**|Youssef Allouah et.al.|[2412.09119v1](http://arxiv.org/abs/2412.09119v1)|
 
 ## Data Masking
 
@@ -94,21 +94,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-17**|**Synthetic Data Generation for Anomaly Detection on Table Grapes**|Ionut Marian Motoi et.al.|[2412.12949v1](http://arxiv.org/abs/2412.12949v1)|
+|**2024-12-17**|**Cuckoo Heavy Keeper and the balancing act of maintaining heavy-hitters in stream processing**|Vinh Quang Ngo et.al.|[2412.12873v1](http://arxiv.org/abs/2412.12873v1)|
+|**2024-12-17**|**Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware Adversarial Learning**|Qingqing Fang et.al.|[2412.12850v1](http://arxiv.org/abs/2412.12850v1)|
+|**2024-12-17**|**PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection**|Jianan Ye et.al.|[2412.12617v1](http://arxiv.org/abs/2412.12617v1)|
+|**2024-12-16**|**F-RBA: A Federated Learning-based Framework for Risk-based Authentication**|Hamidreza Fereidouni et.al.|[2412.12324v1](http://arxiv.org/abs/2412.12324v1)|
+|**2024-12-16**|**Are Large Language Models Useful for Time Series Data Analysis?**|Francis Tang et.al.|[2412.12219v1](http://arxiv.org/abs/2412.12219v1)|
 |**2024-12-16**|**AMI-Net: Adaptive Mask Inpainting Network for Industrial Anomaly Detection and Localization**|Wei Luo et.al.|[2412.11802v1](http://arxiv.org/abs/2412.11802v1)|
 |**2024-12-16**|**Unsupervised Anomaly Detection for Tabular Data Using Noise Evaluation**|Wei Dai et.al.|[2412.11461v1](http://arxiv.org/abs/2412.11461v1)|
-|**2024-12-15**|**Learning Set Functions with Implicit Differentiation**|Gözde Özcan et.al.|[2412.11239v1](http://arxiv.org/abs/2412.11239v1)|
+|**2024-12-15**|**Learning Set Functions with Implicit Differentiation**|Gözde Özcan et.al.|[2412.11239v2](http://arxiv.org/abs/2412.11239v2)|
 |**2024-12-15**|**AD-LLM: Benchmarking Large Language Models for Anomaly Detection**|Tiankai Yang et.al.|[2412.11142v1](http://arxiv.org/abs/2412.11142v1)|
-|**2024-12-14**|**Know Unreported Roadway Incidents in Real-time: A Deep Learning Framework for Early Traffic Anomaly Detection**|Haocheng Duan et.al.|[2412.10892v1](http://arxiv.org/abs/2412.10892v1)|
-|**2024-12-14**|**Audio-based Anomaly Detection in Industrial Machines Using Deep One-Class Support Vector Data Description**|Sertac Kilickaya et.al.|[2412.10792v1](http://arxiv.org/abs/2412.10792v1)|
-|**2024-12-14**|**Diagnosing Unknown Attacks in Smart Homes Using Abductive Reasoning**|Kushal Ramkumar et.al.|[2412.10738v1](http://arxiv.org/abs/2412.10738v1)|
-|**2024-12-13**|**Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection**|Zining Chen et.al.|[2412.10115v1](http://arxiv.org/abs/2412.10115v1)|
-|**2024-12-13**|**FDM-Bench: A Comprehensive Benchmark for Evaluating Large Language Models in Additive Manufacturing Tasks**|Ahmadreza Eslaminia et.al.|[2412.09819v1](http://arxiv.org/abs/2412.09819v1)|
-|**2024-12-12**|**Video Anomaly Detection with Motion and Appearance Guided Patch Diffusion Model**|Hang Zhou et.al.|[2412.09026v1](http://arxiv.org/abs/2412.09026v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-17**|**Quantifying Lexical Semantic Shift via Unbalanced Optimal Transport**|Ryo Kishino et.al.|[2412.12569v1](http://arxiv.org/abs/2412.12569v1)|
 |**2024-12-10**|**ViewDelta: Text-Prompted Change Detection in Unaligned Images**|Subin Varghese et.al.|[2412.07612v1](http://arxiv.org/abs/2412.07612v1)|
 |**2024-12-07**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679v2](http://arxiv.org/abs/2412.05679v2)|
 |**2024-12-05**|**Text Change Detection in Multilingual Documents Using Image Comparison**|Doyoung Park et.al.|[2412.04137v1](http://arxiv.org/abs/2412.04137v1)|
@@ -118,5 +119,4 @@
 |**2024-12-03**|**Words and Action: Modeling Linguistic Leadership in #BlackLivesMatter Communities**|Dani Roytburg et.al.|[2412.02637v1](http://arxiv.org/abs/2412.02637v1)|
 |**2024-12-03**|**Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey**|Chenyang Liu et.al.|[2412.02573v1](http://arxiv.org/abs/2412.02573v1)|
 |**2024-11-29**|**LaVIDE: A Language-Vision Discriminator for Detecting Changes in Satellite Image with Map References**|Shuguo Jiang et.al.|[2411.19758v1](http://arxiv.org/abs/2411.19758v1)|
-|**2024-11-28**|**GTPC-SSCD: Gate-guided Two-level Perturbation Consistency-based Semi-Supervised Change Detection**|Yan Xing et.al.|[2411.18880v1](http://arxiv.org/abs/2411.18880v1)|
 
