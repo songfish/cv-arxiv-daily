@@ -34,21 +34,24 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-20**|**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**|Timur Sattarov et.al.|[2412.16083v1](http://arxiv.org/abs/2412.16083v1)|
+|**2024-12-20**|**fluke: Federated Learning Utility frameworK for Experimentation and research**|Mirko Polato et.al.|[2412.15728v1](http://arxiv.org/abs/2412.15728v1)|
+|**2024-12-20**|**Code Review Automation Via Multi-task Federated LLM -- An Empirical Study**|Jahnavi Kumar et.al.|[2412.15676v1](http://arxiv.org/abs/2412.15676v1)|
+|**2024-12-20**|**AutoRank: MCDA Based Rank Personalization for LoRA-Enabled Distributed Learning**|Shuaijun Chen et.al.|[2412.15553v1](http://arxiv.org/abs/2412.15553v1)|
+|**2024-12-20**|**The Impact of Cut Layer Selection in Split Federated Learning**|Justin Dachille et.al.|[2412.15536v1](http://arxiv.org/abs/2412.15536v1)|
+|**2024-12-20**|**DualGFL: Federated Learning with a Dual-Level Coalition-Auction Game**|Xiaobing Chen et.al.|[2412.15492v1](http://arxiv.org/abs/2412.15492v1)|
+|**2024-12-19**|**Federated Learning for Coronary Artery Plaque Detection in Atherosclerosis Using IVUS Imaging: A Multi-Hospital Collaboration**|Chiu-Han Hsiao et.al.|[2412.15307v1](http://arxiv.org/abs/2412.15307v1)|
 |**2024-12-19**|**Robust Federated Learning in the Face of Covariate Shift: A Magnitude Pruning with Hybrid Regularization Framework for Enhanced Model Aggregation**|Ozgu Goksu et.al.|[2412.15010v1](http://arxiv.org/abs/2412.15010v1)|
 |**2024-12-19**|**Federated Heavy Hitter Analytics with Local Differential Privacy**|Yuemin Zhang et.al.|[2412.14832v1](http://arxiv.org/abs/2412.14832v1)|
 |**2024-12-19**|**FLAMe: Federated Learning with Attention Mechanism using Spatio-Temporal Keypoint Transformers for Pedestrian Fall Detection in Smart Cities**|Byeonghun Kim et.al.|[2412.14768v1](http://arxiv.org/abs/2412.14768v1)|
-|**2024-12-19**|**LoLaFL: Low-Latency Federated Learning via Forward-only Propagation**|Jierui Zhang et.al.|[2412.14668v2](http://arxiv.org/abs/2412.14668v2)|
-|**2024-12-19**|**Summary of Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images**|Kamorudeen A. Amuda et.al.|[2412.14545v1](http://arxiv.org/abs/2412.14545v1)|
-|**2024-12-19**|**FedMUP: Federated Learning driven Malicious User Prediction Model for Secure Data Distribution in Cloud Environments**|Kishu Gupta et.al.|[2412.14495v1](http://arxiv.org/abs/2412.14495v1)|
-|**2024-12-19**|**FedPIA -- Permuting and Integrating Adapters leveraging Wasserstein Barycenters for Finetuning Foundation Models in Multi-Modal Federated Learning**|Pramit Saha et.al.|[2412.14424v1](http://arxiv.org/abs/2412.14424v1)|
-|**2024-12-18**|**Covariances for Free: Exploiting Mean Distributions for Federated Learning with Pre-Trained Models**|Dipam Goswami et.al.|[2412.14326v1](http://arxiv.org/abs/2412.14326v1)|
-|**2024-12-18**|**FedSTaS: Client Stratification and Client Level Sampling for Efficient Federated Learning**|Jordan Slessor et.al.|[2412.14226v1](http://arxiv.org/abs/2412.14226v1)|
-|**2024-12-18**|**On the Robustness of Distributed Machine Learning against Transfer Attacks**|Sébastien Andreina et.al.|[2412.14080v1](http://arxiv.org/abs/2412.14080v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-20**|**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**|Timur Sattarov et.al.|[2412.16083v1](http://arxiv.org/abs/2412.16083v1)|
+|**2024-12-20**|**PoisonCatcher: Revealing and Identifying LDP Poisoning Attacks in IIoT**|Lisha Shuai et.al.|[2412.15704v1](http://arxiv.org/abs/2412.15704v1)|
+|**2024-12-20**|**SemDP: Semantic-level Differential Privacy Protection for Face Datasets**|Xiaoting Zhang et.al.|[2412.15590v1](http://arxiv.org/abs/2412.15590v1)|
 |**2024-12-19**|**Federated Heavy Hitter Analytics with Local Differential Privacy**|Yuemin Zhang et.al.|[2412.14832v1](http://arxiv.org/abs/2412.14832v1)|
 |**2024-12-19**|**dapper: Data Augmentation for Private Posterior Estimation in R**|Kevin Eng et.al.|[2412.14503v1](http://arxiv.org/abs/2412.14503v1)|
 |**2024-12-18**|**Fingerprinting Codes Meet Geometry: Improved Lower Bounds for Private Query Release and Adaptive Data Analysis**|Xin Lyu et.al.|[2412.14396v1](http://arxiv.org/abs/2412.14396v1)|
@@ -56,14 +59,12 @@
 |**2024-12-18**|**Federated t-SNE and UMAP for Distributed Data Visualization**|Dong Qiao et.al.|[2412.13495v1](http://arxiv.org/abs/2412.13495v1)|
 |**2024-12-17**|**Are Data Experts Buying into Differentially Private Synthetic Data? Gathering Community Perspectives**|Lucas Rosenblatt et.al.|[2412.13030v1](http://arxiv.org/abs/2412.13030v1)|
 |**2024-12-16**|**Differential Privacy Preserving Distributed Quantum Computing**|Hui Zhong et.al.|[2412.12387v1](http://arxiv.org/abs/2412.12387v1)|
-|**2024-12-16**|**The Impact of Generalization Techniques on the Interplay Among Privacy, Utility, and Fairness in Image Classification**|Ahmad Hassanpour et.al.|[2412.11951v1](http://arxiv.org/abs/2412.11951v1)|
-|**2024-12-16**|**Efficiently Achieving Secure Model Training and Secure Aggregation to Ensure Bidirectional Privacy-Preservation in Federated Learning**|Xue Yang et.al.|[2412.11737v1](http://arxiv.org/abs/2412.11737v1)|
-|**2024-12-16**|**PSGraph: Differentially Private Streaming Graph Synthesis by Considering Temporal Dynamics**|Quan Yuan et.al.|[2412.11369v1](http://arxiv.org/abs/2412.11369v1)|
 
 ## Data Masking
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-20**|**Mask-RadarNet: Enhancing Transformer With Spatial-Temporal Semantic Context for Radar Object Detection in Autonomous Driving**|Yuzhi Wu et.al.|[2412.15595v1](http://arxiv.org/abs/2412.15595v1)|
 |**2024-11-19**|**Self-supervised denoising of visual field data improves detection of glaucoma progression**|Sean Wu et.al.|[2411.12146v1](http://arxiv.org/abs/2411.12146v1)|
 |**2024-08-06**|**MaskAnyone Toolkit: Offering Strategies for Minimizing Privacy Risks and Maximizing Utility in Audio-Visual Data Archiving**|Babajide Alamu Owoyele et.al.|[2408.03185v1](http://arxiv.org/abs/2408.03185v1)|
 |**2024-05-17**|**Dark Energy Survey Year 3 results: simulation-based cosmological inference with wavelet harmonics, scattering transforms, and moments of weak lensing mass maps II. Cosmological results**|M. Gatti et.al.|[2405.10881v1](http://arxiv.org/abs/2405.10881v1)|
@@ -73,7 +74,6 @@
 |**2023-10-26**|**Dark Energy Survey Year 3 results: simulation-based cosmological inference with wavelet harmonics, scattering transforms, and moments of weak lensing mass maps I: validation on simulations**|M. Gatti et.al.|[2310.17557v2](http://arxiv.org/abs/2310.17557v2)|
 |**2023-09-26**|**Fixing the NTK: From Neural Network Linearizations to Exact Convex Programs**|Rajat Vadiraj Dwaraknath et.al.|[2309.15096v1](http://arxiv.org/abs/2309.15096v1)|
 |**2023-05-14**|**Lightweight privacy-preserving truth discovery for vehicular air quality monitoring**|Rui Liu et.al.|[2305.08258v1](http://arxiv.org/abs/2305.08258v1)|
-|**2023-03-26**|**SASS: Data and Methods for Subject Aware Sentence Simplification**|Brad Windsor et.al.|[2303.14589v1](http://arxiv.org/abs/2303.14589v1)|
 
 ## abnormal detection
 
@@ -94,21 +94,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-20**|**Applying Predictive Analytics to Occupational Health and Safety in India**|Ritwik Raj Saxena et.al.|[2412.16038v1](http://arxiv.org/abs/2412.16038v1)|
+|**2024-12-20**|**Detection of Aerial Spoofing Attacks to LEO Satellite Systems via Deep Learning**|Jos Wigchert et.al.|[2412.16008v1](http://arxiv.org/abs/2412.16008v1)|
+|**2024-12-20**|**Static and Dynamic Load Tests on the Bridge Vahrendorfer Stadtweg**|Martin Köhncke et.al.|[2412.15713v1](http://arxiv.org/abs/2412.15713v1)|
+|**2024-12-20**|**A Deep Probabilistic Framework for Continuous Time Dynamic Graph Generation**|Ryien Hosseini et.al.|[2412.15582v1](http://arxiv.org/abs/2412.15582v1)|
+|**2024-12-19**|**Cross-System Software Log-based Anomaly Detection Using Meta-Learning**|Yuqing Wang et.al.|[2412.15445v1](http://arxiv.org/abs/2412.15445v1)|
 |**2024-12-19**|**Tests for model misspecification in simulation-based inference: from local distortions to global model checks**|Noemi Anau Montel et.al.|[2412.15100v1](http://arxiv.org/abs/2412.15100v1)|
 |**2024-12-19**|**Provably Convergent Plug-and-play Proximal Block Coordinate Descent Method for Hyperspectral Anomaly Detection**|Xiaoxia Liu et.al.|[2412.14824v1](http://arxiv.org/abs/2412.14824v1)|
 |**2024-12-19**|**Robust PCA Based on Adaptive Weighted Least Squares and Low-Rank Matrix Factorization**|Kexin Li et.al.|[2412.14629v1](http://arxiv.org/abs/2412.14629v1)|
 |**2024-12-19**|**Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties**|Wenqiao Li et.al.|[2412.14592v1](http://arxiv.org/abs/2412.14592v1)|
 |**2024-12-19**|**Global Spatio-Temporal Fusion-based Traffic Prediction Algorithm with Anomaly Aware**|Chaoqun Liu et.al.|[2412.14569v1](http://arxiv.org/abs/2412.14569v1)|
-|**2024-12-18**|**Do Language Models Understand Time?**|Xi Ding et.al.|[2412.13845v1](http://arxiv.org/abs/2412.13845v1)|
-|**2024-12-18**|**Quantum Machine Learning in Log-based Anomaly Detection: Challenges and Opportunities**|Jiaxing Qi et.al.|[2412.13529v1](http://arxiv.org/abs/2412.13529v1)|
-|**2024-12-18**|**Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection**|Hanzhe Liang et.al.|[2412.13461v1](http://arxiv.org/abs/2412.13461v1)|
-|**2024-12-17**|**BadSAD: Clean-Label Backdoor Attacks against Deep Semi-Supervised Anomaly Detection**|He Cheng et.al.|[2412.13324v1](http://arxiv.org/abs/2412.13324v1)|
-|**2024-12-17**|**Synthetic Data Generation for Anomaly Detection on Table Grapes**|Ionut Marian Motoi et.al.|[2412.12949v1](http://arxiv.org/abs/2412.12949v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-20**|**ChangeDiff: A Multi-Temporal Change Detection Data Generator with Flexible Text Prompts via Diffusion Model**|Qi Zang et.al.|[2412.15541v1](http://arxiv.org/abs/2412.15541v1)|
 |**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190v1](http://arxiv.org/abs/2412.15190v1)|
 |**2024-12-18**|**AnySat: An Earth Observation Model for Any Resolutions, Scales, and Modalities**|Guillaume Astruc et.al.|[2412.14123v1](http://arxiv.org/abs/2412.14123v1)|
 |**2024-12-17**|**Quantifying Lexical Semantic Shift via Unbalanced Optimal Transport**|Ryo Kishino et.al.|[2412.12569v1](http://arxiv.org/abs/2412.12569v1)|
@@ -118,5 +119,4 @@
 |**2024-12-05**|**Multi-View Pose-Agnostic Change Localization with Zero Labels**|Chamuditha Jayanga Galappaththige et.al.|[2412.03911v1](http://arxiv.org/abs/2412.03911v1)|
 |**2024-12-04**|**Validity and efficiency of the conformal CUSUM procedure**|Vladimir Vovk et.al.|[2412.03464v1](http://arxiv.org/abs/2412.03464v1)|
 |**2024-12-04**|**Benchmarking Attention Mechanisms and Consistency Regularization Semi-Supervised Learning for Post-Flood Building Damage Assessment in Satellite Images**|Jiaxi Yu et.al.|[2412.03015v2](http://arxiv.org/abs/2412.03015v2)|
-|**2024-12-03**|**Words and Action: Modeling Linguistic Leadership in #BlackLivesMatter Communities**|Dani Roytburg et.al.|[2412.02637v1](http://arxiv.org/abs/2412.02637v1)|
 
