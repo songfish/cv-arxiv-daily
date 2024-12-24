@@ -100,7 +100,7 @@
 |**2024-12-20**|**A Deep Probabilistic Framework for Continuous Time Dynamic Graph Generation**|Ryien Hosseini et.al.|[2412.15582v1](http://arxiv.org/abs/2412.15582v1)|
 |**2024-12-19**|**Cross-System Software Log-based Anomaly Detection Using Meta-Learning**|Yuqing Wang et.al.|[2412.15445v1](http://arxiv.org/abs/2412.15445v1)|
 |**2024-12-19**|**Tests for model misspecification in simulation-based inference: from local distortions to global model checks**|Noemi Anau Montel et.al.|[2412.15100v1](http://arxiv.org/abs/2412.15100v1)|
-|**2024-12-19**|**Provably Convergent Plug-and-play Proximal Block Coordinate Descent Method for Hyperspectral Anomaly Detection**|Xiaoxia Liu et.al.|[2412.14824v1](http://arxiv.org/abs/2412.14824v1)|
+|**2024-12-19**|**Provably Convergent Plug-and-play Proximal Block Coordinate Descent Method for Hyperspectral Anomaly Detection**|Xiaoxia Liu et.al.|[2412.14824v2](http://arxiv.org/abs/2412.14824v2)|
 |**2024-12-19**|**Robust PCA Based on Adaptive Weighted Least Squares and Low-Rank Matrix Factorization**|Kexin Li et.al.|[2412.14629v1](http://arxiv.org/abs/2412.14629v1)|
 |**2024-12-19**|**Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties**|Wenqiao Li et.al.|[2412.14592v1](http://arxiv.org/abs/2412.14592v1)|
 |**2024-12-19**|**Global Spatio-Temporal Fusion-based Traffic Prediction Algorithm with Anomaly Aware**|Chaoqun Liu et.al.|[2412.14569v1](http://arxiv.org/abs/2412.14569v1)|
