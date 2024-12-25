@@ -79,7 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-12-19**|**CAE-T: A Channelwise AutoEncoder with Transformer for EEG Abnormality Detection**|Youshen Zhao et.al.|[2412.14522v1](http://arxiv.org/abs/2412.14522v1)|
+|**2024-12-19**|**CwA-T: A Channelwise AutoEncoder with Transformer for EEG Abnormality Detection**|Youshen Zhao et.al.|[2412.14522v2](http://arxiv.org/abs/2412.14522v2)|
 |**2024-12-18**|**Unlocking the Potential of Weakly Labeled Data: A Co-Evolutionary Learning Framework for Abnormality Detection and Report Generation**|Jinghan Sun et.al.|[2412.13599v1](http://arxiv.org/abs/2412.13599v1)|
 |**2024-11-25**|**Graph Adapter of EEG Foundation Models for Parameter Efficient Fine Tuning**|Toyotaro Suzumura et.al.|[2411.16155v1](http://arxiv.org/abs/2411.16155v1)|
 |**2024-11-21**|**Is this Generated Person Existed in Real-world? Fine-grained Detecting and Calibrating Abnormal Human-body**|Zeqing Wang et.al.|[2411.14205v1](http://arxiv.org/abs/2411.14205v1)|
