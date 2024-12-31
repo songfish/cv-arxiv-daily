@@ -27,7 +27,7 @@
 |**2024-12-18**|**GLCF: A Global-Local Multimodal Coherence Analysis Framework for Talking Face Generation Detection**|Xiaocan Chen et.al.|[2412.13656v1](http://arxiv.org/abs/2412.13656v1)|
 |**2024-12-17**|**Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes**|Kuiyuan Zhang et.al.|[2412.12619v1](http://arxiv.org/abs/2412.12619v1)|
 |**2024-12-16**|**Towards a Universal Synthetic Video Detector: From Face or Background Manipulations to Fully AI-Generated Content**|Rohit Kundu et.al.|[2412.12278v1](http://arxiv.org/abs/2412.12278v1)|
-|**2024-12-16**|**FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning**|Gaojian Wang et.al.|[2412.12032v1](http://arxiv.org/abs/2412.12032v1)|
+|**2024-12-16**|**FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning**|Gaojian Wang et.al.|[2412.12032v2](http://arxiv.org/abs/2412.12032v2)|
 |**2024-12-16**|**Region-Based Optimization in Continual Learning for Audio Deepfake Detection**|Yujie Chen et.al.|[2412.11551v1](http://arxiv.org/abs/2412.11551v1)|
 
 ## federated learning
