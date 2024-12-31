@@ -19,46 +19,46 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-30**|**Towards Identity-Aware Cross-Modal Retrieval: a Dataset and a Baseline**|Nicola Messina et.al.|[2412.21009v1](http://arxiv.org/abs/2412.21009v1)|
+|**2024-12-30**|**Inclusion 2024 Global Multimedia Deepfake Detection: Towards Multi-dimensional Facial Forgery Detection**|Yi Zhang et.al.|[2412.20833v1](http://arxiv.org/abs/2412.20833v1)|
+|**2024-12-30**|**Generalize Your Face Forgery Detectors: An Insertable Adaptation Module Is All You Need**|Xiaotian Si et.al.|[2412.20801v1](http://arxiv.org/abs/2412.20801v1)|
+|**2024-12-30**|**SFE-Net: Harnessing Biological Principles of Differential Gene Expression for Improved Feature Selection in Deep Learning Networks**|Yuqi Li et.al.|[2412.20799v1](http://arxiv.org/abs/2412.20799v1)|
+|**2024-12-28**|**Distilled Transformers with Locally Enhanced Global Representations for Face Forgery Detection**|Yaning Zhang et.al.|[2412.20156v1](http://arxiv.org/abs/2412.20156v1)|
 |**2024-12-27**|**A Large-scale Interpretable Multi-modality Benchmark for Facial Image Forgery Localization**|Jingchun Lian et.al.|[2412.19685v1](http://arxiv.org/abs/2412.19685v1)|
 |**2024-12-23**|**Are audio DeepFake detection models polyglots?**|Bartłomiej Marek et.al.|[2412.17924v1](http://arxiv.org/abs/2412.17924v1)|
 |**2024-12-23**|**Investigating Prosodic Signatures via Speech Pre-Trained Models for Audio Deepfake Source Attribution**|Orchid Chetia Phukan et.al.|[2412.17796v1](http://arxiv.org/abs/2412.17796v1)|
 |**2024-12-21**|**Deepfake detection, image manipulation detection, fairness, generalization**|Uzoamaka Ezeakunne et.al.|[2412.16428v1](http://arxiv.org/abs/2412.16428v1)|
 |**2024-12-19**|**FRIDAY: Mitigating Unintentional Facial Identity in Deepfake Detectors Guided by Facial Recognizers**|Younhun Kim et.al.|[2412.14623v1](http://arxiv.org/abs/2412.14623v1)|
-|**2024-12-18**|**GLCF: A Global-Local Multimodal Coherence Analysis Framework for Talking Face Generation Detection**|Xiaocan Chen et.al.|[2412.13656v1](http://arxiv.org/abs/2412.13656v1)|
-|**2024-12-17**|**Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes**|Kuiyuan Zhang et.al.|[2412.12619v1](http://arxiv.org/abs/2412.12619v1)|
-|**2024-12-16**|**Towards a Universal Synthetic Video Detector: From Face or Background Manipulations to Fully AI-Generated Content**|Rohit Kundu et.al.|[2412.12278v1](http://arxiv.org/abs/2412.12278v1)|
-|**2024-12-16**|**FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning**|Gaojian Wang et.al.|[2412.12032v2](http://arxiv.org/abs/2412.12032v2)|
-|**2024-12-16**|**Region-Based Optimization in Continual Learning for Audio Deepfake Detection**|Yujie Chen et.al.|[2412.11551v1](http://arxiv.org/abs/2412.11551v1)|
 
 ## federated learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-12-27**|**Asymmetrical Reciprocity-based Federated Learning for Resolving Disparities in Medical Diagnosis**|Jiaqi Wang et.al.|[2412.19654v1](http://arxiv.org/abs/2412.19654v1)|
-|**2024-12-26**|**Federated Hybrid Training and Self-Adversarial Distillation: Towards Robust Edge Networks**|Yu Qiao et.al.|[2412.19354v1](http://arxiv.org/abs/2412.19354v1)|
-|**2024-12-26**|**Effective and secure federated online learning to rank**|Shuyi Wang et.al.|[2412.19069v1](http://arxiv.org/abs/2412.19069v1)|
-|**2024-12-25**|**Optimal Federated Learning for Functional Mean Estimation under Heterogeneous Privacy Constraints**|Tony Cai et.al.|[2412.18992v1](http://arxiv.org/abs/2412.18992v1)|
-|**2024-12-25**|**FedCFA: Alleviating Simpson's Paradox in Model Aggregation with Counterfactual Federated Learning**|Zhonghua Jiang et.al.|[2412.18904v1](http://arxiv.org/abs/2412.18904v1)|
-|**2024-12-25**|**Federated Learning with Partially Labeled Data: A Conditional Distillation Approach**|Pochuan Wang et.al.|[2412.18833v1](http://arxiv.org/abs/2412.18833v1)|
-|**2024-12-24**|**FedVCK: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis**|Guochen Yan et.al.|[2412.18557v1](http://arxiv.org/abs/2412.18557v1)|
-|**2024-12-24**|**FedGIG: Graph Inversion from Gradient in Federated Learning**|Tianzhe Xiao et.al.|[2412.18513v1](http://arxiv.org/abs/2412.18513v1)|
-|**2024-12-24**|**An Empirical Analysis of Federated Learning Models Subject to Label-Flipping Adversarial Attack**|Kunal Bhatnagar et.al.|[2412.18507v1](http://arxiv.org/abs/2412.18507v1)|
-|**2024-12-24**|**GeFL: Model-Agnostic Federated Learning with Generative Models**|Honggu Kang et.al.|[2412.18460v1](http://arxiv.org/abs/2412.18460v1)|
+|**2024-12-30**|**Generalizing in Net-Zero Microgrids: A Study with Federated PPO and TRPO**|Nicolas M Cuadrado Avila et.al.|[2412.20946v1](http://arxiv.org/abs/2412.20946v1)|
+|**2024-12-30**|**Accelerating Energy-Efficient Federated Learning in Cell-Free Networks with Adaptive Quantization**|Afsaneh Mahmoudi et.al.|[2412.20785v1](http://arxiv.org/abs/2412.20785v1)|
+|**2024-12-30**|**Enhancing Privacy in Federated Learning through Quantum Teleportation Integration**|Koffka Khan et.al.|[2412.20762v1](http://arxiv.org/abs/2412.20762v1)|
+|**2024-12-30**|**Blockchain-Empowered Cyber-Secure Federated Learning for Trustworthy Edge Computing**|Ervin Moore et.al.|[2412.20674v1](http://arxiv.org/abs/2412.20674v1)|
+|**2024-12-28**|**Election of Collaborators via Reinforcement Learning for Federated Brain Tumor Segmentation**|Muhammad Irfan Khan et.al.|[2412.20253v1](http://arxiv.org/abs/2412.20253v1)|
+|**2024-12-28**|**Recommender Engine Driven Client Selection in Federated Brain Tumor Segmentation**|Muhammad Irfan Khan et.al.|[2412.20250v1](http://arxiv.org/abs/2412.20250v1)|
+|**2024-12-28**|**Federated Unlearning with Gradient Descent and Conflict Mitigation**|Zibin Pan et.al.|[2412.20200v1](http://arxiv.org/abs/2412.20200v1)|
+|**2024-12-28**|**Calibre: Towards Fair and Accurate Personalized Federated Learning with Self-Supervised Learning**|Sijia Chen et.al.|[2412.20020v1](http://arxiv.org/abs/2412.20020v1)|
+|**2024-12-28**|**A Robust Federated Learning Framework for Undependable Devices at Scale**|Shilong Wang et.al.|[2412.19991v1](http://arxiv.org/abs/2412.19991v1)|
+|**2024-12-28**|**Caesar: A Low-deviation Compression Approach for Efficient Federated Learning**|Jiaming Yan et.al.|[2412.19989v1](http://arxiv.org/abs/2412.19989v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-30**|**A Tale of Two Imperatives: Privacy and Explainability**|Supriya Manna et.al.|[2412.20798v1](http://arxiv.org/abs/2412.20798v1)|
+|**2024-12-30**|**SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy**|Md Mahadi Hasan Nahid et.al.|[2412.20641v1](http://arxiv.org/abs/2412.20641v1)|
+|**2024-12-29**|**Sub-optimal Learning in Meta-Classifier Attacks: A Study of Membership Inference on Differentially Private Location Aggregates**|Yuhan Liu et.al.|[2412.20456v1](http://arxiv.org/abs/2412.20456v1)|
+|**2024-12-23**|**Data Poisoning Attacks to Local Differential Privacy Protocols for Graphs**|Xi He et.al.|[2412.19837v1](http://arxiv.org/abs/2412.19837v1)|
 |**2024-12-26**|**RAG with Differential Privacy**|Nicolas Grislain et.al.|[2412.19291v1](http://arxiv.org/abs/2412.19291v1)|
 |**2024-12-23**|**When Focus Enhances Utility: Target Range LDP Frequency Estimation and Unknown Item Discovery**|Bo Jiang et.al.|[2412.17303v1](http://arxiv.org/abs/2412.17303v1)|
 |**2024-12-22**|**DR-Encoder: Encode Low-rank Gradients with Random Prior for Large Language Models Differentially Privately**|Huiwen Wu et.al.|[2412.17053v1](http://arxiv.org/abs/2412.17053v1)|
 |**2024-12-22**|**Data value estimation on private gradients**|Zijian Zhou et.al.|[2412.17008v1](http://arxiv.org/abs/2412.17008v1)|
 |**2024-12-22**|**On the Differential Privacy and Interactivity of Privacy Sandbox Reports**|Badih Ghazi et.al.|[2412.16916v1](http://arxiv.org/abs/2412.16916v1)|
 |**2024-12-22**|**SoK: Usability Studies in Differential Privacy**|Onyinye Dibia et.al.|[2412.16825v1](http://arxiv.org/abs/2412.16825v1)|
-|**2024-12-21**|**Privacy in Fine-tuning Large Language Models: Attacks, Defenses, and Future Directions**|Hao Du et.al.|[2412.16504v1](http://arxiv.org/abs/2412.16504v1)|
-|**2024-12-20**|**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**|Timur Sattarov et.al.|[2412.16083v1](http://arxiv.org/abs/2412.16083v1)|
-|**2024-12-20**|**PoisonCatcher: Revealing and Identifying LDP Poisoning Attacks in IIoT**|Lisha Shuai et.al.|[2412.15704v1](http://arxiv.org/abs/2412.15704v1)|
-|**2024-12-20**|**SemDP: Semantic-level Differential Privacy Protection for Face Datasets**|Xiaoting Zhang et.al.|[2412.15590v1](http://arxiv.org/abs/2412.15590v1)|
 
 ## Data Masking
 
@@ -94,21 +94,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-12-26**|**Time Series Foundational Models: Their Role in Anomaly Detection and Prediction**|Chathurangi Shyalika et.al.|[2412.19286v1](http://arxiv.org/abs/2412.19286v1)|
-|**2024-12-26**|**Graph Mixture of Experts and Memory-augmented Routers for Multivariate Time Series Anomaly Detection**|Xiaoyu Huang et.al.|[2412.19108v1](http://arxiv.org/abs/2412.19108v1)|
-|**2024-12-25**|**CausalTAD: Causal Implicit Generative Model for Debiased Online Trajectory Anomaly Detection**|Wenbin Li et.al.|[2412.18820v1](http://arxiv.org/abs/2412.18820v1)|
-|**2024-12-24**|**Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight**|Xi Ding et.al.|[2412.18298v1](http://arxiv.org/abs/2412.18298v1)|
-|**2024-12-23**|**Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection**|Fenfang Tao et.al.|[2412.17619v1](http://arxiv.org/abs/2412.17619v1)|
-|**2024-12-23**|**Progressive Boundary Guided Anomaly Synthesis for Industrial Anomaly Detection**|Qiyu Chen et.al.|[2412.17458v1](http://arxiv.org/abs/2412.17458v1)|
-|**2024-12-23**|**Cech Complex Generation with Homotopy Equivalence Framework for Myocardial Infarction Diagnosis using Electrocardiogram Signals**|Srikireddy Dhanunjay Reddy et.al.|[2412.17370v1](http://arxiv.org/abs/2412.17370v1)|
-|**2024-12-23**|**Revisiting Multimodal Fusion for 3D Anomaly Detection from an Architectural Perspective**|Kaifang Long et.al.|[2412.17297v1](http://arxiv.org/abs/2412.17297v1)|
-|**2024-12-23**|**VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling**|Yunkang Cao et.al.|[2412.17263v1](http://arxiv.org/abs/2412.17263v1)|
-|**2024-12-23**|**Dual Conditioned Motion Diffusion for Pose-Based Video Anomaly Detection**|Andi Xu et.al.|[2412.17210v1](http://arxiv.org/abs/2412.17210v1)|
+|**2024-12-30**|**Galaxy Spectra Networks (GaSNet). III. Generative pre-trained network for spectrum reconstruction, redshift estimate and anomaly detection**|Fucheng Zhong et.al.|[2412.21130v1](http://arxiv.org/abs/2412.21130v1)|
+|**2024-12-30**|**SoftPatch+: Fully Unsupervised Anomaly Classification and Segmentation**|Chengjie Wang et.al.|[2412.20870v1](http://arxiv.org/abs/2412.20870v1)|
+|**2024-12-29**|**A Survey on Time-Series Distance Measures**|John Paparrizos et.al.|[2412.20574v1](http://arxiv.org/abs/2412.20574v1)|
+|**2024-12-29**|**Dive into Time-Series Anomaly Detection: A Decade Review**|Paul Boniol et.al.|[2412.20512v1](http://arxiv.org/abs/2412.20512v1)|
+|**2024-12-29**|**Cross-Modal Fusion and Attention Mechanism for Weakly Supervised Video Anomaly Detection**|Ayush Ghadiya et.al.|[2412.20455v1](http://arxiv.org/abs/2412.20455v1)|
+|**2024-12-29**|**Exploring the Magnitude-Shape Plot Framework for Anomaly Detection in Crowded Video Scenes**|Zuzheng Wang et.al.|[2412.20363v1](http://arxiv.org/abs/2412.20363v1)|
+|**2024-12-28**|**An Anomaly Detection System Based on Generative Classifiers for Controller Area Network**|Chunheng Zhao et.al.|[2412.20255v1](http://arxiv.org/abs/2412.20255v1)|
+|**2024-12-28**|**Injecting Explainability and Lightweight Design into Weakly Supervised Video Anomaly Detection Systems**|Wen-Dong Jiang et.al.|[2412.20201v1](http://arxiv.org/abs/2412.20201v1)|
+|**2024-12-28**|**Frames and vertex-frequency representations in graph fractional Fourier domain**|Linbo Shang et.al.|[2412.20184v1](http://arxiv.org/abs/2412.20184v1)|
+|**2024-12-28**|**STNMamba: Mamba-based Spatial-Temporal Normality Learning for Video Anomaly Detection**|Zhangxun Li et.al.|[2412.20084v1](http://arxiv.org/abs/2412.20084v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-12-28**|**Robust Quickest Change Detection with Sampling Control**|Yingze Hou et.al.|[2412.20207v1](http://arxiv.org/abs/2412.20207v1)|
 |**2024-12-26**|**Mask Approximation Net: Merging Feature Extraction and Distribution Learning for Remote Sensing Change Captioning**|Dongwei Sun et.al.|[2412.19179v1](http://arxiv.org/abs/2412.19179v1)|
 |**2024-12-23**|**STeInFormer: Spatial-Temporal Interaction Transformer Architecture for Remote Sensing Change Detection**|Xiaowen Ma et.al.|[2412.17247v1](http://arxiv.org/abs/2412.17247v1)|
 |**2024-12-22**|**Detect Changes like Humans: Incorporating Semantic Priors for Improved Change Detection**|Yuhang Gan et.al.|[2412.16918v1](http://arxiv.org/abs/2412.16918v1)|
@@ -118,5 +119,4 @@
 |**2024-12-17**|**Quantifying Lexical Semantic Shift via Unbalanced Optimal Transport**|Ryo Kishino et.al.|[2412.12569v1](http://arxiv.org/abs/2412.12569v1)|
 |**2024-12-10**|**ViewDelta: Text-Prompted Change Detection in Unaligned Images**|Subin Varghese et.al.|[2412.07612v1](http://arxiv.org/abs/2412.07612v1)|
 |**2024-12-07**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679v2](http://arxiv.org/abs/2412.05679v2)|
-|**2024-12-05**|**Text Change Detection in Multilingual Documents Using Image Comparison**|Doyoung Park et.al.|[2412.04137v1](http://arxiv.org/abs/2412.04137v1)|
 
