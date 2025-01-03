@@ -27,7 +27,7 @@
 |**2024-12-27**|**A Large-scale Interpretable Multi-modality Benchmark for Facial Image Forgery Localization**|Jingchun Lian et.al.|[2412.19685v1](http://arxiv.org/abs/2412.19685v1)|
 |**2024-12-23**|**Are audio DeepFake detection models polyglots?**|Bartłomiej Marek et.al.|[2412.17924v1](http://arxiv.org/abs/2412.17924v1)|
 |**2024-12-23**|**Investigating Prosodic Signatures via Speech Pre-Trained Models for Audio Deepfake Source Attribution**|Orchid Chetia Phukan et.al.|[2412.17796v1](http://arxiv.org/abs/2412.17796v1)|
-|**2024-12-21**|**Deepfake detection, image manipulation detection, fairness, generalization**|Uzoamaka Ezeakunne et.al.|[2412.16428v1](http://arxiv.org/abs/2412.16428v1)|
+|**2024-12-21**|**Data-Driven Fairness Generalization for Deepfake Detection**|Uzoamaka Ezeakunne et.al.|[2412.16428v2](http://arxiv.org/abs/2412.16428v2)|
 |**2024-12-19**|**FRIDAY: Mitigating Unintentional Facial Identity in Deepfake Detectors Guided by Facial Recognizers**|Younhun Kim et.al.|[2412.14623v1](http://arxiv.org/abs/2412.14623v1)|
 
 ## federated learning
@@ -49,7 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-12-30**|**A Tale of Two Imperatives: Privacy and Explainability**|Supriya Manna et.al.|[2412.20798v1](http://arxiv.org/abs/2412.20798v1)|
+|**2024-12-30**|**A Tale of Two Imperatives: Privacy and Explainability**|Supriya Manna et.al.|[2412.20798v2](http://arxiv.org/abs/2412.20798v2)|
 |**2024-12-30**|**SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy**|Md Mahadi Hasan Nahid et.al.|[2412.20641v1](http://arxiv.org/abs/2412.20641v1)|
 |**2024-12-29**|**Sub-optimal Learning in Meta-Classifier Attacks: A Study of Membership Inference on Differentially Private Location Aggregates**|Yuhan Liu et.al.|[2412.20456v1](http://arxiv.org/abs/2412.20456v1)|
 |**2024-12-23**|**Data Poisoning Attacks to Local Differential Privacy Protocols for Graphs**|Xi He et.al.|[2412.19837v1](http://arxiv.org/abs/2412.19837v1)|
