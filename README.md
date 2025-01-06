@@ -34,21 +34,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-01-03**|**Mingling with the Good to Backdoor Federated Learning**|Nuno Neves et.al.|[2501.01913v1](http://arxiv.org/abs/2501.01913v1)|
+|**2025-01-03**|**LCFed: An Efficient Clustered Federated Learning Framework for Heterogeneous Data**|Yuxin Zhang et.al.|[2501.01850v1](http://arxiv.org/abs/2501.01850v1)|
+|**2025-01-03**|**Age-Based Device Selection and Transmit Power Optimization in Over-the-Air Federated Learning**|Jingyuan Liu et.al.|[2501.01828v1](http://arxiv.org/abs/2501.01828v1)|
+|**2025-01-03**|**Uncertainty-Aware Label Refinement on Hypergraphs for Personalized Federated Facial Expression Recognition**|Hu Ding et.al.|[2501.01816v1](http://arxiv.org/abs/2501.01816v1)|
+|**2025-01-03**|**Denoising and Adaptive Online Vertical Federated Learning for Sequential Multi-Sensor Data in Industrial Internet of Things**|Heqiang Wang et.al.|[2501.01693v1](http://arxiv.org/abs/2501.01693v1)|
+|**2025-01-03**|**Look Back for More: Harnessing Historical Sequential Updates for Personalized Federated Adapter Tuning**|Danni Peng et.al.|[2501.01653v1](http://arxiv.org/abs/2501.01653v1)|
+|**2025-01-03**|**Stackelberg Game Based Performance Optimization in Digital Twin Assisted Federated Learning over NOMA Networks**|Bibo Wu et.al.|[2501.01584v1](http://arxiv.org/abs/2501.01584v1)|
 |**2025-01-02**|**Communication-and-Computation Efficient Split Federated Learning: Gradient Aggregation and Resource Management**|Yipeng Liang et.al.|[2501.01078v1](http://arxiv.org/abs/2501.01078v1)|
 |**2025-01-02**|**FAPL-DM-BC: A Secure and Scalable FL Framework with Adaptive Privacy and Dynamic Masking, Blockchain, and XAI for the IoVs**|Sathwik Narkedimilli et.al.|[2501.01063v1](http://arxiv.org/abs/2501.01063v1)|
 |**2025-01-01**|**Gradient Compression and Correlation Driven Federated Learning for Wireless Traffic Prediction**|Chuanting Zhang et.al.|[2501.00732v1](http://arxiv.org/abs/2501.00732v1)|
-|**2025-01-01**|**Beyond Model Scale Limits: End-Edge-Cloud Federated Learning with Self-Rectified Knowledge Agglomeration**|Zhiyuan Wu et.al.|[2501.00693v1](http://arxiv.org/abs/2501.00693v1)|
-|**2024-12-31**|**Federated Dropout: Convergence Analysis and Resource Allocation**|Sijing Xie et.al.|[2501.00379v1](http://arxiv.org/abs/2501.00379v1)|
-|**2024-12-31**|**Federated Deep Subspace Clustering**|Yupei Zhang et.al.|[2501.00230v1](http://arxiv.org/abs/2501.00230v1)|
-|**2024-12-31**|**FedCod: An Efficient Communication Protocol for Cross-Silo Federated Learning with Coding**|Peishen Yan et.al.|[2501.00216v1](http://arxiv.org/abs/2501.00216v1)|
-|**2024-12-30**|**Federated Learning with Workload Reduction through Partial Training of Client Models and Entropy-Based Data Selection**|Hongrui Shi et.al.|[2501.00170v1](http://arxiv.org/abs/2501.00170v1)|
-|**2024-12-30**|**Generalizing in Net-Zero Microgrids: A Study with Federated PPO and TRPO**|Nicolas M Cuadrado Avila et.al.|[2412.20946v1](http://arxiv.org/abs/2412.20946v1)|
-|**2024-12-30**|**Accelerating Energy-Efficient Federated Learning in Cell-Free Networks with Adaptive Quantization**|Afsaneh Mahmoudi et.al.|[2412.20785v1](http://arxiv.org/abs/2412.20785v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-01-03**|**Advancing privacy in learning analytics using differential privacy**|Qinyi Liu et.al.|[2501.01786v1](http://arxiv.org/abs/2501.01786v1)|
 |**2025-01-01**|**A Survey of Secure Semantic Communications**|Rui Meng et.al.|[2501.00842v1](http://arxiv.org/abs/2501.00842v1)|
 |**2024-12-30**|**A Tale of Two Imperatives: Privacy and Explainability**|Supriya Manna et.al.|[2412.20798v2](http://arxiv.org/abs/2412.20798v2)|
 |**2024-12-30**|**SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy**|Md Mahadi Hasan Nahid et.al.|[2412.20641v1](http://arxiv.org/abs/2412.20641v1)|
@@ -58,7 +59,6 @@
 |**2024-12-23**|**When Focus Enhances Utility: Target Range LDP Frequency Estimation and Unknown Item Discovery**|Bo Jiang et.al.|[2412.17303v1](http://arxiv.org/abs/2412.17303v1)|
 |**2024-12-22**|**DR-Encoder: Encode Low-rank Gradients with Random Prior for Large Language Models Differentially Privately**|Huiwen Wu et.al.|[2412.17053v1](http://arxiv.org/abs/2412.17053v1)|
 |**2024-12-22**|**Data value estimation on private gradients**|Zijian Zhou et.al.|[2412.17008v1](http://arxiv.org/abs/2412.17008v1)|
-|**2024-12-22**|**On the Differential Privacy and Interactivity of Privacy Sandbox Reports**|Badih Ghazi et.al.|[2412.16916v1](http://arxiv.org/abs/2412.16916v1)|
 
 ## Data Masking
 
@@ -94,6 +94,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-01-03**|**Robust resonant anomaly detection with NPLM**|Gaia Grosso et.al.|[2501.01778v1](http://arxiv.org/abs/2501.01778v1)|
+|**2025-01-03**|**LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction**|Er Jin et.al.|[2501.01767v1](http://arxiv.org/abs/2501.01767v1)|
+|**2025-01-03**|**Multivariate Time Series Anomaly Detection using DiffGAN Model**|Guangqiang Wu et.al.|[2501.01591v1](http://arxiv.org/abs/2501.01591v1)|
 |**2025-01-02**|**Quantum Computing for Partition Function Estimation of a Markov Random Field in a Radar Anomaly Detection Problem**|Timothe Presles et.al.|[2501.01154v1](http://arxiv.org/abs/2501.01154v1)|
 |**2025-01-02**|**InDeed: Interpretable image deep decomposition with guaranteed generalizability**|Sihan Wang et.al.|[2501.01127v1](http://arxiv.org/abs/2501.01127v1)|
 |**2025-01-02**|**An Efficient Outlier Detection Algorithm for Data Streaming**|Rui Hu et.al.|[2501.01061v1](http://arxiv.org/abs/2501.01061v1)|
@@ -101,9 +104,6 @@
 |**2024-12-31**|**Q3DE: A fault-tolerant quantum computer architecture for multi-bit burst errors by cosmic rays**|Yasunari Suzuki et.al.|[2501.00331v1](http://arxiv.org/abs/2501.00331v1)|
 |**2024-12-30**|**An Unsupervised Anomaly Detection in Electricity Consumption Using Reinforcement Learning and Time Series Forest Based Framework**|Jihan Ghanim et.al.|[2501.00107v1](http://arxiv.org/abs/2501.00107v1)|
 |**2024-12-30**|**Machine Learning-Based Security Policy Analysis**|Krish Jain et.al.|[2501.00085v1](http://arxiv.org/abs/2501.00085v1)|
-|**2024-12-30**|**Galaxy Spectra Networks (GaSNet). III. Generative pre-trained network for spectrum reconstruction, redshift estimate and anomaly detection**|Fucheng Zhong et.al.|[2412.21130v1](http://arxiv.org/abs/2412.21130v1)|
-|**2024-12-30**|**SoftPatch+: Fully Unsupervised Anomaly Classification and Segmentation**|Chengjie Wang et.al.|[2412.20870v1](http://arxiv.org/abs/2412.20870v1)|
-|**2024-12-29**|**A Survey on Time-Series Distance Measures**|John Paparrizos et.al.|[2412.20574v1](http://arxiv.org/abs/2412.20574v1)|
 
 ## change detection
 
