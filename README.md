@@ -99,7 +99,7 @@
 |**2025-02-28**|**When Unsupervised Domain Adaptation meets One-class Anomaly Detection: Addressing the Two-fold Unsupervised Curse by Leveraging Anomaly Scarcity**|Nesryne Mejri et.al.|[2502.21022v1](http://arxiv.org/abs/2502.21022v1)|
 |**2025-02-28**|**FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection**|Silin Chen et.al.|[2502.21012v1](http://arxiv.org/abs/2502.21012v1)|
 |**2025-02-28**|**Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection**|Fuyun Wang et.al.|[2502.20981v1](http://arxiv.org/abs/2502.20981v1)|
-|**2025-02-27**|**Discovering Antagonists in Networks of Systems: Robot Deployment**|Ingeborg Wenger et.al.|[2502.20125v1](http://arxiv.org/abs/2502.20125v1)|
+|**2025-02-27**|**Discovering Antagonists in Networks of Systems: Robot Deployment**|Ingeborg Wenger et.al.|[2502.20125v2](http://arxiv.org/abs/2502.20125v2)|
 |**2025-02-27**|**One-for-More: Continual Diffusion Model for Anomaly Detection**|Xiaofan Li et.al.|[2502.19848v1](http://arxiv.org/abs/2502.19848v1)|
 |**2025-02-26**|**Retrieval Augmented Anomaly Detection (RAAD): Nimble Model Adjustment Without Retraining**|Sam Pastoriza et.al.|[2502.19534v1](http://arxiv.org/abs/2502.19534v1)|
 |**2025-02-26**|**Anomaly Detection in Complex Dynamical Systems: A Systematic Framework Using Embedding Theory and Physics-Inspired Consistency**|Michael Somma et.al.|[2502.19307v1](http://arxiv.org/abs/2502.19307v1)|
