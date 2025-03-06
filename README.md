@@ -22,7 +22,7 @@
 |**2025-03-04**|**Deepfake-Eval-2024: A Multi-Modal In-the-Wild Benchmark of Deepfakes Circulated in 2024**|Nuria Alina Chandra et.al.|[2503.02857v1](http://arxiv.org/abs/2503.02857v1)|
 |**2025-03-04**|**Deepfake Detection via Knowledge Injection**|Tonghui Li et.al.|[2503.02503v1](http://arxiv.org/abs/2503.02503v1)|
 |**2025-02-28**|**Two-Stream Spatial-Temporal Transformer Framework for Person Identification via Natural Conversational Keypoints**|Masoumeh Chapariniya et.al.|[2502.20803v1](http://arxiv.org/abs/2502.20803v1)|
-|**2025-02-27**|**DeePen: Penetration Testing for Audio Deepfake Detection**|Nicolas Müller et.al.|[2502.20427v1](http://arxiv.org/abs/2502.20427v1)|
+|**2025-02-27**|**DeePen: Penetration Testing for Audio Deepfake Detection**|Nicolas Müller et.al.|[2502.20427v2](http://arxiv.org/abs/2502.20427v2)|
 |**2025-02-27**|**DIN-CTS: Low-Complexity Depthwise-Inception Neural Network with Contrastive Training Strategy for Deepfake Speech Detection**|Lam Pham et.al.|[2502.20225v1](http://arxiv.org/abs/2502.20225v1)|
 |**2025-02-27**|**Recent Advances on Generalizable Diffusion-generated Image Detection**|Qijie Xu et.al.|[2502.19716v1](http://arxiv.org/abs/2502.19716v1)|
 |**2025-02-25**|**To Deepfake or Not to Deepfake: Higher Education Stakeholders' Perceptions and Intentions towards Synthetic Media**|Jasper Roe et.al.|[2502.18066v1](http://arxiv.org/abs/2502.18066v1)|
