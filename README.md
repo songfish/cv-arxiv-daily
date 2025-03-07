@@ -34,16 +34,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-03-05**|**Towards Trustworthy Federated Learning**|Alina Basharat et.al.|[2503.03684v1](http://arxiv.org/abs/2503.03684v1)|
-|**2025-03-05**|**Federated Learning for Predicting Mild Cognitive Impairment to Dementia Conversion**|Gaurang Sharma et.al.|[2503.03489v1](http://arxiv.org/abs/2503.03489v1)|
-|**2025-03-05**|**Privacy is All You Need: Revolutionizing Wearable Health Data with Advanced PETs**|Karthik Barma et.al.|[2503.03428v1](http://arxiv.org/abs/2503.03428v1)|
-|**2025-03-05**|**Quantum-Inspired Privacy-Preserving Federated Learning Framework for Secure Dementia Classification**|Gazi Tanbhir et.al.|[2503.03267v1](http://arxiv.org/abs/2503.03267v1)|
-|**2025-03-05**|**PriFFT: Privacy-preserving Federated Fine-tuning of Large Language Models via Function Secret Sharing**|Zhichao You et.al.|[2503.03146v1](http://arxiv.org/abs/2503.03146v1)|
-|**2025-03-05**|**Knowledge Augmentation in Federation: Rethinking What Collaborative Learning Can Bring Back to Decentralized Data**|Wentai Wu et.al.|[2503.03140v1](http://arxiv.org/abs/2503.03140v1)|
-|**2025-03-05**|**Convergence Analysis of Federated Learning Methods Using Backward Error Analysis**|Jinwoo Lim et.al.|[2503.03139v1](http://arxiv.org/abs/2503.03139v1)|
-|**2025-03-05**|**WarmFed: Federated Learning with Warm-Start for Globalization and Personalization Via Personalized Diffusion Models**|Tao Feng et.al.|[2503.03110v1](http://arxiv.org/abs/2503.03110v1)|
-|**2025-03-04**|**Federated Learning Meets Fluid Antenna: Towards Robust and Scalable Edge Intelligence**|Sangjun Park et.al.|[2503.03054v1](http://arxiv.org/abs/2503.03054v1)|
-|**2025-03-04**|**Leveraging Randomness in Model and Data Partitioning for Privacy Amplification**|Andy Dong et.al.|[2503.03043v1](http://arxiv.org/abs/2503.03043v1)|
+|**2025-03-06**|**Fundamental Limits of Hierarchical Secure Aggregation with Cyclic User Association**|Xiang Zhang et.al.|[2503.04564v1](http://arxiv.org/abs/2503.04564v1)|
+|**2025-03-06**|**Federated Dynamic Modeling and Learning for Spatiotemporal Data Forecasting**|Thien Pham et.al.|[2503.04528v1](http://arxiv.org/abs/2503.04528v1)|
+|**2025-03-06**|**Runtime Backdoor Detection for Federated Learning via Representational Dissimilarity Analysis**|Xiyue Zhang et.al.|[2503.04473v1](http://arxiv.org/abs/2503.04473v1)|
+|**2025-03-06**|**Privacy Preserving and Robust Aggregation for Cross-Silo Federated Learning in Non-IID Settings**|Marco Arazzi et.al.|[2503.04451v1](http://arxiv.org/abs/2503.04451v1)|
+|**2025-03-06**|**InFL-UX: A Toolkit for Web-Based Interactive Federated Learning**|Tim Maurer et.al.|[2503.04318v1](http://arxiv.org/abs/2503.04318v1)|
+|**2025-03-06**|**One-Shot Clustering for Federated Learning**|Maciej Krzysztof Zuziak et.al.|[2503.04231v1](http://arxiv.org/abs/2503.04231v1)|
+|**2025-03-06**|**LiteChain: A Lightweight Blockchain for Verifiable and Scalable Federated Learning in Massive Edge Networks**|Handi Chen et.al.|[2503.04140v1](http://arxiv.org/abs/2503.04140v1)|
+|**2025-03-06**|**FLAME: A Federated Learning Approach for Multi-Modal RF Fingerprinting**|Kiarash Kianfar et.al.|[2503.04136v1](http://arxiv.org/abs/2503.04136v1)|
+|**2025-03-06**|**Generalization in Federated Learning: A Conditional Mutual Information Framework**|Ziqiao Wang et.al.|[2503.04091v1](http://arxiv.org/abs/2503.04091v1)|
+|**2025-03-06**|**Brain Tumor Detection in MRI Based on Federated Learning with YOLOv11**|Sheikh Moonwara Anjum Monisha et.al.|[2503.04087v1](http://arxiv.org/abs/2503.04087v1)|
 
 ## Differential Privacy
 
@@ -94,16 +94,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-03-06**|**AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM**|Sunghyun Ahn et.al.|[2503.04504v1](http://arxiv.org/abs/2503.04504v1)|
+|**2025-03-06**|**TRANSIT your events into a new mass: Fast background interpolation for weakly-supervised anomaly searches**|Ivan Oleksiyuk et.al.|[2503.04342v1](http://arxiv.org/abs/2503.04342v1)|
+|**2025-03-06**|**Unsupervised anomaly detection on cybersecurity data streams: a case with BETH dataset**|Evgeniy Eremin et.al.|[2503.04178v1](http://arxiv.org/abs/2503.04178v1)|
+|**2025-03-06**|**UniNet: A Unified Multi-granular Traffic Modeling Framework for Network Security**|Binghui Wu et.al.|[2503.04174v1](http://arxiv.org/abs/2503.04174v1)|
+|**2025-03-05**|**DeepGrav: Anomalous Gravitational-Wave Detection Through Deep Latent Features**|Jianqi Yan et.al.|[2503.03799v1](http://arxiv.org/abs/2503.03799v1)|
 |**2025-03-05**|**PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning**|Ryozo Masukawa et.al.|[2503.03747v1](http://arxiv.org/abs/2503.03747v1)|
 |**2025-03-05**|**Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection**|Wenqiao Li et.al.|[2503.03562v2](http://arxiv.org/abs/2503.03562v2)|
 |**2025-03-05**|**AI-Driven Multi-Stage Computer Vision System for Defect Detection in Laser-Engraved Industrial Nameplates**|Adhish Anitha Vilasan et.al.|[2503.03395v1](http://arxiv.org/abs/2503.03395v1)|
 |**2025-03-05**|**Enhancing Cybersecurity in Critical Infrastructure with LLM-Assisted Explainable IoT Systems**|Ashutosh Ghimire et.al.|[2503.03180v1](http://arxiv.org/abs/2503.03180v1)|
 |**2025-03-04**|**Network Anomaly Detection for IoT Using Hyperdimensional Computing on NSL-KDD**|Ghazal Ghajari et.al.|[2503.03031v1](http://arxiv.org/abs/2503.03031v1)|
-|**2025-03-04**|**RAAD-LLM: Adaptive Anomaly Detection Using LLMs and RAG Integration**|Alicia Russell-Gilbert et.al.|[2503.02800v2](http://arxiv.org/abs/2503.02800v2)|
-|**2025-03-04**|**Memory Efficient Continual Learning for Edge-Based Visual Anomaly Detection**|Manuel Barusco et.al.|[2503.02691v1](http://arxiv.org/abs/2503.02691v1)|
-|**2025-03-04**|**World Models for Anomaly Detection during Model-Based Reinforcement Learning Inference**|Fabian Domberg et.al.|[2503.02552v1](http://arxiv.org/abs/2503.02552v1)|
-|**2025-03-04**|**A compact unshielded optically-pumped magnetic gradiometer**|Hangfei Ye et.al.|[2503.02507v1](http://arxiv.org/abs/2503.02507v1)|
-|**2025-03-04**|**Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection**|Wei Luo et.al.|[2503.02424v1](http://arxiv.org/abs/2503.02424v1)|
 
 ## change detection
 
