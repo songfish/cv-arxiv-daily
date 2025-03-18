@@ -1,4 +1,4 @@
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 
 ## super-resolution
 
@@ -97,7 +97,7 @@
 |**2025-03-14**|**Federated Koopman-Reservoir Learning for Large-Scale Multivariate Time-Series Anomaly Detection**|Long Tan Le et.al.|[2503.11255v1](http://arxiv.org/abs/2503.11255v1)|
 |**2025-03-14**|**A Novel Decomposed Feature-Oriented Framework for Open-Set Semantic Segmentation on LiDAR Data**|Wenbang Deng et.al.|[2503.11097v1](http://arxiv.org/abs/2503.11097v1)|
 |**2025-03-14**|**Multi-View Industrial Anomaly Detection with Epipolar Constrained Cross-View Fusion**|Yifan Liu et.al.|[2503.11088v1](http://arxiv.org/abs/2503.11088v1)|
-|**2025-03-13**|**Hoi2Anomaly: An Explainable Anomaly Detection Approach Guided by Human-Object Interaction**|Yuhan Wang et.al.|[2503.10508v1](http://arxiv.org/abs/2503.10508v1)|
+|**2025-03-13**|**Hoi2Anomaly: An Explainable Anomaly Detection Approach Guided by Human-Object Interaction**|Yuhan Wang et.al.|[2503.10508v2](http://arxiv.org/abs/2503.10508v2)|
 |**2025-03-13**|**An Open-RAN Testbed for Detecting and Mitigating Radio-Access Anomalies**|Hanna Bogucka et.al.|[2503.10255v1](http://arxiv.org/abs/2503.10255v1)|
 |**2025-03-13**|**G$^{2}$SF-MIAD: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection**|Chengyu Tao et.al.|[2503.10091v1](http://arxiv.org/abs/2503.10091v1)|
 |**2025-03-13**|**Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection**|Zhen Qu et.al.|[2503.10080v1](http://arxiv.org/abs/2503.10080v1)|
