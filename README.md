@@ -4,7 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-03-05**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355v2](http://arxiv.org/abs/2503.03355v2)|
+|**2025-03-05**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355v3](http://arxiv.org/abs/2503.03355v3)|
 |**2025-02-12**|**Deep EEG Super-Resolution: Upsampling EEG Spatial Resolution with Generative Adversarial Networks**|Isaac Corley et.al.|[2502.08803v1](http://arxiv.org/abs/2502.08803v1)|
 |**2025-02-09**|**Fast Omni-Directional Image Super-Resolution: Adapting the Implicit Image Function with Pixel and Semantic-Wise Spherical Geometric Priors**|Xuelin Shen et.al.|[2502.05902v1](http://arxiv.org/abs/2502.05902v1)|
 |**2025-01-30**|**Distillation-Driven Diffusion Model for Multi-Scale MRI Super-Resolution: Make 1.5T MRI Great Again**|Zhe Wang et.al.|[2501.18736v1](http://arxiv.org/abs/2501.18736v1)|
