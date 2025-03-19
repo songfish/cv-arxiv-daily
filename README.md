@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-03-18**|**ExDDV: A New Dataset for Explainable Deepfake Detection in Video**|Vlad Hondru et.al.|[2503.14421v1](http://arxiv.org/abs/2503.14421v1)|
+|**2025-03-18**|**InnerSelf: Designing Self-Deepfaked Voice for Emotional Well-being**|Guang Dai et.al.|[2503.14257v1](http://arxiv.org/abs/2503.14257v1)|
 |**2025-03-16**|**Deepfake Detection with Optimized Hybrid Model: EAR Biometric Descriptor via Improved RCNN**|Ruchika Sharma et.al.|[2503.12381v1](http://arxiv.org/abs/2503.12381v1)|
 |**2025-03-14**|**Deepfake Detection of Face Images based on a Convolutional Neural Network**|Lukas Kroiß et.al.|[2503.11389v1](http://arxiv.org/abs/2503.11389v1)|
 |**2025-03-11**|**Unmasking the Unknown: Facial Deepfake Detection in the Open-Set Paradigm**|Nadarasar Bahavan et.al.|[2503.08055v1](http://arxiv.org/abs/2503.08055v1)|
@@ -27,28 +29,27 @@
 |**2025-03-08**|**VLForgery Face Triad: Detection, Localization and Attribution via Multimodal Large Language Models**|Xinan He et.al.|[2503.06142v1](http://arxiv.org/abs/2503.06142v1)|
 |**2025-03-06**|**Collaborative Evaluation of Deepfake Text with Deliberation-Enhancing Dialogue Systems**|Jooyoung Lee et.al.|[2503.04945v1](http://arxiv.org/abs/2503.04945v1)|
 |**2025-03-05**|**Reduced Spatial Dependency for More General Video-level Deepfake Detection**|Beilin Chu et.al.|[2503.03270v1](http://arxiv.org/abs/2503.03270v1)|
-|**2025-03-04**|**Deepfake-Eval-2024: A Multi-Modal In-the-Wild Benchmark of Deepfakes Circulated in 2024**|Nuria Alina Chandra et.al.|[2503.02857v2](http://arxiv.org/abs/2503.02857v2)|
-|**2025-03-04**|**Deepfake Detection via Knowledge Injection**|Tonghui Li et.al.|[2503.02503v1](http://arxiv.org/abs/2503.02503v1)|
 
 ## federated learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-03-18**|**Technical Report: Aggregation on Learnable Manifolds for Asynchronous Federated Optimization**|Archie Licudi et.al.|[2503.14396v1](http://arxiv.org/abs/2503.14396v1)|
+|**2025-03-18**|**Entente: Cross-silo Intrusion Detection on Network Log Graphs with Federated Learning**|Jiacen Xu et.al.|[2503.14284v1](http://arxiv.org/abs/2503.14284v1)|
+|**2025-03-18**|**Trading-off Accuracy and Communication Cost in Federated Learning**|Mattia Jacopo Villani et.al.|[2503.14246v1](http://arxiv.org/abs/2503.14246v1)|
+|**2025-03-18**|**Semantic Communication in Dynamic Channel Scenarios: Collaborative Optimization of Dual-Pipeline Joint Source-Channel Coding and Personalized Federated Learning**|Xingrun Yan et.al.|[2503.14084v1](http://arxiv.org/abs/2503.14084v1)|
+|**2025-03-18**|**LLM-Empowered IoT for 6G Networks: Architecture, Challenges, and Solutions**|Xiaopei Chen et.al.|[2503.13819v1](http://arxiv.org/abs/2503.13819v1)|
+|**2025-03-17**|**FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution**|Ali Mollaahmadi Dehaghi et.al.|[2503.13745v1](http://arxiv.org/abs/2503.13745v1)|
+|**2025-03-17**|**SDFLMQ: A Semi-Decentralized Federated Learning Framework over MQTT**|Amir Ali-Pour et.al.|[2503.13624v1](http://arxiv.org/abs/2503.13624v1)|
 |**2025-03-17**|**Fed-Joint: Joint Modeling of Nonlinear Degradation Signals and Failure Events for Remaining Useful Life Prediction using Federated Learning**|Cheoljoon Jeong et.al.|[2503.13404v1](http://arxiv.org/abs/2503.13404v1)|
 |**2025-03-17**|**Zero-Knowledge Proof-Based Consensus for Blockchain-Secured Federated Learning**|Tianxing Fu et.al.|[2503.13255v1](http://arxiv.org/abs/2503.13255v1)|
 |**2025-03-17**|**Federated Mixture-of-Expert for Non-Overlapped Cross-Domain Sequential Recommendation**|Yu Liu et.al.|[2503.13254v1](http://arxiv.org/abs/2503.13254v1)|
-|**2025-03-17**|**Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch**|Yijie Liu et.al.|[2503.13227v1](http://arxiv.org/abs/2503.13227v1)|
-|**2025-03-17**|**GC-Fed: Gradient Centralized Federated Learning with Partial Client Participation**|Jungwon Seo et.al.|[2503.13180v1](http://arxiv.org/abs/2503.13180v1)|
-|**2025-03-17**|**PAUSE: Low-Latency and Privacy-Aware Active User Selection for Federated Learning**|Ori Peleg et.al.|[2503.13173v1](http://arxiv.org/abs/2503.13173v1)|
-|**2025-03-17**|**Federated Learning with Domain Shift Eraser**|Zheng Wang et.al.|[2503.13063v1](http://arxiv.org/abs/2503.13063v1)|
-|**2025-03-17**|**FedSDP: Explainable Differential Privacy in Federated Learning via Shapley Values**|Yunbo Li et.al.|[2503.12958v1](http://arxiv.org/abs/2503.12958v1)|
-|**2025-03-17**|**Federated Continual Instruction Tuning**|Haiyang Guo et.al.|[2503.12897v1](http://arxiv.org/abs/2503.12897v1)|
-|**2025-03-17**|**A Linearized Alternating Direction Multiplier Method for Federated Matrix Completion Problems**|Patrick Hytla et.al.|[2503.12733v2](http://arxiv.org/abs/2503.12733v2)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-03-18**|**Empirical Calibration and Metric Differential Privacy in Language Models**|Pedro Faustini et.al.|[2503.13872v1](http://arxiv.org/abs/2503.13872v1)|
 |**2025-03-17**|**FedSDP: Explainable Differential Privacy in Federated Learning via Shapley Values**|Yunbo Li et.al.|[2503.12958v1](http://arxiv.org/abs/2503.12958v1)|
 |**2025-03-17**|**An Optimization Framework for Differentially Private Sparse Fine-Tuning**|Mehdi Makni et.al.|[2503.12822v1](http://arxiv.org/abs/2503.12822v1)|
 |**2025-03-17**|**BLIA: Detect model memorization in binary classification model through passive Label Inference attack**|Mohammad Wahiduzzaman Khan et.al.|[2503.12801v1](http://arxiv.org/abs/2503.12801v1)|
@@ -58,7 +59,6 @@
 |**2025-03-14**|**PREAMBLE: Private and Efficient Aggregation of Block Sparse Vectors and Applications**|Hilal Asi et.al.|[2503.11897v1](http://arxiv.org/abs/2503.11897v1)|
 |**2025-03-14**|**Local Pan-Privacy for Federated Analytics**|Vitaly Feldman et.al.|[2503.11850v1](http://arxiv.org/abs/2503.11850v1)|
 |**2025-03-14**|**PrivacyScalpel: Enhancing LLM Privacy via Interpretable Feature Intervention with Sparse Autoencoders**|Ahmed Frikha et.al.|[2503.11232v1](http://arxiv.org/abs/2503.11232v1)|
-|**2025-03-13**|**$(\varepsilon, δ)$ Considered Harmful: Best Practices for Reporting Differential Privacy Guarantees**|Juan Felipe Gomez et.al.|[2503.10945v1](http://arxiv.org/abs/2503.10945v1)|
 
 ## Data Masking
 
@@ -94,6 +94,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-03-18**|**EIAD: Explainable Industrial Anomaly Detection Via Multi-Modal Large Language Models**|Zongyun Zhang et.al.|[2503.14162v1](http://arxiv.org/abs/2503.14162v1)|
+|**2025-03-18**|**Enhancing Kubernetes Resilience through Anomaly Detection and Prediction**|V. Anemogiannis et.al.|[2503.14114v1](http://arxiv.org/abs/2503.14114v1)|
+|**2025-03-18**|**Scale-Aware Contrastive Reverse Distillation for Unsupervised Medical Anomaly Detection**|Chunlei Li et.al.|[2503.13828v1](http://arxiv.org/abs/2503.13828v1)|
 |**2025-03-17**|**U2AD: Uncertainty-based Unsupervised Anomaly Detection Framework for Detecting T2 Hyperintensity in MRI Spinal Cord**|Qi Zhang et.al.|[2503.13400v1](http://arxiv.org/abs/2503.13400v1)|
 |**2025-03-17**|**Deep Learning Advancements in Anomaly Detection: A Comprehensive Survey**|Haoqi Huang et.al.|[2503.13195v1](http://arxiv.org/abs/2503.13195v1)|
 |**2025-03-17**|**Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process**|Yuanze Li et.al.|[2503.13184v1](http://arxiv.org/abs/2503.13184v1)|
@@ -101,14 +104,12 @@
 |**2025-03-17**|**MFP-CLIP: Exploring the Efficacy of Multi-Form Prompts for Zero-Shot Industrial Anomaly Detection**|Jingyi Yuan et.al.|[2503.12910v1](http://arxiv.org/abs/2503.12910v1)|
 |**2025-03-17**|**UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks**|Yuanbin Qian et.al.|[2503.12905v1](http://arxiv.org/abs/2503.12905v1)|
 |**2025-03-16**|**Time-EAPCR-T: A Universal Deep Learning Approach for Anomaly Detection in Industrial Equipment**|Huajie Liang et.al.|[2503.12534v1](http://arxiv.org/abs/2503.12534v1)|
-|**2025-03-16**|**KDSelector: A Knowledge-Enhanced and Data-Efficient Model Selector Learning Framework for Time Series Anomaly Detection**|Zhiyu Liang et.al.|[2503.12478v1](http://arxiv.org/abs/2503.12478v1)|
-|**2025-03-15**|**Adaptive Fault Tolerance Mechanisms of Large Language Models in Cloud Computing Environments**|Yihong Jin et.al.|[2503.12228v1](http://arxiv.org/abs/2503.12228v1)|
-|**2025-03-15**|**Probabilistic Graph Circuits: Deep Generative Models for Tractable Probabilistic Inference over Graphs**|Milan Papež et.al.|[2503.12162v1](http://arxiv.org/abs/2503.12162v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-03-18**|**Operational Change Detection for Geographical Information: Overview and Challenges**|Nicolas Gonthier et.al.|[2503.14109v1](http://arxiv.org/abs/2503.14109v1)|
 |**2025-03-16**|**GeoRSMLLM: A Multimodal Large Language Model for Vision-Language Tasks in Geoscience and Remote Sensing**|Zilun Zhang et.al.|[2503.12490v1](http://arxiv.org/abs/2503.12490v1)|
 |**2025-03-15**|**Quantum-enhanced quickest change detection of transmission loss**|Saikat Guha et.al.|[2503.12276v1](http://arxiv.org/abs/2503.12276v1)|
 |**2025-03-11**|**CFNet: Optimizing Remote Sensing Change Detection through Content-Aware Enhancement**|Fan Wu et.al.|[2503.08505v1](http://arxiv.org/abs/2503.08505v1)|
@@ -118,5 +119,4 @@
 |**2025-02-24**|**Gaussian Difference: Find Any Change Instance in 3D Scenes**|Binbin Jiang et.al.|[2502.16941v1](http://arxiv.org/abs/2502.16941v1)|
 |**2025-02-19**|**JL1-CD: A New Benchmark for Remote Sensing Change Detection and a Robust Multi-Teacher Knowledge Distillation Framework**|Ziyuan Liu et.al.|[2502.13407v1](http://arxiv.org/abs/2502.13407v1)|
 |**2025-02-18**|**S2C: Learning Noise-Resistant Differences for Unsupervised Change Detection in Multimodal Remote Sensing Images**|Lei Ding et.al.|[2502.12604v1](http://arxiv.org/abs/2502.12604v1)|
-|**2025-02-17**|**Semantically Robust Unsupervised Image Translation for Paired Remote Sensing Images**|Sheng Fang et.al.|[2502.11468v1](http://arxiv.org/abs/2502.11468v1)|
 
