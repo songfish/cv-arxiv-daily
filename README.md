@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-03-21**|**D2Fusion: Dual-domain Fusion with Feature Superposition for Deepfake Detection**|Xueqi Qiu et.al.|[2503.17184v1](http://arxiv.org/abs/2503.17184v1)|
 |**2025-03-20**|**TruthLens: Explainable DeepFake Detection for Face Manipulated and Fully Synthetic Data**|Rohit Kundu et.al.|[2503.15867v1](http://arxiv.org/abs/2503.15867v1)|
 |**2025-03-19**|**Cyber Threats in Financial Transactions -- Addressing the Dual Challenge of AI and Quantum Computing**|Ahmed M. Elmisery et.al.|[2503.15678v1](http://arxiv.org/abs/2503.15678v1)|
 |**2025-03-19**|**TruthLens:A Training-Free Paradigm for DeepFake Detection**|Ritabrata Chakraborty et.al.|[2503.15342v1](http://arxiv.org/abs/2503.15342v1)|
@@ -28,12 +29,14 @@
 |**2025-03-18**|**InnerSelf: Designing Self-Deepfaked Voice for Emotional Well-being**|Guang Dai et.al.|[2503.14257v1](http://arxiv.org/abs/2503.14257v1)|
 |**2025-03-16**|**Deepfake Detection with Optimized Hybrid Model: EAR Biometric Descriptor via Improved RCNN**|Ruchika Sharma et.al.|[2503.12381v1](http://arxiv.org/abs/2503.12381v1)|
 |**2025-03-14**|**Deepfake Detection of Face Images based on a Convolutional Neural Network**|Lukas Kroiß et.al.|[2503.11389v1](http://arxiv.org/abs/2503.11389v1)|
-|**2025-03-11**|**Unmasking the Unknown: Facial Deepfake Detection in the Open-Set Paradigm**|Nadarasar Bahavan et.al.|[2503.08055v1](http://arxiv.org/abs/2503.08055v1)|
 
 ## federated learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-03-21**|**LoGoFair: Post-Processing for Local and Global Fairness in Federated Learning**|Li Zhang et.al.|[2503.17231v1](http://arxiv.org/abs/2503.17231v1)|
+|**2025-03-21**|**A Thorough Assessment of the Non-IID Data Impact in Federated Learning**|Daniel M. Jimenez-Gutierrez et.al.|[2503.17070v1](http://arxiv.org/abs/2503.17070v1)|
+|**2025-03-20**|**Fed-NDIF: A Noise-Embedded Federated Diffusion Model For Low-Count Whole-Body PET Denoising**|Yinchi Zhou et.al.|[2503.16635v1](http://arxiv.org/abs/2503.16635v1)|
 |**2025-03-20**|**RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility in Autonomous Vehicles**|Dawood Wasif et.al.|[2503.16251v1](http://arxiv.org/abs/2503.16251v1)|
 |**2025-03-20**|**Empirical Analysis of Privacy-Fairness-Accuracy Trade-offs in Federated Learning: A Step Towards Responsible AI**|Dawood Wasif et.al.|[2503.16233v1](http://arxiv.org/abs/2503.16233v1)|
 |**2025-03-20**|**Federated Quantum-Train Long Short-Term Memory for Gravitational Wave Signal**|Chen-Yu Liu et.al.|[2503.16049v1](http://arxiv.org/abs/2503.16049v1)|
@@ -41,14 +44,12 @@
 |**2025-03-20**|**FedAWA: Adaptive Optimization of Aggregation Weights in Federated Learning Using Client Vectors**|Changlong Shi et.al.|[2503.15842v1](http://arxiv.org/abs/2503.15842v1)|
 |**2025-03-20**|**Energy-Efficient Federated Learning and Migration in Digital Twin Edge Networks**|Yuzhi Zhou et.al.|[2503.15822v1](http://arxiv.org/abs/2503.15822v1)|
 |**2025-03-20**|**Communication Efficient Federated Learning with Linear Convergence on Heterogeneous Data**|Jie Liu et.al.|[2503.15804v1](http://arxiv.org/abs/2503.15804v1)|
-|**2025-03-19**|**Reducing Communication Overhead in Federated Learning for Network Anomaly Detection with Adaptive Client Selection**|William Marfo et.al.|[2503.15448v1](http://arxiv.org/abs/2503.15448v1)|
-|**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414v1](http://arxiv.org/abs/2503.15414v1)|
-|**2025-03-19**|**FedSCA: Federated Tuning with Similarity-guided Collaborative Aggregation for Heterogeneous Medical Image Segmentation**|Yumin Zhang et.al.|[2503.15390v1](http://arxiv.org/abs/2503.15390v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-03-21**|**Federated Cross-Domain Click-Through Rate Prediction With Large Language Model Augmentation**|Jiangcheng Qin et.al.|[2503.16875v1](http://arxiv.org/abs/2503.16875v1)|
 |**2025-03-20**|**RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility in Autonomous Vehicles**|Dawood Wasif et.al.|[2503.16251v1](http://arxiv.org/abs/2503.16251v1)|
 |**2025-03-20**|**Empirical Analysis of Privacy-Fairness-Accuracy Trade-offs in Federated Learning: A Step Towards Responsible AI**|Dawood Wasif et.al.|[2503.16233v1](http://arxiv.org/abs/2503.16233v1)|
 |**2025-03-19**|**Online federated learning framework for classification**|Wenxing Guo et.al.|[2503.15210v1](http://arxiv.org/abs/2503.15210v1)|
@@ -58,7 +59,6 @@
 |**2025-03-18**|**Empirical Calibration and Metric Differential Privacy in Language Models**|Pedro Faustini et.al.|[2503.13872v1](http://arxiv.org/abs/2503.13872v1)|
 |**2025-03-17**|**FedSDP: Explainable Differential Privacy in Federated Learning via Shapley Values**|Yunbo Li et.al.|[2503.12958v1](http://arxiv.org/abs/2503.12958v1)|
 |**2025-03-17**|**An Optimization Framework for Differentially Private Sparse Fine-Tuning**|Mehdi Makni et.al.|[2503.12822v1](http://arxiv.org/abs/2503.12822v1)|
-|**2025-03-17**|**BLIA: Detect model memorization in binary classification model through passive Label Inference attack**|Mohammad Wahiduzzaman Khan et.al.|[2503.12801v1](http://arxiv.org/abs/2503.12801v1)|
 
 ## Data Masking
 
@@ -94,6 +94,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-03-21**|**TRACE: Time SeRies PArameter EffiCient FinE-tuning**|Yuze Li et.al.|[2503.16991v1](http://arxiv.org/abs/2503.16991v1)|
+|**2025-03-20**|**Catalog-based detection of unrecognized blends in deep optical ground based catalogs**|Shuang Liang et.al.|[2503.16680v1](http://arxiv.org/abs/2503.16680v1)|
+|**2025-03-20**|**Benchmarking Visual Language Models on Standardized Visualization Literacy Tests**|Saugat Pandey et.al.|[2503.16632v1](http://arxiv.org/abs/2503.16632v1)|
 |**2025-03-20**|**A Dataset of Performance Measurements and Alerts from Mozilla (Data Artifact)**|Mohamed Bilel Besbes et.al.|[2503.16332v1](http://arxiv.org/abs/2503.16332v1)|
 |**2025-03-20**|**Multivariate Time Series Anomaly Detection in Industry 5.0**|Lorenzo Colombi et.al.|[2503.15946v1](http://arxiv.org/abs/2503.15946v1)|
 |**2025-03-20**|**A multi-model approach using XAI and anomaly detection to predict asteroid hazards**|Amit Kumar Mondal et.al.|[2503.15901v1](http://arxiv.org/abs/2503.15901v1)|
@@ -101,9 +104,6 @@
 |**2025-03-19**|**Reducing Communication Overhead in Federated Learning for Network Anomaly Detection with Adaptive Client Selection**|William Marfo et.al.|[2503.15448v1](http://arxiv.org/abs/2503.15448v1)|
 |**2025-03-19**|**Automated Processing of eXplainable Artificial Intelligence Outputs in Deep Learning Models for Fault Diagnostics of Large Infrastructures**|Giovanni Floreale et.al.|[2503.15415v1](http://arxiv.org/abs/2503.15415v1)|
 |**2025-03-19**|**Robust Distribution Alignment for Industrial Anomaly Detection under Distribution Shift**|Jingyi Liao et.al.|[2503.14910v1](http://arxiv.org/abs/2503.14910v1)|
-|**2025-03-19**|**FetalFlex: Anatomy-Guided Diffusion Model for Flexible Control on Fetal Ultrasound Image Synthesis**|Yaofei Duan et.al.|[2503.14906v1](http://arxiv.org/abs/2503.14906v1)|
-|**2025-03-19**|**LogLLaMA: Transformer-based log anomaly detection with LLaMA**|Zhuoyi Yang et.al.|[2503.14849v1](http://arxiv.org/abs/2503.14849v1)|
-|**2025-03-19**|**Pruning-Based TinyML Optimization of Machine Learning Models for Anomaly Detection in Electric Vehicle Charging Infrastructure**|Fatemeh Dehrouyeh et.al.|[2503.14799v1](http://arxiv.org/abs/2503.14799v1)|
 
 ## change detection
 
