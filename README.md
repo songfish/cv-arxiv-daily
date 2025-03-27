@@ -1,4 +1,4 @@
-## Updated on 2025.03.26
+## Updated on 2025.03.27
 
 ## super-resolution
 
@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-03-25**|**Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection**|Andrii Yermakov et.al.|[2503.19683v1](http://arxiv.org/abs/2503.19683v1)|
+|**2025-03-25**|**Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection**|Andrii Yermakov et.al.|[2503.19683v2](http://arxiv.org/abs/2503.19683v2)|
 |**2025-03-24**|**NullSwap: Proactive Identity Cloaking Against Deepfake Face Swapping**|Tianyi Wang et.al.|[2503.18678v1](http://arxiv.org/abs/2503.18678v1)|
 |**2025-03-23**|**Anomaly Detection and Localization for Speech Deepfakes via Feature Pyramid Matching**|Emma Coletta et.al.|[2503.18032v1](http://arxiv.org/abs/2503.18032v1)|
 |**2025-03-21**|**Measuring the Robustness of Audio Deepfake Detectors**|Xiang Li et.al.|[2503.17577v1](http://arxiv.org/abs/2503.17577v1)|
@@ -103,7 +103,7 @@
 |**2025-03-24**|**CRCL: Causal Representation Consistency Learning for Anomaly Detection in Surveillance Videos**|Yang Liu et.al.|[2503.18808v1](http://arxiv.org/abs/2503.18808v1)|
 |**2025-03-24**|**RoCA: Robust Contrastive One-class Time Series Anomaly Detection with Contaminated Data**|Xudong Mou et.al.|[2503.18385v1](http://arxiv.org/abs/2503.18385v1)|
 |**2025-03-24**|**Towards Training-free Anomaly Detection with Vision and Language Foundation Models**|Jinjin Zhang et.al.|[2503.18325v1](http://arxiv.org/abs/2503.18325v1)|
-|**2025-03-24**|**Knowledge Transfer from LLMs to Provenance Analysis: A Semantic-Augmented Method for APT Detection**|Fei Zuo et.al.|[2503.18316v1](http://arxiv.org/abs/2503.18316v1)|
+|**2025-03-24**|**Knowledge Transfer from LLMs to Provenance Analysis: A Semantic-Augmented Method for APT Detection**|Fei Zuo et.al.|[2503.18316v2](http://arxiv.org/abs/2503.18316v2)|
 
 ## change detection
 
