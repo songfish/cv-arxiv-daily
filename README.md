@@ -102,7 +102,7 @@
 |**2025-03-26**|**Stabilizing Neural Likelihood Ratio Estimation**|Fernando Torales Acosta et.al.|[2503.20753v1](http://arxiv.org/abs/2503.20753v1)|
 |**2025-03-26**|**$β$-GNN: A Robust Ensemble Approach Against Graph Structure Perturbation**|Haci Ismail Aslan et.al.|[2503.20630v1](http://arxiv.org/abs/2503.20630v1)|
 |**2025-03-26**|**LogicQA: Logical Anomaly Detection with Vision Language Model Generated Questions**|Yejin Kwon et.al.|[2503.20252v1](http://arxiv.org/abs/2503.20252v1)|
-|**2025-03-25**|**Video Anomaly Detection with Contours - A Study**|Mia Siemon et.al.|[2503.19588v1](http://arxiv.org/abs/2503.19588v1)|
+|**2025-03-25**|**Video Anomaly Detection with Contours -- A Study**|Mia Siemon et.al.|[2503.19588v1](http://arxiv.org/abs/2503.19588v1)|
 |**2025-03-25**|**Post-Hoc Calibrated Anomaly Detection**|Sean Gloumeau et.al.|[2503.19577v1](http://arxiv.org/abs/2503.19577v1)|
 
 ## change detection
