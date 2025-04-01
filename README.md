@@ -1,4 +1,4 @@
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 
 ## super-resolution
 
@@ -23,7 +23,7 @@
 |**2025-03-26**|**MVFNet: Multipurpose Video Forensics Network using Multiple Forms of Forensic Evidence**|Tai D. Nguyen et.al.|[2503.20991v1](http://arxiv.org/abs/2503.20991v1)|
 |**2025-03-24**|**SCVI: Bridging Social and Cyber Dimensions for Comprehensive Vulnerability Assessment**|Shutonu Mitra et.al.|[2503.20806v1](http://arxiv.org/abs/2503.20806v1)|
 |**2025-03-26**|**Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector**|Xiao Guo et.al.|[2503.20188v1](http://arxiv.org/abs/2503.20188v1)|
-|**2025-03-25**|**Can Multi-modal (reasoning) LLMs work as deepfake detectors?**|Simiao Ren et.al.|[2503.20084v1](http://arxiv.org/abs/2503.20084v1)|
+|**2025-03-25**|**Can Multi-modal (reasoning) LLMs work as deepfake detectors?**|Simiao Ren et.al.|[2503.20084v2](http://arxiv.org/abs/2503.20084v2)|
 |**2025-03-25**|**Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection**|Andrii Yermakov et.al.|[2503.19683v2](http://arxiv.org/abs/2503.19683v2)|
 |**2025-03-24**|**NullSwap: Proactive Identity Cloaking Against Deepfake Face Swapping**|Tianyi Wang et.al.|[2503.18678v1](http://arxiv.org/abs/2503.18678v1)|
 |**2025-03-23**|**Anomaly Detection and Localization for Speech Deepfakes via Feature Pyramid Matching**|Emma Coletta et.al.|[2503.18032v1](http://arxiv.org/abs/2503.18032v1)|
