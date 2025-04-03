@@ -1,4 +1,4 @@
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 
 ## super-resolution
 
@@ -95,7 +95,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2025-03-31**|**Federated Structured Sparse PCA for Anomaly Detection in IoT Networks**|Chenyi Huang et.al.|[2503.23981v1](http://arxiv.org/abs/2503.23981v1)|
-|**2025-03-31**|**Detecting Localized Density Anomalies in Multivariate Data via Coin-Flip Statistics**|Sebastian Springer et.al.|[2503.23927v1](http://arxiv.org/abs/2503.23927v1)|
+|**2025-03-31**|**Detecting Localized Density Anomalies in Multivariate Data via Coin-Flip Statistics**|Sebastian Springer et.al.|[2503.23927v2](http://arxiv.org/abs/2503.23927v2)|
 |**2025-03-30**|**Beyond Academic Benchmarks: Critical Analysis and Best Practices for Visual Industrial Anomaly Detection**|Aimira Baitieva et.al.|[2503.23451v1](http://arxiv.org/abs/2503.23451v1)|
 |**2025-03-29**|**Unsupervised Anomaly Detection in Multivariate Time Series across Heterogeneous Domains**|Vincent Jacob et.al.|[2503.23060v1](http://arxiv.org/abs/2503.23060v1)|
 |**2025-03-28**|**A Dataset for Semantic Segmentation in the Presence of Unknowns**|Zakaria Laskar et.al.|[2503.22309v1](http://arxiv.org/abs/2503.22309v1)|
