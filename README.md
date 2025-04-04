@@ -34,21 +34,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-04-03**|**Tree-based Models for Vertical Federated Learning: A Survey**|Bingchen Qian et.al.|[2504.02285v1](http://arxiv.org/abs/2504.02285v1)|
+|**2025-04-03**|**Secure Generalization through Stochastic Bidirectional Parameter Updates Using Dual-Gradient Mechanism**|Shourya Goel et.al.|[2504.02213v1](http://arxiv.org/abs/2504.02213v1)|
+|**2025-04-02**|**Like Oil and Water: Group Robustness Methods and Poisoning Defenses May Be at Odds**|Michael-Andrei Panaitescu-Liess et.al.|[2504.02142v1](http://arxiv.org/abs/2504.02142v1)|
+|**2025-04-02**|**On Model Protection in Federated Learning against Eavesdropping Attacks**|Dipankar Maity et.al.|[2504.02114v1](http://arxiv.org/abs/2504.02114v1)|
 |**2025-04-02**|**Efficient Federated Learning Tiny Language Models for Mobile Network Feature Prediction**|Daniel Becking et.al.|[2504.01947v1](http://arxiv.org/abs/2504.01947v1)|
 |**2025-04-02**|**Client Selection in Federated Learning with Data Heterogeneity and Network Latencies**|Harsh Vardhan et.al.|[2504.01921v1](http://arxiv.org/abs/2504.01921v1)|
 |**2025-04-02**|**CO-DEFEND: Continuous Decentralized Federated Learning for Secure DoH-Based Threat Detection**|Diego Cajaraville-Aboy et.al.|[2504.01882v1](http://arxiv.org/abs/2504.01882v1)|
 |**2025-04-02**|**A Randomized Zeroth-Order Hierarchical Framework for Heterogeneous Federated Learning**|Yuyang Qiu et.al.|[2504.01839v1](http://arxiv.org/abs/2504.01839v1)|
 |**2025-04-02**|**A Two-Timescale Approach for Wireless Federated Learning with Parameter Freezing and Power Control**|Jinhao Ouyang et.al.|[2504.01752v1](http://arxiv.org/abs/2504.01752v1)|
 |**2025-04-02**|**Sky of Unlearning (SoUL): Rewiring Federated Machine Unlearning via Selective Pruning**|Md Mahabub Uz Zaman et.al.|[2504.01705v1](http://arxiv.org/abs/2504.01705v1)|
-|**2025-04-02**|**Split Federated Learning for UAV-Enabled Integrated Sensing, Computation, and Communication**|Xiangwang Hou et.al.|[2504.01443v1](http://arxiv.org/abs/2504.01443v1)|
-|**2025-04-02**|**Age-Aware Partial Gradient Update Strategy for Federated Learning Over the Air**|Ruihao Du et.al.|[2504.01357v1](http://arxiv.org/abs/2504.01357v1)|
-|**2025-04-01**|**Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends**|Kai Li et.al.|[2504.01240v1](http://arxiv.org/abs/2504.01240v1)|
-|**2025-04-01**|**Personalized Federated Training of Diffusion Models with Privacy Guarantees**|Kumar Kshitij Patel et.al.|[2504.00952v1](http://arxiv.org/abs/2504.00952v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-04-02**|**On Model Protection in Federated Learning against Eavesdropping Attacks**|Dipankar Maity et.al.|[2504.02114v1](http://arxiv.org/abs/2504.02114v1)|
 |**2025-04-01**|**Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends**|Kai Li et.al.|[2504.01240v1](http://arxiv.org/abs/2504.01240v1)|
 |**2025-04-01**|**Personalized Federated Training of Diffusion Models with Privacy Guarantees**|Kumar Kshitij Patel et.al.|[2504.00952v1](http://arxiv.org/abs/2504.00952v1)|
 |**2025-04-01**|**Nonparametric spectral density estimation using interactive mechanisms under local differential privacy**|Cristina Butucea et.al.|[2504.00919v1](http://arxiv.org/abs/2504.00919v1)|
@@ -58,7 +59,6 @@
 |**2025-03-31**|**Initial State Privacy of Nonlinear Systems on Riemannian Manifolds**|Le Liu et.al.|[2503.24089v1](http://arxiv.org/abs/2503.24089v1)|
 |**2025-03-31**|**Privacy Preservation for Statistical Input in Dynamical Systems**|Le Liu et.al.|[2503.23903v1](http://arxiv.org/abs/2503.23903v1)|
 |**2025-03-31**|**PDSL: Privacy-Preserved Decentralized Stochastic Learning with Heterogeneous Data Distribution**|Lina Wang et.al.|[2503.23726v1](http://arxiv.org/abs/2503.23726v1)|
-|**2025-03-29**|**PrivPetal: Relational Data Synthesis via Permutation Relations**|Kuntai Cai et.al.|[2503.22970v1](http://arxiv.org/abs/2503.22970v1)|
 
 ## Data Masking
 
@@ -79,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-04-03**|**Beyond Conventional Transformers: The Medical X-ray Attention (MXA) Block for Improved Multi-Label Diagnosis Using Knowledge Distillation**|Amit Rand et.al.|[2504.02277v1](http://arxiv.org/abs/2504.02277v1)|
 |**2025-04-01**|**Exposing the Ghost in the Transformer: Abnormal Detection for Large Language Models via Hidden State Forensics**|Shide Zhou et.al.|[2504.00446v1](http://arxiv.org/abs/2504.00446v1)|
 |**2025-03-27**|**iMedImage Technical Report**|Ran Wei et.al.|[2503.21836v1](http://arxiv.org/abs/2503.21836v1)|
 |**2025-03-05**|**Enhancing Abnormality Grounding for Vision Language Models with Knowledge Descriptions**|Jun Li et.al.|[2503.03278v1](http://arxiv.org/abs/2503.03278v1)|
@@ -88,27 +89,27 @@
 |**2025-02-07**|**DCFormer: Efficient 3D Vision-Language Modeling with Decomposed Convolutions**|Gorkem Can Ates et.al.|[2502.05091v1](http://arxiv.org/abs/2502.05091v1)|
 |**2025-02-06**|**From Bedside to Desktop: A Data Protocol for Normative Intracranial EEG and Abnormality Mapping**|Heather Woodhouse et.al.|[2502.04460v1](http://arxiv.org/abs/2502.04460v1)|
 |**2025-02-05**|**RadVLM: A Multitask Conversational Vision-Language Model for Radiology**|Nicolas Deperrois et.al.|[2502.03333v1](http://arxiv.org/abs/2502.03333v1)|
-|**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377v1](http://arxiv.org/abs/2501.01377v1)|
 
 ## anomaly detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-04-03**|**TailedCore: Few-Shot Sampling for Unsupervised Long-Tail Noisy Anomaly Detection**|Yoon Gyo Jung et.al.|[2504.02775v1](http://arxiv.org/abs/2504.02775v1)|
+|**2025-04-03**|**Analytical Discovery of Manifold with Machine Learning**|Yafei Shen et.al.|[2504.02511v1](http://arxiv.org/abs/2504.02511v1)|
+|**2025-04-03**|**ZClip: Adaptive Spike Mitigation for LLM Pre-Training**|Abhay Kumar et.al.|[2504.02507v1](http://arxiv.org/abs/2504.02507v1)|
+|**2025-04-03**|**VISTA: Unsupervised 2D Temporal Dependency Representations for Time Series Anomaly Detection**|Sinchee Chin et.al.|[2504.02498v1](http://arxiv.org/abs/2504.02498v1)|
+|**2025-04-03**|**Distributed Log-driven Anomaly Detection System based on Evolving Decision Making**|Zhuoran Tan et.al.|[2504.02322v1](http://arxiv.org/abs/2504.02322v1)|
+|**2025-04-03**|**CRC-SGAD: Conformal Risk Control for Supervised Graph Anomaly Detection**|Songran Bai et.al.|[2504.02248v1](http://arxiv.org/abs/2504.02248v1)|
+|**2025-04-02**|**LogLSHD: Fast Log Parsing with Locality-Sensitive Hashing and Dynamic Time Warping**|Shu-Wei Huang et.al.|[2504.02172v1](http://arxiv.org/abs/2504.02172v1)|
+|**2025-04-02**|**Fault injection analysis of Real NVP normalising flow model for satellite anomaly detection**|Gabriele Greco et.al.|[2504.02015v1](http://arxiv.org/abs/2504.02015v1)|
 |**2025-04-02**|**What is AI, what is it not, how we use it in physics and how it impacts... you**|Claire David et.al.|[2504.01827v1](http://arxiv.org/abs/2504.01827v1)|
 |**2025-04-02**|**Anomaly Detection for Hybrid Butterfly Subspecies via Probability Filtering**|Bo-Kai Ruan et.al.|[2504.01671v1](http://arxiv.org/abs/2504.01671v1)|
-|**2025-04-02**|**The Multifractal IP Address Structure: Physical Explanation and Implications**|Chris Misa et.al.|[2504.01374v1](http://arxiv.org/abs/2504.01374v1)|
-|**2025-04-01**|**Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends**|Kai Li et.al.|[2504.01240v1](http://arxiv.org/abs/2504.01240v1)|
-|**2025-04-01**|**Conformal Anomaly Detection for Functional Data with Elastic Distance Metrics**|Jason Adams et.al.|[2504.01172v1](http://arxiv.org/abs/2504.01172v1)|
-|**2025-04-01**|**Detection of Anomalous Vehicular Traffic and Sensor Failures Using Data Clustering Techniques**|Davide Moretti et.al.|[2504.00881v1](http://arxiv.org/abs/2504.00881v1)|
-|**2025-04-01**|**Bi-Grid Reconstruction for Image Anomaly Detection**|Huichuan Huang et.al.|[2504.00609v1](http://arxiv.org/abs/2504.00609v1)|
-|**2025-04-01**|**Unleashing the Power of Pre-trained Encoders for Universal Adversarial Attack Detection**|Yinghe Zhang et.al.|[2504.00429v1](http://arxiv.org/abs/2504.00429v1)|
-|**2025-04-01**|**Simple yet Effective Node Property Prediction on Edge Streams under Distribution Shifts**|Jongha Lee et.al.|[2504.00328v1](http://arxiv.org/abs/2504.00328v1)|
-|**2025-03-31**|**A Deep Learning Approach to Anomaly Detection in High-Frequency Trading Data**|Qiuliuyang Bao et.al.|[2504.00287v1](http://arxiv.org/abs/2504.00287v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-04-03**|**Geospatial Artificial Intelligence for Satellite-based Flood Extent Mapping: Concepts, Advances, and Future Perspectives**|Hyunho Lee et.al.|[2504.02214v1](http://arxiv.org/abs/2504.02214v1)|
 |**2025-04-01**|**MSSFC-Net:Enhancing Building Interpretation with Multi-Scale Spatial-Spectral Feature Collaboration**|Dehua Huo et.al.|[2504.00759v1](http://arxiv.org/abs/2504.00759v1)|
 |**2025-04-01**|**Generalization-aware Remote Sensing Change Detection via Domain-agnostic Learning**|Qi Zang et.al.|[2504.00543v1](http://arxiv.org/abs/2504.00543v1)|
 |**2025-03-28**|**A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**|Ziyue Huang et.al.|[2503.22081v1](http://arxiv.org/abs/2503.22081v1)|
@@ -118,5 +119,4 @@
 |**2025-03-22**|**GS-LTS: 3D Gaussian Splatting-Based Adaptive Modeling for Long-Term Service Robots**|Bin Fu et.al.|[2503.17733v1](http://arxiv.org/abs/2503.17733v1)|
 |**2025-03-22**|**EMPLACE: Self-Supervised Urban Scene Change Detection**|Tim Alpherts et.al.|[2503.17716v1](http://arxiv.org/abs/2503.17716v1)|
 |**2025-03-19**|**The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generation**|Benidir Yanis et.al.|[2503.15683v1](http://arxiv.org/abs/2503.15683v1)|
-|**2025-03-18**|**Operational Change Detection for Geographical Information: Overview and Challenges**|Nicolas Gonthier et.al.|[2503.14109v1](http://arxiv.org/abs/2503.14109v1)|
 
