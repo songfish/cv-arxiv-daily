@@ -1,4 +1,4 @@
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 
 ## super-resolution
 
@@ -9,7 +9,7 @@
 |**2025-02-09**|**Fast Omni-Directional Image Super-Resolution: Adapting the Implicit Image Function with Pixel and Semantic-Wise Spherical Geometric Priors**|Xuelin Shen et.al.|[2502.05902v1](http://arxiv.org/abs/2502.05902v1)|
 |**2025-01-30**|**Distillation-Driven Diffusion Model for Multi-Scale MRI Super-Resolution: Make 1.5T MRI Great Again**|Zhe Wang et.al.|[2501.18736v1](http://arxiv.org/abs/2501.18736v1)|
 |**2025-01-14**|**State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications**|Debasish Dutta et.al.|[2501.07855v1](http://arxiv.org/abs/2501.07855v1)|
-|**2024-12-04**|**Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach**|Lingchen Sun et.al.|[2412.03017v1](http://arxiv.org/abs/2412.03017v1)|
+|**2024-12-04**|**Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach**|Lingchen Sun et.al.|[2412.03017v2](http://arxiv.org/abs/2412.03017v2)|
 |**2024-11-07**|**Reducing data resolution for better super-resolution: Reconstructing turbulent flows from noisy observation**|Kyongmin Yeo et.al.|[2411.05240v1](http://arxiv.org/abs/2411.05240v1)|
 |**2024-09-25**|**NTIRE 2024 Challenge on Stereo Image Super-Resolution: Methods and Results**|Longguang Wang et.al.|[2409.16947v1](http://arxiv.org/abs/2409.16947v1)|
 |**2024-08-27**|**Enhancing License Plate Super-Resolution: A Layout-Aware and Character-Driven Approach**|Valfride Nascimento et.al.|[2408.15103v2](http://arxiv.org/abs/2408.15103v2)|
