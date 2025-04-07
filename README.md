@@ -1,4 +1,4 @@
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 
 ## super-resolution
 
@@ -118,5 +118,5 @@
 |**2025-03-24**|**Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective**|Duowang Zhu et.al.|[2503.18803v1](http://arxiv.org/abs/2503.18803v1)|
 |**2025-03-22**|**GS-LTS: 3D Gaussian Splatting-Based Adaptive Modeling for Long-Term Service Robots**|Bin Fu et.al.|[2503.17733v1](http://arxiv.org/abs/2503.17733v1)|
 |**2025-03-22**|**EMPLACE: Self-Supervised Urban Scene Change Detection**|Tim Alpherts et.al.|[2503.17716v1](http://arxiv.org/abs/2503.17716v1)|
-|**2025-03-19**|**The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generation**|Benidir Yanis et.al.|[2503.15683v1](http://arxiv.org/abs/2503.15683v1)|
+|**2025-03-19**|**The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generation**|Yanis Benidir et.al.|[2503.15683v2](http://arxiv.org/abs/2503.15683v2)|
 
