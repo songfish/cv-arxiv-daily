@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-04-08**|**Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing**|Tianchi Liu et.al.|[2504.05657v1](http://arxiv.org/abs/2504.05657v1)|
 |**2025-04-07**|**From Specificity to Generality: Revisiting Generalizable Artifacts in Detecting Face Deepfakes**|Long Ma et.al.|[2504.04827v1](http://arxiv.org/abs/2504.04827v1)|
 |**2025-04-07**|**SUEDE:Shared Unified Experts for Physical-Digital Face Attack Detection Enhancement**|Zuying Xie et.al.|[2504.04818v1](http://arxiv.org/abs/2504.04818v1)|
 |**2025-04-04**|**Three Forensic Cues for JPEG AI Images**|Sandra Bergmann et.al.|[2504.03191v1](http://arxiv.org/abs/2504.03191v1)|
@@ -28,27 +29,28 @@
 |**2025-04-01**|**FA^{3}-CLIP: Frequency-Aware Cues Fusion and Attack-Agnostic Prompt Learning for Unified Face Attack Detection**|Yongze Li et.al.|[2504.00454v1](http://arxiv.org/abs/2504.00454v1)|
 |**2025-03-29**|**Synthetic Art Generation and DeepFake Detection A Study on Jamini Roy Inspired Dataset**|Kushal Agrawal et.al.|[2503.23226v1](http://arxiv.org/abs/2503.23226v1)|
 |**2025-03-28**|**Detecting Localized Deepfake Manipulations Using Action Unit-Guided Video Representations**|Tharun Anand et.al.|[2503.22121v1](http://arxiv.org/abs/2503.22121v1)|
-|**2025-03-26**|**MVFNet: Multipurpose Video Forensics Network using Multiple Forms of Forensic Evidence**|Tai D. Nguyen et.al.|[2503.20991v1](http://arxiv.org/abs/2503.20991v1)|
 
 ## federated learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-04-08**|**Decentralized Federated Domain Generalization with Style Sharing: A Formal Modeling and Convergence Analysis**|Shahryar Zehtabi et.al.|[2504.06235v1](http://arxiv.org/abs/2504.06235v1)|
+|**2025-04-08**|**FedFeat+: A Robust Federated Learning Framework Through Federated Aggregation and Differentially Private Feature-Based Classifier Retraining**|Mrityunjoy Gain et.al.|[2504.06004v1](http://arxiv.org/abs/2504.06004v1)|
+|**2025-04-08**|**Federated Unlearning Made Practical: Seamless Integration via Negated Pseudo-Gradients**|Alessio Mora et.al.|[2504.05822v1](http://arxiv.org/abs/2504.05822v1)|
+|**2025-04-08**|**FedEFC: Federated Learning Using Enhanced Forward Correction Against Noisy Labels**|Seunghun Yu et.al.|[2504.05615v1](http://arxiv.org/abs/2504.05615v1)|
+|**2025-04-07**|**Federated Hierarchical Reinforcement Learning for Adaptive Traffic Signal Control**|Yongjie Fu et.al.|[2504.05553v1](http://arxiv.org/abs/2504.05553v1)|
 |**2025-04-07**|**Embedded Federated Feature Selection with Dynamic Sparse Training: Balancing Accuracy-Cost Tradeoffs**|Afsaneh Mahanipour et.al.|[2504.05245v1](http://arxiv.org/abs/2504.05245v1)|
 |**2025-04-07**|**Federated Learning for Medical Image Classification: A Comprehensive Benchmark**|Zhekai Zhou et.al.|[2504.05238v1](http://arxiv.org/abs/2504.05238v1)|
 |**2025-04-07**|**SparsyFed: Sparse Adaptive Federated Training**|Adriano Guastella et.al.|[2504.05153v1](http://arxiv.org/abs/2504.05153v1)|
 |**2025-04-07**|**Towards Optimal Heterogeneous Client Sampling in Multi-Model Federated Learning**|Haoran Zhang et.al.|[2504.05138v2](http://arxiv.org/abs/2504.05138v2)|
 |**2025-04-07**|**Decentralized Semantic Federated Learning for Real-Time Public Safety Tasks: Challenges, Methods, and Directions**|Baosheng Li et.al.|[2504.05107v1](http://arxiv.org/abs/2504.05107v1)|
-|**2025-04-07**|**FedSAUC: A Similarity-Aware Update Control for Communication-Efficient Federated Learning in Edge Computing**|Ming-Lun Lee et.al.|[2504.04867v1](http://arxiv.org/abs/2504.04867v1)|
-|**2025-04-07**|**Federated Learning over 5G, WiFi, and Ethernet: Measurements and Evaluation**|Robert J. Hayek et.al.|[2504.04678v1](http://arxiv.org/abs/2504.04678v1)|
-|**2025-04-06**|**A Novel Algorithm for Personalized Federated Learning: Knowledge Distillation with Weighted Combination Loss**|Hengrui Hu et.al.|[2504.04642v1](http://arxiv.org/abs/2504.04642v1)|
-|**2025-04-06**|**WeiDetect: Weibull Distribution-Based Defense against Poisoning Attacks in Federated Learning for Network Intrusion Detection Systems**|Sameera K. M. et.al.|[2504.04367v1](http://arxiv.org/abs/2504.04367v1)|
-|**2025-04-05**|**Scaling Federated Learning Solutions with Kubernetes for Synthesizing Histopathology Images**|Andrei-Alexandru Preda et.al.|[2504.04130v1](http://arxiv.org/abs/2504.04130v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-04-08**|**FedFeat+: A Robust Federated Learning Framework Through Federated Aggregation and Differentially Private Feature-Based Classifier Retraining**|Mrityunjoy Gain et.al.|[2504.06004v1](http://arxiv.org/abs/2504.06004v1)|
+|**2025-04-08**|**Technical Report: Full Version of Analyzing and Optimizing Perturbation of DP-SGD Geometrically**|Jiawei Duan et.al.|[2504.05618v1](http://arxiv.org/abs/2504.05618v1)|
 |**2025-04-07**|**Infinitely Divisible Noise for Differential Privacy: Nearly Optimal Error in the High $\varepsilon$ Regime**|Charlie Harrison et.al.|[2504.05202v1](http://arxiv.org/abs/2504.05202v1)|
 |**2025-04-07**|**Pr$εε$mpt: Sanitizing Sensitive Prompts for LLMs**|Amrita Roy Chowdhury et.al.|[2504.05147v1](http://arxiv.org/abs/2504.05147v1)|
 |**2025-04-04**|**A Generalized Binary Tree Mechanism for Differentially Private Approximation of All-Pair Distances**|Michael Dinitz et.al.|[2504.03354v1](http://arxiv.org/abs/2504.03354v1)|
@@ -57,8 +59,6 @@
 |**2025-04-01**|**Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends**|Kai Li et.al.|[2504.01240v1](http://arxiv.org/abs/2504.01240v1)|
 |**2025-04-01**|**Personalized Federated Training of Diffusion Models with Privacy Guarantees**|Kumar Kshitij Patel et.al.|[2504.00952v1](http://arxiv.org/abs/2504.00952v1)|
 |**2025-04-01**|**Nonparametric spectral density estimation using interactive mechanisms under local differential privacy**|Cristina Butucea et.al.|[2504.00919v1](http://arxiv.org/abs/2504.00919v1)|
-|**2025-04-01**|**Privacy-Preserving Transfer Learning for Community Detection using Locally Distributed Multiple Networks**|Xiao Guo et.al.|[2504.00890v1](http://arxiv.org/abs/2504.00890v1)|
-|**2025-04-01**|**Forward Learning with Differential Privacy**|Mingqian Feng et.al.|[2504.00411v1](http://arxiv.org/abs/2504.00411v1)|
 
 ## Data Masking
 
@@ -94,16 +94,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-04-08**|**A Self-Supervised Framework for Space Object Behaviour Characterisation**|Ian Groves et.al.|[2504.06176v1](http://arxiv.org/abs/2504.06176v1)|
+|**2025-04-08**|**MCAT: Visual Query-Based Localization of Standard Anatomical Clips in Fetal Ultrasound Videos Using Multi-Tier Class-Aware Token Transformer**|Divyanshu Mishra et.al.|[2504.06088v1](http://arxiv.org/abs/2504.06088v1)|
+|**2025-04-08**|**Enhanced Anomaly Detection for Capsule Endoscopy Using Ensemble Learning Strategies**|Julia Werner et.al.|[2504.06039v1](http://arxiv.org/abs/2504.06039v1)|
+|**2025-04-08**|**Autoencoder-Based Detection of Anomalous Stokes V Spectra in the Flare-Producing Active Region 13663 Using Hinode/SP Observations**|Jargalmaa Batmunkh et.al.|[2504.05962v1](http://arxiv.org/abs/2504.05962v1)|
+|**2025-04-08**|**Addressing Class Imbalance with Probabilistic Graphical Models and Variational Inference**|Yujia Lou et.al.|[2504.05758v1](http://arxiv.org/abs/2504.05758v1)|
+|**2025-04-08**|**Reconstruction-Free Anomaly Detection with Diffusion Models via Direct Latent Likelihood Evaluation**|Shunsuke Sakai et.al.|[2504.05662v1](http://arxiv.org/abs/2504.05662v1)|
+|**2025-04-07**|**Towards Efficient Real-Time Video Motion Transfer via Generative Time Series Modeling**|Tasmiah Haque et.al.|[2504.05537v1](http://arxiv.org/abs/2504.05537v1)|
 |**2025-04-07**|**On multipolar magnetic anomaly detection: multipolar signal subspaces, an analytical orthonormal basis, multipolar truncature and detection performance**|Clément Chenevas-Paule et.al.|[2504.05212v1](http://arxiv.org/abs/2504.05212v1)|
 |**2025-04-07**|**IterMask3D: Unsupervised Anomaly Detection and Segmentation with Test-Time Iterative Mask Refinement in 3D Brain MR**|Ziyun Liang et.al.|[2504.04911v1](http://arxiv.org/abs/2504.04911v1)|
 |**2025-04-07**|**SoK: LLM-based Log Parsing**|Viktor Beck et.al.|[2504.04877v1](http://arxiv.org/abs/2504.04877v1)|
-|**2025-04-06**|**AVadCLIP: Audio-Visual Collaboration for Robust Video Anomaly Detection**|Peng Wu et.al.|[2504.04495v1](http://arxiv.org/abs/2504.04495v1)|
-|**2025-04-06**|**iADCPS: Time Series Anomaly Detection for Evolving Cyber-physical Systems via Incremental Meta-learning**|Jiyu Tian et.al.|[2504.04374v1](http://arxiv.org/abs/2504.04374v1)|
-|**2025-04-06**|**AnomalyHybrid: A Domain-agnostic Generative Framework for General Anomaly Detection**|Ying Zhao et.al.|[2504.04340v1](http://arxiv.org/abs/2504.04340v1)|
-|**2025-04-05**|**AttackLLM: LLM-based Attack Pattern Generation for an Industrial Control System**|Chuadhry Mujeeb Ahmed et.al.|[2504.04187v1](http://arxiv.org/abs/2504.04187v1)|
-|**2025-04-05**|**Overcoming the Identity Mapping Problem in Self-Supervised Hyperspectral Anomaly Detection**|Yongchuan Cui et.al.|[2504.04115v1](http://arxiv.org/abs/2504.04115v1)|
-|**2025-04-05**|**Foundation Models for Time Series: A Survey**|Siva Rama Krishna Kottapalli et.al.|[2504.04011v1](http://arxiv.org/abs/2504.04011v1)|
-|**2025-04-04**|**Pyramid-based Mamba Multi-class Unsupervised Anomaly Detection**|Nasar Iqbal et.al.|[2504.03442v1](http://arxiv.org/abs/2504.03442v1)|
 
 ## change detection
 
