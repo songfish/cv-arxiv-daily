@@ -1,4 +1,4 @@
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 
 ## super-resolution
 
@@ -37,7 +37,7 @@
 |**2025-04-07**|**Embedded Federated Feature Selection with Dynamic Sparse Training: Balancing Accuracy-Cost Tradeoffs**|Afsaneh Mahanipour et.al.|[2504.05245v1](http://arxiv.org/abs/2504.05245v1)|
 |**2025-04-07**|**Federated Learning for Medical Image Classification: A Comprehensive Benchmark**|Zhekai Zhou et.al.|[2504.05238v1](http://arxiv.org/abs/2504.05238v1)|
 |**2025-04-07**|**SparsyFed: Sparse Adaptive Federated Training**|Adriano Guastella et.al.|[2504.05153v1](http://arxiv.org/abs/2504.05153v1)|
-|**2025-04-07**|**Towards Optimal Heterogeneous Client Sampling in Multi-Model Federated Learning**|Haoran Zhang et.al.|[2504.05138v1](http://arxiv.org/abs/2504.05138v1)|
+|**2025-04-07**|**Towards Optimal Heterogeneous Client Sampling in Multi-Model Federated Learning**|Haoran Zhang et.al.|[2504.05138v2](http://arxiv.org/abs/2504.05138v2)|
 |**2025-04-07**|**Decentralized Semantic Federated Learning for Real-Time Public Safety Tasks: Challenges, Methods, and Directions**|Baosheng Li et.al.|[2504.05107v1](http://arxiv.org/abs/2504.05107v1)|
 |**2025-04-07**|**FedSAUC: A Similarity-Aware Update Control for Communication-Efficient Federated Learning in Edge Computing**|Ming-Lun Lee et.al.|[2504.04867v1](http://arxiv.org/abs/2504.04867v1)|
 |**2025-04-07**|**Federated Learning over 5G, WiFi, and Ethernet: Measurements and Evaluation**|Robert J. Hayek et.al.|[2504.04678v1](http://arxiv.org/abs/2504.04678v1)|
@@ -113,7 +113,7 @@
 |**2025-04-04**|**Target Prediction Under Deceptive Switching Strategies via Outlier-Robust Filtering of Partially Observed Incomplete Trajectories**|Yiming Meng et.al.|[2504.03502v1](http://arxiv.org/abs/2504.03502v1)|
 |**2025-04-04**|**Water Mapping and Change Detection Using Time Series Derived from the Continuous Monitoring of Land Disturbance Algorithm**|Huong Pham et.al.|[2504.03170v1](http://arxiv.org/abs/2504.03170v1)|
 |**2025-04-04**|**RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation**|Hanbo Bi et.al.|[2504.03166v1](http://arxiv.org/abs/2504.03166v1)|
-|**2025-04-03**|**Geospatial Artificial Intelligence for Satellite-based Flood Extent Mapping: Concepts, Advances, and Future Perspectives**|Hyunho Lee et.al.|[2504.02214v1](http://arxiv.org/abs/2504.02214v1)|
+|**2025-04-03**|**Geospatial Artificial Intelligence for Satellite-based Flood Extent Mapping: Concepts, Advances, and Future Perspectives**|Hyunho Lee et.al.|[2504.02214v2](http://arxiv.org/abs/2504.02214v2)|
 |**2025-04-01**|**MSSFC-Net:Enhancing Building Interpretation with Multi-Scale Spatial-Spectral Feature Collaboration**|Dehua Huo et.al.|[2504.00759v1](http://arxiv.org/abs/2504.00759v1)|
 |**2025-04-01**|**Generalization-aware Remote Sensing Change Detection via Domain-agnostic Learning**|Qi Zang et.al.|[2504.00543v1](http://arxiv.org/abs/2504.00543v1)|
 |**2025-03-28**|**A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**|Ziyue Huang et.al.|[2503.22081v1](http://arxiv.org/abs/2503.22081v1)|
