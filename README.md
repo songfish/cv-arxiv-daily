@@ -1,4 +1,4 @@
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 
 ## super-resolution
 
@@ -49,7 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-04-14**|**Differentially Private 2D Human Pose Estimation**|Kaushik Bhargav Sivangi et.al.|[2504.10190v1](http://arxiv.org/abs/2504.10190v1)|
+|**2025-04-14**|**Differentially Private 2D Human Pose Estimation**|Kaushik Bhargav Sivangi et.al.|[2504.10190v2](http://arxiv.org/abs/2504.10190v2)|
 |**2025-04-14**|**Accelerating Differentially Private Federated Learning via Adaptive Extrapolation**|Shokichi Takakura et.al.|[2504.09850v1](http://arxiv.org/abs/2504.09850v1)|
 |**2025-04-12**|**Towards Optimal Differentially Private Regret Bounds in Linear MDPs**|Sharan Sahu et.al.|[2504.09339v1](http://arxiv.org/abs/2504.09339v1)|
 |**2025-04-11**|**Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy**|Georgi Ganev et.al.|[2504.08254v2](http://arxiv.org/abs/2504.08254v2)|
@@ -111,7 +111,7 @@
 |---|---|---|---|
 |**2025-04-14**|**BLAST: Bayesian online change-point detection with structured image data**|Xiaojun Zheng et.al.|[2504.09783v1](http://arxiv.org/abs/2504.09783v1)|
 |**2025-04-10**|**Quickest change detection for UAV-based sensing**|Saqib Abbas et.al.|[2504.07493v1](http://arxiv.org/abs/2504.07493v1)|
-|**2025-04-07**|**LDGNet: A Lightweight Difference Guiding Network for Remote Sensing Change Detection**|Chenfeng Xu et.al.|[2504.05062v1](http://arxiv.org/abs/2504.05062v1)|
+|**2025-04-07**|**LDGNet: A Lightweight Difference Guiding Network for Remote Sensing Change Detection**|Chenfeng Xu et.al.|[2504.05062v2](http://arxiv.org/abs/2504.05062v2)|
 |**2025-04-04**|**Target Prediction Under Deceptive Switching Strategies via Outlier-Robust Filtering of Partially Observed Incomplete Trajectories**|Yiming Meng et.al.|[2504.03502v1](http://arxiv.org/abs/2504.03502v1)|
 |**2025-04-04**|**Water Mapping and Change Detection Using Time Series Derived from the Continuous Monitoring of Land Disturbance Algorithm**|Huong Pham et.al.|[2504.03170v1](http://arxiv.org/abs/2504.03170v1)|
 |**2025-04-04**|**RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation**|Hanbo Bi et.al.|[2504.03166v1](http://arxiv.org/abs/2504.03166v1)|
