@@ -1,4 +1,4 @@
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 
 ## super-resolution
 
@@ -52,7 +52,7 @@
 |**2025-06-26**|**Balancing Privacy and Utility in Correlated Data: A Study of Bayesian Differential Privacy**|Martin Lange et.al.|[2506.21308v1](http://arxiv.org/abs/2506.21308v1)|
 |**2025-06-26**|**PrivacyGo: Privacy-Preserving Ad Measurement with Multidimensional Intersection**|Jian Du et.al.|[2506.20981v1](http://arxiv.org/abs/2506.20981v1)|
 |**2025-06-25**|**Empowering Digital Agriculture: A Privacy-Preserving Framework for Data Sharing and Collaborative Research**|Osama Zafar et.al.|[2506.20872v1](http://arxiv.org/abs/2506.20872v1)|
-|**2025-06-25**|**Practical and Accurate Local Edge Differentially Private Graph Algorithms**|Pranay Mundra et.al.|[2506.20828v1](http://arxiv.org/abs/2506.20828v1)|
+|**2025-06-25**|**Practical and Accurate Local Edge Differentially Private Graph Algorithms**|Pranay Mundra et.al.|[2506.20828v2](http://arxiv.org/abs/2506.20828v2)|
 |**2025-06-25**|**Client Clustering Meets Knowledge Sharing: Enhancing Privacy and Robustness in Personalized Peer-to-Peer Learning**|Mohammad Mahdi Maheri et.al.|[2506.20413v1](http://arxiv.org/abs/2506.20413v1)|
 |**2025-06-25**|**Don't Hash Me Like That: Exposing and Mitigating Hash-Induced Unfairness in Local Differential Privacy**|Berkay Kemal Balioglu et.al.|[2506.20290v1](http://arxiv.org/abs/2506.20290v1)|
 |**2025-06-25**|**Communication-Efficient Publication of Sparse Vectors under Differential Privacy**|Quentin Hillebrand et.al.|[2506.20234v1](http://arxiv.org/abs/2506.20234v1)|
@@ -112,7 +112,7 @@
 |**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117v1](http://arxiv.org/abs/2506.21117v1)|
 |**2025-06-26**|**Pushing Trade-Off Boundaries: Compact yet Effective Remote Sensing Change Detection**|Luosheng Xu et.al.|[2506.21109v1](http://arxiv.org/abs/2506.21109v1)|
 |**2025-06-24**|**3D-SSM: A Novel 3D Selective Scan Module for Remote Sensing Change Detection**|Rui Huang et.al.|[2506.19263v1](http://arxiv.org/abs/2506.19263v1)|
-|**2025-06-22**|**SegChange-R1:Augmented Reasoning for Remote Sensing Change Detection via Large Language Models**|Fei Zhou et.al.|[2506.17944v1](http://arxiv.org/abs/2506.17944v1)|
+|**2025-06-22**|**SegChange-R1: LLM-Augmented Remote Sensing Change Detection**|Fei Zhou et.al.|[2506.17944v2](http://arxiv.org/abs/2506.17944v2)|
 |**2025-06-17**|**Active InSAR monitoring of building damage in Gaza during the Israel-Hamas War**|Corey Scher et.al.|[2506.14730v1](http://arxiv.org/abs/2506.14730v1)|
 |**2025-06-17**|**HydroChronos: Forecasting Decades of Surface Water Change**|Daniele Rege Cambrin et.al.|[2506.14362v1](http://arxiv.org/abs/2506.14362v1)|
 |**2025-06-15**|**HyRet-Change: A hybrid retentive network for remote sensing change detection**|Mustansar Fiaz et.al.|[2506.12836v1](http://arxiv.org/abs/2506.12836v1)|
