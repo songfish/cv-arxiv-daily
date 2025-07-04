@@ -1,4 +1,4 @@
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 
 ## super-resolution
 
@@ -37,7 +37,7 @@
 |**2025-07-02**|**A Privacy-Preserving Indoor Localization System based on Hierarchical Federated Learning**|Masood Jan et.al.|[2507.01581v1](http://arxiv.org/abs/2507.01581v1)|
 |**2025-07-02**|**Far From Sight, Far From Mind: Inverse Distance Weighting for Graph Federated Recommendation**|Aymen Rayane Khouas et.al.|[2507.01285v1](http://arxiv.org/abs/2507.01285v1)|
 |**2025-07-01**|**Prediction of Freezing of Gait in Parkinsons Disease using Explainable AI and Federated Deep Learning for Wearable Sensors**|Biplov Paneru et.al.|[2507.01068v1](http://arxiv.org/abs/2507.01068v1)|
-|**2025-07-01**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920v1](http://arxiv.org/abs/2507.00920v1)|
+|**2025-07-01**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920v2](http://arxiv.org/abs/2507.00920v2)|
 |**2025-07-01**|**Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework**|Beining Wu et.al.|[2507.00856v1](http://arxiv.org/abs/2507.00856v1)|
 |**2025-07-01**|**Decentralized Pliable Index Coding For Federated Learning In Intelligent Transportation Systems**|Sadina Kadakkottiri et.al.|[2507.00643v1](http://arxiv.org/abs/2507.00643v1)|
 |**2025-07-01**|**Find a Scapegoat: Poisoning Membership Inference Attack and Defense to Federated Learning**|Wenjin Mo et.al.|[2507.00423v1](http://arxiv.org/abs/2507.00423v1)|
@@ -52,7 +52,7 @@
 |**2025-07-02**|**Tuning without Peeking: Provable Privacy and Generalization Bounds for LLM Post-Training**|Ismail Labiad et.al.|[2507.01752v1](http://arxiv.org/abs/2507.01752v1)|
 |**2025-07-02**|**How to Securely Shuffle? A survey about Secure Shufflers for privacy-preserving computations**|Marc Damie et.al.|[2507.01487v1](http://arxiv.org/abs/2507.01487v1)|
 |**2025-07-01**|**FlashDP: Private Training Large Language Models with Efficient DP-SGD**|Liangyu Wang et.al.|[2507.01154v1](http://arxiv.org/abs/2507.01154v1)|
-|**2025-07-01**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920v1](http://arxiv.org/abs/2507.00920v1)|
+|**2025-07-01**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920v2](http://arxiv.org/abs/2507.00920v2)|
 |**2025-07-01**|**GRAND: Graph Release with Assured Node Differential Privacy**|Suqing Liu et.al.|[2507.00402v1](http://arxiv.org/abs/2507.00402v1)|
 |**2025-06-30**|**PPFL-RDSN: Privacy-Preserving Federated Learning-based Residual Dense Spatial Networks for Encrypted Lossy Image Reconstruction**|Peilin He et.al.|[2507.00230v1](http://arxiv.org/abs/2507.00230v1)|
 |**2025-06-30**|**Poisoning Attacks to Local Differential Privacy for Ranking Estimation**|Pei Zhan et.al.|[2506.24033v1](http://arxiv.org/abs/2506.24033v1)|
