@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-03**|**Fair Deepfake Detectors Can Generalize**|Harry Cheng et.al.|[2507.02645v1](http://arxiv.org/abs/2507.02645v1)|
+|**2025-07-03**|**Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection**|Taehoon Kim et.al.|[2507.02398v1](http://arxiv.org/abs/2507.02398v1)|
 |**2025-07-02**|**Generalizable Detection of Audio Deepfakes**|Jose A. Lopez et.al.|[2507.01750v1](http://arxiv.org/abs/2507.01750v1)|
 |**2025-07-02**|**DiffMark: Diffusion-based Robust Watermark Against Deepfakes**|Chen Sun et.al.|[2507.01428v1](http://arxiv.org/abs/2507.01428v1)|
 |**2025-07-01**|**The Age of Sensorial Zero Trust: Why We Can No Longer Trust Our Senses**|Fabio Correa Xavier et.al.|[2507.00907v1](http://arxiv.org/abs/2507.00907v1)|
@@ -27,28 +29,28 @@
 |**2025-06-29**|**DDL: A Dataset for Interpretable Deepfake Detection and Localization in Real-World Scenarios**|Changtao Miao et.al.|[2506.23292v1](http://arxiv.org/abs/2506.23292v1)|
 |**2025-06-28**|**PhonemeFake: Redefining Deepfake Realism with Language-Driven Segmental Manipulation and Adaptive Bilevel Detection**|Oguzhan Baser et.al.|[2506.22783v1](http://arxiv.org/abs/2506.22783v1)|
 |**2025-06-26**|**CAST: Cross-Attentive Spatio-Temporal feature fusion for Deepfake detection**|Aryan Thakre et.al.|[2506.21711v1](http://arxiv.org/abs/2506.21711v1)|
-|**2025-06-26**|**Post-training for Deepfake Speech Detection**|Wanying Ge et.al.|[2506.21090v1](http://arxiv.org/abs/2506.21090v1)|
-|**2025-06-25**|**Pay Less Attention to Deceptive Artifacts: Robust Detection of Compressed Deepfakes on Online Social Networks**|Manyi Li et.al.|[2506.20548v1](http://arxiv.org/abs/2506.20548v1)|
 
 ## federated learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-03**|**Fluid Democracy in Federated Data Aggregation**|Aditya Vema Reddy Kesari et.al.|[2507.02710v1](http://arxiv.org/abs/2507.02710v1)|
+|**2025-07-03**|**Embedding-Based Federated Data Sharing via Differentially Private Conditional VAEs**|Francesco Di Salvo et.al.|[2507.02671v1](http://arxiv.org/abs/2507.02671v1)|
+|**2025-07-03**|**S2FGL: Spatial Spectral Federated Graph Learning**|Zihan Tan et.al.|[2507.02409v1](http://arxiv.org/abs/2507.02409v1)|
+|**2025-07-03**|**VeFIA: An Efficient Inference Auditing Framework for Vertical Federated Collaborative Software**|Chung-ju Huang et.al.|[2507.02376v1](http://arxiv.org/abs/2507.02376v1)|
+|**2025-07-03**|**Flotilla: A scalable, modular and resilient federated learning framework for heterogeneous resources**|Roopkatha Banerjee et.al.|[2507.02295v1](http://arxiv.org/abs/2507.02295v1)|
+|**2025-07-02**|**REDUS: Adaptive Resampling for Efficient Deep Learning in Centralized and Federated IoT Networks**|Eyad Gad et.al.|[2507.02021v1](http://arxiv.org/abs/2507.02021v1)|
 |**2025-07-02**|**A Privacy-Preserving Indoor Localization System based on Hierarchical Federated Learning**|Masood Jan et.al.|[2507.01581v1](http://arxiv.org/abs/2507.01581v1)|
 |**2025-07-02**|**Far From Sight, Far From Mind: Inverse Distance Weighting for Graph Federated Recommendation**|Aymen Rayane Khouas et.al.|[2507.01285v1](http://arxiv.org/abs/2507.01285v1)|
-|**2025-07-01**|**Prediction of Freezing of Gait in Parkinsons Disease using Explainable AI and Federated Deep Learning for Wearable Sensors**|Biplov Paneru et.al.|[2507.01068v1](http://arxiv.org/abs/2507.01068v1)|
 |**2025-07-01**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920v2](http://arxiv.org/abs/2507.00920v2)|
 |**2025-07-01**|**Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework**|Beining Wu et.al.|[2507.00856v1](http://arxiv.org/abs/2507.00856v1)|
-|**2025-07-01**|**Decentralized Pliable Index Coding For Federated Learning In Intelligent Transportation Systems**|Sadina Kadakkottiri et.al.|[2507.00643v1](http://arxiv.org/abs/2507.00643v1)|
-|**2025-07-01**|**Find a Scapegoat: Poisoning Membership Inference Attack and Defense to Federated Learning**|Wenjin Mo et.al.|[2507.00423v1](http://arxiv.org/abs/2507.00423v1)|
-|**2025-07-01**|**Accuracy and Security-Guaranteed Participant Selection and Beamforming Design for RIS-Assisted Federated Learning**|Mengru Wu et.al.|[2507.00388v1](http://arxiv.org/abs/2507.00388v1)|
-|**2025-06-30**|**Who Should I Listen To? Adaptive Collaboration in Personalized Federated Learning**|Amr Abourayya et.al.|[2507.00259v2](http://arxiv.org/abs/2507.00259v2)|
-|**2025-06-30**|**PPFL-RDSN: Privacy-Preserving Federated Learning-based Residual Dense Spatial Networks for Encrypted Lossy Image Reconstruction**|Peilin He et.al.|[2507.00230v1](http://arxiv.org/abs/2507.00230v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-03**|**Quantifying Classifier Utility under Local Differential Privacy**|Ye Zheng et.al.|[2507.02727v1](http://arxiv.org/abs/2507.02727v1)|
+|**2025-07-03**|**Embedding-Based Federated Data Sharing via Differentially Private Conditional VAEs**|Francesco Di Salvo et.al.|[2507.02671v1](http://arxiv.org/abs/2507.02671v1)|
 |**2025-07-02**|**Tuning without Peeking: Provable Privacy and Generalization Bounds for LLM Post-Training**|Ismail Labiad et.al.|[2507.01752v1](http://arxiv.org/abs/2507.01752v1)|
 |**2025-07-02**|**How to Securely Shuffle? A survey about Secure Shufflers for privacy-preserving computations**|Marc Damie et.al.|[2507.01487v1](http://arxiv.org/abs/2507.01487v1)|
 |**2025-07-01**|**FlashDP: Private Training Large Language Models with Efficient DP-SGD**|Liangyu Wang et.al.|[2507.01154v1](http://arxiv.org/abs/2507.01154v1)|
@@ -57,8 +59,6 @@
 |**2025-06-30**|**PPFL-RDSN: Privacy-Preserving Federated Learning-based Residual Dense Spatial Networks for Encrypted Lossy Image Reconstruction**|Peilin He et.al.|[2507.00230v1](http://arxiv.org/abs/2507.00230v1)|
 |**2025-06-30**|**Poisoning Attacks to Local Differential Privacy for Ranking Estimation**|Pei Zhan et.al.|[2506.24033v1](http://arxiv.org/abs/2506.24033v1)|
 |**2025-06-30**|**Differentially Private Synthetic Data Release for Topics API Outputs**|Travis Dick et.al.|[2506.23855v1](http://arxiv.org/abs/2506.23855v1)|
-|**2025-06-30**|**SoK: Semantic Privacy in Large Language Models**|Baihe Ma et.al.|[2506.23603v1](http://arxiv.org/abs/2506.23603v1)|
-|**2025-06-28**|**Convergent Privacy Framework with Contractive GNN Layers for Multi-hop Aggregations**|Yu Zheng et.al.|[2506.22727v1](http://arxiv.org/abs/2506.22727v1)|
 
 ## Data Masking
 
@@ -94,6 +94,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-03**|**Evaluating Language Models For Threat Detection in IoT Security Logs**|Jorge J. Tejero-Fernández et.al.|[2507.02390v1](http://arxiv.org/abs/2507.02390v1)|
+|**2025-07-02**|**Can Artificial Intelligence solve the blockchain oracle problem? Unpacking the Challenges and Possibilities**|Giulio Caldarelli et.al.|[2507.02125v1](http://arxiv.org/abs/2507.02125v1)|
 |**2025-07-02**|**SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars**|Xiaosheng Zhao et.al.|[2507.01939v1](http://arxiv.org/abs/2507.01939v1)|
 |**2025-07-02**|**Exploring a Hybrid Deep Learning Approach for Anomaly Detection in Mental Healthcare Provider Billing: Addressing Label Scarcity through Semi-Supervised Anomaly Detection**|Samirah Bakker et.al.|[2507.01924v1](http://arxiv.org/abs/2507.01924v1)|
 |**2025-07-02**|**Towards Foundation Auto-Encoders for Time-Series Anomaly Detection**|Gastón García González et.al.|[2507.01875v1](http://arxiv.org/abs/2507.01875v1)|
@@ -101,14 +103,13 @@
 |**2025-07-02**|**OoDDINO:A Multi-level Framework for Anomaly Segmentation on Complex Road Scenes**|Yuxing Liu et.al.|[2507.01455v1](http://arxiv.org/abs/2507.01455v1)|
 |**2025-07-02**|**Reasoner for Real-World Event Detection: Scaling Reinforcement Learning via Adaptive Perplexity-Aware Sampling Strategy**|Xiaoyun Zhang et.al.|[2507.01327v1](http://arxiv.org/abs/2507.01327v1)|
 |**2025-07-01**|**Good Enough to Learn: LLM-based Anomaly Detection in ECU Logs without Reliable Labels**|Bogdan Bogdan et.al.|[2507.01077v1](http://arxiv.org/abs/2507.01077v1)|
-|**2025-07-01**|**MID-INFRARED (MIR) OCT-based inspection in industry**|N. P. García-de-la-Puente et.al.|[2507.01074v1](http://arxiv.org/abs/2507.01074v1)|
 |**2025-07-01**|**Biorthogonal Tunable Wavelet Unit with Lifting Scheme in Convolutional Neural Network**|An Le et.al.|[2507.00739v1](http://arxiv.org/abs/2507.00739v1)|
-|**2025-07-01**|**Real-Time In-Network Machine Learning on P4-Programmable FPGA SmartNICs with Fixed-Point Arithmetic and Taylor**|Mohammad Firas Sada et.al.|[2507.00428v1](http://arxiv.org/abs/2507.00428v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-03**|**Flow-CDNet: A Novel Network for Detecting Both Slow and Fast Changes in Bitemporal Images**|Haoxuan Li et.al.|[2507.02307v1](http://arxiv.org/abs/2507.02307v1)|
 |**2025-07-01**|**RTMap: Real-Time Recursive Mapping with Change Detection and Localization**|Yuheng Du et.al.|[2507.00980v1](http://arxiv.org/abs/2507.00980v1)|
 |**2025-06-30**|**Quickest Detection of Adversarial Attacks Against Correlated Equilibria**|Kiarash Kazari et.al.|[2506.24040v1](http://arxiv.org/abs/2506.24040v1)|
 |**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117v1](http://arxiv.org/abs/2506.21117v1)|
@@ -118,5 +119,4 @@
 |**2025-06-17**|**Active InSAR monitoring of building damage in Gaza during the Israel-Hamas War**|Corey Scher et.al.|[2506.14730v1](http://arxiv.org/abs/2506.14730v1)|
 |**2025-06-17**|**HydroChronos: Forecasting Decades of Surface Water Change**|Daniele Rege Cambrin et.al.|[2506.14362v1](http://arxiv.org/abs/2506.14362v1)|
 |**2025-06-15**|**HyRet-Change: A hybrid retentive network for remote sensing change detection**|Mustansar Fiaz et.al.|[2506.12836v1](http://arxiv.org/abs/2506.12836v1)|
-|**2025-06-14**|**Revisiting Clustering of Neural Bandits: Selective Reinitialization for Mitigating Loss of Plasticity**|Zhiyuan Su et.al.|[2506.12389v1](http://arxiv.org/abs/2506.12389v1)|
 
