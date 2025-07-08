@@ -1,4 +1,4 @@
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 
 ## super-resolution
 
@@ -56,7 +56,7 @@
 |**2025-07-01**|**FlashDP: Private Training Large Language Models with Efficient DP-SGD**|Liangyu Wang et.al.|[2507.01154v1](http://arxiv.org/abs/2507.01154v1)|
 |**2025-07-01**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920v2](http://arxiv.org/abs/2507.00920v2)|
 |**2025-07-01**|**GRAND: Graph Release with Assured Node Differential Privacy**|Suqing Liu et.al.|[2507.00402v1](http://arxiv.org/abs/2507.00402v1)|
-|**2025-06-30**|**PPFL-RDSN: Privacy-Preserving Federated Learning-based Residual Dense Spatial Networks for Encrypted Lossy Image Reconstruction**|Peilin He et.al.|[2507.00230v1](http://arxiv.org/abs/2507.00230v1)|
+|**2025-06-30**|**PPFL-RDSN: Privacy-Preserving Federated Learning-based Residual Dense Spatial Networks for Encrypted Lossy Image Reconstruction**|Peilin He et.al.|[2507.00230v2](http://arxiv.org/abs/2507.00230v2)|
 |**2025-06-30**|**Poisoning Attacks to Local Differential Privacy for Ranking Estimation**|Pei Zhan et.al.|[2506.24033v1](http://arxiv.org/abs/2506.24033v1)|
 |**2025-06-30**|**Differentially Private Synthetic Data Release for Topics API Outputs**|Travis Dick et.al.|[2506.23855v1](http://arxiv.org/abs/2506.23855v1)|
 
@@ -88,7 +88,7 @@
 |**2025-03-05**|**Enhancing Abnormality Grounding for Vision Language Models with Knowledge Descriptions**|Jun Li et.al.|[2503.03278v1](http://arxiv.org/abs/2503.03278v1)|
 |**2025-03-04**|**X2CT-CLIP: Enable Multi-Abnormality Detection in Computed Tomography from Chest Radiography via Tri-Modal Contrastive Learning**|Jianzhong You et.al.|[2503.02162v2](http://arxiv.org/abs/2503.02162v2)|
 |**2025-02-22**|**rECGnition_v2.0: Self-Attentive Canonical Fusion of ECG and Patient Data using deep learning for effective Cardiac Diagnostics**|Shreya Srivastava et.al.|[2502.16255v1](http://arxiv.org/abs/2502.16255v1)|
-|**2025-02-11**|**Advancing Precision Oncology Through Modeling of Longitudinal and Multimodal Data**|Luoting Zhuang et.al.|[2502.07836v2](http://arxiv.org/abs/2502.07836v2)|
+|**2025-02-11**|**Advancing Precision Oncology Through Modeling of Longitudinal and Multimodal Data**|Luoting Zhuang et.al.|[2502.07836v3](http://arxiv.org/abs/2502.07836v3)|
 
 ## anomaly detection
 
@@ -100,7 +100,7 @@
 |**2025-07-02**|**Exploring a Hybrid Deep Learning Approach for Anomaly Detection in Mental Healthcare Provider Billing: Addressing Label Scarcity through Semi-Supervised Anomaly Detection**|Samirah Bakker et.al.|[2507.01924v1](http://arxiv.org/abs/2507.01924v1)|
 |**2025-07-02**|**Towards Foundation Auto-Encoders for Time-Series Anomaly Detection**|Gastón García González et.al.|[2507.01875v1](http://arxiv.org/abs/2507.01875v1)|
 |**2025-07-02**|**BioMARS: A Multi-Agent Robotic System for Autonomous Biological Experiments**|Yibo Qiu et.al.|[2507.01485v1](http://arxiv.org/abs/2507.01485v1)|
-|**2025-07-02**|**OoDDINO:A Multi-level Framework for Anomaly Segmentation on Complex Road Scenes**|Yuxing Liu et.al.|[2507.01455v1](http://arxiv.org/abs/2507.01455v1)|
+|**2025-07-02**|**OoDDINO:A Multi-level Framework for Anomaly Segmentation on Complex Road Scenes**|Yuxing Liu et.al.|[2507.01455v2](http://arxiv.org/abs/2507.01455v2)|
 |**2025-07-02**|**Reasoner for Real-World Event Detection: Scaling Reinforcement Learning via Adaptive Perplexity-Aware Sampling Strategy**|Xiaoyun Zhang et.al.|[2507.01327v1](http://arxiv.org/abs/2507.01327v1)|
 |**2025-07-01**|**Good Enough to Learn: LLM-based Anomaly Detection in ECU Logs without Reliable Labels**|Bogdan Bogdan et.al.|[2507.01077v1](http://arxiv.org/abs/2507.01077v1)|
 |**2025-07-01**|**Biorthogonal Tunable Wavelet Unit with Lifting Scheme in Convolutional Neural Network**|An Le et.al.|[2507.00739v1](http://arxiv.org/abs/2507.00739v1)|
