@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-08**|**Ensemble-Based Deepfake Detection using State-of-the-Art Models with Robust Cross-Dataset Generalisation**|Haroon Wahab et.al.|[2507.05996v1](http://arxiv.org/abs/2507.05996v1)|
+|**2025-07-07**|**CorrDetail: Visual Detail Enhanced Self-Correction for Face Forgery Detection**|Binjia Zhou et.al.|[2507.05302v1](http://arxiv.org/abs/2507.05302v1)|
 |**2025-07-04**|**Robust Localization of Partially Fake Speech: Metrics, Models, and Out-of-Domain Evaluation**|Hieu-Thi Luong et.al.|[2507.03468v1](http://arxiv.org/abs/2507.03468v1)|
 |**2025-07-04**|**Deepfakes in Criminal Investigations: Interdisciplinary Research Directions for CMC Research**|Lorenz Meinen et.al.|[2507.03457v1](http://arxiv.org/abs/2507.03457v1)|
 |**2025-07-04**|**De-Fake: Style based Anomaly Deepfake Detection**|Sudev Kumar Padhi et.al.|[2507.03334v1](http://arxiv.org/abs/2507.03334v1)|
@@ -27,38 +29,36 @@
 |**2025-07-02**|**Generalizable Detection of Audio Deepfakes**|Jose A. Lopez et.al.|[2507.01750v1](http://arxiv.org/abs/2507.01750v1)|
 |**2025-07-02**|**DiffMark: Diffusion-based Robust Watermark Against Deepfakes**|Chen Sun et.al.|[2507.01428v1](http://arxiv.org/abs/2507.01428v1)|
 |**2025-07-01**|**The Age of Sensorial Zero Trust: Why We Can No Longer Trust Our Senses**|Fabio Correa Xavier et.al.|[2507.00907v1](http://arxiv.org/abs/2507.00907v1)|
-|**2025-06-30**|**Collecting, Curating, and Annotating Good Quality Speech deepfake dataset for Famous Figures: Process and Challenges**|Hashim Ali et.al.|[2507.00324v1](http://arxiv.org/abs/2507.00324v1)|
-|**2025-06-30**|**A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement**|Gaozheng Pei et.al.|[2506.23676v1](http://arxiv.org/abs/2506.23676v1)|
 
 ## federated learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-08**|**Efficient Federated Learning with Timely Update Dissemination**|Juncheng Jia et.al.|[2507.06031v1](http://arxiv.org/abs/2507.06031v1)|
+|**2025-07-08**|**Communication-Efficient Module-Wise Federated Learning for Grasp Pose Detection in Cluttered Environments**|Woonsang Kang et.al.|[2507.05861v1](http://arxiv.org/abs/2507.05861v1)|
+|**2025-07-08**|**Prototype-Guided and Lightweight Adapters for Inherent Interpretation and Generalisation in Federated Learning**|Samuel Ofosu Mensah et.al.|[2507.05852v1](http://arxiv.org/abs/2507.05852v1)|
+|**2025-07-08**|**Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation**|Qianpiao Ma et.al.|[2507.05704v1](http://arxiv.org/abs/2507.05704v1)|
+|**2025-07-08**|**Efficient Training of Large-Scale AI Models Through Federated Mixture-of-Experts: A System-Level Approach**|Xiaobing Chen et.al.|[2507.05685v1](http://arxiv.org/abs/2507.05685v1)|
+|**2025-07-07**|**PROTEAN: Federated Intrusion Detection in Non-IID Environments through Prototype-Based Knowledge Sharing**|Sara Chennoufi et.al.|[2507.05524v1](http://arxiv.org/abs/2507.05524v1)|
+|**2025-07-07**|**pFedMMA: Personalized Federated Fine-Tuning with Multi-Modal Adapter for Vision-Language Models**|Sajjad Ghiasvand et.al.|[2507.05394v1](http://arxiv.org/abs/2507.05394v1)|
 |**2025-07-07**|**Cooperative Gradient Coding**|Shudi Weng et.al.|[2507.05230v1](http://arxiv.org/abs/2507.05230v1)|
 |**2025-07-07**|**A Federated Learning-based Lightweight Network with Zero Trust for UAV Authentication**|Hao Zhang et.al.|[2507.05111v1](http://arxiv.org/abs/2507.05111v1)|
 |**2025-07-07**|**BackFed: An Efficient & Standardized Benchmark Suite for Backdoor Attacks in Federated Learning**|Thinh Dao et.al.|[2507.04903v1](http://arxiv.org/abs/2507.04903v1)|
-|**2025-07-07**|**Kalman Filter Aided Federated Koopman Learning**|Yutao Chen et.al.|[2507.04808v1](http://arxiv.org/abs/2507.04808v1)|
-|**2025-07-07**|**FedPall: Prototype-based Adversarial and Collaborative Learning for Federated Learning with Feature Drift**|Yong Zhang et.al.|[2507.04781v1](http://arxiv.org/abs/2507.04781v1)|
-|**2025-07-06**|**TinyProto: Communication-Efficient Federated Learning with Sparse Prototypes in Resource-Constrained Environments**|Gyuejeong Lee et.al.|[2507.04327v1](http://arxiv.org/abs/2507.04327v1)|
-|**2025-07-06**|**Heterogeneous Federated Learning with Prototype Alignment and Upscaling**|Gyuejeong Lee et.al.|[2507.04310v1](http://arxiv.org/abs/2507.04310v1)|
-|**2025-07-05**|**One-Bit Model Aggregation for Differentially Private and Byzantine-Robust Personalized Federated Learning**|Muhang Lan et.al.|[2507.03973v1](http://arxiv.org/abs/2507.03973v1)|
-|**2025-07-05**|**FedFog: Resource-Aware Federated Learning in Edge and Fog Networks**|Somayeh Sobati-M et.al.|[2507.03952v1](http://arxiv.org/abs/2507.03952v1)|
-|**2025-07-04**|**Communication Efficient, Differentially Private Distributed Optimization using Correlation-Aware Sketching**|Julien Nicolas et.al.|[2507.03545v1](http://arxiv.org/abs/2507.03545v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-08**|**Post-Processing in Local Differential Privacy: An Extensive Evaluation and Benchmark Platform**|Alireza Khodaie et.al.|[2507.05875v1](http://arxiv.org/abs/2507.05875v1)|
+|**2025-07-08**|**LDP$^3$: An Extensible and Multi-Threaded Toolkit for Local Differential Privacy Protocols and Post-Processing Methods**|Berkay Kemal Balioglu et.al.|[2507.05872v1](http://arxiv.org/abs/2507.05872v1)|
+|**2025-07-08**|**On the Inherent Privacy of Zeroth Order Projected Gradient Descent**|Devansh Gupta et.al.|[2507.05610v1](http://arxiv.org/abs/2507.05610v1)|
+|**2025-07-08**|**The Landscape of Memorization in LLMs: Mechanisms, Measurement, and Mitigation**|Alexander Xiong et.al.|[2507.05578v1](http://arxiv.org/abs/2507.05578v1)|
 |**2025-07-06**|**Model Inversion Attacks on Llama 3: Extracting PII from Large Language Models**|Sathesh P. Sivashanmugam et.al.|[2507.04478v1](http://arxiv.org/abs/2507.04478v1)|
 |**2025-07-04**|**Communication Efficient, Differentially Private Distributed Optimization using Correlation-Aware Sketching**|Julien Nicolas et.al.|[2507.03545v1](http://arxiv.org/abs/2507.03545v1)|
 |**2025-07-04**|**Accelerating Private Heavy Hitter Detection on Continual Observation Streams**|Rayne Holland et.al.|[2507.03361v1](http://arxiv.org/abs/2507.03361v1)|
 |**2025-07-03**|**Quantifying Classifier Utility under Local Differential Privacy**|Ye Zheng et.al.|[2507.02727v1](http://arxiv.org/abs/2507.02727v1)|
 |**2025-07-03**|**Embedding-Based Federated Data Sharing via Differentially Private Conditional VAEs**|Francesco Di Salvo et.al.|[2507.02671v1](http://arxiv.org/abs/2507.02671v1)|
 |**2025-07-02**|**Tuning without Peeking: Provable Privacy and Generalization Bounds for LLM Post-Training**|Ismail Labiad et.al.|[2507.01752v1](http://arxiv.org/abs/2507.01752v1)|
-|**2025-07-02**|**How to Securely Shuffle? A survey about Secure Shufflers for privacy-preserving computations**|Marc Damie et.al.|[2507.01487v1](http://arxiv.org/abs/2507.01487v1)|
-|**2025-07-01**|**FlashDP: Private Training Large Language Models with Efficient DP-SGD**|Liangyu Wang et.al.|[2507.01154v1](http://arxiv.org/abs/2507.01154v1)|
-|**2025-07-01**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920v2](http://arxiv.org/abs/2507.00920v2)|
-|**2025-07-01**|**GRAND: Graph Release with Assured Node Differential Privacy**|Suqing Liu et.al.|[2507.00402v1](http://arxiv.org/abs/2507.00402v1)|
 
 ## Data Masking
 
@@ -94,16 +94,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-08**|**seMCD: Sequentially implemented Monte Carlo depth computation with statistical guarantees**|Felix Gnettner et.al.|[2507.06227v1](http://arxiv.org/abs/2507.06227v1)|
+|**2025-07-08**|**What ZTF Saw Where Rubin Looked: Anomaly Hunting in DR23**|Maria V. Pruzhinskaya et.al.|[2507.06217v1](http://arxiv.org/abs/2507.06217v1)|
+|**2025-07-08**|**Hyperspectral Anomaly Detection Methods: A Survey and Comparative Study**|Aayushma Pant et.al.|[2507.05730v1](http://arxiv.org/abs/2507.05730v1)|
+|**2025-07-08**|**Quantum Machine Learning for Identifying Transient Events in X-ray Light Curves**|Taiki Kawamuro et.al.|[2507.05589v1](http://arxiv.org/abs/2507.05589v1)|
+|**2025-07-08**|**iThermTroj: Exploiting Intermittent Thermal Trojans in Multi-Processor System-on-Chips**|Mehdi Elahi et.al.|[2507.05576v1](http://arxiv.org/abs/2507.05576v1)|
 |**2025-07-07**|**Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing**|Chanh Nguyen et.al.|[2507.04969v1](http://arxiv.org/abs/2507.04969v1)|
 |**2025-07-06**|**Dealing with Uncertainty in Contextual Anomaly Detection**|Luca Bindini et.al.|[2507.04490v1](http://arxiv.org/abs/2507.04490v1)|
 |**2025-07-06**|**Anomalous Decision Discovery using Inverse Reinforcement Learning**|Ashish Bastola et.al.|[2507.04464v1](http://arxiv.org/abs/2507.04464v1)|
 |**2025-07-06**|**ML-Enhanced AES Anomaly Detection for Real-Time Embedded Security**|Nishant Chinnasami et.al.|[2507.04197v1](http://arxiv.org/abs/2507.04197v1)|
 |**2025-07-05**|**Specific heat and density anomalies in the Hubbard model**|M. A. Habitzreuter et.al.|[2507.04041v1](http://arxiv.org/abs/2507.04041v1)|
-|**2025-07-05**|**Fast Re-Trainable Attention Autoencoder for Liquid Sensor Anomaly Detection at the Edge**|Seongyun Choi et.al.|[2507.03995v1](http://arxiv.org/abs/2507.03995v1)|
-|**2025-07-05**|**An Efficient Detector for Faulty GNSS Measurements Detection With Non-Gaussian Noises**|Penggao Yan et.al.|[2507.03987v1](http://arxiv.org/abs/2507.03987v1)|
-|**2025-07-05**|**Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection**|Hanzhe Liang et.al.|[2507.03903v1](http://arxiv.org/abs/2507.03903v1)|
-|**2025-07-04**|**Robust Localization of Partially Fake Speech: Metrics, Models, and Out-of-Domain Evaluation**|Hieu-Thi Luong et.al.|[2507.03468v1](http://arxiv.org/abs/2507.03468v1)|
-|**2025-07-03**|**Evaluating Language Models For Threat Detection in IoT Security Logs**|Jorge J. Tejero-Fernández et.al.|[2507.02390v1](http://arxiv.org/abs/2507.02390v1)|
 
 ## change detection
 
