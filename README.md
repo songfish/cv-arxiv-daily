@@ -1,4 +1,4 @@
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 
 ## super-resolution
 
@@ -51,7 +51,7 @@
 |---|---|---|---|
 |**2025-07-08**|**Post-Processing in Local Differential Privacy: An Extensive Evaluation and Benchmark Platform**|Alireza Khodaie et.al.|[2507.05875v1](http://arxiv.org/abs/2507.05875v1)|
 |**2025-07-08**|**LDP$^3$: An Extensible and Multi-Threaded Toolkit for Local Differential Privacy Protocols and Post-Processing Methods**|Berkay Kemal Balioglu et.al.|[2507.05872v1](http://arxiv.org/abs/2507.05872v1)|
-|**2025-07-08**|**On the Inherent Privacy of Zeroth Order Projected Gradient Descent**|Devansh Gupta et.al.|[2507.05610v1](http://arxiv.org/abs/2507.05610v1)|
+|**2025-07-08**|**On the Inherent Privacy of Zeroth Order Projected Gradient Descent**|Devansh Gupta et.al.|[2507.05610v2](http://arxiv.org/abs/2507.05610v2)|
 |**2025-07-08**|**The Landscape of Memorization in LLMs: Mechanisms, Measurement, and Mitigation**|Alexander Xiong et.al.|[2507.05578v1](http://arxiv.org/abs/2507.05578v1)|
 |**2025-07-06**|**Model Inversion Attacks on Llama 3: Extracting PII from Large Language Models**|Sathesh P. Sivashanmugam et.al.|[2507.04478v1](http://arxiv.org/abs/2507.04478v1)|
 |**2025-07-04**|**Communication Efficient, Differentially Private Distributed Optimization using Correlation-Aware Sketching**|Julien Nicolas et.al.|[2507.03545v1](http://arxiv.org/abs/2507.03545v1)|
@@ -99,7 +99,7 @@
 |**2025-07-08**|**Hyperspectral Anomaly Detection Methods: A Survey and Comparative Study**|Aayushma Pant et.al.|[2507.05730v1](http://arxiv.org/abs/2507.05730v1)|
 |**2025-07-08**|**Quantum Machine Learning for Identifying Transient Events in X-ray Light Curves**|Taiki Kawamuro et.al.|[2507.05589v1](http://arxiv.org/abs/2507.05589v1)|
 |**2025-07-08**|**iThermTroj: Exploiting Intermittent Thermal Trojans in Multi-Processor System-on-Chips**|Mehdi Elahi et.al.|[2507.05576v1](http://arxiv.org/abs/2507.05576v1)|
-|**2025-07-07**|**Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing**|Chanh Nguyen et.al.|[2507.04969v1](http://arxiv.org/abs/2507.04969v1)|
+|**2025-07-07**|**Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing**|Chanh Nguyen et.al.|[2507.04969v2](http://arxiv.org/abs/2507.04969v2)|
 |**2025-07-06**|**Dealing with Uncertainty in Contextual Anomaly Detection**|Luca Bindini et.al.|[2507.04490v1](http://arxiv.org/abs/2507.04490v1)|
 |**2025-07-06**|**Anomalous Decision Discovery using Inverse Reinforcement Learning**|Ashish Bastola et.al.|[2507.04464v1](http://arxiv.org/abs/2507.04464v1)|
 |**2025-07-06**|**ML-Enhanced AES Anomaly Detection for Real-Time Embedded Security**|Nishant Chinnasami et.al.|[2507.04197v1](http://arxiv.org/abs/2507.04197v1)|
