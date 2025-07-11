@@ -34,21 +34,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-10**|**HLF-FSL. A Decentralized Federated Split Learning Solution for IoT on Hyperledger Fabric**|Carlos Beis Penedo et.al.|[2507.07637v1](http://arxiv.org/abs/2507.07637v1)|
+|**2025-07-10**|**Sparse Self-Federated Learning for Energy Efficient Cooperative Intelligence in Society 5.0**|Davide Domini et.al.|[2507.07613v1](http://arxiv.org/abs/2507.07613v1)|
+|**2025-07-10**|**Secure Cooperative Gradient Coding: Optimality, Reliability, and Global Privacy**|Shudi Weng et.al.|[2507.07565v1](http://arxiv.org/abs/2507.07565v1)|
+|**2025-07-09**|**Optimizing Communication and Device Clustering for Clustered Federated Learning with Differential Privacy**|Dongyu Wei et.al.|[2507.07320v1](http://arxiv.org/abs/2507.07320v1)|
+|**2025-07-09**|**AdeptHEQ-FL: Adaptive Homomorphic Encryption for Federated Learning of Hybrid Classical-Quantum Models with Dynamic Layer Sparing**|Md Abrar Jahin et.al.|[2507.07316v1](http://arxiv.org/abs/2507.07316v1)|
+|**2025-07-09**|**FedP3E: Privacy-Preserving Prototype Exchange for Non-IID IoT Malware Detection in Cross-Silo Federated Learning**|Rami Darwish et.al.|[2507.07258v1](http://arxiv.org/abs/2507.07258v1)|
 |**2025-07-09**|**Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks**|Deemah H. Tashman et.al.|[2507.06997v1](http://arxiv.org/abs/2507.06997v1)|
 |**2025-07-09**|**Intrinsic Training Signals for Federated Learning Aggregation**|Cosimo Fiorini et.al.|[2507.06813v1](http://arxiv.org/abs/2507.06813v1)|
 |**2025-07-09**|**Federated Learning Inspired Fuzzy Systems: Decentralized Rule Updating for Privacy and Scalable Decision Making**|Arthur Alexander Lim et.al.|[2507.06652v1](http://arxiv.org/abs/2507.06652v1)|
 |**2025-07-09**|**FedDifRC: Unlocking the Potential of Text-to-Image Diffusion Models in Heterogeneous Federated Learning**|Huan Wang et.al.|[2507.06482v1](http://arxiv.org/abs/2507.06482v1)|
-|**2025-07-08**|**FedPhD: Federated Pruning with Hierarchical Learning of Diffusion Models**|Qianyu Long et.al.|[2507.06449v1](http://arxiv.org/abs/2507.06449v1)|
-|**2025-07-08**|**A Survey of Multi Agent Reinforcement Learning: Federated Learning and Cooperative and Noncooperative Decentralized Regimes**|Kemboi Cheruiyot et.al.|[2507.06278v1](http://arxiv.org/abs/2507.06278v1)|
-|**2025-07-08**|**Efficient Federated Learning with Timely Update Dissemination**|Juncheng Jia et.al.|[2507.06031v1](http://arxiv.org/abs/2507.06031v1)|
-|**2025-07-08**|**Communication-Efficient Module-Wise Federated Learning for Grasp Pose Detection in Cluttered Environments**|Woonsang Kang et.al.|[2507.05861v1](http://arxiv.org/abs/2507.05861v1)|
-|**2025-07-08**|**Prototype-Guided and Lightweight Adapters for Inherent Interpretation and Generalisation in Federated Learning**|Samuel Ofosu Mensah et.al.|[2507.05852v1](http://arxiv.org/abs/2507.05852v1)|
-|**2025-07-08**|**Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation**|Qianpiao Ma et.al.|[2507.05704v1](http://arxiv.org/abs/2507.05704v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-10**|**Secure Cooperative Gradient Coding: Optimality, Reliability, and Global Privacy**|Shudi Weng et.al.|[2507.07565v1](http://arxiv.org/abs/2507.07565v1)|
+|**2025-07-09**|**Optimizing Communication and Device Clustering for Clustered Federated Learning with Differential Privacy**|Dongyu Wei et.al.|[2507.07320v1](http://arxiv.org/abs/2507.07320v1)|
 |**2025-07-09**|**Non-Asymptotic Analysis of Online Local Private Learning with SGD**|Enze Shi et.al.|[2507.07041v1](http://arxiv.org/abs/2507.07041v1)|
 |**2025-07-09**|**Unifying Re-Identification, Attribute Inference, and Data Reconstruction Risks in Differential Privacy**|Bogdan Kulynych et.al.|[2507.06969v1](http://arxiv.org/abs/2507.06969v1)|
 |**2025-07-09**|**Steps Adaptive Decay DPSGD: Enhancing Performance on Imbalanced Datasets with Differential Privacy with HAM10000**|Xiaobo Huang et.al.|[2507.06619v1](http://arxiv.org/abs/2507.06619v1)|
@@ -57,8 +59,6 @@
 |**2025-07-08**|**An Architecture for Privacy-Preserving Telemetry Scheme**|Kenneth Odoh et.al.|[2507.06350v1](http://arxiv.org/abs/2507.06350v1)|
 |**2025-07-08**|**Post-Processing in Local Differential Privacy: An Extensive Evaluation and Benchmark Platform**|Alireza Khodaie et.al.|[2507.05875v1](http://arxiv.org/abs/2507.05875v1)|
 |**2025-07-08**|**LDP$^3$: An Extensible and Multi-Threaded Toolkit for Local Differential Privacy Protocols and Post-Processing Methods**|Berkay Kemal Balioglu et.al.|[2507.05872v1](http://arxiv.org/abs/2507.05872v1)|
-|**2025-07-08**|**On the Inherent Privacy of Zeroth Order Projected Gradient Descent**|Devansh Gupta et.al.|[2507.05610v2](http://arxiv.org/abs/2507.05610v2)|
-|**2025-07-08**|**The Landscape of Memorization in LLMs: Mechanisms, Measurement, and Mitigation**|Alexander Xiong et.al.|[2507.05578v1](http://arxiv.org/abs/2507.05578v1)|
 
 ## Data Masking
 
@@ -94,16 +94,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-10**|**SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment**|Guoxin Zang et.al.|[2507.07939v1](http://arxiv.org/abs/2507.07939v1)|
+|**2025-07-10**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879v1](http://arxiv.org/abs/2507.07879v1)|
+|**2025-07-10**|**3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing**|Paul McHard et.al.|[2507.07838v1](http://arxiv.org/abs/2507.07838v1)|
+|**2025-07-10**|**Adaptive Gaussian Mixture Models-based Anomaly Detection for under-constrained Cable-Driven Parallel Robots**|Julio Garrido et.al.|[2507.07714v1](http://arxiv.org/abs/2507.07714v1)|
+|**2025-07-10**|**NexViTAD: Few-shot Unsupervised Cross-Domain Defect Detection via Vision Foundation Models and Multi-Task Learning**|Tianwei Mu et.al.|[2507.07579v1](http://arxiv.org/abs/2507.07579v1)|
+|**2025-07-10**|**Real-Time Decorrelation-Based Anomaly Detection for Multivariate Time Series**|Amirhossein Sadough et.al.|[2507.07559v1](http://arxiv.org/abs/2507.07559v1)|
+|**2025-07-10**|**Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects**|Yuqi Cheng et.al.|[2507.07435v1](http://arxiv.org/abs/2507.07435v1)|
 |**2025-07-09**|**MADPOT: Medical Anomaly Detection with CLIP Adaptation and Partial Optimal Transport**|Mahshid Shiri et.al.|[2507.06733v1](http://arxiv.org/abs/2507.06733v1)|
 |**2025-07-09**|**IMPACT: Industrial Machine Perception via Acoustic Cognitive Transformer**|Changheon Han et.al.|[2507.06481v1](http://arxiv.org/abs/2507.06481v1)|
 |**2025-07-08**|**seMCD: Sequentially implemented Monte Carlo depth computation with statistical guarantees**|Felix Gnettner et.al.|[2507.06227v1](http://arxiv.org/abs/2507.06227v1)|
-|**2025-07-08**|**What ZTF Saw Where Rubin Looked: Anomaly Hunting in DR23**|Maria V. Pruzhinskaya et.al.|[2507.06217v1](http://arxiv.org/abs/2507.06217v1)|
-|**2025-07-08**|**Hyperspectral Anomaly Detection Methods: A Survey and Comparative Study**|Aayushma Pant et.al.|[2507.05730v1](http://arxiv.org/abs/2507.05730v1)|
-|**2025-07-08**|**Quantum Machine Learning for Identifying Transient Events in X-ray Light Curves**|Taiki Kawamuro et.al.|[2507.05589v1](http://arxiv.org/abs/2507.05589v1)|
-|**2025-07-08**|**iThermTroj: Exploiting Intermittent Thermal Trojans in Multi-Processor System-on-Chips**|Mehdi Elahi et.al.|[2507.05576v1](http://arxiv.org/abs/2507.05576v1)|
-|**2025-07-07**|**Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing**|Chanh Nguyen et.al.|[2507.04969v2](http://arxiv.org/abs/2507.04969v2)|
-|**2025-07-06**|**Dealing with Uncertainty in Contextual Anomaly Detection**|Luca Bindini et.al.|[2507.04490v1](http://arxiv.org/abs/2507.04490v1)|
-|**2025-07-06**|**Anomalous Decision Discovery using Inverse Reinforcement Learning**|Ashish Bastola et.al.|[2507.04464v1](http://arxiv.org/abs/2507.04464v1)|
 
 ## change detection
 
