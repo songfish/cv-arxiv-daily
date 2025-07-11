@@ -1,4 +1,4 @@
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 
 ## super-resolution
 
@@ -26,7 +26,7 @@
 |**2025-07-04**|**Deepfakes in Criminal Investigations: Interdisciplinary Research Directions for CMC Research**|Lorenz Meinen et.al.|[2507.03457v1](http://arxiv.org/abs/2507.03457v1)|
 |**2025-07-04**|**De-Fake: Style based Anomaly Deepfake Detection**|Sudev Kumar Padhi et.al.|[2507.03334v1](http://arxiv.org/abs/2507.03334v1)|
 |**2025-07-03**|**Fair Deepfake Detectors Can Generalize**|Harry Cheng et.al.|[2507.02645v1](http://arxiv.org/abs/2507.02645v1)|
-|**2025-07-03**|**Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection**|Taehoon Kim et.al.|[2507.02398v1](http://arxiv.org/abs/2507.02398v1)|
+|**2025-07-03**|**Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection**|Taehoon Kim et.al.|[2507.02398v2](http://arxiv.org/abs/2507.02398v2)|
 |**2025-07-02**|**Generalizable Detection of Audio Deepfakes**|Jose A. Lopez et.al.|[2507.01750v1](http://arxiv.org/abs/2507.01750v1)|
 |**2025-07-02**|**DiffMark: Diffusion-based Robust Watermark Against Deepfakes**|Chen Sun et.al.|[2507.01428v1](http://arxiv.org/abs/2507.01428v1)|
 
