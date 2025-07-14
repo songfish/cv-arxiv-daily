@@ -1,4 +1,4 @@
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 
 ## super-resolution
 
@@ -95,7 +95,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2025-07-10**|**SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment**|Guoxin Zang et.al.|[2507.07939v1](http://arxiv.org/abs/2507.07939v1)|
-|**2025-07-10**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879v1](http://arxiv.org/abs/2507.07879v1)|
+|**2025-07-10**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879v2](http://arxiv.org/abs/2507.07879v2)|
 |**2025-07-10**|**3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing**|Paul McHard et.al.|[2507.07838v1](http://arxiv.org/abs/2507.07838v1)|
 |**2025-07-10**|**Adaptive Gaussian Mixture Models-based Anomaly Detection for under-constrained Cable-Driven Parallel Robots**|Julio Garrido et.al.|[2507.07714v1](http://arxiv.org/abs/2507.07714v1)|
 |**2025-07-10**|**NexViTAD: Few-shot Unsupervised Cross-Domain Defect Detection via Vision Foundation Models and Multi-Task Learning**|Tianwei Mu et.al.|[2507.07579v1](http://arxiv.org/abs/2507.07579v1)|
