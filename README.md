@@ -1,4 +1,4 @@
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 
 ## super-resolution
 
@@ -23,9 +23,9 @@
 |**2025-07-09**|**Open-Set Source Tracing of Audio Deepfake Systems**|Nicholas Klein et.al.|[2507.06470v1](http://arxiv.org/abs/2507.06470v1)|
 |**2025-07-08**|**Ensemble-Based Deepfake Detection using State-of-the-Art Models with Robust Cross-Dataset Generalisation**|Haroon Wahab et.al.|[2507.05996v1](http://arxiv.org/abs/2507.05996v1)|
 |**2025-07-07**|**CorrDetail: Visual Detail Enhanced Self-Correction for Face Forgery Detection**|Binjia Zhou et.al.|[2507.05302v1](http://arxiv.org/abs/2507.05302v1)|
-|**2025-07-04**|**Robust Localization of Partially Fake Speech: Metrics, Models, and Out-of-Domain Evaluation**|Hieu-Thi Luong et.al.|[2507.03468v1](http://arxiv.org/abs/2507.03468v1)|
+|**2025-07-04**|**Robust Localization of Partially Fake Speech: Metrics, Models, and Out-of-Domain Evaluation**|Hieu-Thi Luong et.al.|[2507.03468v2](http://arxiv.org/abs/2507.03468v2)|
 |**2025-07-04**|**Deepfakes in Criminal Investigations: Interdisciplinary Research Directions for CMC Research**|Lorenz Meinen et.al.|[2507.03457v1](http://arxiv.org/abs/2507.03457v1)|
-|**2025-07-04**|**De-Fake: Style based Anomaly Deepfake Detection**|Sudev Kumar Padhi et.al.|[2507.03334v1](http://arxiv.org/abs/2507.03334v1)|
+|**2025-07-04**|**De-Fake: Style based Anomaly Deepfake Detection**|Sudev Kumar Padhi et.al.|[2507.03334v2](http://arxiv.org/abs/2507.03334v2)|
 |**2025-07-03**|**Fair Deepfake Detectors Can Generalize**|Harry Cheng et.al.|[2507.02645v1](http://arxiv.org/abs/2507.02645v1)|
 |**2025-07-03**|**Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection**|Taehoon Kim et.al.|[2507.02398v2](http://arxiv.org/abs/2507.02398v2)|
 |**2025-07-02**|**Generalizable Detection of Audio Deepfakes**|Jose A. Lopez et.al.|[2507.01750v1](http://arxiv.org/abs/2507.01750v1)|
