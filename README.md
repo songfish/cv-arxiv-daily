@@ -1,4 +1,4 @@
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 
 ## super-resolution
 
@@ -35,7 +35,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2025-07-14**|**Privacy-Preserving Multi-Stage Fall Detection Framework with Semi-supervised Federated Learning and Robotic Vision Confirmation**|Seyed Alireza Rahimi Azghadi et.al.|[2507.10474v1](http://arxiv.org/abs/2507.10474v1)|
-|**2025-07-14**|**Efficient Federated Learning with Heterogeneous Data and Adaptive Dropout**|Ji Liu et.al.|[2507.10430v1](http://arxiv.org/abs/2507.10430v1)|
+|**2025-07-14**|**Efficient Federated Learning with Heterogeneous Data and Adaptive Dropout**|Ji Liu et.al.|[2507.10430v2](http://arxiv.org/abs/2507.10430v2)|
 |**2025-07-14**|**Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning**|Yichen Li et.al.|[2507.10348v1](http://arxiv.org/abs/2507.10348v1)|
 |**2025-07-14**|**Convergence of Agnostic Federated Averaging**|Herlock et.al.|[2507.10325v1](http://arxiv.org/abs/2507.10325v1)|
 |**2025-07-14**|**HASSLE: A Self-Supervised Learning Enhanced Hijacking Attack on Vertical Federated Learning**|Weiyang He et.al.|[2507.10162v1](http://arxiv.org/abs/2507.10162v1)|
@@ -55,7 +55,7 @@
 |**2025-07-12**|**Optimal Differentially Private Ranking from Pairwise Comparisons**|T. Tony Cai et.al.|[2507.09388v1](http://arxiv.org/abs/2507.09388v1)|
 |**2025-07-10**|**Beyond the Worst Case: Extending Differential Privacy Guarantees to Realistic Adversaries**|Marika Swanberg et.al.|[2507.08158v1](http://arxiv.org/abs/2507.08158v1)|
 |**2025-07-10**|**An Enhanced Privacy-preserving Federated Few-shot Learning Framework for Respiratory Disease Diagnosis**|Ming Wang et.al.|[2507.08050v1](http://arxiv.org/abs/2507.08050v1)|
-|**2025-07-10**|**Secure Cooperative Gradient Coding: Optimality, Reliability, and Global Privacy**|Shudi Weng et.al.|[2507.07565v1](http://arxiv.org/abs/2507.07565v1)|
+|**2025-07-10**|**Secure Cooperative Gradient Coding: Optimality, Reliability, and Global Privacy**|Shudi Weng et.al.|[2507.07565v2](http://arxiv.org/abs/2507.07565v2)|
 |**2025-07-09**|**Optimizing Communication and Device Clustering for Clustered Federated Learning with Differential Privacy**|Dongyu Wei et.al.|[2507.07320v1](http://arxiv.org/abs/2507.07320v1)|
 |**2025-07-09**|**Non-Asymptotic Analysis of Online Local Private Learning with SGD**|Enze Shi et.al.|[2507.07041v1](http://arxiv.org/abs/2507.07041v1)|
 |**2025-07-09**|**Unifying Re-Identification, Attribute Inference, and Data Reconstruction Risks in Differential Privacy**|Bogdan Kulynych et.al.|[2507.06969v1](http://arxiv.org/abs/2507.06969v1)|
