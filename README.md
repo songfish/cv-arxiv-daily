@@ -1,4 +1,4 @@
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 
 ## super-resolution
 
@@ -43,7 +43,7 @@
 |**2025-07-14**|**Convergence of Agnostic Federated Averaging**|Herlock et.al.|[2507.10325v1](http://arxiv.org/abs/2507.10325v1)|
 |**2025-07-14**|**HASSLE: A Self-Supervised Learning Enhanced Hijacking Attack on Vertical Federated Learning**|Weiyang He et.al.|[2507.10162v1](http://arxiv.org/abs/2507.10162v1)|
 |**2025-07-14**|**Domain Borders Are There to Be Crossed With Federated Few-Shot Adaptation**|Manuel Röder et.al.|[2507.10160v1](http://arxiv.org/abs/2507.10160v1)|
-|**2025-07-14**|**MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping**|Obaidullah Zaland et.al.|[2507.10158v1](http://arxiv.org/abs/2507.10158v1)|
+|**2025-07-14**|**MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping**|Obaidullah Zaland et.al.|[2507.10158v2](http://arxiv.org/abs/2507.10158v2)|
 
 ## Differential Privacy
 
