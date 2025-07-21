@@ -34,6 +34,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-18**|**FedSkipTwin: Digital-Twin-Guided Client Skipping for Communication-Efficient Federated Learning**|Daniel Commey et.al.|[2507.13624v1](http://arxiv.org/abs/2507.13624v1)|
+|**2025-07-18**|**FuSeFL: Fully Secure and Scalable Cross-Silo Federated Learning**|Sahar Ghoflsaz Ghinani et.al.|[2507.13591v1](http://arxiv.org/abs/2507.13591v1)|
 |**2025-07-17**|**A Crowdsensing Intrusion Detection Dataset For Decentralized Federated Learning Models**|Chao Feng et.al.|[2507.13313v1](http://arxiv.org/abs/2507.13313v1)|
 |**2025-07-17**|**FedGA: A Fair Federated Learning Framework Based on the Gini Coefficient**|ShanBin Liu et.al.|[2507.12983v1](http://arxiv.org/abs/2507.12983v1)|
 |**2025-07-17**|**A Distributed Generative AI Approach for Heterogeneous Multi-Domain Environments under Data Sharing constraints**|Youssef Tawfilis et.al.|[2507.12979v1](http://arxiv.org/abs/2507.12979v1)|
@@ -42,13 +44,14 @@
 |**2025-07-16**|**Safeguarding Federated Learning-based Road Condition Classification**|Sheng Liu et.al.|[2507.12568v1](http://arxiv.org/abs/2507.12568v1)|
 |**2025-07-16**|**A Bayesian Incentive Mechanism for Poison-Resilient Federated Learning**|Daniel Commey et.al.|[2507.12439v1](http://arxiv.org/abs/2507.12439v1)|
 |**2025-07-16**|**Site-Level Fine-Tuning with Progressive Layer Freezing: Towards Robust Prediction of Bronchopulmonary Dysplasia from Day-1 Chest Radiographs in Extremely Preterm Infants**|Sybelle Goedicke-Fritz et.al.|[2507.12269v2](http://arxiv.org/abs/2507.12269v2)|
-|**2025-07-16**|**Self-Adaptive and Robust Federated Spectrum Sensing without Benign Majority for Cellular Networks**|Ngoc Duy Pham et.al.|[2507.12127v1](http://arxiv.org/abs/2507.12127v1)|
-|**2025-07-16**|**A Privacy-Preserving Framework for Advertising Personalization Incorporating Federated Learning and Differential Privacy**|Xiang Li et.al.|[2507.12098v1](http://arxiv.org/abs/2507.12098v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-18**|**Evaluation of Human Visual Privacy Protection: A Three-Dimensional Framework and Benchmark Dataset**|Sara Abdulaziz et.al.|[2507.13981v1](http://arxiv.org/abs/2507.13981v1)|
+|**2025-07-18**|**Differential Privacy in Kernelized Contextual Bandits via Random Projections**|Nikola Pavlovic et.al.|[2507.13639v1](http://arxiv.org/abs/2507.13639v1)|
+|**2025-07-18**|**FuSeFL: Fully Secure and Scalable Cross-Silo Federated Learning**|Sahar Ghoflsaz Ghinani et.al.|[2507.13591v1](http://arxiv.org/abs/2507.13591v1)|
 |**2025-07-16**|**A Privacy-Preserving Framework for Advertising Personalization Incorporating Federated Learning and Differential Privacy**|Xiang Li et.al.|[2507.12098v1](http://arxiv.org/abs/2507.12098v1)|
 |**2025-07-15**|**A Review of Privacy Metrics for Privacy-Preserving Synthetic Data Generation**|Frederik Marinus Trudslev et.al.|[2507.11324v1](http://arxiv.org/abs/2507.11324v1)|
 |**2025-07-15**|**Solving Linear Programs with Differential Privacy**|Alina Ene et.al.|[2507.10946v1](http://arxiv.org/abs/2507.10946v1)|
@@ -56,9 +59,6 @@
 |**2025-07-14**|**On the Performance of Differentially Private Optimization with Heavy-Tail Class Imbalance**|Qiaoyue Tang et.al.|[2507.10536v1](http://arxiv.org/abs/2507.10536v1)|
 |**2025-07-14**|**Differentially Private Federated Low Rank Adaptation Beyond Fixed-Matrix**|Ming Wen et.al.|[2507.09990v1](http://arxiv.org/abs/2507.09990v1)|
 |**2025-07-13**|**Interpreting Differential Privacy in Terms of Disclosure Risk**|Zeki Kazan et.al.|[2507.09699v1](http://arxiv.org/abs/2507.09699v1)|
-|**2025-07-12**|**Optimal Differentially Private Ranking from Pairwise Comparisons**|T. Tony Cai et.al.|[2507.09388v1](http://arxiv.org/abs/2507.09388v1)|
-|**2025-07-10**|**Beyond the Worst Case: Extending Differential Privacy Guarantees to Realistic Adversaries**|Marika Swanberg et.al.|[2507.08158v1](http://arxiv.org/abs/2507.08158v1)|
-|**2025-07-10**|**Secure Cooperative Gradient Coding: Optimality, Reliability, and Global Privacy**|Shudi Weng et.al.|[2507.07565v2](http://arxiv.org/abs/2507.07565v2)|
 
 ## Data Masking
 
@@ -94,16 +94,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-18**|**Unmasking Performance Gaps: A Comparative Study of Human Anonymization and Its Effects on Video Anomaly Detection**|Sara Abdulaziz et.al.|[2507.14083v1](http://arxiv.org/abs/2507.14083v1)|
+|**2025-07-18**|**Robust Anomaly Detection with Graph Neural Networks using Controllability**|Yifan Wei et.al.|[2507.13954v1](http://arxiv.org/abs/2507.13954v1)|
+|**2025-07-18**|**Efficient and Scalable Self-Healing Databases Using Meta-Learning and Dependency-Driven Recovery**|Joydeep Chandra et.al.|[2507.13757v1](http://arxiv.org/abs/2507.13757v1)|
+|**2025-07-18**|**Kolmogorov-Arnold Networks-based GRU and LSTM for Loan Default Early Prediction**|Yue Yang et.al.|[2507.13685v1](http://arxiv.org/abs/2507.13685v1)|
+|**2025-07-17**|**Theory-informed neural networks for particle physics**|Barry M. Dillon et.al.|[2507.13447v1](http://arxiv.org/abs/2507.13447v1)|
 |**2025-07-17**|**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**|Zi Wang et.al.|[2507.13110v1](http://arxiv.org/abs/2507.13110v1)|
 |**2025-07-17**|**Fault detection and diagnosis for the engine electrical system of a space launcher based on a temporal convolutional autoencoder and calibrated classifiers**|Luis Basora et.al.|[2507.13022v1](http://arxiv.org/abs/2507.13022v1)|
 |**2025-07-17**|**A Semi-Supervised Learning Method for the Identification of Bad Exposures in Large Imaging Surveys**|Yufeng Luo et.al.|[2507.12784v1](http://arxiv.org/abs/2507.12784v1)|
 |**2025-07-16**|**Text-ADBench: Text Anomaly Detection Benchmark based on LLMs Embedding**|Feng Xiao et.al.|[2507.12295v1](http://arxiv.org/abs/2507.12295v1)|
 |**2025-07-16**|**A Privacy-Preserving Framework for Advertising Personalization Incorporating Federated Learning and Differential Privacy**|Xiang Li et.al.|[2507.12098v1](http://arxiv.org/abs/2507.12098v1)|
-|**2025-07-16**|**MoViAD: Modular Visual Anomaly Detection**|Manuel Barusco et.al.|[2507.12049v1](http://arxiv.org/abs/2507.12049v1)|
-|**2025-07-15**|**Learning Representations of Event Time Series with Sparse Autoencoders for Anomaly Detection, Similarity Search, and Unsupervised Classification**|Steven Dillmann et.al.|[2507.11620v1](http://arxiv.org/abs/2507.11620v1)|
-|**2025-07-15**|**FlexCAST: Enabling Flexible Scientific Data Analyses**|Benjamin Nachman et.al.|[2507.11528v1](http://arxiv.org/abs/2507.11528v1)|
-|**2025-07-15**|**LogTinyLLM: Tiny Large Language Models Based Contextual Log Anomaly Detection**|Isaiah Thompson Ocansey et.al.|[2507.11071v1](http://arxiv.org/abs/2507.11071v1)|
-|**2025-07-15**|**Bridge Feature Matching and Cross-Modal Alignment with Mutual-filtering for Zero-shot Anomaly Detection**|Yuhu Bai et.al.|[2507.11003v1](http://arxiv.org/abs/2507.11003v1)|
 
 ## change detection
 
