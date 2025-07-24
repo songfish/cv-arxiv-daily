@@ -1,4 +1,4 @@
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 
 ## super-resolution
 
@@ -41,7 +41,7 @@
 |**2025-07-21**|**Challenges of Trustworthy Federated Learning: What's Done, Current Trends and Remaining Work**|Nuria Rodríguez-Barroso et.al.|[2507.15796v1](http://arxiv.org/abs/2507.15796v1)|
 |**2025-07-21**|**Optimal Batch-Size Control for Low-Latency Federated Learning with Device Heterogeneity**|Huiling Yang et.al.|[2507.15601v1](http://arxiv.org/abs/2507.15601v1)|
 |**2025-07-21**|**FedMultiEmo: Real-Time Emotion Recognition via Multimodal Federated Learning**|Baran Can Gül et.al.|[2507.15470v2](http://arxiv.org/abs/2507.15470v2)|
-|**2025-07-21**|**Privacy-Preserving Multimodal News Recommendation through Federated Learning**|Mehdi Khalaj et.al.|[2507.15460v2](http://arxiv.org/abs/2507.15460v2)|
+|**2025-07-21**|**Privacy-Preserving Multimodal News Recommendation through Federated Learning**|Mehdi Khalaj et.al.|[2507.15460v3](http://arxiv.org/abs/2507.15460v3)|
 |**2025-07-21**|**Scaling Decentralized Learning with FLock**|Zehua Cheng et.al.|[2507.15349v1](http://arxiv.org/abs/2507.15349v1)|
 |**2025-07-21**|**Optimal Transceiver Design in Over-the-Air Federated Distillation**|Zihao Hu et.al.|[2507.15256v1](http://arxiv.org/abs/2507.15256v1)|
 
