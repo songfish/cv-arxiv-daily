@@ -1,4 +1,4 @@
-## Updated on 2025.07.24
+## Updated on 2025.07.25
 
 ## super-resolution
 
@@ -21,7 +21,7 @@
 |---|---|---|---|
 |**2025-07-22**|**Towards Trustworthy AI: Secure Deepfake Detection using CNNs and Zero-Knowledge Proofs**|H M Mohaimanul Islam et.al.|[2507.17010v1](http://arxiv.org/abs/2507.17010v1)|
 |**2025-07-22**|**A Multimodal Deviation Perceiving Framework for Weakly-Supervised Temporal Forgery Localization**|Wenbo Xu et.al.|[2507.16596v1](http://arxiv.org/abs/2507.16596v1)|
-|**2025-07-22**|**LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech**|Xuechen Liu et.al.|[2507.16220v1](http://arxiv.org/abs/2507.16220v1)|
+|**2025-07-22**|**LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech**|Xuechen Liu et.al.|[2507.16220v2](http://arxiv.org/abs/2507.16220v2)|
 |**2025-07-21**|**Uncovering Critical Features for Deepfake Detection through the Lottery Ticket Hypothesis**|Lisan Al Amin et.al.|[2507.15636v1](http://arxiv.org/abs/2507.15636v1)|
 |**2025-07-20**|**Frame-level Temporal Difference Learning for Partial Deepfake Speech Detection**|Menglu Li et.al.|[2507.15101v1](http://arxiv.org/abs/2507.15101v1)|
 |**2025-07-20**|**Seeing Through Deepfakes: A Human-Inspired Framework for Multi-Face Detection**|Juan Hu et.al.|[2507.14807v1](http://arxiv.org/abs/2507.14807v1)|
