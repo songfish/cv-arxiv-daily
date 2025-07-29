@@ -19,36 +19,37 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-28**|**Watermarking Large Language Model-based Time Series Forecasting**|Wei Yuan et.al.|[2507.20762v1](http://arxiv.org/abs/2507.20762v1)|
+|**2025-07-28**|**Enhanced Deep Learning DeepFake Detection Integrating Handcrafted Features**|Alejandro Hinke-Navarro et.al.|[2507.20608v1](http://arxiv.org/abs/2507.20608v1)|
+|**2025-07-28**|**AV-Deepfake1M++: A Large-Scale Audio-Visual Deepfake Benchmark with Real-World Perturbations**|Zhixi Cai et.al.|[2507.20579v1](http://arxiv.org/abs/2507.20579v1)|
+|**2025-07-27**|**Two Views, One Truth: Spectral and Self-Supervised Features Fusion for Robust Speech Deepfake Detection**|Yassine El Kheir et.al.|[2507.20417v1](http://arxiv.org/abs/2507.20417v1)|
 |**2025-07-24**|**Deepfake Detection Via Facial Feature Extraction and Modeling**|Benjamin Carter et.al.|[2507.18815v1](http://arxiv.org/abs/2507.18815v1)|
 |**2025-07-24**|**ViGText: Deepfake Image Detection with Vision-Language Model Explanations and Graph Neural Networks**|Ahmad ALBarqawi et.al.|[2507.18031v1](http://arxiv.org/abs/2507.18031v1)|
 |**2025-07-24**|**Celeb-DF++: A Large-scale Challenging Video DeepFake Benchmark for Generalizable Forensics**|Yuezun Li et.al.|[2507.18015v1](http://arxiv.org/abs/2507.18015v1)|
 |**2025-07-22**|**Towards Trustworthy AI: Secure Deepfake Detection using CNNs and Zero-Knowledge Proofs**|H M Mohaimanul Islam et.al.|[2507.17010v1](http://arxiv.org/abs/2507.17010v1)|
 |**2025-07-22**|**A Multimodal Deviation Perceiving Framework for Weakly-Supervised Temporal Forgery Localization**|Wenbo Xu et.al.|[2507.16596v1](http://arxiv.org/abs/2507.16596v1)|
 |**2025-07-22**|**LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech**|Xuechen Liu et.al.|[2507.16220v2](http://arxiv.org/abs/2507.16220v2)|
-|**2025-07-21**|**Uncovering Critical Features for Deepfake Detection through the Lottery Ticket Hypothesis**|Lisan Al Amin et.al.|[2507.15636v1](http://arxiv.org/abs/2507.15636v1)|
-|**2025-07-20**|**Frame-level Temporal Difference Learning for Partial Deepfake Speech Detection**|Menglu Li et.al.|[2507.15101v1](http://arxiv.org/abs/2507.15101v1)|
-|**2025-07-20**|**Seeing Through Deepfakes: A Human-Inspired Framework for Multi-Face Detection**|Juan Hu et.al.|[2507.14807v1](http://arxiv.org/abs/2507.14807v1)|
-|**2025-07-18**|**Rethinking Individual Fairness in Deepfake Detection**|Aryana Hou et.al.|[2507.14326v1](http://arxiv.org/abs/2507.14326v1)|
 
 ## federated learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-07-25**|**A New One-Shot Federated Learning Framework for Medical Imaging Classification with Feature-Guided Rectified Flow and Knowledge Distillation**|Yufei Ma et.al.|[2507.19045v1](http://arxiv.org/abs/2507.19045v1)|
-|**2025-07-25**|**Adapting to Fragmented and Evolving Data: A Fisher Information Perspective**|Behraj Khan et.al.|[2507.18996v1](http://arxiv.org/abs/2507.18996v1)|
-|**2025-07-23**|**VGS-ATD: Robust Distributed Learning for Multi-Label Medical Image Classification Under Heterogeneous and Imbalanced Conditions**|Zehui Zhao et.al.|[2507.18657v2](http://arxiv.org/abs/2507.18657v2)|
-|**2025-07-24**|**FedSA-GCL: A Semi-Asynchronous Federated Graph Learning Framework with Personalized Aggregation and Cluster-Aware Broadcasting**|Zhongzheng Yuan et.al.|[2507.18219v1](http://arxiv.org/abs/2507.18219v1)|
-|**2025-07-23**|**Federated Learning for Large-Scale Cloud Robotic Manipulation: Opportunities and Challenges**|Obaidullah Zaland et.al.|[2507.17903v1](http://arxiv.org/abs/2507.17903v1)|
-|**2025-07-23**|**Enhancing Quantum Federated Learning with Fisher Information-Based Optimization**|Amandeep Singh Bhatia et.al.|[2507.17580v1](http://arxiv.org/abs/2507.17580v1)|
-|**2025-07-23**|**Federated Majorize-Minimization: Beyond Parameter Aggregation**|Aymeric Dieuleveut et.al.|[2507.17534v1](http://arxiv.org/abs/2507.17534v1)|
-|**2025-07-23**|**Decentralized Federated Learning of Probabilistic Generative Classifiers**|Aritz Pérez et.al.|[2507.17285v1](http://arxiv.org/abs/2507.17285v1)|
-|**2025-07-23**|**Eco-Friendly AI: Unleashing Data Power for Green Federated Learning**|Mattia Sabella et.al.|[2507.17241v1](http://arxiv.org/abs/2507.17241v1)|
-|**2025-07-23**|**FedVLM: Scalable Personalized Vision-Language Models through Federated Learning**|Arkajyoti Mitra et.al.|[2507.17088v1](http://arxiv.org/abs/2507.17088v1)|
+|**2025-07-28**|**\textit{FedABC}: Attention-Based Client Selection for Federated Learning with Long-Term View**|Wenxuan Ye et.al.|[2507.20871v1](http://arxiv.org/abs/2507.20871v1)|
+|**2025-07-28**|**DAG-AFL:Directed Acyclic Graph-based Asynchronous Federated Learning**|Shuaipeng Zhang et.al.|[2507.20571v1](http://arxiv.org/abs/2507.20571v1)|
+|**2025-07-28**|**FED-PsyAU: Privacy-Preserving Micro-Expression Recognition via Psychological AU Coordination and Dynamic Facial Motion Modeling**|Jingting Li et.al.|[2507.20557v1](http://arxiv.org/abs/2507.20557v1)|
+|**2025-07-28**|**Next-Generation Quantum Neural Networks: Enhancing Efficiency, Security, and Privacy**|Nouhaila Innan et.al.|[2507.20537v1](http://arxiv.org/abs/2507.20537v1)|
+|**2025-07-26**|**ModShift: Model Privacy via Designed Shifts**|Nomaan A. Kherani et.al.|[2507.20060v1](http://arxiv.org/abs/2507.20060v1)|
+|**2025-07-26**|**FedSWA: Improving Generalization in Federated Learning with Highly Heterogeneous Data via Momentum-Based Stochastic Controlled Weight Averaging**|Liu junkang et.al.|[2507.20016v1](http://arxiv.org/abs/2507.20016v1)|
+|**2025-07-26**|**Policy-Driven AI in Dataspaces: Taxonomy, Explainability, and Pathways for Compliant Innovation**|Joydeep Chandra et.al.|[2507.20014v1](http://arxiv.org/abs/2507.20014v1)|
+|**2025-07-26**|**Who Owns This Sample: Cross-Client Membership Inference Attack in Federated Graph Neural Networks**|Kunhao Li et.al.|[2507.19964v1](http://arxiv.org/abs/2507.19964v1)|
+|**2025-07-26**|**FedS2R: One-Shot Federated Domain Generalization for Synthetic-to-Real Semantic Segmentation in Autonomous Driving**|Tao Lian et.al.|[2507.19881v1](http://arxiv.org/abs/2507.19881v1)|
+|**2025-07-26**|**Debunking Optimization Myths in Federated Learning for Medical Image Classification**|Youngjoon Lee et.al.|[2507.19822v1](http://arxiv.org/abs/2507.19822v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-26**|**Policy-Driven AI in Dataspaces: Taxonomy, Explainability, and Pathways for Compliant Innovation**|Joydeep Chandra et.al.|[2507.20014v1](http://arxiv.org/abs/2507.20014v1)|
 |**2025-07-25**|**Graph Structure Learning with Privacy Guarantees for Open Graph Data**|Muhao Guo et.al.|[2507.19116v1](http://arxiv.org/abs/2507.19116v1)|
 |**2025-07-24**|**RecPS: Privacy Risk Scoring for Recommender Systems**|Jiajie He et.al.|[2507.18365v1](http://arxiv.org/abs/2507.18365v1)|
 |**2025-07-23**|**Optimal differentially private kernel learning with random projection**|Bonwoo Lee et.al.|[2507.17544v1](http://arxiv.org/abs/2507.17544v1)|
@@ -58,7 +59,6 @@
 |**2025-07-21**|**Multi-Stage Prompt Inference Attacks on Enterprise LLM Systems**|Andrii Balashov et.al.|[2507.15613v1](http://arxiv.org/abs/2507.15613v1)|
 |**2025-07-18**|**Evaluation of Human Visual Privacy Protection: A Three-Dimensional Framework and Benchmark Dataset**|Sara Abdulaziz et.al.|[2507.13981v1](http://arxiv.org/abs/2507.13981v1)|
 |**2025-07-18**|**Differential Privacy in Kernelized Contextual Bandits via Random Projections**|Nikola Pavlovic et.al.|[2507.13639v1](http://arxiv.org/abs/2507.13639v1)|
-|**2025-07-18**|**FuSeFL: Fully Secure and Scalable Cross-Silo Federated Learning**|Sahar Ghoflsaz Ghinani et.al.|[2507.13591v1](http://arxiv.org/abs/2507.13591v1)|
 
 ## Data Masking
 
@@ -94,16 +94,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-28**|**A Multimodal Architecture for Endpoint Position Prediction in Team-based Multiplayer Games**|Jonas Peche et.al.|[2507.20670v1](http://arxiv.org/abs/2507.20670v1)|
+|**2025-07-28**|**DAMS:Dual-Branch Adaptive Multiscale Spatiotemporal Framework for Video Anomaly Detection**|Dezhi An et.al.|[2507.20629v1](http://arxiv.org/abs/2507.20629v1)|
+|**2025-07-27**|**WBHT: A Generative Attention Architecture for Detecting Black Hole Anomalies in Backbone Networks**|Kiymet Kaya et.al.|[2507.20373v1](http://arxiv.org/abs/2507.20373v1)|
+|**2025-07-26**|**$K^4$: Online Log Anomaly Detection Via Unsupervised Typicality Learning**|Weicong Chen et.al.|[2507.20051v1](http://arxiv.org/abs/2507.20051v1)|
+|**2025-07-26**|**Anomaly Detection in Human Language via Meta-Learning: A Few-Shot Approach**|Saurav Singla et.al.|[2507.20019v1](http://arxiv.org/abs/2507.20019v1)|
+|**2025-07-26**|**AF-CLIP: Zero-Shot Anomaly Detection via Anomaly-Focused CLIP Adaptation**|Qingqing Fang et.al.|[2507.19949v1](http://arxiv.org/abs/2507.19949v1)|
+|**2025-07-26**|**From Few-Label to Zero-Label: An Approach for Cross-System Log-Based Anomaly Detection with Meta-Learning**|Xinlong Zhao et.al.|[2507.19806v1](http://arxiv.org/abs/2507.19806v1)|
 |**2025-07-25**|**SILS: Strategic Influence on Liquidity Stability and Whale Detection in Concentrated-Liquidity DEXs**|Ali RajabiNekoo et.al.|[2507.19411v1](http://arxiv.org/abs/2507.19411v1)|
 |**2025-07-25**|**BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection**|An Xiang et.al.|[2507.19253v1](http://arxiv.org/abs/2507.19253v1)|
 |**2025-07-25**|**SP-Mamba: Spatial-Perception State Space Model for Unsupervised Medical Anomaly Detection**|Rui Pan et.al.|[2507.19076v1](http://arxiv.org/abs/2507.19076v1)|
-|**2025-07-24**|**Third-Party Assessment of Mobile Performance in the 5G Era**|ASM Rizvi et.al.|[2507.18834v1](http://arxiv.org/abs/2507.18834v1)|
-|**2025-07-24**|**Bridging Cloud Convenience and Protocol Transparency: A Hybrid Architecture for Ethereum Node Operations on Amazon Managed Blockchain**|S M Mostaq Hossain et.al.|[2507.18774v1](http://arxiv.org/abs/2507.18774v1)|
-|**2025-07-24**|**Gait Recognition Based on Tiny ML and IMU Sensors**|Jiahang Zhang et.al.|[2507.18627v1](http://arxiv.org/abs/2507.18627v1)|
-|**2025-07-24**|**Q-Former Autoencoder: A Modern Framework for Medical Anomaly Detection**|Francesco Dalmonte et.al.|[2507.18481v1](http://arxiv.org/abs/2507.18481v1)|
-|**2025-07-24**|**Multimodal Behavioral Patterns Analysis with Eye-Tracking and LLM-Based Reasoning**|Dongyang Guo et.al.|[2507.18252v1](http://arxiv.org/abs/2507.18252v1)|
-|**2025-07-23**|**ARCADE: A RAN Diagnosis Methodology in a Hybrid AI Environment for 6G Networks**|Daniel Ricardo Cunha Oliveira et.al.|[2507.17861v1](http://arxiv.org/abs/2507.17861v1)|
-|**2025-07-23**|**CoCAI: Copula-based Conformal Anomaly Identification for Multivariate Time-Series**|Nicholas A. Pearson et.al.|[2507.17796v1](http://arxiv.org/abs/2507.17796v1)|
 
 ## change detection
 
