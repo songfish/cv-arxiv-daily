@@ -1,4 +1,4 @@
-## Updated on 2025.07.28
+## Updated on 2025.07.29
 
 ## super-resolution
 
@@ -36,7 +36,7 @@
 |---|---|---|---|
 |**2025-07-25**|**A New One-Shot Federated Learning Framework for Medical Imaging Classification with Feature-Guided Rectified Flow and Knowledge Distillation**|Yufei Ma et.al.|[2507.19045v1](http://arxiv.org/abs/2507.19045v1)|
 |**2025-07-25**|**Adapting to Fragmented and Evolving Data: A Fisher Information Perspective**|Behraj Khan et.al.|[2507.18996v1](http://arxiv.org/abs/2507.18996v1)|
-|**2025-07-23**|**VGS-ATD: Robust Distributed Learning for Multi-Label Medical Image Classification Under Heterogeneous and Imbalanced Conditions**|Zehui Zhao et.al.|[2507.18657v1](http://arxiv.org/abs/2507.18657v1)|
+|**2025-07-23**|**VGS-ATD: Robust Distributed Learning for Multi-Label Medical Image Classification Under Heterogeneous and Imbalanced Conditions**|Zehui Zhao et.al.|[2507.18657v2](http://arxiv.org/abs/2507.18657v2)|
 |**2025-07-24**|**FedSA-GCL: A Semi-Asynchronous Federated Graph Learning Framework with Personalized Aggregation and Cluster-Aware Broadcasting**|Zhongzheng Yuan et.al.|[2507.18219v1](http://arxiv.org/abs/2507.18219v1)|
 |**2025-07-23**|**Federated Learning for Large-Scale Cloud Robotic Manipulation: Opportunities and Challenges**|Obaidullah Zaland et.al.|[2507.17903v1](http://arxiv.org/abs/2507.17903v1)|
 |**2025-07-23**|**Enhancing Quantum Federated Learning with Fisher Information-Based Optimization**|Amandeep Singh Bhatia et.al.|[2507.17580v1](http://arxiv.org/abs/2507.17580v1)|
