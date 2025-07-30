@@ -1,4 +1,4 @@
-## Updated on 2025.07.29
+## Updated on 2025.07.30
 
 ## super-resolution
 
@@ -51,7 +51,7 @@
 |---|---|---|---|
 |**2025-07-26**|**Policy-Driven AI in Dataspaces: Taxonomy, Explainability, and Pathways for Compliant Innovation**|Joydeep Chandra et.al.|[2507.20014v1](http://arxiv.org/abs/2507.20014v1)|
 |**2025-07-25**|**Graph Structure Learning with Privacy Guarantees for Open Graph Data**|Muhao Guo et.al.|[2507.19116v1](http://arxiv.org/abs/2507.19116v1)|
-|**2025-07-24**|**RecPS: Privacy Risk Scoring for Recommender Systems**|Jiajie He et.al.|[2507.18365v1](http://arxiv.org/abs/2507.18365v1)|
+|**2025-07-24**|**RecPS: Privacy Risk Scoring for Recommender Systems**|Jiajie He et.al.|[2507.18365v2](http://arxiv.org/abs/2507.18365v2)|
 |**2025-07-23**|**Optimal differentially private kernel learning with random projection**|Bonwoo Lee et.al.|[2507.17544v1](http://arxiv.org/abs/2507.17544v1)|
 |**2025-07-23**|**Frequency Estimation of Correlated Multi-attribute Data under Local Differential Privacy**|Shafizur Rahman Seeam et.al.|[2507.17516v1](http://arxiv.org/abs/2507.17516v1)|
 |**2025-07-23**|**A Privacy-Preserving Data Collection Method for Diversified Statistical Analysis**|Hao Jiang et.al.|[2507.17180v1](http://arxiv.org/abs/2507.17180v1)|
