@@ -1,4 +1,4 @@
-## Updated on 2025.08.03
+## Updated on 2025.08.04
 
 ## super-resolution
 
@@ -39,7 +39,7 @@
 |**2025-07-30**|**FLOSS: Federated Learning with Opt-Out and Straggler Support**|David J Goetze et.al.|[2507.23115v1](http://arxiv.org/abs/2507.23115v1)|
 |**2025-07-30**|**FedCVD++: Communication-Efficient Federated Learning for Cardiovascular Risk Prediction with Parametric and Non-Parametric Model Optimization**|Abdelrhman Gaber et.al.|[2507.22963v1](http://arxiv.org/abs/2507.22963v1)|
 |**2025-07-30**|**Federated Learning on Riemannian Manifolds: A Gradient-Free Projection-Based Approach**|Hongye Wang et.al.|[2507.22855v1](http://arxiv.org/abs/2507.22855v1)|
-|**2025-07-30**|**Optimizing Federated Learning Configurations for MRI Prostate Segmentation and Cancer Detection: A Simulation Study**|Ashkan Moradi et.al.|[2507.22790v1](http://arxiv.org/abs/2507.22790v1)|
+|**2025-07-30**|**Optimizing Federated Learning Configurations for MRI Prostate Segmentation and Cancer Detection: A Simulation Study**|Ashkan Moradi et.al.|[2507.22790v2](http://arxiv.org/abs/2507.22790v2)|
 |**2025-07-30**|**Proto-EVFL: Enhanced Vertical Federated Learning via Dual Prototype with Extremely Unaligned Data**|Wei Guo et.al.|[2507.22488v1](http://arxiv.org/abs/2507.22488v1)|
 |**2025-07-30**|**A Semi-Supervised Federated Learning Framework with Hierarchical Clustering Aggregation for Heterogeneous Satellite Networks**|Zhuocheng Liu et.al.|[2507.22339v1](http://arxiv.org/abs/2507.22339v1)|
 |**2025-07-30**|**Hypernetworks for Model-Heterogeneous Personalized Federated Learning**|Chen Zhang et.al.|[2507.22330v1](http://arxiv.org/abs/2507.22330v1)|
@@ -58,7 +58,7 @@
 |**2025-07-29**|**Factorization by extremal privacy mechanisms: new insights into efficiency**|Chiara Amorino et.al.|[2507.21769v1](http://arxiv.org/abs/2507.21769v1)|
 |**2025-07-26**|**Policy-Driven AI in Dataspaces: Taxonomy, Explainability, and Pathways for Compliant Innovation**|Joydeep Chandra et.al.|[2507.20014v2](http://arxiv.org/abs/2507.20014v2)|
 |**2025-07-25**|**Graph Structure Learning with Privacy Guarantees for Open Graph Data**|Muhao Guo et.al.|[2507.19116v1](http://arxiv.org/abs/2507.19116v1)|
-|**2025-07-24**|**RecPS: Privacy Risk Scoring for Recommender Systems**|Jiajie He et.al.|[2507.18365v2](http://arxiv.org/abs/2507.18365v2)|
+|**2025-07-24**|**RecPS: Privacy Risk Scoring for Recommender Systems**|Jiajie He et.al.|[2507.18365v3](http://arxiv.org/abs/2507.18365v3)|
 
 ## Data Masking
 
@@ -101,7 +101,7 @@
 |**2025-07-30**|**OFCnetLLM: Large Language Model for Network Monitoring and Alertness**|Hong-Jun Yoon et.al.|[2507.22711v1](http://arxiv.org/abs/2507.22711v1)|
 |**2025-07-30**|**Zero-Shot Image Anomaly Detection Using Generative Foundation Models**|Lemar Abdi et.al.|[2507.22692v1](http://arxiv.org/abs/2507.22692v1)|
 |**2025-07-30**|**Explainable Deep Anomaly Detection with Sequential Hypothesis Testing for Robotic Sewer Inspection**|Alex George et.al.|[2507.22546v1](http://arxiv.org/abs/2507.22546v1)|
-|**2025-07-29**|**Edge Agentic AI Framework for Autonomous Network Optimisation in O-RAN**|Abdelaziz Salama et.al.|[2507.21696v1](http://arxiv.org/abs/2507.21696v1)|
+|**2025-07-29**|**Edge Agentic AI Framework for Autonomous Network Optimisation in O-RAN**|Abdelaziz Salama et.al.|[2507.21696v2](http://arxiv.org/abs/2507.21696v2)|
 |**2025-07-29**|**The Evolution of Video Anomaly Detection: A Unified Framework from DNN to MLLM**|Shibo Gao et.al.|[2507.21649v1](http://arxiv.org/abs/2507.21649v1)|
 |**2025-07-29**|**GUARD-CAN: Graph-Understanding and Recurrent Architecture for CAN Anomaly Detection**|Hyeong Seon Kim et.al.|[2507.21640v1](http://arxiv.org/abs/2507.21640v1)|
 
