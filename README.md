@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-08-06**|**ESDD 2026: Environmental Sound Deepfake Detection Challenge Evaluation Plan**|Han Yin et.al.|[2508.04529v1](http://arxiv.org/abs/2508.04529v1)|
+|**2025-08-06**|**RAIDX: A Retrieval-Augmented Generation and GRPO Reinforcement Learning Framework for Explainable Deepfake Detection**|Tianxiao Li et.al.|[2508.04524v1](http://arxiv.org/abs/2508.04524v1)|
+|**2025-08-06**|**Multilingual Source Tracing of Speech Deepfakes: A First Benchmark**|Xi Xuan et.al.|[2508.04143v1](http://arxiv.org/abs/2508.04143v1)|
 |**2025-08-05**|**Untraceable DeepFakes via Traceable Fingerprint Elimination**|Jiewei Lai et.al.|[2508.03067v1](http://arxiv.org/abs/2508.03067v1)|
 |**2025-08-04**|**Towards Reliable Audio Deepfake Attribution and Model Recognition: A Multi-Level Autoencoder-Based Framework**|Andrea Di Pierno et.al.|[2508.02521v1](http://arxiv.org/abs/2508.02521v1)|
 |**2025-08-04**|**Weakly Supervised Multimodal Temporal Forgery Localization via Multitask Learning**|Wenbo Xu et.al.|[2508.02179v1](http://arxiv.org/abs/2508.02179v1)|
@@ -26,29 +29,29 @@
 |**2025-08-03**|**Effect of AI Performance, Risk Perception, and Trust on Human Dependence in Deepfake Detection AI system**|Yingfan Zhou et.al.|[2508.01906v1](http://arxiv.org/abs/2508.01906v1)|
 |**2025-08-03**|**Generalizable Audio Deepfake Detection via Hierarchical Structure Learning and Feature Whitening in Poincaré sphere**|Mingru Yang et.al.|[2508.01897v1](http://arxiv.org/abs/2508.01897v1)|
 |**2025-08-03**|**DiffusionFF: Face Forgery Detection via Diffusion-based Artifact Localization**|Siran Peng et.al.|[2508.01873v1](http://arxiv.org/abs/2508.01873v1)|
-|**2025-08-02**|**Multi-Granularity Adaptive Time-Frequency Attention Framework for Audio Deepfake Detection under Real-World Communication Degradations**|Haohan Shi et.al.|[2508.01467v1](http://arxiv.org/abs/2508.01467v1)|
-|**2025-08-01**|**Fusion of Modulation Spectrogram and SSL with Multi-head Attention for Fake Speech Detection**|Rishith Sadashiv T N et.al.|[2508.01034v1](http://arxiv.org/abs/2508.01034v1)|
-|**2025-08-01**|**Unraveling Hidden Representations: A Multi-Modal Layer Analysis for Better Synthetic Content Forensics**|Tom Or et.al.|[2508.00784v1](http://arxiv.org/abs/2508.00784v1)|
 
 ## federated learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-08-06**|**Channel-Independent Federated Traffic Prediction**|Mo Zhang et.al.|[2508.04517v1](http://arxiv.org/abs/2508.04517v1)|
+|**2025-08-06**|**FedHiP: Heterogeneity-Invariant Personalized Federated Learning Through Closed-Form Solutions**|Jianheng Tang et.al.|[2508.04470v1](http://arxiv.org/abs/2508.04470v1)|
+|**2025-08-06**|**Per-element Secure Aggregation against Data Reconstruction Attacks in Federated Learning**|Takumi Suimon et.al.|[2508.04285v1](http://arxiv.org/abs/2508.04285v1)|
+|**2025-08-06**|**SelectiveShield: Lightweight Hybrid Defense Against Gradient Leakage in Federated Learning**|Borui Li et.al.|[2508.04265v1](http://arxiv.org/abs/2508.04265v1)|
+|**2025-08-06**|**Evaluating Selective Encryption Against Gradient Inversion Attacks**|Jiajun Gu et.al.|[2508.04155v1](http://arxiv.org/abs/2508.04155v1)|
+|**2025-08-06**|**SenseCrypt: Sensitivity-guided Selective Homomorphic Encryption for Joint Federated Learning in Cross-Device Scenarios**|Borui Li et.al.|[2508.04100v1](http://arxiv.org/abs/2508.04100v1)|
+|**2025-08-06**|**FLAT: Latent-Driven Arbitrary-Target Backdoor Attacks in Federated Learning**|Tuan Nguyen et.al.|[2508.04064v1](http://arxiv.org/abs/2508.04064v1)|
+|**2025-08-06**|**FeDaL: Federated Dataset Learning for Time Series Foundation Models**|Shengchao Chen et.al.|[2508.04045v1](http://arxiv.org/abs/2508.04045v1)|
+|**2025-08-06**|**Decoupled Contrastive Learning for Federated Learning**|Hyungbin Kim et.al.|[2508.04005v1](http://arxiv.org/abs/2508.04005v1)|
 |**2025-08-05**|**Heterogeneity-Oblivious Robust Federated Learning**|Weiyao Zhang et.al.|[2508.03579v2](http://arxiv.org/abs/2508.03579v2)|
-|**2025-08-05**|**FedPromo: Federated Lightweight Proxy Models at the Edge Bring New Domains to Foundation Models**|Matteo Caligiuri et.al.|[2508.03356v1](http://arxiv.org/abs/2508.03356v1)|
-|**2025-08-05**|**Federated Learning with Feature Reconstruction for Vector Quantization based Semantic Communication**|Yoon Huh et.al.|[2508.03248v1](http://arxiv.org/abs/2508.03248v1)|
-|**2025-08-05**|**Energy-efficient Federated Learning for UAV Communications**|Chien-Wei Fu et.al.|[2508.03171v1](http://arxiv.org/abs/2508.03171v1)|
-|**2025-08-05**|**On the Fast Adaptation of Delayed Clients in Decentralized Federated Learning: A Centroid-Aligned Distillation Approach**|Jiahui Bai et.al.|[2508.02993v1](http://arxiv.org/abs/2508.02993v1)|
-|**2025-08-04**|**Communication and Computation Efficient Split Federated Learning in O-RAN**|Shunxian Gu et.al.|[2508.02534v1](http://arxiv.org/abs/2508.02534v1)|
-|**2025-08-04**|**ASMR: Angular Support for Malfunctioning Client Resilience in Federated Learning**|Mirko Konstantin et.al.|[2508.02414v1](http://arxiv.org/abs/2508.02414v1)|
-|**2025-08-04**|**FedAPTA: Federated Multi-task Learning in Computing Power Networks with Adaptive Layer-wise Pruning and Task-aware Aggregation**|Yachao Yuan et.al.|[2508.02230v1](http://arxiv.org/abs/2508.02230v1)|
-|**2025-08-04**|**FedLAD: A Linear Algebra Based Data Poisoning Defence for Federated Learning**|Qi Xiong et.al.|[2508.02136v1](http://arxiv.org/abs/2508.02136v1)|
-|**2025-08-04**|**Coward: Toward Practical Proactive Federated Backdoor Defense via Collision-based Watermark**|Wenjie Li et.al.|[2508.02115v1](http://arxiv.org/abs/2508.02115v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-08-06**|**SelectiveShield: Lightweight Hybrid Defense Against Gradient Leakage in Federated Learning**|Borui Li et.al.|[2508.04265v1](http://arxiv.org/abs/2508.04265v1)|
+|**2025-08-06**|**DP-DocLDM: Differentially Private Document Image Generation using Latent Diffusion Models**|Saifullah Saifullah et.al.|[2508.04208v1](http://arxiv.org/abs/2508.04208v1)|
+|**2025-08-05**|**DP-NCB: Privacy Preserving Fair Bandits**|Dhruv Sarkar et.al.|[2508.03836v1](http://arxiv.org/abs/2508.03836v1)|
 |**2025-08-05**|**Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation**|Haoran Wang et.al.|[2508.03098v1](http://arxiv.org/abs/2508.03098v1)|
 |**2025-08-01**|**Democratizing Tabular Data Access with an Open$\unicode{x2013}$Source Synthetic$\unicode{x2013}$Data SDK**|Ivona Krchova et.al.|[2508.00718v1](http://arxiv.org/abs/2508.00718v1)|
 |**2025-07-31**|**Continual Learning with Synthetic Boundary Experience Blending**|Chih-Fan Hsu et.al.|[2507.23534v1](http://arxiv.org/abs/2507.23534v1)|
@@ -56,9 +59,6 @@
 |**2025-07-31**|**Scalable contribution bounding to achieve privacy**|Vincent Cohen-Addad et.al.|[2507.23432v1](http://arxiv.org/abs/2507.23432v1)|
 |**2025-07-30**|**Locally Differentially Private Thresholding Bandits**|Annalisa Barbara et.al.|[2507.23073v1](http://arxiv.org/abs/2507.23073v1)|
 |**2025-07-30**|**Benchmarking Fraud Detectors on Private Graph Data**|Alexander Goldberg et.al.|[2507.22347v1](http://arxiv.org/abs/2507.22347v1)|
-|**2025-07-29**|**Towards Privacy-preserving Photorealistic Self-avatars in Mixed Reality**|Ethan Wilson et.al.|[2507.22153v1](http://arxiv.org/abs/2507.22153v1)|
-|**2025-07-29**|**Factorization by extremal privacy mechanisms: new insights into efficiency**|Chiara Amorino et.al.|[2507.21769v1](http://arxiv.org/abs/2507.21769v1)|
-|**2025-07-26**|**Policy-Driven AI in Dataspaces: Taxonomy, Explainability, and Pathways for Compliant Innovation**|Joydeep Chandra et.al.|[2507.20014v2](http://arxiv.org/abs/2507.20014v2)|
 
 ## Data Masking
 
@@ -94,6 +94,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-08-06**|**CaPulse: Detecting Anomalies by Tuning in to the Causal Rhythms of Time Series**|Yutong Xia et.al.|[2508.04630v1](http://arxiv.org/abs/2508.04630v1)|
+|**2025-08-06**|**AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization**|Jingyi Liao et.al.|[2508.04175v1](http://arxiv.org/abs/2508.04175v1)|
+|**2025-08-05**|**Active Learning and Transfer Learning for Anomaly Detection in Time-Series Data**|John D. Kelleher et.al.|[2508.03921v1](http://arxiv.org/abs/2508.03921v1)|
 |**2025-08-05**|**CADD: Context aware disease deviations via restoration of brain images using normative conditional diffusion models**|Ana Lawry Aguila et.al.|[2508.03594v1](http://arxiv.org/abs/2508.03594v1)|
 |**2025-08-05**|**Quality-Aware Language-Conditioned Local Auto-Regressive Anomaly Synthesis and Detection**|Long Qian et.al.|[2508.03539v1](http://arxiv.org/abs/2508.03539v1)|
 |**2025-08-05**|**Semantic-aware Graph-guided Behavior Sequences Generation with Large Language Models for Smart Homes**|Zhiyao Xu et.al.|[2508.03484v1](http://arxiv.org/abs/2508.03484v1)|
@@ -101,9 +104,6 @@
 |**2025-08-05**|**AI on the Pulse: Real-Time Health Anomaly Detection with Wearable and Ambient Intelligence**|Davide Gabrielli et.al.|[2508.03436v1](http://arxiv.org/abs/2508.03436v1)|
 |**2025-08-05**|**Investigation on deep learning-based galaxy image translation models**|Hengxin Ruan et.al.|[2508.03291v1](http://arxiv.org/abs/2508.03291v1)|
 |**2025-08-05**|**Quantum Spectral Reasoning: A Non-Neural Architecture for Interpretable Machine Learning**|Andrew Kiruluta et.al.|[2508.03170v1](http://arxiv.org/abs/2508.03170v1)|
-|**2025-08-05**|**SARD: Segmentation-Aware Anomaly Synthesis via Region-Constrained Diffusion with Discriminative Mask Guidance**|Yanshu Wang et.al.|[2508.03143v1](http://arxiv.org/abs/2508.03143v1)|
-|**2025-08-05**|**ADSeeker: A Knowledge-Infused Framework for Anomaly Detection and Reasoning**|Kai Zhang et.al.|[2508.03088v1](http://arxiv.org/abs/2508.03088v1)|
-|**2025-08-04**|**REFLECT: Rectified Flows for Efficient Brain Anomaly Correction Transport**|Farzad Beizaee et.al.|[2508.02889v1](http://arxiv.org/abs/2508.02889v1)|
 
 ## change detection
 
