@@ -1,4 +1,4 @@
-## Updated on 2025.08.06
+## Updated on 2025.08.07
 
 ## super-resolution
 
@@ -34,7 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-08-05**|**Heterogeneity-Oblivious Robust Federated Learning**|Weiyao Zhang et.al.|[2508.03579v1](http://arxiv.org/abs/2508.03579v1)|
+|**2025-08-05**|**Heterogeneity-Oblivious Robust Federated Learning**|Weiyao Zhang et.al.|[2508.03579v2](http://arxiv.org/abs/2508.03579v2)|
 |**2025-08-05**|**FedPromo: Federated Lightweight Proxy Models at the Edge Bring New Domains to Foundation Models**|Matteo Caligiuri et.al.|[2508.03356v1](http://arxiv.org/abs/2508.03356v1)|
 |**2025-08-05**|**Federated Learning with Feature Reconstruction for Vector Quantization based Semantic Communication**|Yoon Huh et.al.|[2508.03248v1](http://arxiv.org/abs/2508.03248v1)|
 |**2025-08-05**|**Energy-efficient Federated Learning for UAV Communications**|Chien-Wei Fu et.al.|[2508.03171v1](http://arxiv.org/abs/2508.03171v1)|
