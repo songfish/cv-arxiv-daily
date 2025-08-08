@@ -1,4 +1,4 @@
-## Updated on 2025.08.07
+## Updated on 2025.08.08
 
 ## super-resolution
 
@@ -23,7 +23,7 @@
 |**2025-08-06**|**RAIDX: A Retrieval-Augmented Generation and GRPO Reinforcement Learning Framework for Explainable Deepfake Detection**|Tianxiao Li et.al.|[2508.04524v1](http://arxiv.org/abs/2508.04524v1)|
 |**2025-08-06**|**Multilingual Source Tracing of Speech Deepfakes: A First Benchmark**|Xi Xuan et.al.|[2508.04143v1](http://arxiv.org/abs/2508.04143v1)|
 |**2025-08-05**|**Untraceable DeepFakes via Traceable Fingerprint Elimination**|Jiewei Lai et.al.|[2508.03067v1](http://arxiv.org/abs/2508.03067v1)|
-|**2025-08-04**|**Towards Reliable Audio Deepfake Attribution and Model Recognition: A Multi-Level Autoencoder-Based Framework**|Andrea Di Pierno et.al.|[2508.02521v1](http://arxiv.org/abs/2508.02521v1)|
+|**2025-08-04**|**Towards Reliable Audio Deepfake Attribution and Model Recognition: A Multi-Level Autoencoder-Based Framework**|Andrea Di Pierno et.al.|[2508.02521v2](http://arxiv.org/abs/2508.02521v2)|
 |**2025-08-04**|**Weakly Supervised Multimodal Temporal Forgery Localization via Multitask Learning**|Wenbo Xu et.al.|[2508.02179v1](http://arxiv.org/abs/2508.02179v1)|
 |**2025-08-04**|**Localizing Audio-Visual Deepfakes via Hierarchical Boundary Modeling**|Xuanjun Chen et.al.|[2508.02000v1](http://arxiv.org/abs/2508.02000v1)|
 |**2025-08-03**|**Effect of AI Performance, Risk Perception, and Trust on Human Dependence in Deepfake Detection AI system**|Yingfan Zhou et.al.|[2508.01906v1](http://arxiv.org/abs/2508.01906v1)|
