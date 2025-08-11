@@ -1,4 +1,4 @@
-## Updated on 2025.08.10
+## Updated on 2025.08.11
 
 ## super-resolution
 
@@ -34,14 +34,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-08-07**|**X-VFL: A New Vertical Federated Learning Framework with Cross Completion and Decision Subspace Alignment**|Qinghua Yao et.al.|[2508.05568v1](http://arxiv.org/abs/2508.05568v1)|
+|**2025-08-07**|**X-VFL: A New Vertical Federated Learning Framework with Cross Completion and Decision Subspace Alignment**|Qinghua Yao et.al.|[2508.05568v2](http://arxiv.org/abs/2508.05568v2)|
 |**2025-08-07**|**Large Language Models Transform Organic Synthesis From Reaction Prediction to Automation**|Kartar Kumar Lohana Tharwani et.al.|[2508.05427v1](http://arxiv.org/abs/2508.05427v1)|
 |**2025-08-07**|**Federated Multi-Objective Learning with Controlled Pareto Frontiers**|Jiansheng Rao et.al.|[2508.05424v1](http://arxiv.org/abs/2508.05424v1)|
 |**2025-08-07**|**Don't Reach for the Stars: Rethinking Topology for Resilient Federated Learning**|Mirko Konstantin et.al.|[2508.05224v1](http://arxiv.org/abs/2508.05224v1)|
 |**2025-08-07**|**pFedDSH: Enabling Knowledge Transfer in Personalized Federated Learning through Data-free Sub-Hypernetwork**|Thinh Nguyen et.al.|[2508.05157v1](http://arxiv.org/abs/2508.05157v1)|
 |**2025-08-07**|**FedGIN: Federated Learning with Dynamic Global Intensity Non-linear Augmentation for Organ Segmentation using Multi-modal Images**|Sachin Dudda Nagaraju et.al.|[2508.05137v1](http://arxiv.org/abs/2508.05137v1)|
 |**2025-08-07**|**HFedATM: Hierarchical Federated Domain Generalization via Optimal Transport and Regularized Mean Aggregation**|Thinh Nguyen et.al.|[2508.05135v1](http://arxiv.org/abs/2508.05135v1)|
-|**2025-08-06**|**Federated Continual Recommendation**|Jaehyung Lim et.al.|[2508.04792v1](http://arxiv.org/abs/2508.04792v1)|
+|**2025-08-06**|**Federated Continual Recommendation**|Jaehyung Lim et.al.|[2508.04792v2](http://arxiv.org/abs/2508.04792v2)|
 |**2025-08-06**|**Channel-Independent Federated Traffic Prediction**|Mo Zhang et.al.|[2508.04517v1](http://arxiv.org/abs/2508.04517v1)|
 |**2025-08-06**|**FedHiP: Heterogeneity-Invariant Personalized Federated Learning Through Closed-Form Solutions**|Jianheng Tang et.al.|[2508.04470v1](http://arxiv.org/abs/2508.04470v1)|
 
