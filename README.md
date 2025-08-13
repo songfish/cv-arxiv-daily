@@ -1,4 +1,4 @@
-## Updated on 2025.08.12
+## Updated on 2025.08.13
 
 ## super-resolution
 
@@ -43,7 +43,7 @@
 |**2025-08-10**|**Strategic Incentivization for Locally Differentially Private Federated Learning**|Yashwant Krishna Pagoti et.al.|[2508.07138v1](http://arxiv.org/abs/2508.07138v1)|
 |**2025-08-08**|**Stabilizing Federated Learning under Extreme Heterogeneity with HeteRo-Select**|Md. Akmol Masud et.al.|[2508.06692v1](http://arxiv.org/abs/2508.06692v1)|
 |**2025-08-08**|**Federated Online Learning for Heterogeneous Multisource Streaming Data**|Jingmao Li et.al.|[2508.06652v1](http://arxiv.org/abs/2508.06652v1)|
-|**2025-08-08**|**Blockchain-Enabled Federated Learning**|Murtaza Rangwala et.al.|[2508.06406v1](http://arxiv.org/abs/2508.06406v1)|
+|**2025-08-08**|**Blockchain-Enabled Federated Learning**|Murtaza Rangwala et.al.|[2508.06406v2](http://arxiv.org/abs/2508.06406v2)|
 
 ## Differential Privacy
 
