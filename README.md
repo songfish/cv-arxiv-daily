@@ -1,4 +1,4 @@
-## Updated on 2025.08.13
+## Updated on 2025.08.14
 
 ## super-resolution
 
@@ -20,7 +20,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2025-08-12**|**Deep Learning Models for Robust Facial Liveness Detection**|Oleksandr Kuznetsov et.al.|[2508.09094v1](http://arxiv.org/abs/2508.09094v1)|
-|**2025-08-12**|**When Deepfakes Look Real: Detecting AI-Generated Faces with Unlabeled Data due to Annotation Challenges**|Zhiqiang Yang et.al.|[2508.09022v1](http://arxiv.org/abs/2508.09022v1)|
+|**2025-08-12**|**When Deepfakes Look Real: Detecting AI-Generated Faces with Unlabeled Data due to Annotation Challenges**|Zhiqiang Yang et.al.|[2508.09022v2](http://arxiv.org/abs/2508.09022v2)|
 |**2025-08-12**|**Bridging the Gap: A Framework for Real-World Video Deepfake Detection via Social Network Compression Emulation**|Andrea Montibeller et.al.|[2508.08765v1](http://arxiv.org/abs/2508.08765v1)|
 |**2025-08-11**|**Pindrop it! Audio and Visual Deepfake Countermeasures for Robust Detection and Fine Grained-Localization**|Nicholas Klein et.al.|[2508.08141v1](http://arxiv.org/abs/2508.08141v1)|
 |**2025-08-11**|**SCDF: A Speaker Characteristics DeepFake Speech Dataset for Bias Analysis**|Vojtěch Staněk et.al.|[2508.07944v1](http://arxiv.org/abs/2508.07944v1)|
@@ -49,7 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-08-12**|**Approximate DBSCAN under Differential Privacy**|Yuan Qiu et.al.|[2508.08749v1](http://arxiv.org/abs/2508.08749v1)|
+|**2025-08-12**|**Approximate DBSCAN under Differential Privacy**|Yuan Qiu et.al.|[2508.08749v2](http://arxiv.org/abs/2508.08749v2)|
 |**2025-08-11**|**Average Contraction Coefficients of Quantum Channels**|Ruben Ibarrondo et.al.|[2508.08214v1](http://arxiv.org/abs/2508.08214v1)|
 |**2025-08-11**|**Differential Privacy for Regulatory Compliance in Cyberattack Detection on Critical Infrastructure Systems**|Paritosh Ramanan et.al.|[2508.08190v1](http://arxiv.org/abs/2508.08190v1)|
 |**2025-08-11**|**Uncertainty-Driven Reliability: Selective Prediction and Trustworthy Deployment in Modern Machine Learning**|Stephan Rabanser et.al.|[2508.07556v1](http://arxiv.org/abs/2508.07556v1)|
