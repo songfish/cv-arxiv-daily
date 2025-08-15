@@ -1,4 +1,4 @@
-## Updated on 2025.08.14
+## Updated on 2025.08.15
 
 ## super-resolution
 
@@ -37,7 +37,7 @@
 |**2025-08-13**|**FedShard: Federated Unlearning with Efficiency Fairness and Performance Fairness**|Siyuan Wen et.al.|[2508.09866v1](http://arxiv.org/abs/2508.09866v1)|
 |**2025-08-13**|**Integrating Feature Attention and Temporal Modeling for Collaborative Financial Risk Assessment**|Yue Yao et.al.|[2508.09399v1](http://arxiv.org/abs/2508.09399v1)|
 |**2025-08-12**|**On-Device Multimodal Federated Learning for Efficient Jamming Detection**|Ioannis Panitsas et.al.|[2508.09369v1](http://arxiv.org/abs/2508.09369v1)|
-|**2025-08-12**|**Decentralized Weather Forecasting via Distributed Machine Learning and Blockchain-Based Model Validation**|Rilwan Umar et.al.|[2508.09299v1](http://arxiv.org/abs/2508.09299v1)|
+|**2025-08-12**|**Decentralized Weather Forecasting via Distributed Machine Learning and Blockchain-Based Model Validation**|Rilwan Umar et.al.|[2508.09299v2](http://arxiv.org/abs/2508.09299v2)|
 |**2025-08-12**|**FetFIDS: A Feature Embedding Attention based Federated Network Intrusion Detection Algorithm**|Shreya Ghosh et.al.|[2508.09056v1](http://arxiv.org/abs/2508.09056v1)|
 |**2025-08-12**|**Redactable Blockchains: An Overview**|Federico Calandra et.al.|[2508.08898v1](http://arxiv.org/abs/2508.08898v1)|
 |**2025-08-12**|**Oblivionis: A Lightweight Learning and Unlearning Framework for Federated Large Language Models**|Fuyao Zhang et.al.|[2508.08875v1](http://arxiv.org/abs/2508.08875v1)|
