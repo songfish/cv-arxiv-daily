@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-08-14**|**Forgery Guided Learning Strategy with Dual Perception Network for Deepfake Cross-domain Detection**|Lixin Jia et.al.|[2508.10741v1](http://arxiv.org/abs/2508.10741v1)|
+|**2025-08-14**|**Fake Speech Wild: Detecting Deepfake Speech on Social Media Platform**|Yuankun Xie et.al.|[2508.10559v1](http://arxiv.org/abs/2508.10559v1)|
 |**2025-08-13**|**Leveraging Failed Samples: A Few-Shot and Training-Free Framework for Generalized Deepfake Detection**|Shibo Yao et.al.|[2508.09475v1](http://arxiv.org/abs/2508.09475v1)|
 |**2025-08-12**|**Fake-Mamba: Real-Time Speech Deepfake Detection Using Bidirectional Mamba as Self-Attention's Alternative**|Xi Xuan et.al.|[2508.09294v1](http://arxiv.org/abs/2508.09294v1)|
 |**2025-08-12**|**Deep Learning Models for Robust Facial Liveness Detection**|Oleksandr Kuznetsov et.al.|[2508.09094v1](http://arxiv.org/abs/2508.09094v1)|
@@ -27,28 +29,28 @@
 |**2025-08-11**|**Pindrop it! Audio and Visual Deepfake Countermeasures for Robust Detection and Fine Grained-Localization**|Nicholas Klein et.al.|[2508.08141v1](http://arxiv.org/abs/2508.08141v1)|
 |**2025-08-11**|**SCDF: A Speaker Characteristics DeepFake Speech Dataset for Bias Analysis**|Vojtěch Staněk et.al.|[2508.07944v1](http://arxiv.org/abs/2508.07944v1)|
 |**2025-08-11**|**Boosting Active Defense Persistence: A Two-Stage Defense Framework Combining Interruption and Poisoning Against Deepfake**|Hongrui Zheng et.al.|[2508.07795v1](http://arxiv.org/abs/2508.07795v1)|
-|**2025-08-11**|**From Prediction to Explanation: Multimodal, Explainable, and Interactive Deepfake Detection Framework for Non-Expert Users**|Shahroz Tariq et.al.|[2508.07596v1](http://arxiv.org/abs/2508.07596v1)|
-|**2025-08-10**|**KLASSify to Verify: Audio-Visual Deepfake Detection Using SSL-based Audio and Handcrafted Visual Features**|Ivan Kukanov et.al.|[2508.07337v1](http://arxiv.org/abs/2508.07337v1)|
 
 ## federated learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-08-13**|**FedShard: Federated Unlearning with Efficiency Fairness and Performance Fairness**|Siyuan Wen et.al.|[2508.09866v1](http://arxiv.org/abs/2508.09866v1)|
-|**2025-08-13**|**Integrating Feature Attention and Temporal Modeling for Collaborative Financial Risk Assessment**|Yue Yao et.al.|[2508.09399v1](http://arxiv.org/abs/2508.09399v1)|
-|**2025-08-12**|**On-Device Multimodal Federated Learning for Efficient Jamming Detection**|Ioannis Panitsas et.al.|[2508.09369v1](http://arxiv.org/abs/2508.09369v1)|
-|**2025-08-12**|**Decentralized Weather Forecasting via Distributed Machine Learning and Blockchain-Based Model Validation**|Rilwan Umar et.al.|[2508.09299v2](http://arxiv.org/abs/2508.09299v2)|
-|**2025-08-12**|**FetFIDS: A Feature Embedding Attention based Federated Network Intrusion Detection Algorithm**|Shreya Ghosh et.al.|[2508.09056v1](http://arxiv.org/abs/2508.09056v1)|
-|**2025-08-12**|**Redactable Blockchains: An Overview**|Federico Calandra et.al.|[2508.08898v1](http://arxiv.org/abs/2508.08898v1)|
-|**2025-08-12**|**Oblivionis: A Lightweight Learning and Unlearning Framework for Federated Large Language Models**|Fuyao Zhang et.al.|[2508.08875v1](http://arxiv.org/abs/2508.08875v1)|
-|**2025-08-12**|**Distributed optimization: designed for federated learning**|Wenyou Guo et.al.|[2508.08606v1](http://arxiv.org/abs/2508.08606v1)|
-|**2025-08-12**|**SHEFL: Resource-Aware Aggregation and Sparsification in Heterogeneous Ensemble Federated Learning**|Keumseo Ryum et.al.|[2508.08552v1](http://arxiv.org/abs/2508.08552v1)|
-|**2025-08-11**|**Benchmarking Federated Learning for Throughput Prediction in 5G Live Streaming Applications**|Yuvraj Dutta et.al.|[2508.08479v1](http://arxiv.org/abs/2508.08479v1)|
+|**2025-08-14**|**Generalizable Federated Learning using Client Adaptive Focal Modulation**|Tajamul Ashraf et.al.|[2508.10840v1](http://arxiv.org/abs/2508.10840v1)|
+|**2025-08-14**|**APFL: Analytic Personalized Federated Learning via Dual-Stream Least Squares**|Kejia Fan et.al.|[2508.10732v1](http://arxiv.org/abs/2508.10732v1)|
+|**2025-08-14**|**Federated Learning Over LoRa Networks: Simulator Design and Performance Evaluation**|Anshika Singh et.al.|[2508.10574v1](http://arxiv.org/abs/2508.10574v1)|
+|**2025-08-14**|**GraphFedMIG: Tackling Class Imbalance in Federated Graph Learning via Mutual Information-Guided Generation**|Xinrui Li et.al.|[2508.10471v1](http://arxiv.org/abs/2508.10471v1)|
+|**2025-08-14**|**Proxy Model-Guided Reinforcement Learning for Client Selection in Federated Recommendation**|Liang Qu et.al.|[2508.10401v1](http://arxiv.org/abs/2508.10401v1)|
+|**2025-08-14**|**Flexible Personalized Split Federated Learning for On-Device Fine-Tuning of Foundation Models**|Tianjun Yuan et.al.|[2508.10349v1](http://arxiv.org/abs/2508.10349v1)|
+|**2025-08-14**|**A Vision-Language Pre-training Model-Guided Approach for Mitigating Backdoor Attacks in Federated Learning**|Keke Gai et.al.|[2508.10315v1](http://arxiv.org/abs/2508.10315v1)|
+|**2025-08-14**|**Improving Learning of New Diseases through Knowledge-Enhanced Initialization for Federated Adapter Tuning**|Danni Peng et.al.|[2508.10299v1](http://arxiv.org/abs/2508.10299v1)|
+|**2025-08-14**|**Federated Anomaly Detection for Multi-Tenant Cloud Platforms with Personalized Modeling**|Yuxi Wang et.al.|[2508.10255v1](http://arxiv.org/abs/2508.10255v1)|
+|**2025-08-13**|**Detecting Untargeted Attacks and Mitigating Unreliable Updates in Federated Learning for Underground Mining Operations**|Md Sazedur Rahman et.al.|[2508.10212v1](http://arxiv.org/abs/2508.10212v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-08-14**|**An Iterative Algorithm for Differentially Private $k$-PCA with Adaptive Noise**|Johanna Düngler et.al.|[2508.10879v1](http://arxiv.org/abs/2508.10879v1)|
+|**2025-08-14**|**When Explainability Meets Privacy: An Investigation at the Intersection of Post-hoc Explainability and Differential Privacy in the Context of Natural Language Processing**|Mahdi Dhaini et.al.|[2508.10482v1](http://arxiv.org/abs/2508.10482v1)|
 |**2025-08-13**|**Integrating Feature Attention and Temporal Modeling for Collaborative Financial Risk Assessment**|Yue Yao et.al.|[2508.09399v1](http://arxiv.org/abs/2508.09399v1)|
 |**2025-08-12**|**Deviation Inequalities for Rényi Divergence Estimators via Variational Expression**|Sreejith Sreekumar et.al.|[2508.09382v1](http://arxiv.org/abs/2508.09382v1)|
 |**2025-08-12**|**Approximate DBSCAN under Differential Privacy**|Yuan Qiu et.al.|[2508.08749v2](http://arxiv.org/abs/2508.08749v2)|
@@ -57,8 +59,6 @@
 |**2025-08-11**|**Uncertainty-Driven Reliability: Selective Prediction and Trustworthy Deployment in Modern Machine Learning**|Stephan Rabanser et.al.|[2508.07556v1](http://arxiv.org/abs/2508.07556v1)|
 |**2025-08-10**|**Enhancing Privacy in Decentralized Min-Max Optimization: A Differentially Private Approach**|Yueyang Quan et.al.|[2508.07505v1](http://arxiv.org/abs/2508.07505v1)|
 |**2025-08-10**|**Strategic Incentivization for Locally Differentially Private Federated Learning**|Yashwant Krishna Pagoti et.al.|[2508.07138v1](http://arxiv.org/abs/2508.07138v1)|
-|**2025-08-08**|**DP-SPRT: Differentially Private Sequential Probability Ratio Tests**|Thomas Michel et.al.|[2508.06377v1](http://arxiv.org/abs/2508.06377v1)|
-|**2025-08-08**|**Synthetic Data Generation and Differential Privacy using Tensor Networks' Matrix Product States (MPS)**|Alejandro Moreno R. et.al.|[2508.06251v1](http://arxiv.org/abs/2508.06251v1)|
 
 ## Data Masking
 
@@ -94,21 +94,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-08-14**|**Enhancing Fairness in Autoencoders for Node-Level Graph Anomaly Detection**|Shouju Wang et.al.|[2508.10785v1](http://arxiv.org/abs/2508.10785v1)|
+|**2025-08-14**|**IADGPT: Unified LVLM for Few-Shot Industrial Anomaly Detection, Localization, and Reasoning via In-Context Learning**|Mengyang Zhao et.al.|[2508.10681v1](http://arxiv.org/abs/2508.10681v1)|
+|**2025-08-14**|**MirGuard: Towards a Robust Provenance-based Intrusion Detection System Against Graph Manipulation Attacks**|Anyuan Sang et.al.|[2508.10639v1](http://arxiv.org/abs/2508.10639v1)|
+|**2025-08-14**|**FreeGAD: A Training-Free yet Effective Approach for Graph Anomaly Detection**|Yunfeng Zhao et.al.|[2508.10594v1](http://arxiv.org/abs/2508.10594v1)|
+|**2025-08-14**|**Federated Anomaly Detection for Multi-Tenant Cloud Platforms with Personalized Modeling**|Yuxi Wang et.al.|[2508.10255v1](http://arxiv.org/abs/2508.10255v1)|
+|**2025-08-13**|**Extending the Entropic Potential of Events for Uncertainty Quantification and Decision-Making in Artificial Intelligence**|Mark Zilberman et.al.|[2508.10241v1](http://arxiv.org/abs/2508.10241v1)|
+|**2025-08-13**|**Robust anomaly triggers with \textsc{DecADe}**|Noah Clarke Hall et.al.|[2508.10224v1](http://arxiv.org/abs/2508.10224v1)|
 |**2025-08-13**|**Rare anomalies require large datasets: About proving the existence of anomalies**|Simon Klüttermann et.al.|[2508.09894v1](http://arxiv.org/abs/2508.09894v1)|
 |**2025-08-13**|**Anomaly Detection for IoT Global Connectivity**|Jesus Omaña Iglesias et.al.|[2508.09660v1](http://arxiv.org/abs/2508.09660v1)|
 |**2025-08-13**|**LLMLog: Advanced Log Template Generation via LLM-driven Multi-Round Annotation**|Fei Teng et.al.|[2508.09594v1](http://arxiv.org/abs/2508.09594v1)|
-|**2025-08-13**|**Causal Graph Profiling via Structural Divergence for Robust Anomaly Detection in Cyber-Physical Systems**|Arun Vignesh Malarkkan et.al.|[2508.09504v1](http://arxiv.org/abs/2508.09504v1)|
-|**2025-08-13**|**CLIP-Flow: A Universal Discriminator for AI-Generated Images Inspired by Anomaly Detection**|Zhipeng Yuan et.al.|[2508.09477v1](http://arxiv.org/abs/2508.09477v1)|
-|**2025-08-13**|**Efficient Integration of Multi-View Attributed Graphs for Clustering and Embedding**|Yiran Li et.al.|[2508.09452v1](http://arxiv.org/abs/2508.09452v1)|
-|**2025-08-13**|**Graph Neural Network and Transformer Integration for Unsupervised System Anomaly Discovery**|Yun Zi et.al.|[2508.09401v1](http://arxiv.org/abs/2508.09401v1)|
-|**2025-08-12**|**ALFred: An Active Learning Framework for Real-world Semi-supervised Anomaly Detection with Adaptive Thresholds**|Shanle Yao et.al.|[2508.09058v1](http://arxiv.org/abs/2508.09058v1)|
-|**2025-08-12**|**Generative AI for Critical Infrastructure in Smart Grids: A Unified Framework for Synthetic Data Generation and Anomaly Detection**|Aydin Zaboli et.al.|[2508.08593v1](http://arxiv.org/abs/2508.08593v1)|
-|**2025-08-11**|**Momentum Point-Perplexity Mechanics in Large Language Models**|Lorenzo Tomaz et.al.|[2508.08492v1](http://arxiv.org/abs/2508.08492v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-08-14**|**Adapting SAM via Cross-Entropy Masking for Class Imbalance in Remote Sensing Change Detection**|Humza Naveed et.al.|[2508.10568v1](http://arxiv.org/abs/2508.10568v1)|
 |**2025-08-12**|**Text-conditioned State Space Model For Domain-generalized Change Detection Visual Question Answering**|Elman Ghazaei et.al.|[2508.08974v1](http://arxiv.org/abs/2508.08974v1)|
 |**2025-08-11**|**Mamba-FCS: Joint Spatio- Frequency Feature Fusion, Change-Guided Attention, and SeK Loss for Enhanced Semantic Change Detection in Remote Sensing**|Buddhi Wijenayake et.al.|[2508.08232v1](http://arxiv.org/abs/2508.08232v1)|
 |**2025-08-08**|**Bayesian online collective anomaly and change point detection in fine-grained time series**|Xian Chen et.al.|[2508.06385v1](http://arxiv.org/abs/2508.06385v1)|
@@ -118,5 +119,4 @@
 |**2025-08-03**|**CGCCE-Net:Change-Guided Cross Correlation Enhancement Network for Remote Sensing Building Change Detection**|ChengMing Wang et.al.|[2508.01549v1](http://arxiv.org/abs/2508.01549v1)|
 |**2025-08-01**|**Better Call Claude: Can LLMs Detect Changes of Writing Style?**|Johannes Römisch et.al.|[2508.00680v1](http://arxiv.org/abs/2508.00680v1)|
 |**2025-08-01**|**Team "better_call_claude": Style Change Detection using a Sequential Sentence Pair Classifier**|Gleb Schmidt et.al.|[2508.00675v1](http://arxiv.org/abs/2508.00675v1)|
-|**2025-07-30**|**MergeSAM: Unsupervised change detection of remote sensing images based on the Segment Anything Model**|Meiqi Hu et.al.|[2507.22675v1](http://arxiv.org/abs/2507.22675v1)|
 
