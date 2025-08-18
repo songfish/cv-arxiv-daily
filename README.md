@@ -1,4 +1,4 @@
-## Updated on 2025.08.17
+## Updated on 2025.08.18
 
 ## super-resolution
 
@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2025-08-14**|**An Iterative Algorithm for Differentially Private $k$-PCA with Adaptive Noise**|Johanna Düngler et.al.|[2508.10879v1](http://arxiv.org/abs/2508.10879v1)|
-|**2025-08-14**|**When Explainability Meets Privacy: An Investigation at the Intersection of Post-hoc Explainability and Differential Privacy in the Context of Natural Language Processing**|Mahdi Dhaini et.al.|[2508.10482v1](http://arxiv.org/abs/2508.10482v1)|
+|**2025-08-14**|**When Explainability Meets Privacy: An Investigation at the Intersection of Post-hoc Explainability and Differential Privacy in the Context of Natural Language Processing**|Mahdi Dhaini et.al.|[2508.10482v2](http://arxiv.org/abs/2508.10482v2)|
 |**2025-08-13**|**Integrating Feature Attention and Temporal Modeling for Collaborative Financial Risk Assessment**|Yue Yao et.al.|[2508.09399v1](http://arxiv.org/abs/2508.09399v1)|
 |**2025-08-12**|**Deviation Inequalities for Rényi Divergence Estimators via Variational Expression**|Sreejith Sreekumar et.al.|[2508.09382v1](http://arxiv.org/abs/2508.09382v1)|
 |**2025-08-12**|**Approximate DBSCAN under Differential Privacy**|Yuan Qiu et.al.|[2508.08749v2](http://arxiv.org/abs/2508.08749v2)|
