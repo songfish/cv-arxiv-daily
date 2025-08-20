@@ -1,4 +1,4 @@
-## Updated on 2025.08.19
+## Updated on 2025.08.20
 
 ## super-resolution
 
@@ -39,7 +39,7 @@
 |**2025-08-18**|**FedUNet: A Lightweight Additive U-Net Module for Federated Learning with Heterogeneous Models**|Beomseok Seo et.al.|[2508.12740v1](http://arxiv.org/abs/2508.12740v1)|
 |**2025-08-18**|**Argos: A Decentralized Federated System for Detection of Traffic Signs in CAVs**|Seyed Mahdi Haji Seyed Hossein et.al.|[2508.12712v1](http://arxiv.org/abs/2508.12712v1)|
 |**2025-08-18**|**Deploying Models to Non-participating Clients in Federated Learning without Fine-tuning: A Hypernetwork-based Approach**|Yuhao Zhou et.al.|[2508.12673v1](http://arxiv.org/abs/2508.12673v1)|
-|**2025-08-18**|**Robust Federated Learning under Adversarial Attacks via Loss-Based Client Clustering**|Emmanouil Kritharakis et.al.|[2508.12672v1](http://arxiv.org/abs/2508.12672v1)|
+|**2025-08-18**|**Robust Federated Learning under Adversarial Attacks via Loss-Based Client Clustering**|Emmanouil Kritharakis et.al.|[2508.12672v2](http://arxiv.org/abs/2508.12672v2)|
 |**2025-08-18**|**An Efficient and Adaptive Framework for Achieving Underwater High-performance Maintenance Networks**|Yu Gou et.al.|[2508.12661v1](http://arxiv.org/abs/2508.12661v1)|
 |**2025-08-18**|**Widening the Network Mitigates the Impact of Data Heterogeneity on FedAvg**|Like Jian et.al.|[2508.12576v1](http://arxiv.org/abs/2508.12576v1)|
 |**2025-08-17**|**SimQFL: A Quantum Federated Learning Simulator with Real-Time Visualization**|Ratun Rahman et.al.|[2508.12477v1](http://arxiv.org/abs/2508.12477v1)|
