@@ -34,21 +34,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-08-22**|**Closer to Reality: Practical Semi-Supervised Federated Learning for Foundation Model Adaptation**|Guangyu Sun et.al.|[2508.16568v1](http://arxiv.org/abs/2508.16568v1)|
+|**2025-08-22**|**On the Evolution of Federated Post-Training Large Language Models: A Model Accessibility View**|Tao Guo et.al.|[2508.16261v1](http://arxiv.org/abs/2508.16261v1)|
+|**2025-08-22**|**Machine Learning for Medicine Must Be Interpretable, Shareable, Reproducible and Accountable by Design**|Ayyüce Begüm Bektaş et.al.|[2508.16097v1](http://arxiv.org/abs/2508.16097v1)|
+|**2025-08-22**|**Pareto Actor-Critic for Communication and Computation Co-Optimization in Non-Cooperative Federated Learning Services**|Renxuan Tan et.al.|[2508.16037v1](http://arxiv.org/abs/2508.16037v1)|
+|**2025-08-21**|**Quantum Federated Learning: A Comprehensive Survey**|Dinh C. Nguyen et.al.|[2508.15998v1](http://arxiv.org/abs/2508.15998v1)|
 |**2025-08-21**|**BadFU: Backdoor Federated Learning through Adversarial Machine Unlearning**|Bingguang Lu et.al.|[2508.15541v1](http://arxiv.org/abs/2508.15541v1)|
 |**2025-08-21**|**Federated Learning based on Self-Evolving Gaussian Clustering**|Miha Ožbot et.al.|[2508.15393v1](http://arxiv.org/abs/2508.15393v1)|
 |**2025-08-20**|**Robust Estimation Under Heterogeneous Corruption Rates**|Syomantak Chaudhuri et.al.|[2508.15051v1](http://arxiv.org/abs/2508.15051v1)|
 |**2025-08-20**|**Nonlinear Federated System Identification**|Omkar Tupe et.al.|[2508.15025v1](http://arxiv.org/abs/2508.15025v1)|
 |**2025-08-20**|**Holo-Artisan: A Personalized Multi-User Holographic Experience for Virtual Museums on the Edge Intelligence**|Nan-Hong Kuo et.al.|[2508.14956v1](http://arxiv.org/abs/2508.14956v1)|
-|**2025-08-20**|**Federated Distillation on Edge Devices: Efficient Client-Side Filtering for Non-IID Data**|Ahmed Mujtaba et.al.|[2508.14769v1](http://arxiv.org/abs/2508.14769v1)|
-|**2025-08-20**|**FedEve: On Bridging the Client Drift and Period Drift for Cross-device Federated Learning**|Tao Shen et.al.|[2508.14539v1](http://arxiv.org/abs/2508.14539v1)|
-|**2025-08-20**|**DOPA: Stealthy and Generalizable Backdoor Attacks from a Single Client under Challenging Federated Constraints**|Xuezheng Qin et.al.|[2508.14530v1](http://arxiv.org/abs/2508.14530v1)|
-|**2025-08-19**|**FedUP: Efficient Pruning-based Federated Unlearning for Model Poisoning Attacks**|Nicolò Romandini et.al.|[2508.13853v1](http://arxiv.org/abs/2508.13853v1)|
-|**2025-08-19**|**Communication-Efficient Federated Learning with Adaptive Number of Participants**|Sergey Skorik et.al.|[2508.13803v1](http://arxiv.org/abs/2508.13803v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-08-20**|**Linkage Attacks Expose Identity Risks in Public ECG Data Sharing**|Ziyu Wang et.al.|[2508.15850v1](http://arxiv.org/abs/2508.15850v1)|
 |**2025-08-21**|**Stabilization of Perturbed Loss Function: Differential Privacy without Gradient Noise**|Salman Habib et.al.|[2508.15523v1](http://arxiv.org/abs/2508.15523v1)|
 |**2025-08-21**|**Private Hyperparameter Tuning with Ex-Post Guarantee**|Badih Ghazi et.al.|[2508.15183v1](http://arxiv.org/abs/2508.15183v1)|
 |**2025-08-21**|**Locally Differentially Private Multi-Sensor Fusion Estimation With System Intrinsic Randomness**|Xinhao Yan et.al.|[2508.15175v1](http://arxiv.org/abs/2508.15175v1)|
@@ -58,7 +59,6 @@
 |**2025-08-19**|**Towards multi-purpose locally differentially-private synthetic data release via spline wavelet plug-in estimation**|Thibault Randrianarisoa et.al.|[2508.13969v1](http://arxiv.org/abs/2508.13969v1)|
 |**2025-08-19**|**On the Security and Privacy of Federated Learning: A Survey with Attacks, Defenses, Frameworks, Applications, and Future Directions**|Daniel M. Jimenez-Gutierrez et.al.|[2508.13730v1](http://arxiv.org/abs/2508.13730v1)|
 |**2025-08-18**|**Fed-DPRoC:Communication-Efficient Differentially Private and Robust Federated Learning**|Yue Xia et.al.|[2508.12978v1](http://arxiv.org/abs/2508.12978v1)|
-|**2025-08-18**|**The Hidden Cost of Correlation: Rethinking Privacy Leakage in Local Differential Privacy**|Sandaru Jayawardana et.al.|[2508.12539v1](http://arxiv.org/abs/2508.12539v1)|
 
 ## Data Masking
 
@@ -94,6 +94,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-08-22**|**LLMs that Understand Processes: Instruction-tuning for Semantics-Aware Process Mining**|Vira Pyrih et.al.|[2508.16270v1](http://arxiv.org/abs/2508.16270v1)|
+|**2025-08-22**|**Beyond Human-prompting: Adaptive Prompt Tuning with Semantic Alignment for Anomaly Detection**|Pi-Wei Chen et.al.|[2508.16157v1](http://arxiv.org/abs/2508.16157v1)|
+|**2025-08-22**|**Wavelet-Enhanced PaDiM for Industrial Anomaly Detection**|Cory Gardner et.al.|[2508.16034v1](http://arxiv.org/abs/2508.16034v1)|
 |**2025-08-21**|**GRAFT: GRaPH and Table Reasoning for Textual Alignment -- A Benchmark for Structured Instruction Following and Visual Reasoning**|Abhigya Verma et.al.|[2508.15690v1](http://arxiv.org/abs/2508.15690v1)|
 |**2025-08-21**|**GRASPED: Graph Anomaly Detection using Autoencoder with Spectral Encoder and Decoder (Full Version)**|Wei Herng Choong et.al.|[2508.15633v1](http://arxiv.org/abs/2508.15633v1)|
 |**2025-08-21**|**From PREVENTion to REACTion: Enhancing Failure Resolution in Naval Systems**|Maria Teresa Rossi et.al.|[2508.15584v1](http://arxiv.org/abs/2508.15584v1)|
@@ -101,9 +104,6 @@
 |**2025-08-21**|**Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images**|Jinsol Song et.al.|[2508.15256v1](http://arxiv.org/abs/2508.15256v1)|
 |**2025-08-21**|**Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis**|Jiamu Wang et.al.|[2508.15236v1](http://arxiv.org/abs/2508.15236v1)|
 |**2025-08-20**|**Adaptive Anomaly Detection in Evolving Network Environments**|Ehssan Mousavipour et.al.|[2508.15100v1](http://arxiv.org/abs/2508.15100v1)|
-|**2025-08-20**|**MissionHD: Data-Driven Refinement of Reasoning Graph Structure through Hyperdimensional Causal Path Encoding and Decoding**|Sanggeon Yun et.al.|[2508.14746v1](http://arxiv.org/abs/2508.14746v1)|
-|**2025-08-20**|**ECHO: Frequency-aware Hierarchical Encoding for Variable-length Signal**|Yucong Zhang et.al.|[2508.14689v1](http://arxiv.org/abs/2508.14689v1)|
-|**2025-08-20**|**Addressing Graph Anomaly Detection via Causal Edge Separation and Spectrum**|Zengyi Wo et.al.|[2508.14684v1](http://arxiv.org/abs/2508.14684v1)|
 
 ## change detection
 
