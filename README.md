@@ -1,4 +1,4 @@
-## Updated on 2025.08.25
+## Updated on 2025.08.26
 
 ## super-resolution
 
@@ -42,7 +42,7 @@
 |**2025-08-21**|**BadFU: Backdoor Federated Learning through Adversarial Machine Unlearning**|Bingguang Lu et.al.|[2508.15541v1](http://arxiv.org/abs/2508.15541v1)|
 |**2025-08-21**|**Federated Learning based on Self-Evolving Gaussian Clustering**|Miha Ožbot et.al.|[2508.15393v1](http://arxiv.org/abs/2508.15393v1)|
 |**2025-08-20**|**Robust Estimation Under Heterogeneous Corruption Rates**|Syomantak Chaudhuri et.al.|[2508.15051v1](http://arxiv.org/abs/2508.15051v1)|
-|**2025-08-20**|**Nonlinear Federated System Identification**|Omkar Tupe et.al.|[2508.15025v1](http://arxiv.org/abs/2508.15025v1)|
+|**2025-08-20**|**Federated Nonlinear System Identification**|Omkar Tupe et.al.|[2508.15025v2](http://arxiv.org/abs/2508.15025v2)|
 |**2025-08-20**|**Holo-Artisan: A Personalized Multi-User Holographic Experience for Virtual Museums on the Edge Intelligence**|Nan-Hong Kuo et.al.|[2508.14956v1](http://arxiv.org/abs/2508.14956v1)|
 
 ## Differential Privacy
