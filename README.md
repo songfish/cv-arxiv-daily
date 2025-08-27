@@ -1,4 +1,4 @@
-## Updated on 2025.08.26
+## Updated on 2025.08.27
 
 ## super-resolution
 
@@ -25,7 +25,7 @@
 |**2025-08-24**|**Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics**|Lixin Jia et.al.|[2508.17247v1](http://arxiv.org/abs/2508.17247v1)|
 |**2025-08-23**|**A Novel Local Focusing Mechanism for Deepfake Detection Generalization**|Mingliang Li et.al.|[2508.17029v1](http://arxiv.org/abs/2508.17029v1)|
 |**2025-08-23**|**Combating Digitally Altered Images: Deepfake Detection**|Saksham Kumar et.al.|[2508.16975v1](http://arxiv.org/abs/2508.16975v1)|
-|**2025-08-22**|**A Survey of Threats Against Voice Authentication and Anti-Spoofing Systems**|Kamel Kamel et.al.|[2508.16843v1](http://arxiv.org/abs/2508.16843v1)|
+|**2025-08-22**|**A Survey of Threats Against Voice Authentication and Anti-Spoofing Systems**|Kamel Kamel et.al.|[2508.16843v2](http://arxiv.org/abs/2508.16843v2)|
 |**2025-08-20**|**FakeHunter: Multimodal Step-by-Step Reasoning for Explainable Video Forensics**|Chen Chen et.al.|[2508.14581v1](http://arxiv.org/abs/2508.14581v1)|
 |**2025-08-18**|**Rapidly Adapting to New Voice Spoofing: Few-Shot Detection of Synthesized Speech Under Distribution Shifts**|Ashi Garg et.al.|[2508.13320v1](http://arxiv.org/abs/2508.13320v1)|
 |**2025-08-18**|**REVEAL -- Reasoning and Evaluation of Visual Evidence through Aligned Language**|Ipsita Praharaj et.al.|[2508.12543v1](http://arxiv.org/abs/2508.12543v1)|
@@ -94,13 +94,13 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-08-25**|**$AutoGuardX$: A Comprehensive Cybersecurity Framework for Connected Vehicles**|Muhammad Ali Nadeem et.al.|[2508.18155v1](http://arxiv.org/abs/2508.18155v1)|
+|**2025-08-25**|**$AutoGuardX$: A Comprehensive Cybersecurity Framework for Connected Vehicles**|Muhammad Ali Nadeem et.al.|[2508.18155v2](http://arxiv.org/abs/2508.18155v2)|
 |**2025-08-25**|**Towards Continual Visual Anomaly Detection in the Medical Domain**|Manuel Barusco et.al.|[2508.18013v1](http://arxiv.org/abs/2508.18013v1)|
 |**2025-08-25**|**Fence off Anomaly Interference: Cross-Domain Distillation for Fully Unsupervised Anomaly Detection**|Xinyue Liu et.al.|[2508.18007v1](http://arxiv.org/abs/2508.18007v1)|
 |**2025-08-25**|**A Contrastive Learning-Guided Confident Meta-learning for Zero Shot Anomaly Detection**|Muhammad Aqeel et.al.|[2508.17827v1](http://arxiv.org/abs/2508.17827v1)|
 |**2025-08-25**|**Robust Anomaly Detection in Industrial Environments via Meta-Learning**|Muhammad Aqeel et.al.|[2508.17789v1](http://arxiv.org/abs/2508.17789v1)|
 |**2025-08-25**|**Few-shot Human Action Anomaly Detection via a Unified Contrastive Learning Framework**|Koichiro Kamide et.al.|[2508.17726v1](http://arxiv.org/abs/2508.17726v1)|
-|**2025-08-25**|**Finding Outliers in a Haystack: Anomaly Detection for Large Pointcloud Scenes**|Ryan Faulkner et.al.|[2508.17634v1](http://arxiv.org/abs/2508.17634v1)|
+|**2025-08-25**|**Finding Outliers in a Haystack: Anomaly Detection for Large Pointcloud Scenes**|Ryan Faulkner et.al.|[2508.17634v2](http://arxiv.org/abs/2508.17634v2)|
 |**2025-08-24**|**Modeling Irregular Astronomical Time Series with Neural Stochastic Delay Differential Equations**|YongKyung Oh et.al.|[2508.17521v1](http://arxiv.org/abs/2508.17521v1)|
 |**2025-08-24**|**Mutual Information Surprise: Rethinking Unexpectedness in Autonomous Systems**|Yinsong Wang et.al.|[2508.17403v1](http://arxiv.org/abs/2508.17403v1)|
 |**2025-08-23**|**A Decoupled LOB Representation Framework for Multilevel Manipulation Detection with Supervised Contrastive Learning**|Yushi Lin et.al.|[2508.17086v1](http://arxiv.org/abs/2508.17086v1)|
