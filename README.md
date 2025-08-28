@@ -1,4 +1,4 @@
-## Updated on 2025.08.27
+## Updated on 2025.08.28
 
 ## super-resolution
 
@@ -35,8 +35,8 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2025-08-26**|**Tackling Federated Unlearning as a Parameter Estimation Problem**|Antonio Balordi et.al.|[2508.19065v1](http://arxiv.org/abs/2508.19065v1)|
-|**2025-08-26**|**FedProtoKD: Dual Knowledge Distillation with Adaptive Class-wise Prototype Margin for Heterogeneous Federated Learning**|Md Anwar Hossen et.al.|[2508.19009v1](http://arxiv.org/abs/2508.19009v1)|
-|**2025-08-26**|**Enhancing Model Privacy in Federated Learning with Random Masking and Quantization**|Zhibo Xu et.al.|[2508.18911v1](http://arxiv.org/abs/2508.18911v1)|
+|**2025-08-26**|**FedProtoKD: Dual Knowledge Distillation with Adaptive Class-wise Prototype Margin for Heterogeneous Federated Learning**|Md Anwar Hossen et.al.|[2508.19009v2](http://arxiv.org/abs/2508.19009v2)|
+|**2025-08-26**|**Enhancing Model Privacy in Federated Learning with Random Masking and Quantization**|Zhibo Xu et.al.|[2508.18911v2](http://arxiv.org/abs/2508.18911v2)|
 |**2025-08-26**|**A Survey on Cloud-Edge-Terminal Collaborative Intelligence in AIoT Networks**|Jiaqi Wu et.al.|[2508.18803v1](http://arxiv.org/abs/2508.18803v1)|
 |**2025-08-26**|**Federated Learning with Heterogeneous and Private Label Sets**|Adam Breitholtz et.al.|[2508.18774v1](http://arxiv.org/abs/2508.18774v1)|
 |**2025-08-26**|**FLAegis: A Two-Layer Defense Framework for Federated Learning Against Poisoning Attacks**|Enrique Mármol Campos et.al.|[2508.18737v1](http://arxiv.org/abs/2508.18737v1)|
@@ -99,7 +99,7 @@
 |**2025-08-26**|**A Closer Look at Edema Area Segmentation in SD-OCT Images Using Adversarial Framework**|Yuhui Tao et.al.|[2508.18790v1](http://arxiv.org/abs/2508.18790v1)|
 |**2025-08-26**|**Text to Query Plans for Question Answering on Large Tables**|Yipeng Zhang et.al.|[2508.18758v1](http://arxiv.org/abs/2508.18758v1)|
 |**2025-08-25**|**DRTA: Dynamic Reward Scaling for Reinforcement Learning in Time Series Anomaly Detection**|Bahareh Golchin et.al.|[2508.18474v1](http://arxiv.org/abs/2508.18474v1)|
-|**2025-08-25**|**Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling**|Md. Rashid Shahriar Khan et.al.|[2508.18463v1](http://arxiv.org/abs/2508.18463v1)|
+|**2025-08-25**|**Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling**|Md. Rashid Shahriar Khan et.al.|[2508.18463v2](http://arxiv.org/abs/2508.18463v2)|
 |**2025-08-25**|**$AutoGuardX$: A Comprehensive Cybersecurity Framework for Connected Vehicles**|Muhammad Ali Nadeem et.al.|[2508.18155v2](http://arxiv.org/abs/2508.18155v2)|
 |**2025-08-25**|**Towards Continual Visual Anomaly Detection in the Medical Domain**|Manuel Barusco et.al.|[2508.18013v1](http://arxiv.org/abs/2508.18013v1)|
 |**2025-08-25**|**Fence off Anomaly Interference: Cross-Domain Distillation for Fully Unsupervised Anomaly Detection**|Xinyue Liu et.al.|[2508.18007v1](http://arxiv.org/abs/2508.18007v1)|
