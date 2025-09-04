@@ -1,4 +1,4 @@
-## Updated on 2025.09.03
+## Updated on 2025.09.04
 
 ## super-resolution
 
@@ -58,7 +58,7 @@
 |**2025-08-26**|**The Double-edged Sword of LLM-based Data Reconstruction: Understanding and Mitigating Contextual Vulnerability in Word-level Differential Privacy Text Sanitization**|Stephen Meisenbacher et.al.|[2508.18976v1](http://arxiv.org/abs/2508.18976v1)|
 |**2025-08-26**|**A Tight Context-aware Privacy Bound for Histogram Publication**|Sara Saeidian et.al.|[2508.18832v1](http://arxiv.org/abs/2508.18832v1)|
 |**2025-08-26**|**Auditing Approximate Machine Unlearning for Differentially Private Models**|Yuechun Gu et.al.|[2508.18671v1](http://arxiv.org/abs/2508.18671v1)|
-|**2025-08-25**|**Privacy-Preserving Federated Learning Framework for Risk-Based Adaptive Authentication**|Yaser Baseri et.al.|[2508.18453v1](http://arxiv.org/abs/2508.18453v1)|
+|**2025-08-25**|**Privacy-Preserving Federated Learning Framework for Risk-Based Adaptive Authentication**|Yaser Baseri et.al.|[2508.18453v2](http://arxiv.org/abs/2508.18453v2)|
 
 ## Data Masking
 
