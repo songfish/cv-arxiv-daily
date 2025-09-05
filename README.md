@@ -1,11 +1,11 @@
-## Updated on 2025.09.04
+## Updated on 2025.09.05
 
 ## super-resolution
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2025-05-09**|**Decoupling Multi-Contrast Super-Resolution: Pairing Unpaired Synthesis with Implicit Representations**|Hongyu Rui et.al.|[2505.05855v1](http://arxiv.org/abs/2505.05855v1)|
-|**2025-05-06**|**Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks**|Haotong Cheng et.al.|[2505.03522v1](http://arxiv.org/abs/2505.03522v1)|
+|**2025-05-06**|**Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks**|Haotong Cheng et.al.|[2505.03522v2](http://arxiv.org/abs/2505.03522v2)|
 |**2025-03-05**|**Rethinking Video Super-Resolution: Towards Diffusion-Based Methods without Motion Alignment**|Zhihao Zhan et.al.|[2503.03355v4](http://arxiv.org/abs/2503.03355v4)|
 |**2025-02-12**|**Deep EEG Super-Resolution: Upsampling EEG Spatial Resolution with Generative Adversarial Networks**|Isaac Corley et.al.|[2502.08803v1](http://arxiv.org/abs/2502.08803v1)|
 |**2025-02-09**|**Fast Omni-Directional Image Super-Resolution: Adapting the Implicit Image Function with Pixel and Semantic-Wise Spherical Geometric Priors**|Xuelin Shen et.al.|[2502.05902v1](http://arxiv.org/abs/2502.05902v1)|
