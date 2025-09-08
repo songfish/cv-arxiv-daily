@@ -1,4 +1,4 @@
-## Updated on 2025.09.07
+## Updated on 2025.09.08
 
 ## super-resolution
 
@@ -95,7 +95,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2025-09-04**|**ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset**|Adrian Catalin Lutu et.al.|[2509.04449v1](http://arxiv.org/abs/2509.04449v1)|
-|**2025-09-04**|**AnomalyLMM: Bridging Generative Knowledge and Discriminative Retrieval for Text-Based Person Anomaly Search**|Hao Ju et.al.|[2509.04376v1](http://arxiv.org/abs/2509.04376v1)|
+|**2025-09-04**|**AnomalyLMM: Bridging Generative Knowledge and Discriminative Retrieval for Text-Based Person Anomaly Search**|Hao Ju et.al.|[2509.04376v2](http://arxiv.org/abs/2509.04376v2)|
 |**2025-09-04**|**Efficient Odd-One-Out Anomaly Detection**|Silvio Chito et.al.|[2509.04326v1](http://arxiv.org/abs/2509.04326v1)|
 |**2025-09-04**|**KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis**|Omri Sgan Cohen et.al.|[2509.04191v1](http://arxiv.org/abs/2509.04191v1)|
 |**2025-09-04**|**Near-Term Quantum-Computing-Inspired Sampling for Community Detection in Low-Modularity Graphs**|Joseph Geraci et.al.|[2509.03864v1](http://arxiv.org/abs/2509.03864v1)|
