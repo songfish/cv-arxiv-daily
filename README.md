@@ -36,7 +36,7 @@
 |---|---|---|---|
 |**2025-09-05**|**On Evaluating the Poisoning Robustness of Federated Learning under Local Differential Privacy**|Zijian Wang et.al.|[2509.05265v1](http://arxiv.org/abs/2509.05265v1)|
 |**2025-09-05**|**An Efficient Subspace Algorithm for Federated Learning on Heterogeneous Data**|Jiaojiao Zhang et.al.|[2509.05213v1](http://arxiv.org/abs/2509.05213v1)|
-|**2025-09-05**|**On Hyperparameters and Backdoor-Resistance in Horizontal Federated Learning**|Simon Lachnit et.al.|[2509.05192v1](http://arxiv.org/abs/2509.05192v1)|
+|**2025-09-05**|**On Hyperparameters and Backdoor-Resistance in Horizontal Federated Learning**|Simon Lachnit et.al.|[2509.05192v2](http://arxiv.org/abs/2509.05192v2)|
 |**2025-09-05**|**Verifiability and Privacy in Federated Learning through Context-Hiding Multi-Key Homomorphic Authenticators**|Simone Bottoni et.al.|[2509.05162v1](http://arxiv.org/abs/2509.05162v1)|
 |**2025-09-05**|**Foundational Models and Federated Learning: Survey, Taxonomy, Challenges and Practical Insights**|Cosmin-Andrei Hatfaludi et.al.|[2509.05142v1](http://arxiv.org/abs/2509.05142v1)|
 |**2025-09-05**|**RobQFL: Robust Quantum Federated Learning in Adversarial Environment**|Walid El Maouaki et.al.|[2509.04914v1](http://arxiv.org/abs/2509.04914v1)|
