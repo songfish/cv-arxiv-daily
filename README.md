@@ -1,4 +1,4 @@
-## Updated on 2025.09.09
+## Updated on 2025.09.10
 
 ## super-resolution
 
@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-09-08**|**Speaker Privacy and Security in the Big Data Era: Protection and Defense against Deepfake**|Liping Chen et.al.|[2509.06361v1](http://arxiv.org/abs/2509.06361v1)|
+|**2025-09-08**|**Speaker Privacy and Security in the Big Data Era: Protection and Defense against Deepfake**|Liping Chen et.al.|[2509.06361v2](http://arxiv.org/abs/2509.06361v2)|
 |**2025-09-06**|**MFFI: Multi-Dimensional Face Forgery Image Dataset for Real-World Scenarios**|Changtao Miao et.al.|[2509.05592v1](http://arxiv.org/abs/2509.05592v1)|
 |**2025-09-05**|**Dual-Branch Convolutional Framework for Spatial and Frequency-Based Image Forgery Detection**|Naman Tyagi et.al.|[2509.05281v1](http://arxiv.org/abs/2509.05281v1)|
 |**2025-09-04**|**AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds**|Qizhou Wang et.al.|[2509.04345v1](http://arxiv.org/abs/2509.04345v1)|
@@ -51,7 +51,7 @@
 |---|---|---|---|
 |**2025-09-07**|**Metric Embedding Initialization-Based Differentially Private and Explainable Graph Clustering**|Haochen You et.al.|[2509.06214v1](http://arxiv.org/abs/2509.06214v1)|
 |**2025-09-06**|**GraMFedDHAR: Graph Based Multimodal Differentially Private Federated HAR**|Labani Halder et.al.|[2509.05671v1](http://arxiv.org/abs/2509.05671v1)|
-|**2025-09-05**|**Safeguarding Graph Neural Networks against Topology Inference Attacks**|Jie Fu et.al.|[2509.05429v1](http://arxiv.org/abs/2509.05429v1)|
+|**2025-09-05**|**Safeguarding Graph Neural Networks against Topology Inference Attacks**|Jie Fu et.al.|[2509.05429v2](http://arxiv.org/abs/2509.05429v2)|
 |**2025-09-04**|**Enhancing Gradient Variance and Differential Privacy in Quantum Federated Learning**|Duc-Thien Phan et.al.|[2509.05377v1](http://arxiv.org/abs/2509.05377v1)|
 |**2025-09-04**|**AI-in-the-Loop: Privacy Preserving Real-Time Scam Detection and Conversational Scambaiting by Leveraging LLMs and Federated Learning**|Ismail Hossain et.al.|[2509.05362v1](http://arxiv.org/abs/2509.05362v1)|
 |**2025-09-05**|**On Evaluating the Poisoning Robustness of Federated Learning under Local Differential Privacy**|Zijian Wang et.al.|[2509.05265v1](http://arxiv.org/abs/2509.05265v1)|
