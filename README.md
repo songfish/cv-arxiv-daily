@@ -1,4 +1,4 @@
-## Updated on 2025.09.11
+## Updated on 2025.09.12
 
 ## super-resolution
 
@@ -34,7 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-09-10**|**Securing Private Federated Learning in a Malicious Setting: A Scalable TEE-Based Approach with Client Auditing**|Shun Takagi et.al.|[2509.08709v1](http://arxiv.org/abs/2509.08709v1)|
+|**2025-09-10**|**Securing Private Federated Learning in a Malicious Setting: A Scalable TEE-Based Approach with Client Auditing**|Shun Takagi et.al.|[2509.08709v2](http://arxiv.org/abs/2509.08709v2)|
 |**2025-09-10**|**Perfectly-Private Analog Secure Aggregation in Federated Learning**|Delio Jaramillo-Velez et.al.|[2509.08683v1](http://arxiv.org/abs/2509.08683v1)|
 |**2025-09-10**|**DSFL: A Dual-Server Byzantine-Resilient Federated Learning Framework via Group-Based Secure Aggregation**|Charuka Herath et.al.|[2509.08449v1](http://arxiv.org/abs/2509.08449v1)|
 |**2025-09-10**|**Rethinking the Backbone in Class Imbalanced Federated Source Free Domain Adaptation: The Utility of Vision Foundation Models**|Kosuke Kihara et.al.|[2509.08372v1](http://arxiv.org/abs/2509.08372v1)|
@@ -51,7 +51,7 @@
 |---|---|---|---|
 |**2025-09-10**|**Approximate Algorithms for Verifying Differential Privacy with Gaussian Distributions**|Bishnu Bhusal et.al.|[2509.08804v1](http://arxiv.org/abs/2509.08804v1)|
 |**2025-09-10**|**PAnDA: Rethinking Metric Differential Privacy Optimization at Scale with Anchor-Based Approximation**|Ruiyao Liu et.al.|[2509.08720v1](http://arxiv.org/abs/2509.08720v1)|
-|**2025-09-10**|**Securing Private Federated Learning in a Malicious Setting: A Scalable TEE-Based Approach with Client Auditing**|Shun Takagi et.al.|[2509.08709v1](http://arxiv.org/abs/2509.08709v1)|
+|**2025-09-10**|**Securing Private Federated Learning in a Malicious Setting: A Scalable TEE-Based Approach with Client Auditing**|Shun Takagi et.al.|[2509.08709v2](http://arxiv.org/abs/2509.08709v2)|
 |**2025-09-10**|**DSFL: A Dual-Server Byzantine-Resilient Federated Learning Framework via Group-Based Secure Aggregation**|Charuka Herath et.al.|[2509.08449v1](http://arxiv.org/abs/2509.08449v1)|
 |**2025-09-10**|**Infinite Stream Estimation under Personalized $w$-Event Privacy**|Leilei Du et.al.|[2509.08387v1](http://arxiv.org/abs/2509.08387v1)|
 |**2025-09-09**|**Sketched Gaussian Mechanism for Private Federated Learning**|Qiaobo Li et.al.|[2509.08195v1](http://arxiv.org/abs/2509.08195v1)|
