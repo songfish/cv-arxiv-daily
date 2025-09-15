@@ -1,4 +1,4 @@
-## Updated on 2025.09.14
+## Updated on 2025.09.15
 
 ## super-resolution
 
@@ -49,7 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-09-11**|**Balancing Utility and Privacy: Dynamically Private SGD with Random Projection**|Zhanhong Jiang et.al.|[2509.09485v1](http://arxiv.org/abs/2509.09485v1)|
+|**2025-09-11**|**Balancing Utility and Privacy: Dynamically Private SGD with Random Projection**|Zhanhong Jiang et.al.|[2509.09485v2](http://arxiv.org/abs/2509.09485v2)|
 |**2025-09-11**|**AgriSentinel: Privacy-Enhanced Embedded-LLM Crop Disease Alerting System**|Chanti Raju Mylay et.al.|[2509.09103v1](http://arxiv.org/abs/2509.09103v1)|
 |**2025-09-11**|**DP-FedLoRA: Privacy-Enhanced Federated Fine-Tuning for On-Device Large Language Models**|Honghui Xu et.al.|[2509.09097v1](http://arxiv.org/abs/2509.09097v1)|
 |**2025-09-11**|**Towards Confidential and Efficient LLM Inference with Dual Privacy Protection**|Honglan Yu et.al.|[2509.09091v1](http://arxiv.org/abs/2509.09091v1)|
