@@ -1,4 +1,4 @@
-## Updated on 2025.09.16
+## Updated on 2025.09.17
 
 ## super-resolution
 
@@ -97,7 +97,7 @@
 |**2025-09-15**|**A Practical Adversarial Attack against Sequence-based Deep Learning Malware Classifiers**|Kai Tan et.al.|[2509.11836v1](http://arxiv.org/abs/2509.11836v1)|
 |**2025-09-15**|**Anomaly Detection in Industrial Control Systems Based on Cross-Domain Representation Learning**|Dongyang Zhan et.al.|[2509.11786v1](http://arxiv.org/abs/2509.11786v1)|
 |**2025-09-15**|**Adaptive-GraphSketch: Real-Time Edge Anomaly Detection via Multi-Layer Tensor Sketching and Temporal Decay**|Ocheme Anthony Ekle et.al.|[2509.11633v1](http://arxiv.org/abs/2509.11633v1)|
-|**2025-09-15**|**DUAL-VAD: Dual Benchmarks and Anomaly-Focused Sampling for Video Anomaly Detection**|Seoik Jung et.al.|[2509.11605v1](http://arxiv.org/abs/2509.11605v1)|
+|**2025-09-15**|**DUAL-VAD: Dual Benchmarks and Anomaly-Focused Sampling for Video Anomaly Detection**|Seoik Jung et.al.|[2509.11605v2](http://arxiv.org/abs/2509.11605v2)|
 |**2025-09-14**|**Intelligent Reservoir Decision Support: An Integrated Framework Combining Large Language Models, Advanced Prompt Engineering, and Multimodal Data Fusion for Real-Time Petroleum Operations**|Seyed Kourosh Mahjour et.al.|[2509.11376v1](http://arxiv.org/abs/2509.11376v1)|
 |**2025-09-14**|**Action Hints: Semantic Typicality and Context Uniqueness for Generalizable Skeleton-based Video Anomaly Detection**|Canhui Tang et.al.|[2509.11058v1](http://arxiv.org/abs/2509.11058v1)|
 |**2025-09-13**|**GTHNA: Local-global Graph Transformer with Memory Reconstruction for Holistic Node Anomaly Evaluation**|Mingkang Li et.al.|[2509.10869v1](http://arxiv.org/abs/2509.10869v1)|
@@ -111,7 +111,7 @@
 |---|---|---|---|
 |**2025-09-15**|**SCDTour: Embedding Axis Ordering and Merging for Interpretable Semantic Change Detection**|Taichi Aida et.al.|[2509.11818v1](http://arxiv.org/abs/2509.11818v1)|
 |**2025-09-15**|**Toward Greener Background Processes -- Measuring Energy Cost of Autosave Feature**|Maria Küüsvek et.al.|[2509.11738v1](http://arxiv.org/abs/2509.11738v1)|
-|**2025-09-14**|**Leveraging Geometric Priors for Unaligned Scene Change Detection**|Ziling Liu et.al.|[2509.11292v1](http://arxiv.org/abs/2509.11292v1)|
+|**2025-09-14**|**Leveraging Geometric Priors for Unaligned Scene Change Detection**|Ziling Liu et.al.|[2509.11292v2](http://arxiv.org/abs/2509.11292v2)|
 |**2025-09-11**|**PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection**|Sijun Dong et.al.|[2509.09572v1](http://arxiv.org/abs/2509.09572v1)|
 |**2025-09-10**|**ArgoTweak: Towards Self-Updating HD Maps through Structured Priors**|Lena Wild et.al.|[2509.08764v1](http://arxiv.org/abs/2509.08764v1)|
 |**2025-09-09**|**Basis Vector Metric: A Method for Robust Open-Ended State Change Detection**|David Oprea et.al.|[2509.07308v1](http://arxiv.org/abs/2509.07308v1)|
