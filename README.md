@@ -1,4 +1,4 @@
-## Updated on 2025.09.17
+## Updated on 2025.09.18
 
 ## super-resolution
 
@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-09-16**|**Hierarchical Deep Fusion Framework for Multi-dimensional Facial Forgery Detection - The 2024 Global Deepfake Image Detection Challenge**|Kohou Wang et.al.|[2509.13107v1](http://arxiv.org/abs/2509.13107v1)|
+|**2025-09-16**|**Hierarchical Deep Fusion Framework for Multi-dimensional Facial Forgery Detection -- The 2024 Global Deepfake Image Detection Challenge**|Kohou Wang et.al.|[2509.13107v1](http://arxiv.org/abs/2509.13107v1)|
 |**2025-09-12**|**EfficientNet-Based Multi-Class Detection of Real, Deepfake, and Plastic Surgery Faces**|Li Kun et.al.|[2509.12258v1](http://arxiv.org/abs/2509.12258v1)|
 |**2025-09-15**|**Improving Out-of-Domain Audio Deepfake Detection via Layer Selection and Fusion of SSL-Based Countermeasures**|Pierre Serrano et.al.|[2509.12003v1](http://arxiv.org/abs/2509.12003v1)|
 |**2025-09-15**|**A Controllable 3D Deepfake Generation Framework with Gaussian Splatting**|Wending Liu et.al.|[2509.11624v1](http://arxiv.org/abs/2509.11624v1)|
