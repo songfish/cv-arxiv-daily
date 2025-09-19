@@ -1,4 +1,4 @@
-## Updated on 2025.09.18
+## Updated on 2025.09.19
 
 ## super-resolution
 
@@ -95,7 +95,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2025-09-17**|**Goal-Oriented Joint Source-Channel Coding: Distortion-Classification-Power Trade-off**|Andriy Enttsel et.al.|[2509.14217v1](http://arxiv.org/abs/2509.14217v1)|
-|**2025-09-17**|**AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration**|Jingyi Yuan et.al.|[2509.14084v1](http://arxiv.org/abs/2509.14084v1)|
+|**2025-09-17**|**AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration**|Jingyi Yuan et.al.|[2509.14084v2](http://arxiv.org/abs/2509.14084v2)|
 |**2025-09-17**|**LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology**|Renan Souza et.al.|[2509.13978v1](http://arxiv.org/abs/2509.13978v1)|
 |**2025-09-17**|**Unsupervised Anomaly Detection in ALS EPICS Event Logs**|Antonin Sulc et.al.|[2509.13621v1](http://arxiv.org/abs/2509.13621v1)|
 |**2025-09-16**|**Intelligent Healthcare Imaging Platform An VLM-Based Framework for Automated Medical Image Analysis and Clinical Report Generation**|Samer Al-Hamadani et.al.|[2509.13590v1](http://arxiv.org/abs/2509.13590v1)|
