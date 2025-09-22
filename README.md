@@ -1,4 +1,4 @@
-## Updated on 2025.09.21
+## Updated on 2025.09.22
 
 ## super-resolution
 
@@ -21,7 +21,7 @@
 |---|---|---|---|
 |**2025-09-18**|**How Does Instrumental Music Help SingFake Detection?**|Xuanjun Chen et.al.|[2509.14675v1](http://arxiv.org/abs/2509.14675v1)|
 |**2025-09-17**|**Deceptive Beauty: Evaluating the Impact of Beauty Filters on Deepfake and Morphing Attack Detection**|Sara Concas et.al.|[2509.14120v1](http://arxiv.org/abs/2509.14120v1)|
-|**2025-09-17**|**Towards Robust Defense against Customization via Protective Perturbation Resistant to Diffusion-based Purification**|Wenkui Yang et.al.|[2509.13922v1](http://arxiv.org/abs/2509.13922v1)|
+|**2025-09-17**|**Towards Robust Defense against Customization via Protective Perturbation Resistant to Diffusion-based Purification**|Wenkui Yang et.al.|[2509.13922v2](http://arxiv.org/abs/2509.13922v2)|
 |**2025-09-17**|**Mixture of Low-Rank Adapter Experts in Generalizable Audio Deepfake Detection**|Janne Laakkonen et.al.|[2509.13878v1](http://arxiv.org/abs/2509.13878v1)|
 |**2025-09-17**|**Morphology-optimized Multi-Scale Fusion: Combining Local Artifacts and Mesoscopic Semantics for Deepfake Detection and Localization**|Chao Shuai et.al.|[2509.13776v1](http://arxiv.org/abs/2509.13776v1)|
 |**2025-09-16**|**Hierarchical Deep Fusion Framework for Multi-dimensional Facial Forgery Detection -- The 2024 Global Deepfake Image Detection Challenge**|Kohou Wang et.al.|[2509.13107v1](http://arxiv.org/abs/2509.13107v1)|
@@ -41,7 +41,7 @@
 |**2025-09-17**|**FedAVOT: Exact Distribution Alignment in Federated Learning via Masked Optimal Transport**|Herlock et.al.|[2509.14444v1](http://arxiv.org/abs/2509.14444v1)|
 |**2025-09-17**|**Differentially private federated learning for localized control of infectious disease dynamics**|Raouf Kerkouche et.al.|[2509.14024v1](http://arxiv.org/abs/2509.14024v1)|
 |**2025-09-17**|**Differential Privacy in Federated Learning: Mitigating Inference Attacks with Randomized Response**|Ozer Ozturk et.al.|[2509.13987v1](http://arxiv.org/abs/2509.13987v1)|
-|**2025-09-17**|**Adaptive Client Selection via Q-Learning-based Whittle Index in Wireless Federated Learning**|Qiyue Li et.al.|[2509.13933v1](http://arxiv.org/abs/2509.13933v1)|
+|**2025-09-17**|**Adaptive Client Selection via Q-Learning-based Whittle Index in Wireless Federated Learning**|Qiyue Li et.al.|[2509.13933v2](http://arxiv.org/abs/2509.13933v2)|
 |**2025-09-17**|**FedSSG: Expectation-Gated and History-Aware Drift Alignment for Federated Learning**|Zhanting Zhou et.al.|[2509.13895v1](http://arxiv.org/abs/2509.13895v1)|
 |**2025-09-17**|**ParaAegis: Parallel Protection for Flexible Privacy-preserved Federated Learning**|Zihou Wu et.al.|[2509.13739v1](http://arxiv.org/abs/2509.13739v1)|
 
@@ -94,7 +94,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-09-18**|**Watermarking and Anomaly Detection in Machine Learning Models for LORA RF Fingerprinting**|Aarushi Mahajan et.al.|[2509.15170v1](http://arxiv.org/abs/2509.15170v1)|
+|**2025-09-18**|**Watermarking and Anomaly Detection in Machine Learning Models for LORA RF Fingerprinting**|Aarushi Mahajan et.al.|[2509.15170v2](http://arxiv.org/abs/2509.15170v2)|
 |**2025-09-18**|**AnoF-Diff: One-Step Diffusion-Based Anomaly Detection for Forceful Tool Use**|Yating Lin et.al.|[2509.15153v1](http://arxiv.org/abs/2509.15153v1)|
 |**2025-09-18**|**Beyond Marginals: Learning Joint Spatio-Temporal Patterns for Multivariate Anomaly Detection**|Padmaksha Roy et.al.|[2509.15033v1](http://arxiv.org/abs/2509.15033v1)|
 |**2025-09-18**|**Sentinel Agents for Secure and Trustworthy Agentic AI in Multi-Agent Systems**|Diego Gosmar et.al.|[2509.14956v1](http://arxiv.org/abs/2509.14956v1)|
