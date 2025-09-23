@@ -102,7 +102,7 @@
 |**2025-09-18**|**AnoF-Diff: One-Step Diffusion-Based Anomaly Detection for Forceful Tool Use**|Yating Lin et.al.|[2509.15153v1](http://arxiv.org/abs/2509.15153v1)|
 |**2025-09-18**|**Beyond Marginals: Learning Joint Spatio-Temporal Patterns for Multivariate Anomaly Detection**|Padmaksha Roy et.al.|[2509.15033v1](http://arxiv.org/abs/2509.15033v1)|
 |**2025-09-18**|**Sentinel Agents for Secure and Trustworthy Agentic AI in Multi-Agent Systems**|Diego Gosmar et.al.|[2509.14956v1](http://arxiv.org/abs/2509.14956v1)|
-|**2025-09-18**|**RationAnomaly: Log Anomaly Detection with Rationality via Chain-of-Thought and Reinforcement Learning**|Song Xu et.al.|[2509.14693v1](http://arxiv.org/abs/2509.14693v1)|
+|**2025-09-18**|**RationAnomaly: Log Anomaly Detection with Rationality via Chain-of-Thought and Reinforcement Learning**|Song Xu et.al.|[2509.14693v2](http://arxiv.org/abs/2509.14693v2)|
 |**2025-09-17**|**H-Alpha Anomalyzer: An Explainable Anomaly Detector for Solar H-Alpha Observations**|Mahsa Khazaei et.al.|[2509.14472v1](http://arxiv.org/abs/2509.14472v1)|
 
 ## change detection
