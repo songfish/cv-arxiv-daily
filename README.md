@@ -1,4 +1,4 @@
-## Updated on 2025.09.23
+## Updated on 2025.09.24
 
 ## super-resolution
 
@@ -111,7 +111,7 @@
 |---|---|---|---|
 |**2025-09-22**|**Quickest Change Detection in Continuous-Time in Presence of a Covert Adversary**|Amir Reza Ramtin et.al.|[2509.17778v1](http://arxiv.org/abs/2509.17778v1)|
 |**2025-09-21**|**A Cross-Hierarchical Multi-Feature Fusion Network Based on Multiscale Encoder-Decoder for Hyperspectral Change Detection**|Mingshuai Sheng et.al.|[2509.16988v1](http://arxiv.org/abs/2509.16988v1)|
-|**2025-09-20**|**L2M-Reg: Building-level Uncertainty-aware Registration of Outdoor LiDAR Point Clouds and Semantic 3D City Models**|Ziyang Xu et.al.|[2509.16832v1](http://arxiv.org/abs/2509.16832v1)|
+|**2025-09-20**|**L2M-Reg: Building-level Uncertainty-aware Registration of Outdoor LiDAR Point Clouds and Semantic 3D City Models**|Ziyang Xu et.al.|[2509.16832v2](http://arxiv.org/abs/2509.16832v2)|
 |**2025-09-19**|**FoBa: A Foreground-Background co-Guided Method and New Benchmark for Remote Sensing Semantic Change Detection**|Haotian Zhang et.al.|[2509.15788v1](http://arxiv.org/abs/2509.15788v1)|
 |**2025-09-19**|**DC-Mamba: Bi-temporal deformable alignment and scale-sparse enhancement for remote sensing change detection**|Min Sun et.al.|[2509.15563v1](http://arxiv.org/abs/2509.15563v1)|
 |**2025-09-17**|**Quickest Change Detection with Cost-Constrained Experiment Design**|Patrick Vincent N. Lubenia et.al.|[2509.14186v1](http://arxiv.org/abs/2509.14186v1)|
