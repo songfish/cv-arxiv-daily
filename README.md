@@ -1,4 +1,4 @@
-## Updated on 2025.09.25
+## Updated on 2025.09.26
 
 ## super-resolution
 
@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-09-24**|**SEA-Spoof: Bridging The Gap in Multilingual Audio Deepfake Detection for South-East Asian**|Jinyang Wu et.al.|[2509.19865v1](http://arxiv.org/abs/2509.19865v1)|
+|**2025-09-24**|**SEA-Spoof: Bridging The Gap in Multilingual Audio Deepfake Detection for South-East Asian**|Jinyang Wu et.al.|[2509.19865v2](http://arxiv.org/abs/2509.19865v2)|
 |**2025-09-23**|**Generative Propaganda**|Madeleine I. G. Daepp et.al.|[2509.19147v1](http://arxiv.org/abs/2509.19147v1)|
 |**2025-09-22**|**Zero-Shot Visual Deepfake Detection: Can AI Predict and Prevent Fake Content Before It's Created?**|Ayan Sar et.al.|[2509.18461v1](http://arxiv.org/abs/2509.18461v1)|
 |**2025-09-22**|**Attention-based Mixture of Experts for Robust Speech Deepfake Detection**|Viola Negroni et.al.|[2509.17585v1](http://arxiv.org/abs/2509.17585v1)|
