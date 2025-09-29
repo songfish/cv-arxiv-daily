@@ -1,4 +1,4 @@
-## Updated on 2025.09.28
+## Updated on 2025.09.29
 
 ## super-resolution
 
@@ -28,7 +28,7 @@
 |**2025-09-22**|**Zero-Shot Visual Deepfake Detection: Can AI Predict and Prevent Fake Content Before It's Created?**|Ayan Sar et.al.|[2509.18461v1](http://arxiv.org/abs/2509.18461v1)|
 |**2025-09-22**|**Attention-based Mixture of Experts for Robust Speech Deepfake Detection**|Viola Negroni et.al.|[2509.17585v1](http://arxiv.org/abs/2509.17585v1)|
 |**2025-09-22**|**Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem**|Neslihan Kose et.al.|[2509.17550v1](http://arxiv.org/abs/2509.17550v1)|
-|**2025-09-21**|**FakeSound2: A Benchmark for Explainable and Generalizable Deepfake Sound Detection**|Zeyu Xie et.al.|[2509.17162v1](http://arxiv.org/abs/2509.17162v1)|
+|**2025-09-21**|**FakeSound2: A Benchmark for Explainable and Generalizable Deepfake Sound Detection**|Zeyu Xie et.al.|[2509.17162v2](http://arxiv.org/abs/2509.17162v2)|
 
 ## federated learning
 
