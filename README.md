@@ -97,7 +97,7 @@
 |**2025-09-26**|**HyCoVAD: A Hybrid SSL-LLM Model for Complex Video Anomaly Detection**|Mohammad Mahdi Hemmatyar et.al.|[2509.22544v1](http://arxiv.org/abs/2509.22544v1)|
 |**2025-09-26**|**Extracting Actionable Insights from Building Energy Data using Vision LLMs on Wavelet and 3D Recurrence Representations**|Amine Bechar et.al.|[2509.21934v1](http://arxiv.org/abs/2509.21934v1)|
 |**2025-09-26**|**Real-time Anomaly Detection for Liquid Argon Time Projection Chambers**|Seokju Chung et.al.|[2509.21817v1](http://arxiv.org/abs/2509.21817v1)|
-|**2025-09-25**|**Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy**|Tian Lan et.al.|[2509.21190v1](http://arxiv.org/abs/2509.21190v1)|
+|**2025-09-25**|**Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy**|Tian Lan et.al.|[2509.21190v2](http://arxiv.org/abs/2509.21190v2)|
 |**2025-09-25**|**Lossless Compression: A New Benchmark for Time Series Model Evaluation**|Meng Wan et.al.|[2509.21002v1](http://arxiv.org/abs/2509.21002v1)|
 |**2025-09-25**|**FracAug: Fractional Augmentation boost Graph-level Anomaly Detection under Limited Supervision**|Xiangyu Dong et.al.|[2509.20978v1](http://arxiv.org/abs/2509.20978v1)|
 |**2025-09-25**|**A Real-Time On-Device Defect Detection Framework for Laser Power-Meter Sensors via Unsupervised Learning**|Dongqi Zheng et.al.|[2509.20946v1](http://arxiv.org/abs/2509.20946v1)|
