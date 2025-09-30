@@ -1,4 +1,4 @@
-## Updated on 2025.09.29
+## Updated on 2025.09.30
 
 ## super-resolution
 
@@ -101,7 +101,7 @@
 |**2025-09-25**|**Lossless Compression: A New Benchmark for Time Series Model Evaluation**|Meng Wan et.al.|[2509.21002v1](http://arxiv.org/abs/2509.21002v1)|
 |**2025-09-25**|**FracAug: Fractional Augmentation boost Graph-level Anomaly Detection under Limited Supervision**|Xiangyu Dong et.al.|[2509.20978v1](http://arxiv.org/abs/2509.20978v1)|
 |**2025-09-25**|**A Real-Time On-Device Defect Detection Framework for Laser Power-Meter Sensors via Unsupervised Learning**|Dongqi Zheng et.al.|[2509.20946v1](http://arxiv.org/abs/2509.20946v1)|
-|**2025-09-25**|**LogReasoner: Empowering LLMs with Expert-like Coarse-to-Fine Reasoning for Log Analysis Tasks**|Lipeng Ma et.al.|[2509.20798v1](http://arxiv.org/abs/2509.20798v1)|
+|**2025-09-25**|**LogReasoner: Empowering LLMs with Expert-like Coarse-to-Fine Reasoning for Automated Log Analysis**|Lipeng Ma et.al.|[2509.20798v2](http://arxiv.org/abs/2509.20798v2)|
 |**2025-09-25**|**Adaptive Cybersecurity Architecture for Digital Product Ecosystems Using Agentic AI**|Oluwakemi T. Olayinka et.al.|[2509.20640v1](http://arxiv.org/abs/2509.20640v1)|
 |**2025-09-24**|**An Improved Time Series Anomaly Detection by Applying Structural Similarity**|Tiejun Wang et.al.|[2509.20184v1](http://arxiv.org/abs/2509.20184v1)|
 
