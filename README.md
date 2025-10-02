@@ -1,4 +1,4 @@
-## Updated on 2025.10.01
+## Updated on 2025.10.02
 
 ## super-resolution
 
@@ -20,14 +20,14 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2025-09-30**|**On Deepfake Voice Detection -- It's All in the Presentation**|Héctor Delgado et.al.|[2509.26471v1](http://arxiv.org/abs/2509.26471v1)|
-|**2025-09-30**|**PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection**|Tuan Nguyen et.al.|[2509.26272v1](http://arxiv.org/abs/2509.26272v1)|
+|**2025-09-30**|**PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection**|Tuan Nguyen et.al.|[2509.26272v2](http://arxiv.org/abs/2509.26272v2)|
 |**2025-09-30**|**OmniDFA: A Unified Framework for Open Set Synthesis Image Detection and Few-Shot Attribution**|Shiyu Wu et.al.|[2509.25682v1](http://arxiv.org/abs/2509.25682v1)|
 |**2025-09-29**|**DeepFake Detection in Dyadic Video Calls using Point of Gaze Tracking**|Odin Kohler et.al.|[2509.25503v1](http://arxiv.org/abs/2509.25503v1)|
 |**2025-09-29**|**Advancing Zero-Shot Open-Set Speech Deepfake Source Tracing**|Manasi Chhibber et.al.|[2509.24674v1](http://arxiv.org/abs/2509.24674v1)|
 |**2025-09-29**|**Real-Aware Residual Model Merging for Deepfake Detection**|Jinhee Park et.al.|[2509.24367v1](http://arxiv.org/abs/2509.24367v1)|
 |**2025-09-28**|**Generalizable Speech Deepfake Detection via Information Bottleneck Enhanced Adversarial Alignment**|Pu Huang et.al.|[2509.23618v1](http://arxiv.org/abs/2509.23618v1)|
 |**2025-09-27**|**Seeing Through the Blur: Unlocking Defocus Maps for Deepfake Detection**|Minsun Jeon et.al.|[2509.23289v1](http://arxiv.org/abs/2509.23289v1)|
-|**2025-09-26**|**Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal LLMs**|Xingyu Fu et.al.|[2509.22646v1](http://arxiv.org/abs/2509.22646v1)|
+|**2025-09-26**|**Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal LLMs**|Xingyu Fu et.al.|[2509.22646v2](http://arxiv.org/abs/2509.22646v2)|
 |**2025-09-26**|**FreqDebias: Towards Generalizable Deepfake Detection via Consistency-Driven Frequency Debiasing**|Hossein Kashiani et.al.|[2509.22412v1](http://arxiv.org/abs/2509.22412v1)|
 
 ## federated learning
