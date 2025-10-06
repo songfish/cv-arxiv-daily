@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-03**|**UniShield: An Adaptive Multi-Agent Framework for Unified Forgery Image Detection and Localization**|Qing Huang et.al.|[2510.03161v1](http://arxiv.org/abs/2510.03161v1)|
+|**2025-10-03**|**Forensic Similarity for Speech Deepfakes**|Viola Negroni et.al.|[2510.02864v1](http://arxiv.org/abs/2510.02864v1)|
 |**2025-10-02**|**ZK-WAGON: Imperceptible Watermark for Image Generation Models using ZK-SNARKs**|Aadarsh Anantha Ramakrishnan et.al.|[2510.01967v1](http://arxiv.org/abs/2510.01967v1)|
 |**2025-10-02**|**Towards Imperceptible Adversarial Defense: A Gradient-Driven Shield against Facial Manipulations**|Yue Li et.al.|[2510.01699v1](http://arxiv.org/abs/2510.01699v1)|
 |**2025-10-01**|**DIA: The Adversarial Exposure of Deterministic Inversion in Diffusion Models**|Seunghoo Hong et.al.|[2510.00778v1](http://arxiv.org/abs/2510.00778v1)|
@@ -27,13 +29,14 @@
 |**2025-09-30**|**On Deepfake Voice Detection -- It's All in the Presentation**|Héctor Delgado et.al.|[2509.26471v1](http://arxiv.org/abs/2509.26471v1)|
 |**2025-09-30**|**PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection**|Tuan Nguyen et.al.|[2509.26272v2](http://arxiv.org/abs/2509.26272v2)|
 |**2025-09-30**|**OmniDFA: A Unified Framework for Open Set Synthesis Image Detection and Few-Shot Attribution**|Shiyu Wu et.al.|[2509.25682v1](http://arxiv.org/abs/2509.25682v1)|
-|**2025-09-29**|**DeepFake Detection in Dyadic Video Calls using Point of Gaze Tracking**|Odin Kohler et.al.|[2509.25503v1](http://arxiv.org/abs/2509.25503v1)|
-|**2025-09-29**|**Advancing Zero-Shot Open-Set Speech Deepfake Source Tracing**|Manasi Chhibber et.al.|[2509.24674v1](http://arxiv.org/abs/2509.24674v1)|
 
 ## federated learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-03**|**FTTE: Federated Learning on Resource-Constrained Devices**|Irene Tenison et.al.|[2510.03165v1](http://arxiv.org/abs/2510.03165v1)|
+|**2025-10-03**|**FeDABoost: Fairness Aware Federated Learning with Adaptive Boosting**|Tharuka Kasthuri Arachchige et.al.|[2510.02914v1](http://arxiv.org/abs/2510.02914v1)|
+|**2025-10-03**|**Robust Segmented Analog Broadcast Design to Accelerate Wireless Federated Learning**|Chong Zhang et.al.|[2510.02701v1](http://arxiv.org/abs/2510.02701v1)|
 |**2025-10-02**|**FRIEREN: Federated Learning with Vision-Language Regularization for Segmentation**|Ding-Ruei Shen et.al.|[2510.02114v1](http://arxiv.org/abs/2510.02114v1)|
 |**2025-10-02**|**Private Federated Multiclass Post-hoc Calibration**|Samuel Maddock et.al.|[2510.01987v1](http://arxiv.org/abs/2510.01987v1)|
 |**2025-10-02**|**Secure Multi-Modal Data Fusion in Federated Digital Health Systems via MCP**|Aueaphum Aueawatthanaphisut et.al.|[2510.01780v1](http://arxiv.org/abs/2510.01780v1)|
@@ -41,14 +44,12 @@
 |**2025-10-01**|**Edge Artificial Intelligence: A Systematic Review of Evolution, Taxonomic Frameworks, and Future Horizons**|Mohamad Abou Ali et.al.|[2510.01439v1](http://arxiv.org/abs/2510.01439v1)|
 |**2025-10-01**|**Privacy Preserved Federated Learning with Attention-Based Aggregation for Biometric Recognition**|Kassahun Azezew et.al.|[2510.01113v1](http://arxiv.org/abs/2510.01113v1)|
 |**2025-09-30**|**Robust Federated Inference**|Akash Dhasade et.al.|[2510.00310v1](http://arxiv.org/abs/2510.00310v1)|
-|**2025-09-30**|**TAP: Two-Stage Adaptive Personalization of Multi-task and Multi-Modal Foundation Models in Federated Learning**|Seohyun Lee et.al.|[2509.26524v1](http://arxiv.org/abs/2509.26524v1)|
-|**2025-09-30**|**Zero-Shot Decentralized Federated Learning**|Alessio Masano et.al.|[2509.26462v1](http://arxiv.org/abs/2509.26462v1)|
-|**2025-09-30**|**FedMuon: Federated Learning with Bias-corrected LMO-based Optimization**|Yuki Takezawa et.al.|[2509.26337v1](http://arxiv.org/abs/2509.26337v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-03**|**Differentially Private Wasserstein Barycenters**|Anming Gu et.al.|[2510.03021v1](http://arxiv.org/abs/2510.03021v1)|
 |**2025-10-02**|**Private Federated Multiclass Post-hoc Calibration**|Samuel Maddock et.al.|[2510.01987v1](http://arxiv.org/abs/2510.01987v1)|
 |**2025-10-02**|**Secure Multi-Modal Data Fusion in Federated Digital Health Systems via MCP**|Aueaphum Aueawatthanaphisut et.al.|[2510.01780v1](http://arxiv.org/abs/2510.01780v1)|
 |**2025-10-02**|**Private and Fair Machine Learning: Revisiting the Disparate Impact of Differentially Private SGD**|Lea Demelius et.al.|[2510.01744v1](http://arxiv.org/abs/2510.01744v1)|
@@ -57,7 +58,6 @@
 |**2025-10-01**|**Adaptive Federated Few-Shot Rare-Disease Diagnosis with Energy-Aware Secure Aggregation**|Aueaphum Aueawatthanaphisut et.al.|[2510.00976v1](http://arxiv.org/abs/2510.00976v1)|
 |**2025-10-01**|**Differentially Private Learning of Exponential Distributions: Adaptive Algorithms and Tight Bounds**|Bar Mahpud et.al.|[2510.00790v1](http://arxiv.org/abs/2510.00790v1)|
 |**2025-10-01**|**Private Online Learning against an Adaptive Adversary: Realizable and Agnostic Settings**|Bo Li et.al.|[2510.00574v1](http://arxiv.org/abs/2510.00574v1)|
-|**2025-09-30**|**Private Learning of Littlestone Classes, Revisited**|Xin Lyu et.al.|[2510.00076v1](http://arxiv.org/abs/2510.00076v1)|
 |**2025-09-30**|**Federated Learning with Enhanced Privacy via Model Splitting and Random Client Participation**|Yiwei Li et.al.|[2509.25906v1](http://arxiv.org/abs/2509.25906v1)|
 
 ## Data Masking
@@ -94,6 +94,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-03**|**Tracing and Metrics Design Patterns for Monitoring Cloud-native Applications**|Carlos Albuquerque et.al.|[2510.02991v1](http://arxiv.org/abs/2510.02991v1)|
+|**2025-10-03**|**A Novel Unified Lightweight Temporal-Spatial Transformer Approach for Intrusion Detection in Drone Networks**|Tarun Kumar Biswas et.al.|[2510.02711v1](http://arxiv.org/abs/2510.02711v1)|
+|**2025-10-03**|**Sequence-Preserving Dual-FoV Defense for Traffic Sign and Light Recognition in Autonomous Vehicles**|Abhishek Joshi et.al.|[2510.02642v1](http://arxiv.org/abs/2510.02642v1)|
 |**2025-10-02**|**PUL-Inter-slice Defender: An Anomaly Detection Solution for Distributed Slice Mobility Attacks**|Ricardo Misael Ayala Molina et.al.|[2510.02236v1](http://arxiv.org/abs/2510.02236v1)|
 |**2025-10-02**|**Wasserstein normalized autoencoder for anomaly detection**|CMS Collaboration et.al.|[2510.02168v1](http://arxiv.org/abs/2510.02168v1)|
 |**2025-10-02**|**Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting**|Shu Zou et.al.|[2510.02155v1](http://arxiv.org/abs/2510.02155v1)|
@@ -101,9 +104,6 @@
 |**2025-10-02**|**Normality Calibration in Semi-supervised Graph Anomaly Detection**|Guolei Zeng et.al.|[2510.02014v1](http://arxiv.org/abs/2510.02014v1)|
 |**2025-10-02**|**Moon: A Modality Conversion-based Efficient Multivariate Time Series Anomaly Detection**|Yuanyuan Yao et.al.|[2510.01970v1](http://arxiv.org/abs/2510.01970v1)|
 |**2025-10-02**|**Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors**|Guangyao Zhai et.al.|[2510.01934v1](http://arxiv.org/abs/2510.01934v1)|
-|**2025-10-02**|**Learning Time-Series Representations by Hierarchical Uniformity-Tolerance Latent Balancing**|Amin Jalali et.al.|[2510.01658v1](http://arxiv.org/abs/2510.01658v1)|
-|**2025-10-01**|**A Visual Diagnostics Framework for District Heating Data: Enhancing Data Quality for AI-Driven Heat Consumption Prediction**|Kristoffer Christensen et.al.|[2510.00872v1](http://arxiv.org/abs/2510.00872v1)|
-|**2025-10-01**|**TShape: Rescuing Machine Learning Models from Complex Shapelet Anomalies**|Hang Cui et.al.|[2510.00680v1](http://arxiv.org/abs/2510.00680v1)|
 
 ## change detection
 
