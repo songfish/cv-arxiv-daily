@@ -1,4 +1,4 @@
-## Updated on 2025.10.07
+## Updated on 2025.10.08
 
 ## super-resolution
 
@@ -50,14 +50,14 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2025-10-06**|**Federated Computation of ROC and PR Curves**|Xuefeng Xu et.al.|[2510.04979v1](http://arxiv.org/abs/2510.04979v1)|
-|**2025-10-06**|**DP-HYPE: Distributed Differentially Private Hyperparameter Search**|Johannes Liebenow et.al.|[2510.04902v1](http://arxiv.org/abs/2510.04902v1)|
+|**2025-10-06**|**DP-HYPE: Distributed Differentially Private Hyperparameter Search**|Johannes Liebenow et.al.|[2510.04902v2](http://arxiv.org/abs/2510.04902v2)|
 |**2025-10-05**|**Multi-Class Support Vector Machine with Differential Privacy**|Jinseong Park et.al.|[2510.04027v1](http://arxiv.org/abs/2510.04027v1)|
 |**2025-10-04**|**Privacy Enhancement in Over-the-Air Federated Learning via Adaptive Receive Scaling**|Faeze Moradi Kalarde et.al.|[2510.03860v1](http://arxiv.org/abs/2510.03860v1)|
 |**2025-10-03**|**Differentially Private Wasserstein Barycenters**|Anming Gu et.al.|[2510.03021v1](http://arxiv.org/abs/2510.03021v1)|
 |**2025-10-02**|**Private Federated Multiclass Post-hoc Calibration**|Samuel Maddock et.al.|[2510.01987v1](http://arxiv.org/abs/2510.01987v1)|
 |**2025-10-02**|**Secure Multi-Modal Data Fusion in Federated Digital Health Systems via MCP**|Aueaphum Aueawatthanaphisut et.al.|[2510.01780v1](http://arxiv.org/abs/2510.01780v1)|
 |**2025-10-02**|**Private and Fair Machine Learning: Revisiting the Disparate Impact of Differentially Private SGD**|Lea Demelius et.al.|[2510.01744v1](http://arxiv.org/abs/2510.01744v1)|
-|**2025-10-01**|**SoftAdaClip: A Smooth Clipping Strategy for Fair and Private Model Training**|Dorsa Soleymani et.al.|[2510.01447v1](http://arxiv.org/abs/2510.01447v1)|
+|**2025-10-01**|**SoftAdaClip: A Smooth Clipping Strategy for Fair and Private Model Training**|Dorsa Soleymani et.al.|[2510.01447v2](http://arxiv.org/abs/2510.01447v2)|
 |**2025-10-01**|**Privacy Preserved Federated Learning with Attention-Based Aggregation for Biometric Recognition**|Kassahun Azezew et.al.|[2510.01113v1](http://arxiv.org/abs/2510.01113v1)|
 
 ## Data Masking
@@ -117,6 +117,6 @@
 |**2025-09-20**|**L2M-Reg: Building-level Uncertainty-aware Registration of Outdoor LiDAR Point Clouds and Semantic 3D City Models**|Ziyang Xu et.al.|[2509.16832v2](http://arxiv.org/abs/2509.16832v2)|
 |**2025-09-19**|**FoBa: A Foreground-Background co-Guided Method and New Benchmark for Remote Sensing Semantic Change Detection**|Haotian Zhang et.al.|[2509.15788v1](http://arxiv.org/abs/2509.15788v1)|
 |**2025-09-19**|**DC-Mamba: Bi-temporal deformable alignment and scale-sparse enhancement for remote sensing change detection**|Min Sun et.al.|[2509.15563v1](http://arxiv.org/abs/2509.15563v1)|
-|**2025-09-17**|**Quickest Change Detection with Cost-Constrained Experiment Design**|Patrick Vincent N. Lubenia et.al.|[2509.14186v1](http://arxiv.org/abs/2509.14186v1)|
+|**2025-09-17**|**Quickest Change Detection with Cost-Constrained Experiment Design**|Patrick Vincent N. Lubenia et.al.|[2509.14186v2](http://arxiv.org/abs/2509.14186v2)|
 |**2025-09-16**|**Annotating Satellite Images of Forests with Keywords from a Specialized Corpus in the Context of Change Detection**|Nathalie Neptune et.al.|[2509.13586v1](http://arxiv.org/abs/2509.13586v1)|
 
