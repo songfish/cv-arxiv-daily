@@ -1,4 +1,4 @@
-## Updated on 2025.10.08
+## Updated on 2025.10.09
 
 ## super-resolution
 
@@ -40,7 +40,7 @@
 |**2025-10-06**|**Federated Computation of ROC and PR Curves**|Xuefeng Xu et.al.|[2510.04979v1](http://arxiv.org/abs/2510.04979v1)|
 |**2025-10-06**|**Federated Self-Supervised Learning for Automatic Modulation Classification under Non-IID and Class-Imbalanced Data**|Usman Akram et.al.|[2510.04927v1](http://arxiv.org/abs/2510.04927v1)|
 |**2025-10-06**|**Federated Learning for Surgical Vision in Appendicitis Classification: Results of the FedSurg EndoVis 2024 Challenge**|Max Kirchner et.al.|[2510.04772v1](http://arxiv.org/abs/2510.04772v1)|
-|**2025-10-06**|**FedSRD: Sparsify-Reconstruct-Decompose for Communication-Efficient Federated Large Language Models Fine-Tuning**|Guochen Yan et.al.|[2510.04601v1](http://arxiv.org/abs/2510.04601v1)|
+|**2025-10-06**|**FedSRD: Sparsify-Reconstruct-Decompose for Communication-Efficient Federated Large Language Models Fine-Tuning**|Guochen Yan et.al.|[2510.04601v2](http://arxiv.org/abs/2510.04601v2)|
 |**2025-10-06**|**Trade-off in Estimating the Number of Byzantine Clients in Federated Learning**|Ziyi Chen et.al.|[2510.04432v1](http://arxiv.org/abs/2510.04432v1)|
 |**2025-10-05**|**Adaptive Federated Learning via Dynamical System Model**|Aayushya Agarwal et.al.|[2510.04203v1](http://arxiv.org/abs/2510.04203v1)|
 |**2025-10-05**|**Dynamic Adaptive Federated Learning for mmWave Sector Selection**|Lucas Pacheco et.al.|[2510.04183v1](http://arxiv.org/abs/2510.04183v1)|
