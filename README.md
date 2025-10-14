@@ -111,7 +111,7 @@
 |---|---|---|---|
 |**2025-10-09**|**VersionRAG: Version-Aware Retrieval-Augmented Generation for Evolving Documents**|Daniel Huwiler et.al.|[2510.08109v1](http://arxiv.org/abs/2510.08109v1)|
 |**2025-10-08**|**Label-frugal satellite image change detection with generative virtual exemplar learning**|Hichem Sahbi et.al.|[2510.06926v1](http://arxiv.org/abs/2510.06926v1)|
-|**2025-09-29**|**GeoVLM-R1: Reinforcement Fine-Tuning for Improved Remote Sensing Reasoning**|Mustansar Fiaz et.al.|[2509.25026v1](http://arxiv.org/abs/2509.25026v1)|
+|**2025-09-29**|**GeoVLM-R1: Reinforcement Fine-Tuning for Improved Remote Sensing Reasoning**|Mustansar Fiaz et.al.|[2509.25026v2](http://arxiv.org/abs/2509.25026v2)|
 |**2025-09-26**|**UrbanFeel: A Comprehensive Benchmark for Temporal and Perceptual Understanding of City Scenes through Human Perspective**|Jun He et.al.|[2509.22228v1](http://arxiv.org/abs/2509.22228v1)|
 |**2025-09-26**|**LG-CD: Enhancing Language-Guided Change Detection through SAM2 Adaptation**|Yixiao Liu et.al.|[2509.21894v1](http://arxiv.org/abs/2509.21894v1)|
 |**2025-09-22**|**Quickest Change Detection in Continuous-Time in Presence of a Covert Adversary**|Amir Reza Ramtin et.al.|[2509.17778v1](http://arxiv.org/abs/2509.17778v1)|
