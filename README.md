@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-14**|**MS-GAGA: Metric-Selective Guided Adversarial Generation Attack**|Dion J. X. Ho et.al.|[2510.12468v1](http://arxiv.org/abs/2510.12468v1)|
+|**2025-10-14**|**FakeMark: Deepfake Speech Attribution With Watermarked Artifacts**|Wanying Ge et.al.|[2510.12042v1](http://arxiv.org/abs/2510.12042v1)|
 |**2025-10-12**|**Scalable Face Security Vision Foundation Model for Deepfake, Diffusion, and Spoofing Detection**|Gaojian Wang et.al.|[2510.10663v1](http://arxiv.org/abs/2510.10663v1)|
 |**2025-10-11**|**Semantic Visual Anomaly Detection and Reasoning in AI-Generated Images**|Chuangchuang Tan et.al.|[2510.10231v1](http://arxiv.org/abs/2510.10231v1)|
 |**2025-10-11**|**DREAM: A Benchmark Study for Deepfake REalism AssessMent**|Bo Peng et.al.|[2510.10053v1](http://arxiv.org/abs/2510.10053v1)|
@@ -27,28 +29,28 @@
 |**2025-10-07**|**Sparse deepfake detection promotes better disentanglement**|Antoine Teissier et.al.|[2510.05696v1](http://arxiv.org/abs/2510.05696v1)|
 |**2025-10-06**|**WaveSP-Net: Learnable Wavelet-Domain Sparse Prompt Tuning for Speech Deepfake Detection**|Xi Xuan et.al.|[2510.05305v1](http://arxiv.org/abs/2510.05305v1)|
 |**2025-10-06**|**SFANet: Spatial-Frequency Attention Network for Deepfake Detection**|Vrushank Ahire et.al.|[2510.04630v1](http://arxiv.org/abs/2510.04630v1)|
-|**2025-10-04**|**LoRA Patching: Exposing the Fragility of Proactive Defenses against Deepfakes**|Zuomin Qu et.al.|[2510.03747v1](http://arxiv.org/abs/2510.03747v1)|
-|**2025-10-03**|**Unmasking Puppeteers: Leveraging Biometric Leakage to Disarm Impersonation in AI-based Videoconferencing**|Danial Samadi Vahdati et.al.|[2510.03548v1](http://arxiv.org/abs/2510.03548v1)|
 
 ## federated learning
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-14**|**Personalized Federated Fine-Tuning of Vision Foundation Models for Healthcare**|Adam Tupper et.al.|[2510.12741v1](http://arxiv.org/abs/2510.12741v1)|
+|**2025-10-14**|**Hierarchical Federated Learning for Crop Yield Prediction in Smart Agricultural Production Systems**|Anas Abouaomar et.al.|[2510.12727v1](http://arxiv.org/abs/2510.12727v1)|
+|**2025-10-14**|**Research in Collaborative Learning Does Not Serve Cross-Silo Federated Learning in Practice**|Kevin Kuo et.al.|[2510.12595v1](http://arxiv.org/abs/2510.12595v1)|
+|**2025-10-14**|**PubSub-VFL: Towards Efficient Two-Party Split Learning in Heterogeneous Environments via Publisher/Subscriber Architecture**|Yi Liu et.al.|[2510.12494v1](http://arxiv.org/abs/2510.12494v1)|
+|**2025-10-14**|**FedMMKT:Co-Enhancing a Server Text-to-Image Model and Client Task Models in Multi-Modal Federated Learning**|Ningxin He et.al.|[2510.12254v1](http://arxiv.org/abs/2510.12254v1)|
+|**2025-10-14**|**Fairness-Constrained Optimization Attack in Federated Learning**|Harsh Kasyap et.al.|[2510.12143v1](http://arxiv.org/abs/2510.12143v1)|
 |**2025-10-13**|**FedHybrid: Breaking the Memory Wall of Federated Learning via Hybrid Tensor Management**|Kahou Tam et.al.|[2510.11400v1](http://arxiv.org/abs/2510.11400v1)|
 |**2025-10-12**|**Robust Clustered Federated Learning for Heterogeneous High-dimensional Data**|Changxin Yang et.al.|[2510.10576v1](http://arxiv.org/abs/2510.10576v1)|
 |**2025-10-12**|**FLAMMABLE: A Multi-Model Federated Learning Framework with Multi-Model Engagement and Adaptive Batch Sizes**|Shouxu Lin et.al.|[2510.10380v1](http://arxiv.org/abs/2510.10380v1)|
 |**2025-10-11**|**FedMon: Federated eBPF Monitoring for Distributed Anomaly Detection in Multi-Cluster Cloud Environments**|Sehar Zehra et.al.|[2510.10126v1](http://arxiv.org/abs/2510.10126v1)|
-|**2025-10-11**|**Cooperative Pseudo Labeling for Unsupervised Federated Classification**|Kuangpu Guo et.al.|[2510.10100v1](http://arxiv.org/abs/2510.10100v1)|
-|**2025-10-11**|**Prismo: A Decision Support System for Privacy-Preserving ML Framework Selection**|Nges Brian Njungle et.al.|[2510.09985v1](http://arxiv.org/abs/2510.09985v1)|
-|**2025-10-10**|**Multi Camera Connected Vision System with Multi View Analytics: A Comprehensive Survey**|Muhammad Munsif et.al.|[2510.09731v1](http://arxiv.org/abs/2510.09731v1)|
-|**2025-10-10**|**A Model-Driven Engineering Approach to AI-Powered Healthcare Platforms**|Mira Raheem et.al.|[2510.09308v1](http://arxiv.org/abs/2510.09308v1)|
-|**2025-10-10**|**FedL2T: Personalized Federated Learning with Two-Teacher Distillation for Seizure Prediction**|Jionghao Lou et.al.|[2510.08984v1](http://arxiv.org/abs/2510.08984v1)|
-|**2025-10-09**|**Exploring Cross-Client Memorization of Training Data in Large Language Models for Federated Learning**|Tinnakit Udsa et.al.|[2510.08750v1](http://arxiv.org/abs/2510.08750v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-14**|**PubSub-VFL: Towards Efficient Two-Party Split Learning in Heterogeneous Environments via Publisher/Subscriber Architecture**|Yi Liu et.al.|[2510.12494v1](http://arxiv.org/abs/2510.12494v1)|
+|**2025-10-13**|**High-Probability Bounds For Heterogeneous Local Differential Privacy**|Maryam Aliakbarpour et.al.|[2510.11895v1](http://arxiv.org/abs/2510.11895v1)|
 |**2025-10-13**|**How to Get Actual Privacy and Utility from Privacy Models: the k-Anonymity and Differential Privacy Families**|Josep Domingo-Ferrer et.al.|[2510.11299v1](http://arxiv.org/abs/2510.11299v1)|
 |**2025-10-13**|**N-output Mechanism: Estimating Statistical Information from Numerical Data under Local Differential Privacy**|Incheol Baek et.al.|[2510.11116v1](http://arxiv.org/abs/2510.11116v1)|
 |**2025-10-11**|**An information theorist's tour of differential privacy**|Anand D. Sarwate et.al.|[2510.10316v1](http://arxiv.org/abs/2510.10316v1)|
@@ -57,8 +59,6 @@
 |**2025-10-10**|**On the Fairness of Privacy Protection: Measuring and Mitigating the Disparity of Group Privacy Risks for Differentially Private Machine Learning**|Zhi Yang et.al.|[2510.09114v1](http://arxiv.org/abs/2510.09114v1)|
 |**2025-10-08**|**PATCH: Mitigating PII Leakage in Language Models with Privacy-Aware Targeted Circuit PatcHing**|Anthony Hughes et.al.|[2510.07452v1](http://arxiv.org/abs/2510.07452v1)|
 |**2025-10-08**|**Cocoon: A System Architecture for Differentially Private Training with Correlated Noises**|Donghwan Kim et.al.|[2510.07304v1](http://arxiv.org/abs/2510.07304v1)|
-|**2025-10-08**|**Spectral Graph Clustering under Differential Privacy: Balancing Privacy, Accuracy, and Efficiency**|Mohamed Seif et.al.|[2510.07136v1](http://arxiv.org/abs/2510.07136v1)|
-|**2025-10-08**|**Differentially Private Synthetic Text Generation for Retrieval-Augmented Generation (RAG)**|Junki Mori et.al.|[2510.06719v1](http://arxiv.org/abs/2510.06719v1)|
 
 ## Data Masking
 
@@ -94,16 +94,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-14**|**CrossAD: Time Series Anomaly Detection with Cross-scale Associations and Cross-window Modeling**|Beibu Li et.al.|[2510.12489v1](http://arxiv.org/abs/2510.12489v1)|
+|**2025-10-14**|**Attack-Specialized Deep Learning with Ensemble Fusion for Network Anomaly Detection**|Nisith Dissanayake et.al.|[2510.12455v1](http://arxiv.org/abs/2510.12455v1)|
+|**2025-10-14**|**Planted clique recovery in random geometric graphs**|Konstantin Avrachenkov et.al.|[2510.12365v1](http://arxiv.org/abs/2510.12365v1)|
+|**2025-10-14**|**BeSTAD: Behavior-Aware Spatio-Temporal Anomaly Detection for Human Mobility Data**|Junyi Xie et.al.|[2510.12076v1](http://arxiv.org/abs/2510.12076v1)|
+|**2025-10-13**|**Combining Euclidean and Hyperbolic Representations for Node-level Anomaly Detection**|Simone Mungari et.al.|[2510.11827v1](http://arxiv.org/abs/2510.11827v1)|
 |**2025-10-13**|**Enhancing Maritime Domain Awareness on Inland Waterways: A YOLO-Based Fusion of Satellite and AIS for Vessel Characterization**|Geoffery Agorku et.al.|[2510.11449v1](http://arxiv.org/abs/2510.11449v1)|
 |**2025-10-13**|**DiffStyleTS: Diffusion Model for Style Transfer in Time Series**|Mayank Nagda et.al.|[2510.11335v1](http://arxiv.org/abs/2510.11335v1)|
 |**2025-10-13**|**TraceAegis: Securing LLM-Based Agents via Hierarchical and Behavioral Anomaly Detection**|Jiahao Liu et.al.|[2510.11203v1](http://arxiv.org/abs/2510.11203v1)|
 |**2025-10-13**|**A Comprehensive Forecasting-Based Framework for Time Series Anomaly Detection: Benchmarking on the Numenta Anomaly Benchmark (NAB)**|Mohammad Karami et.al.|[2510.11141v1](http://arxiv.org/abs/2510.11141v1)|
 |**2025-10-13**|**Causal Disentanglement Learning for Accurate Anomaly Detection in Multivariate Time Series**|Wonah Kim et.al.|[2510.11084v1](http://arxiv.org/abs/2510.11084v1)|
-|**2025-10-13**|**Enhancing Zero-Shot Anomaly Detection: CLIP-SAM Collaboration with Cascaded Prompts**|Yanning Hou et.al.|[2510.11028v1](http://arxiv.org/abs/2510.11028v1)|
-|**2025-10-13**|**LPCVAE: A Conditional VAE with Long-Term Dependency and Probabilistic Time-Frequency Fusion for Time Series Anomaly Detection**|Hanchang Cheng et.al.|[2510.10915v1](http://arxiv.org/abs/2510.10915v1)|
-|**2025-10-12**|**Uncovering Anomalous Events for Marine Environmental Monitoring via Visual Anomaly Detection**|Laura Weihl et.al.|[2510.10750v1](http://arxiv.org/abs/2510.10750v1)|
-|**2025-10-12**|**Deep Learning in Astrophysics**|Yuan-Sen Ting et.al.|[2510.10713v1](http://arxiv.org/abs/2510.10713v1)|
-|**2025-10-12**|**On the Problem of Consistent Anomalies in Zero-Shot Industrial Anomaly Detection**|Tai Le-Gia et.al.|[2510.10456v1](http://arxiv.org/abs/2510.10456v1)|
 
 ## change detection
 
