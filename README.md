@@ -1,4 +1,4 @@
-## Updated on 2025.10.15
+## Updated on 2025.10.16
 
 ## super-resolution
 
@@ -20,7 +20,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2025-10-14**|**MS-GAGA: Metric-Selective Guided Adversarial Generation Attack**|Dion J. X. Ho et.al.|[2510.12468v1](http://arxiv.org/abs/2510.12468v1)|
-|**2025-10-14**|**FakeMark: Deepfake Speech Attribution With Watermarked Artifacts**|Wanying Ge et.al.|[2510.12042v1](http://arxiv.org/abs/2510.12042v1)|
+|**2025-10-14**|**FakeMark: Deepfake Speech Attribution With Watermarked Artifacts**|Wanying Ge et.al.|[2510.12042v2](http://arxiv.org/abs/2510.12042v2)|
 |**2025-10-12**|**Scalable Face Security Vision Foundation Model for Deepfake, Diffusion, and Spoofing Detection**|Gaojian Wang et.al.|[2510.10663v1](http://arxiv.org/abs/2510.10663v1)|
 |**2025-10-11**|**Semantic Visual Anomaly Detection and Reasoning in AI-Generated Images**|Chuangchuang Tan et.al.|[2510.10231v1](http://arxiv.org/abs/2510.10231v1)|
 |**2025-10-11**|**DREAM: A Benchmark Study for Deepfake REalism AssessMent**|Bo Peng et.al.|[2510.10053v1](http://arxiv.org/abs/2510.10053v1)|
