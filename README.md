@@ -98,7 +98,7 @@
 |**2025-10-17**|**Towards Label-Free Brain Tumor Segmentation: Unsupervised Learning with Multimodal MRI**|Gerard Comas-Quiles et.al.|[2510.15684v1](http://arxiv.org/abs/2510.15684v1)|
 |**2025-10-17**|**Evaluation of Novel Fast Machine Learning Algorithms for Knowledge-Distillation-Based Anomaly Detection at CMS**|Lino Gerlach et.al.|[2510.15672v1](http://arxiv.org/abs/2510.15672v1)|
 |**2025-10-17**|**Quantized FCA: Efficient Zero-Shot Texture Anomaly Detection**|Andrei-Timotei Ardelean et.al.|[2510.15602v1](http://arxiv.org/abs/2510.15602v1)|
-|**2025-10-16**|**OCR-APT: Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs**|Ahmed Aly et.al.|[2510.15188v1](http://arxiv.org/abs/2510.15188v1)|
+|**2025-10-16**|**OCR-APT: Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs**|Ahmed Aly et.al.|[2510.15188v2](http://arxiv.org/abs/2510.15188v2)|
 |**2025-10-16**|**Hybrid Autoencoder-Based Framework for Early Fault Detection in Wind Turbines**|Rekha R Nair et.al.|[2510.15010v1](http://arxiv.org/abs/2510.15010v1)|
 |**2025-10-16**|**Leveraging Multimodal LLM Descriptions of Activity for Explainable Semi-Supervised Video Anomaly Detection**|Furkan Mumcu et.al.|[2510.14896v1](http://arxiv.org/abs/2510.14896v1)|
 |**2025-10-16**|**Where are the Whales: A Human-in-the-loop Detection Method for Identifying Whales in High-resolution Satellite Imagery**|Caleb Robinson et.al.|[2510.14709v1](http://arxiv.org/abs/2510.14709v1)|
