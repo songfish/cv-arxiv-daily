@@ -1,4 +1,4 @@
-## Updated on 2025.10.21
+## Updated on 2025.10.22
 
 ## super-resolution
 
@@ -53,7 +53,7 @@
 |**2025-10-20**|**Unified Privacy Guarantees for Decentralized Learning via Matrix Factorization**|Aurélien Bellet et.al.|[2510.17480v1](http://arxiv.org/abs/2510.17480v1)|
 |**2025-10-20**|**Optimal Best Arm Identification under Differential Privacy**|Marc Jourdan et.al.|[2510.17348v1](http://arxiv.org/abs/2510.17348v1)|
 |**2025-10-20**|**ALPINE: A Lightweight and Adaptive Privacy-Decision Agent Framework for Dynamic Edge Crowdsensing**|Guanjie Cheng et.al.|[2510.17162v1](http://arxiv.org/abs/2510.17162v1)|
-|**2025-10-19**|**Efficient derandomization of differentially private counting queries**|Surendra Ghentiyala et.al.|[2510.16959v1](http://arxiv.org/abs/2510.16959v1)|
+|**2025-10-19**|**Efficient derandomization of differentially private counting queries**|Surendra Ghentiyala et.al.|[2510.16959v2](http://arxiv.org/abs/2510.16959v2)|
 |**2025-10-19**|**High-Dimensional Privacy-Utility Dynamics of Noisy Stochastic Gradient Descent on Least Squares**|Shurong Lin et.al.|[2510.16687v1](http://arxiv.org/abs/2510.16687v1)|
 |**2025-10-15**|**VaultGemma: A Differentially Private Gemma Model**|Amer Sinha et.al.|[2510.15001v1](http://arxiv.org/abs/2510.15001v1)|
 |**2025-10-15**|**Experiments \& Analysis of Privacy-Preserving SQL Query Sanitization Systems**|Loïs Ecoffet et.al.|[2510.13528v1](http://arxiv.org/abs/2510.13528v1)|
@@ -67,7 +67,7 @@
 |**2025-10-12**|**Aegis: A Correlation-Based Data Masking Advisor for Data Sharing Ecosystems**|Omar Islam Laskar et.al.|[2510.10810v1](http://arxiv.org/abs/2510.10810v1)|
 |**2025-06-27**|**Exploring Semantic Masked Autoencoder for Self-supervised Point Cloud Understanding**|Yixin Zha et.al.|[2506.21957v1](http://arxiv.org/abs/2506.21957v1)|
 |**2025-02-14**|**Large Language Diffusion Models**|Shen Nie et.al.|[2502.09992v3](http://arxiv.org/abs/2502.09992v3)|
-|**2025-02-04**|**Data Guard: A Fine-grained Purpose-based Access Control System for Large Data Warehouses**|Khai Tran et.al.|[2502.01998v1](http://arxiv.org/abs/2502.01998v1)|
+|**2025-02-04**|**Data Guard: A Fine-grained Purpose-based Access Control System for Large Data Warehouses**|Khai Tran et.al.|[2502.01998v2](http://arxiv.org/abs/2502.01998v2)|
 |**2024-12-20**|**Mask-RadarNet: Enhancing Transformer With Spatial-Temporal Semantic Context for Radar Object Detection in Autonomous Driving**|Yuzhi Wu et.al.|[2412.15595v1](http://arxiv.org/abs/2412.15595v1)|
 |**2024-11-19**|**Self-supervised denoising of visual field data improves detection of glaucoma progression**|Sean Wu et.al.|[2411.12146v1](http://arxiv.org/abs/2411.12146v1)|
 |**2024-08-06**|**MaskAnyone Toolkit: Offering Strategies for Minimizing Privacy Risks and Maximizing Utility in Audio-Visual Data Archiving**|Babajide Alamu Owoyele et.al.|[2408.03185v1](http://arxiv.org/abs/2408.03185v1)|
