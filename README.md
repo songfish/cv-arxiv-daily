@@ -80,7 +80,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2025-10-21**|**RadDiagSeg-M: A Vision Language Model for Joint Diagnosis and Multi-Target Segmentation in Radiology**|Chengrun Li et.al.|[2510.18188v1](http://arxiv.org/abs/2510.18188v1)|
-|**2025-10-12**|**Structured Spectral Graph Learning for Multi-label Abnormality Classification in 3D Chest CT Scans**|Theo Di Piazza et.al.|[2510.10779v1](http://arxiv.org/abs/2510.10779v1)|
+|**2025-10-12**|**Structured Spectral Graph Representation Learning for Multi-label Abnormality Analysis from 3D CT Scans**|Theo Di Piazza et.al.|[2510.10779v2](http://arxiv.org/abs/2510.10779v2)|
 |**2025-10-07**|**TreeNet: Layered Decision Ensembles**|Zeshan Khan et.al.|[2510.09654v1](http://arxiv.org/abs/2510.09654v1)|
 |**2025-09-19**|**Explainable Gait Abnormality Detection Using Dual-Dataset CNN-LSTM Models**|Parth Agarwal et.al.|[2509.16472v1](http://arxiv.org/abs/2509.16472v1)|
 |**2025-09-01**|**SpectMamba: Integrating Frequency and State Space Models for Enhanced Medical Image Detection**|Yao Wang et.al.|[2509.01080v1](http://arxiv.org/abs/2509.01080v1)|
