@@ -1,4 +1,4 @@
-## Updated on 2025.10.23
+## Updated on 2025.10.24
 
 ## super-resolution
 
@@ -100,7 +100,7 @@
 |**2025-10-21**|**Securing IoT Communications via Anomaly Traffic Detection: Synergy of Genetic Algorithm and Ensemble Method**|Behnam Seyedi et.al.|[2510.19121v1](http://arxiv.org/abs/2510.19121v1)|
 |**2025-10-21**|**An Encode-then-Decompose Approach to Unsupervised Time Series Anomaly Detection on Contaminated Training Data--Extended Version**|Buang Zhang et.al.|[2510.18998v1](http://arxiv.org/abs/2510.18998v1)|
 |**2025-10-21**|**Dimensionality Reduction for Remote Sensing Data Analysis: A Systematic Review of Methods and Applications**|Nathan Mankovich et.al.|[2510.18935v1](http://arxiv.org/abs/2510.18935v1)|
-|**2025-10-21**|**Rebellious Student: A Complementary Learning Framework for Background Feature Enhancement in Hyperspectral Anomaly Detection**|Wenping Jin et.al.|[2510.18781v1](http://arxiv.org/abs/2510.18781v1)|
+|**2025-10-21**|**Rebellious Student: A Complementary Learning Framework for Background Feature Enhancement in Hyperspectral Anomaly Detection**|Wenping Jin et.al.|[2510.18781v2](http://arxiv.org/abs/2510.18781v2)|
 |**2025-10-21**|**Privacy-Preserving Healthcare Data in IoT: A Synergistic Approach with Deep Learning and Blockchain**|Behnam Rezaei Bezanjani et.al.|[2510.18568v1](http://arxiv.org/abs/2510.18568v1)|
 |**2025-10-21**|**Microsecond Federated SVD on Grassmann Manifold for Real-time IoT Intrusion Detection**|Tung-Anh Nguyen et.al.|[2510.18501v1](http://arxiv.org/abs/2510.18501v1)|
 |**2025-10-21**|**ShortcutBreaker: Low-Rank Noisy Bottleneck with Global Perturbation Attention for Multi-Class Unsupervised Anomaly Detection**|Peng Tang et.al.|[2510.18342v1](http://arxiv.org/abs/2510.18342v1)|
