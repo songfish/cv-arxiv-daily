@@ -99,7 +99,7 @@
 |**2025-10-24**|**MoniTor: Exploiting Large Language Models with Instruction for Online Video Anomaly Detection**|Shengtian Yang et.al.|[2510.21449v1](http://arxiv.org/abs/2510.21449v1)|
 |**2025-10-24**|**REMONI: An Autonomous System Integrating Wearables and Multimodal Large Language Models for Enhanced Remote Health Monitoring**|Thanh Cong Ho et.al.|[2510.21445v1](http://arxiv.org/abs/2510.21445v1)|
 |**2025-10-24**|**An Evidence-Based Post-Hoc Adjustment Framework for Anomaly Detection Under Data Contamination**|Sukanya Patra et.al.|[2510.21296v1](http://arxiv.org/abs/2510.21296v1)|
-|**2025-10-24**|**TokenCLIP: Token-wise Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al.|[2510.21171v1](http://arxiv.org/abs/2510.21171v1)|
+|**2025-10-24**|**TokenCLIP: Token-wise Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al.|[2510.21171v2](http://arxiv.org/abs/2510.21171v2)|
 |**2025-10-23**|**Unsupervised Anomaly Prediction with N-BEATS and Graph Neural Network in Multi-variate Semiconductor Process Time Series**|Daniel Sorensen et.al.|[2510.20718v1](http://arxiv.org/abs/2510.20718v1)|
 |**2025-10-23**|**Capability of using the normalizing flows for extraction rare gamma events in the TAIGA experiment**|A. P. Kryukov et.al.|[2510.20334v1](http://arxiv.org/abs/2510.20334v1)|
 |**2025-10-23**|**GMFVAD: Using Grained Multi-modal Feature to Improve Video Anomaly Detection**|Guangyu Dai et.al.|[2510.20268v1](http://arxiv.org/abs/2510.20268v1)|
