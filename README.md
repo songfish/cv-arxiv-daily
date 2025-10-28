@@ -1,4 +1,4 @@
-## Updated on 2025.10.27
+## Updated on 2025.10.28
 
 ## super-resolution
 
@@ -88,7 +88,7 @@
 |**2025-08-24**|**OmniMRI: A Unified Vision--Language Foundation Model for Generalist MRI Interpretation**|Xingxin He et.al.|[2508.17524v1](http://arxiv.org/abs/2508.17524v1)|
 |**2025-08-15**|**Is ChatGPT-5 Ready for Mammogram VQA?**|Qiang Li et.al.|[2508.11628v1](http://arxiv.org/abs/2508.11628v1)|
 |**2025-06-10**|**An Explainable Deep Learning Framework for Brain Stroke and Tumor Progression via MRI Interpretation**|Rajan Das Gupta et.al.|[2506.09161v1](http://arxiv.org/abs/2506.09161v1)|
-|**2025-05-02**|**VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations on Synthetic Video Understanding**|Zongxia Li et.al.|[2505.01481v3](http://arxiv.org/abs/2505.01481v3)|
+|**2025-05-02**|**VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations on Synthetic Video Understanding**|Zongxia Li et.al.|[2505.01481v4](http://arxiv.org/abs/2505.01481v4)|
 
 ## anomaly detection
 
