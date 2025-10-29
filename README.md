@@ -1,4 +1,4 @@
-## Updated on 2025.10.28
+## Updated on 2025.10.29
 
 ## super-resolution
 
@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-10-27**|**Through the Lens: Benchmarking Deepfake Detectors Against Moiré-Induced Distortions**|Razaib Tariq et.al.|[2510.23225v1](http://arxiv.org/abs/2510.23225v1)|
+|**2025-10-27**|**Through the Lens: Benchmarking Deepfake Detectors Against Moiré-Induced Distortions**|Razaib Tariq et.al.|[2510.23225v2](http://arxiv.org/abs/2510.23225v2)|
 |**2025-10-27**|**TwinShift: Benchmarking Audio Deepfake Detection across Synthesizer and Speaker Shifts**|Jiyoung Hong et.al.|[2510.23096v1](http://arxiv.org/abs/2510.23096v1)|
 |**2025-10-27**|**UniAIDet: A Unified and Universal Benchmark for AI-Generated Image Content Detection and Localization**|Huixuan Zhang et.al.|[2510.23023v1](http://arxiv.org/abs/2510.23023v1)|
 |**2025-10-26**|**DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection**|Kangran Zhao et.al.|[2510.22622v1](http://arxiv.org/abs/2510.22622v1)|
