@@ -35,7 +35,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2025-10-27**|**Differential Privacy as a Perk: Federated Learning over Multiple-Access Fading Channels with a Multi-Antenna Base Station**|Hao Liang et.al.|[2510.23463v1](http://arxiv.org/abs/2510.23463v1)|
-|**2025-10-27**|**SGFusion: Stochastic Geographic Gradient Fusion in Federated Learning**|Khoa Nguyen et.al.|[2510.23455v1](http://arxiv.org/abs/2510.23455v1)|
+|**2025-10-27**|**SGFusion: Stochastic Geographic Gradient Fusion in Federated Learning**|Khoa Nguyen et.al.|[2510.23455v2](http://arxiv.org/abs/2510.23455v2)|
 |**2025-10-27**|**Pinching-antenna-enabled Federated Learning: Tail Latency, Participation, and Convergence Analysis**|Yushen Lin et.al.|[2510.23315v1](http://arxiv.org/abs/2510.23315v1)|
 |**2025-10-27**|**AirFed: Federated Graph-Enhanced Multi-Agent Reinforcement Learning for Multi-UAV Cooperative Mobile Edge Computing**|Zhiyu Wang et.al.|[2510.23053v1](http://arxiv.org/abs/2510.23053v1)|
 |**2025-10-27**|**Sentinel: Dynamic Knowledge Distillation for Personalized Federated Intrusion Detection in Heterogeneous IoT Networks**|Gurpreet Singh et.al.|[2510.23019v1](http://arxiv.org/abs/2510.23019v1)|
@@ -100,10 +100,10 @@
 |**2025-10-27**|**CodeAD: Synthesize Code of Rules for Log-based Anomaly Detection with LLMs**|Junjie Huang et.al.|[2510.22986v1](http://arxiv.org/abs/2510.22986v1)|
 |**2025-10-27**|**Diffuse to Detect: A Generalizable Framework for Anomaly Detection with Diffusion Models Applications to UAVs and Beyond**|Mingze Gong et.al.|[2510.22928v1](http://arxiv.org/abs/2510.22928v1)|
 |**2025-10-26**|**A Theory of the Mechanics of Information: Generalization Through Measurement of Uncertainty (Learning is Measuring)**|Christopher J. Hazard et.al.|[2510.22809v1](http://arxiv.org/abs/2510.22809v1)|
-|**2025-10-26**|**VADTree: Explainable Training-Free Video Anomaly Detection via Hierarchical Granularity-Aware Tree**|Wenlong Li et.al.|[2510.22693v1](http://arxiv.org/abs/2510.22693v1)|
+|**2025-10-26**|**VADTree: Explainable Training-Free Video Anomaly Detection via Hierarchical Granularity-Aware Tree**|Wenlong Li et.al.|[2510.22693v2](http://arxiv.org/abs/2510.22693v2)|
 |**2025-10-26**|**CLEANet: Robust and Efficient Anomaly Detection in Contaminated Multivariate Time Series**|Songhan Zhang et.al.|[2510.22619v1](http://arxiv.org/abs/2510.22619v1)|
 |**2025-10-26**|**Doubly Smoothed Density Estimation with Application on Miners' Unsafe Act Detection**|Qianhan Zeng et.al.|[2510.22482v1](http://arxiv.org/abs/2510.22482v1)|
-|**2025-10-25**|**Optimal Spatial Anomaly Detection**|Baiyu Wang et.al.|[2510.22330v1](http://arxiv.org/abs/2510.22330v1)|
+|**2025-10-25**|**Optimal Spatial Anomaly Detection**|Baiyu Wang et.al.|[2510.22330v2](http://arxiv.org/abs/2510.22330v2)|
 
 ## change detection
 
