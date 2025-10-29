@@ -34,6 +34,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-28**|**Local Performance vs. Out-of-Distribution Generalization: An Empirical Analysis of Personalized Federated Learning in Heterogeneous Data Environments**|Mortesa Hussaini et.al.|[2510.24503v1](http://arxiv.org/abs/2510.24503v1)|
+|**2025-10-28**|**SPEAR++: Scaling Gradient Inversion via Sparsely-Used Dictionary Learning**|Alexander Bakarsky et.al.|[2510.24200v1](http://arxiv.org/abs/2510.24200v1)|
+|**2025-10-27**|**Differential Privacy: Gradient Leakage Attacks in Federated Learning Environments**|Miguel Fernandez-de-Retana et.al.|[2510.23931v1](http://arxiv.org/abs/2510.23931v1)|
 |**2025-10-27**|**Differential Privacy as a Perk: Federated Learning over Multiple-Access Fading Channels with a Multi-Antenna Base Station**|Hao Liang et.al.|[2510.23463v1](http://arxiv.org/abs/2510.23463v1)|
 |**2025-10-27**|**SGFusion: Stochastic Geographic Gradient Fusion in Federated Learning**|Khoa Nguyen et.al.|[2510.23455v2](http://arxiv.org/abs/2510.23455v2)|
 |**2025-10-27**|**Pinching-antenna-enabled Federated Learning: Tail Latency, Participation, and Convergence Analysis**|Yushen Lin et.al.|[2510.23315v1](http://arxiv.org/abs/2510.23315v1)|
@@ -41,14 +44,12 @@
 |**2025-10-27**|**Sentinel: Dynamic Knowledge Distillation for Personalized Federated Intrusion Detection in Heterogeneous IoT Networks**|Gurpreet Singh et.al.|[2510.23019v1](http://arxiv.org/abs/2510.23019v1)|
 |**2025-10-27**|**QuantumShield: Multilayer Fortification for Quantum Federated Learning**|Dev Gurung et.al.|[2510.22945v1](http://arxiv.org/abs/2510.22945v1)|
 |**2025-10-27**|**Learning Reconfigurable Representations for Multimodal Federated Learning with Missing Data**|Duong M. Nguyen et.al.|[2510.22880v1](http://arxiv.org/abs/2510.22880v1)|
-|**2025-10-25**|**Power to the Clients: Federated Learning in a Dictatorship Setting**|Mohammadsajad Alipour et.al.|[2510.22149v1](http://arxiv.org/abs/2510.22149v1)|
-|**2025-10-24**|**Benchmarking Catastrophic Forgetting Mitigation Methods in Federated Time Series Forecasting**|Khaled Hallak et.al.|[2510.21491v1](http://arxiv.org/abs/2510.21491v1)|
-|**2025-10-24**|**Generative Federated Learning for Smart Prediction and Recommendation Applications**|Anwesha Mukherjee et.al.|[2510.21183v1](http://arxiv.org/abs/2510.21183v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-27**|**Differential Privacy: Gradient Leakage Attacks in Federated Learning Environments**|Miguel Fernandez-de-Retana et.al.|[2510.23931v1](http://arxiv.org/abs/2510.23931v1)|
 |**2025-10-27**|**Differential Privacy as a Perk: Federated Learning over Multiple-Access Fading Channels with a Multi-Antenna Base Station**|Hao Liang et.al.|[2510.23463v1](http://arxiv.org/abs/2510.23463v1)|
 |**2025-10-27**|**PrivacyGuard: A Modular Framework for Privacy Auditing in Machine Learning**|Luca Melis et.al.|[2510.23427v1](http://arxiv.org/abs/2510.23427v1)|
 |**2025-10-27**|**Privacy-Preserving Semantic Communication over Wiretap Channels with Learnable Differential Privacy**|Weixuan Chen et.al.|[2510.23274v1](http://arxiv.org/abs/2510.23274v1)|
@@ -58,7 +59,6 @@
 |**2025-10-24**|**Toward provably private analytics and insights into GenAI use**|Albert Cheu et.al.|[2510.21684v1](http://arxiv.org/abs/2510.21684v1)|
 |**2025-10-24**|**Privacy Guarantee for Nash Equilibrium Computation of Aggregative Games Based on Pointwise Maximal Leakage**|Zhaoyang Cheng et.al.|[2510.21668v1](http://arxiv.org/abs/2510.21668v1)|
 |**2025-10-24**|**On the Sample Complexity of Differentially Private Policy Optimization**|Yi He et.al.|[2510.21060v1](http://arxiv.org/abs/2510.21060v1)|
-|**2025-10-23**|**Adversary-Aware Private Inference over Wireless Channels**|Mohamed Seif et.al.|[2510.20518v1](http://arxiv.org/abs/2510.20518v1)|
 
 ## Data Masking
 
@@ -94,16 +94,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-28**|**Semi-supervised and unsupervised learning for health indicator extraction from guided waves in aerospace composite structures**|James Josep Perry et.al.|[2510.24614v1](http://arxiv.org/abs/2510.24614v1)|
+|**2025-10-28**|**ARIMA_PLUS: Large-scale, Accurate, Automatic and Interpretable In-Database Time Series Forecasting and Anomaly Detection in Google BigQuery**|Xi Cheng et.al.|[2510.24452v1](http://arxiv.org/abs/2510.24452v1)|
+|**2025-10-28**|**OmniLearned: A Foundation Model Framework for All Tasks Involving Jet Physics**|Wahid Bhimji et.al.|[2510.24066v1](http://arxiv.org/abs/2510.24066v1)|
+|**2025-10-28**|**LLMLogAnalyzer: A Clustering-Based Log Analysis Chatbot using Large Language Models**|Peng Cai et.al.|[2510.24031v1](http://arxiv.org/abs/2510.24031v1)|
+|**2025-10-27**|**In Search of the Unknown Unknowns: A Multi-Metric Distance Ensemble for Out of Distribution Anomaly Detection in Astronomical Surveys**|Siddharth Chaini et.al.|[2510.23702v1](http://arxiv.org/abs/2510.23702v1)|
 |**2025-10-27**|**GRAD: Real-Time Gated Recurrent Anomaly Detection in Autonomous Vehicle Sensors Using Reinforced EMA and Multi-Stage Sliding Window Techniques**|Mohammad Hossein Jafari Naeimi et.al.|[2510.23327v1](http://arxiv.org/abs/2510.23327v1)|
 |**2025-10-27**|**Approaching Domain Generalization with Embeddings for Robust Discrimination and Recognition of RF Communication Signals**|Lukas Henneke et.al.|[2510.23186v1](http://arxiv.org/abs/2510.23186v1)|
 |**2025-10-27**|**Reliable Robotic Task Execution in the Face of Anomalies**|Bharath Santhanam et.al.|[2510.23121v1](http://arxiv.org/abs/2510.23121v1)|
 |**2025-10-27**|**CodeAD: Synthesize Code of Rules for Log-based Anomaly Detection with LLMs**|Junjie Huang et.al.|[2510.22986v1](http://arxiv.org/abs/2510.22986v1)|
 |**2025-10-27**|**Diffuse to Detect: A Generalizable Framework for Anomaly Detection with Diffusion Models Applications to UAVs and Beyond**|Mingze Gong et.al.|[2510.22928v1](http://arxiv.org/abs/2510.22928v1)|
-|**2025-10-26**|**A Theory of the Mechanics of Information: Generalization Through Measurement of Uncertainty (Learning is Measuring)**|Christopher J. Hazard et.al.|[2510.22809v1](http://arxiv.org/abs/2510.22809v1)|
-|**2025-10-26**|**VADTree: Explainable Training-Free Video Anomaly Detection via Hierarchical Granularity-Aware Tree**|Wenlong Li et.al.|[2510.22693v2](http://arxiv.org/abs/2510.22693v2)|
-|**2025-10-26**|**CLEANet: Robust and Efficient Anomaly Detection in Contaminated Multivariate Time Series**|Songhan Zhang et.al.|[2510.22619v1](http://arxiv.org/abs/2510.22619v1)|
-|**2025-10-26**|**Doubly Smoothed Density Estimation with Application on Miners' Unsafe Act Detection**|Qianhan Zeng et.al.|[2510.22482v1](http://arxiv.org/abs/2510.22482v1)|
-|**2025-10-25**|**Optimal Spatial Anomaly Detection**|Baiyu Wang et.al.|[2510.22330v2](http://arxiv.org/abs/2510.22330v2)|
 
 ## change detection
 
