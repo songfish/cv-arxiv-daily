@@ -1,4 +1,4 @@
-## Updated on 2025.10.29
+## Updated on 2025.10.30
 
 ## super-resolution
 
@@ -37,8 +37,8 @@
 |**2025-10-28**|**Local Performance vs. Out-of-Distribution Generalization: An Empirical Analysis of Personalized Federated Learning in Heterogeneous Data Environments**|Mortesa Hussaini et.al.|[2510.24503v1](http://arxiv.org/abs/2510.24503v1)|
 |**2025-10-28**|**SPEAR++: Scaling Gradient Inversion via Sparsely-Used Dictionary Learning**|Alexander Bakarsky et.al.|[2510.24200v1](http://arxiv.org/abs/2510.24200v1)|
 |**2025-10-27**|**Differential Privacy: Gradient Leakage Attacks in Federated Learning Environments**|Miguel Fernandez-de-Retana et.al.|[2510.23931v1](http://arxiv.org/abs/2510.23931v1)|
-|**2025-10-27**|**Differential Privacy as a Perk: Federated Learning over Multiple-Access Fading Channels with a Multi-Antenna Base Station**|Hao Liang et.al.|[2510.23463v1](http://arxiv.org/abs/2510.23463v1)|
-|**2025-10-27**|**SGFusion: Stochastic Geographic Gradient Fusion in Federated Learning**|Khoa Nguyen et.al.|[2510.23455v2](http://arxiv.org/abs/2510.23455v2)|
+|**2025-10-27**|**Differential Privacy as a Perk: Federated Learning over Multiple-Access Fading Channels with a Multi-Antenna Base Station**|Hao Liang et.al.|[2510.23463v2](http://arxiv.org/abs/2510.23463v2)|
+|**2025-10-27**|**SGFusion: Stochastic Geographic Gradient Fusion in Federated Learning**|Khoa Nguyen et.al.|[2510.23455v3](http://arxiv.org/abs/2510.23455v3)|
 |**2025-10-27**|**Pinching-antenna-enabled Federated Learning: Tail Latency, Participation, and Convergence Analysis**|Yushen Lin et.al.|[2510.23315v1](http://arxiv.org/abs/2510.23315v1)|
 |**2025-10-27**|**AirFed: Federated Graph-Enhanced Multi-Agent Reinforcement Learning for Multi-UAV Cooperative Mobile Edge Computing**|Zhiyu Wang et.al.|[2510.23053v1](http://arxiv.org/abs/2510.23053v1)|
 |**2025-10-27**|**Sentinel: Dynamic Knowledge Distillation for Personalized Federated Intrusion Detection in Heterogeneous IoT Networks**|Gurpreet Singh et.al.|[2510.23019v1](http://arxiv.org/abs/2510.23019v1)|
@@ -50,7 +50,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2025-10-27**|**Differential Privacy: Gradient Leakage Attacks in Federated Learning Environments**|Miguel Fernandez-de-Retana et.al.|[2510.23931v1](http://arxiv.org/abs/2510.23931v1)|
-|**2025-10-27**|**Differential Privacy as a Perk: Federated Learning over Multiple-Access Fading Channels with a Multi-Antenna Base Station**|Hao Liang et.al.|[2510.23463v1](http://arxiv.org/abs/2510.23463v1)|
+|**2025-10-27**|**Differential Privacy as a Perk: Federated Learning over Multiple-Access Fading Channels with a Multi-Antenna Base Station**|Hao Liang et.al.|[2510.23463v2](http://arxiv.org/abs/2510.23463v2)|
 |**2025-10-27**|**PrivacyGuard: A Modular Framework for Privacy Auditing in Machine Learning**|Luca Melis et.al.|[2510.23427v1](http://arxiv.org/abs/2510.23427v1)|
 |**2025-10-27**|**Privacy-Preserving Semantic Communication over Wiretap Channels with Learnable Differential Privacy**|Weixuan Chen et.al.|[2510.23274v1](http://arxiv.org/abs/2510.23274v1)|
 |**2025-10-25**|**Privacy-Aware Federated nnU-Net for ECG Page Digitization**|Nader Nemati et.al.|[2510.22387v1](http://arxiv.org/abs/2510.22387v1)|
