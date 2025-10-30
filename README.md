@@ -19,12 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-29**|**DeepShield: Fortifying Deepfake Video Detection with Local and Global Forgery Analysis**|Yinqi Cai et.al.|[2510.25237v1](http://arxiv.org/abs/2510.25237v1)|
 |**2025-10-27**|**Through the Lens: Benchmarking Deepfake Detectors Against Moiré-Induced Distortions**|Razaib Tariq et.al.|[2510.23225v2](http://arxiv.org/abs/2510.23225v2)|
 |**2025-10-27**|**TwinShift: Benchmarking Audio Deepfake Detection across Synthesizer and Speaker Shifts**|Jiyoung Hong et.al.|[2510.23096v1](http://arxiv.org/abs/2510.23096v1)|
 |**2025-10-27**|**UniAIDet: A Unified and Universal Benchmark for AI-Generated Image Content Detection and Localization**|Huixuan Zhang et.al.|[2510.23023v1](http://arxiv.org/abs/2510.23023v1)|
 |**2025-10-26**|**DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection**|Kangran Zhao et.al.|[2510.22622v1](http://arxiv.org/abs/2510.22622v1)|
 |**2025-10-25**|**What Exactly is a Deepfake?**|Yizhi Liu et.al.|[2510.22128v1](http://arxiv.org/abs/2510.22128v1)|
-|**2025-10-21**|**Wavelet-based GAN Fingerprint Detection using ResNet50**|Sai Teja Erukude et.al.|[2510.21822v1](http://arxiv.org/abs/2510.21822v1)|
 |**2025-10-23**|**Can Current Detectors Catch Face-to-Voice Deepfake Attacks?**|Nguyen Linh Bao Nguyen et.al.|[2510.21004v1](http://arxiv.org/abs/2510.21004v1)|
 |**2025-10-23**|**Fake-in-Facext: Towards Fine-Grained Explainable DeepFake Analysis**|Lixiong Qin et.al.|[2510.20531v1](http://arxiv.org/abs/2510.20531v1)|
 |**2025-10-22**|**A new wave of vehicle insurance fraud fueled by generative AI**|Amir Hever et.al.|[2510.19957v1](http://arxiv.org/abs/2510.19957v1)|
@@ -34,21 +34,23 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-29**|**ZK-SenseLM: Verifiable Large-Model Wireless Sensing with Selective Abstention and Zero-Knowledge Attestation**|Hasan Akgul et.al.|[2510.25677v1](http://arxiv.org/abs/2510.25677v1)|
+|**2025-10-29**|**Subgraph Federated Learning via Spectral Methods**|Javad Aliakbari et.al.|[2510.25657v1](http://arxiv.org/abs/2510.25657v1)|
+|**2025-10-29**|**Prompt Estimation from Prototypes for Federated Prompt Tuning of Vision Transformers**|M Yashwanth et.al.|[2510.25372v1](http://arxiv.org/abs/2510.25372v1)|
+|**2025-10-29**|**Lightweight Federated Learning in Mobile Edge Computing with Statistical and Device Heterogeneity Awareness**|Jinghong Tan et.al.|[2510.25342v1](http://arxiv.org/abs/2510.25342v1)|
+|**2025-10-29**|**A Privacy-Preserving Ecosystem for Developing Machine Learning Algorithms Using Patient Data: Insights from the TUM.ai Makeathon**|Simon Süwer et.al.|[2510.25277v1](http://arxiv.org/abs/2510.25277v1)|
+|**2025-10-29**|**Fed-PELAD: Communication-Efficient Federated Learning for Massive MIMO CSI Feedback with Personalized Encoders and a LoRA-Adapted Shared Decoder**|Yixiang Zhou et.al.|[2510.25181v1](http://arxiv.org/abs/2510.25181v1)|
 |**2025-10-28**|**Local Performance vs. Out-of-Distribution Generalization: An Empirical Analysis of Personalized Federated Learning in Heterogeneous Data Environments**|Mortesa Hussaini et.al.|[2510.24503v1](http://arxiv.org/abs/2510.24503v1)|
 |**2025-10-28**|**SPEAR++: Scaling Gradient Inversion via Sparsely-Used Dictionary Learning**|Alexander Bakarsky et.al.|[2510.24200v1](http://arxiv.org/abs/2510.24200v1)|
 |**2025-10-27**|**Differential Privacy: Gradient Leakage Attacks in Federated Learning Environments**|Miguel Fernandez-de-Retana et.al.|[2510.23931v1](http://arxiv.org/abs/2510.23931v1)|
 |**2025-10-27**|**Differential Privacy as a Perk: Federated Learning over Multiple-Access Fading Channels with a Multi-Antenna Base Station**|Hao Liang et.al.|[2510.23463v2](http://arxiv.org/abs/2510.23463v2)|
-|**2025-10-27**|**SGFusion: Stochastic Geographic Gradient Fusion in Federated Learning**|Khoa Nguyen et.al.|[2510.23455v3](http://arxiv.org/abs/2510.23455v3)|
-|**2025-10-27**|**Pinching-antenna-enabled Federated Learning: Tail Latency, Participation, and Convergence Analysis**|Yushen Lin et.al.|[2510.23315v1](http://arxiv.org/abs/2510.23315v1)|
-|**2025-10-27**|**AirFed: Federated Graph-Enhanced Multi-Agent Reinforcement Learning for Multi-UAV Cooperative Mobile Edge Computing**|Zhiyu Wang et.al.|[2510.23053v1](http://arxiv.org/abs/2510.23053v1)|
-|**2025-10-27**|**Sentinel: Dynamic Knowledge Distillation for Personalized Federated Intrusion Detection in Heterogeneous IoT Networks**|Gurpreet Singh et.al.|[2510.23019v1](http://arxiv.org/abs/2510.23019v1)|
-|**2025-10-27**|**QuantumShield: Multilayer Fortification for Quantum Federated Learning**|Dev Gurung et.al.|[2510.22945v1](http://arxiv.org/abs/2510.22945v1)|
-|**2025-10-27**|**Learning Reconfigurable Representations for Multimodal Federated Learning with Missing Data**|Duong M. Nguyen et.al.|[2510.22880v1](http://arxiv.org/abs/2510.22880v1)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-29**|**Exact zCDP Characterizations for Fundamental Differentially Private Mechanisms**|Charlie Harrison et.al.|[2510.25746v1](http://arxiv.org/abs/2510.25746v1)|
+|**2025-10-28**|**Learning to Attack: Uncovering Privacy Risks in Sequential Data Releases**|Ziyao Cui et.al.|[2510.24807v1](http://arxiv.org/abs/2510.24807v1)|
 |**2025-10-27**|**Differential Privacy: Gradient Leakage Attacks in Federated Learning Environments**|Miguel Fernandez-de-Retana et.al.|[2510.23931v1](http://arxiv.org/abs/2510.23931v1)|
 |**2025-10-27**|**Differential Privacy as a Perk: Federated Learning over Multiple-Access Fading Channels with a Multi-Antenna Base Station**|Hao Liang et.al.|[2510.23463v2](http://arxiv.org/abs/2510.23463v2)|
 |**2025-10-27**|**PrivacyGuard: A Modular Framework for Privacy Auditing in Machine Learning**|Luca Melis et.al.|[2510.23427v1](http://arxiv.org/abs/2510.23427v1)|
@@ -57,8 +59,6 @@
 |**2025-10-24**|**Differentially Private High-dimensional Variable Selection via Integer Programming**|Petros Prastakos et.al.|[2510.22062v1](http://arxiv.org/abs/2510.22062v1)|
 |**2025-10-24**|**$δ$-STEAL: LLM Stealing Attack with Local Differential Privacy**|Kieu Dang et.al.|[2510.21946v1](http://arxiv.org/abs/2510.21946v1)|
 |**2025-10-24**|**Toward provably private analytics and insights into GenAI use**|Albert Cheu et.al.|[2510.21684v1](http://arxiv.org/abs/2510.21684v1)|
-|**2025-10-24**|**Privacy Guarantee for Nash Equilibrium Computation of Aggregative Games Based on Pointwise Maximal Leakage**|Zhaoyang Cheng et.al.|[2510.21668v1](http://arxiv.org/abs/2510.21668v1)|
-|**2025-10-24**|**On the Sample Complexity of Differentially Private Policy Optimization**|Yi He et.al.|[2510.21060v1](http://arxiv.org/abs/2510.21060v1)|
 
 ## Data Masking
 
@@ -109,6 +109,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-29**|**Quickest Change Point Detection with Measurements over a Lossy Link**|Krishna Chaythanya KV et.al.|[2510.25604v1](http://arxiv.org/abs/2510.25604v1)|
 |**2025-10-26**|**WaveMAE: Wavelet decomposition Masked Auto-Encoder for Remote Sensing**|Vittorio Bernuzzi et.al.|[2510.22697v1](http://arxiv.org/abs/2510.22697v1)|
 |**2025-10-24**|**Urban 3D Change Detection Using LiDAR Sensor for HD Map Maintenance and Smart Mobility**|Hezam Albagami et.al.|[2510.21112v1](http://arxiv.org/abs/2510.21112v1)|
 |**2025-10-21**|**Image augmentation with invertible networks in interactive satellite image change detection**|Hichem Sahbi et.al.|[2510.18660v1](http://arxiv.org/abs/2510.18660v1)|
@@ -118,5 +119,4 @@
 |**2025-10-13**|**Evaluating the effects of preprocessing, method selection, and hyperparameter tuning on SAR-based flood mapping and water depth estimation**|Jean-Paul Travert et.al.|[2510.11305v1](http://arxiv.org/abs/2510.11305v1)|
 |**2025-10-08**|**Knowledge-Aware Mamba for Joint Change Detection and Classification from MODIS Times Series**|Zhengsen Xu et.al.|[2510.09679v1](http://arxiv.org/abs/2510.09679v1)|
 |**2025-10-09**|**VersionRAG: Version-Aware Retrieval-Augmented Generation for Evolving Documents**|Daniel Huwiler et.al.|[2510.08109v1](http://arxiv.org/abs/2510.08109v1)|
-|**2025-10-08**|**Label-frugal satellite image change detection with generative virtual exemplar learning**|Hichem Sahbi et.al.|[2510.06926v1](http://arxiv.org/abs/2510.06926v1)|
 
