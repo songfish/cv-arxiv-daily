@@ -34,6 +34,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-30**|**Non-Convex Over-the-Air Heterogeneous Federated Learning: A Bias-Variance Trade-off**|Muhammad Faraz Ul Abrar et.al.|[2510.26722v1](http://arxiv.org/abs/2510.26722v1)|
+|**2025-10-30**|**UnifiedFL: A Dynamic Unified Learning Framework for Equitable Federation**|Furkan Pala et.al.|[2510.26350v1](http://arxiv.org/abs/2510.26350v1)|
+|**2025-10-29**|**Coherence-Aware Distributed Learning under Heterogeneous Downlink Impairments**|Mehdi Karbalayghareh et.al.|[2510.25917v1](http://arxiv.org/abs/2510.25917v1)|
 |**2025-10-29**|**ZK-SenseLM: Verifiable Large-Model Wireless Sensing with Selective Abstention and Zero-Knowledge Attestation**|Hasan Akgul et.al.|[2510.25677v1](http://arxiv.org/abs/2510.25677v1)|
 |**2025-10-29**|**Subgraph Federated Learning via Spectral Methods**|Javad Aliakbari et.al.|[2510.25657v1](http://arxiv.org/abs/2510.25657v1)|
 |**2025-10-29**|**Prompt Estimation from Prototypes for Federated Prompt Tuning of Vision Transformers**|M Yashwanth et.al.|[2510.25372v1](http://arxiv.org/abs/2510.25372v1)|
@@ -41,14 +44,14 @@
 |**2025-10-29**|**A Privacy-Preserving Ecosystem for Developing Machine Learning Algorithms Using Patient Data: Insights from the TUM.ai Makeathon**|Simon Süwer et.al.|[2510.25277v1](http://arxiv.org/abs/2510.25277v1)|
 |**2025-10-29**|**Fed-PELAD: Communication-Efficient Federated Learning for Massive MIMO CSI Feedback with Personalized Encoders and a LoRA-Adapted Shared Decoder**|Yixiang Zhou et.al.|[2510.25181v1](http://arxiv.org/abs/2510.25181v1)|
 |**2025-10-28**|**Local Performance vs. Out-of-Distribution Generalization: An Empirical Analysis of Personalized Federated Learning in Heterogeneous Data Environments**|Mortesa Hussaini et.al.|[2510.24503v1](http://arxiv.org/abs/2510.24503v1)|
-|**2025-10-28**|**SPEAR++: Scaling Gradient Inversion via Sparsely-Used Dictionary Learning**|Alexander Bakarsky et.al.|[2510.24200v1](http://arxiv.org/abs/2510.24200v1)|
-|**2025-10-27**|**Differential Privacy: Gradient Leakage Attacks in Federated Learning Environments**|Miguel Fernandez-de-Retana et.al.|[2510.23931v1](http://arxiv.org/abs/2510.23931v1)|
-|**2025-10-27**|**Differential Privacy as a Perk: Federated Learning over Multiple-Access Fading Channels with a Multi-Antenna Base Station**|Hao Liang et.al.|[2510.23463v2](http://arxiv.org/abs/2510.23463v2)|
 
 ## Differential Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-30**|**On Purely Private Covariance Estimation**|Tommaso d'Orsi et.al.|[2510.26717v1](http://arxiv.org/abs/2510.26717v1)|
+|**2025-10-30**|**Tight Differentially Private PCA via Matrix Coherence**|Tommaso d'Orsi et.al.|[2510.26679v1](http://arxiv.org/abs/2510.26679v1)|
+|**2025-10-30**|**PEEL: A Poisoning-Exposing Encoding Theoretical Framework for Local Differential Privacy**|Lisha Shuai et.al.|[2510.26102v1](http://arxiv.org/abs/2510.26102v1)|
 |**2025-10-29**|**Exact zCDP Characterizations for Fundamental Differentially Private Mechanisms**|Charlie Harrison et.al.|[2510.25746v1](http://arxiv.org/abs/2510.25746v1)|
 |**2025-10-28**|**Learning to Attack: Uncovering Privacy Risks in Sequential Data Releases**|Ziyao Cui et.al.|[2510.24807v1](http://arxiv.org/abs/2510.24807v1)|
 |**2025-10-27**|**Differential Privacy: Gradient Leakage Attacks in Federated Learning Environments**|Miguel Fernandez-de-Retana et.al.|[2510.23931v1](http://arxiv.org/abs/2510.23931v1)|
@@ -56,9 +59,6 @@
 |**2025-10-27**|**PrivacyGuard: A Modular Framework for Privacy Auditing in Machine Learning**|Luca Melis et.al.|[2510.23427v1](http://arxiv.org/abs/2510.23427v1)|
 |**2025-10-27**|**Privacy-Preserving Semantic Communication over Wiretap Channels with Learnable Differential Privacy**|Weixuan Chen et.al.|[2510.23274v1](http://arxiv.org/abs/2510.23274v1)|
 |**2025-10-25**|**Privacy-Aware Federated nnU-Net for ECG Page Digitization**|Nader Nemati et.al.|[2510.22387v1](http://arxiv.org/abs/2510.22387v1)|
-|**2025-10-24**|**Differentially Private High-dimensional Variable Selection via Integer Programming**|Petros Prastakos et.al.|[2510.22062v1](http://arxiv.org/abs/2510.22062v1)|
-|**2025-10-24**|**$δ$-STEAL: LLM Stealing Attack with Local Differential Privacy**|Kieu Dang et.al.|[2510.21946v1](http://arxiv.org/abs/2510.21946v1)|
-|**2025-10-24**|**Toward provably private analytics and insights into GenAI use**|Albert Cheu et.al.|[2510.21684v1](http://arxiv.org/abs/2510.21684v1)|
 
 ## Data Masking
 
@@ -94,21 +94,22 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-10-28**|**Semi-supervised and unsupervised learning for health indicator extraction from guided waves in aerospace composite structures**|James Josep Perry et.al.|[2510.24614v1](http://arxiv.org/abs/2510.24614v1)|
-|**2025-10-28**|**ARIMA_PLUS: Large-scale, Accurate, Automatic and Interpretable In-Database Time Series Forecasting and Anomaly Detection in Google BigQuery**|Xi Cheng et.al.|[2510.24452v1](http://arxiv.org/abs/2510.24452v1)|
-|**2025-10-28**|**OmniLearned: A Foundation Model Framework for All Tasks Involving Jet Physics**|Wahid Bhimji et.al.|[2510.24066v1](http://arxiv.org/abs/2510.24066v1)|
-|**2025-10-28**|**LLMLogAnalyzer: A Clustering-Based Log Analysis Chatbot using Large Language Models**|Peng Cai et.al.|[2510.24031v1](http://arxiv.org/abs/2510.24031v1)|
-|**2025-10-27**|**In Search of the Unknown Unknowns: A Multi-Metric Distance Ensemble for Out of Distribution Anomaly Detection in Astronomical Surveys**|Siddharth Chaini et.al.|[2510.23702v1](http://arxiv.org/abs/2510.23702v1)|
-|**2025-10-27**|**GRAD: Real-Time Gated Recurrent Anomaly Detection in Autonomous Vehicle Sensors Using Reinforced EMA and Multi-Stage Sliding Window Techniques**|Mohammad Hossein Jafari Naeimi et.al.|[2510.23327v1](http://arxiv.org/abs/2510.23327v1)|
-|**2025-10-27**|**Approaching Domain Generalization with Embeddings for Robust Discrimination and Recognition of RF Communication Signals**|Lukas Henneke et.al.|[2510.23186v1](http://arxiv.org/abs/2510.23186v1)|
-|**2025-10-27**|**Reliable Robotic Task Execution in the Face of Anomalies**|Bharath Santhanam et.al.|[2510.23121v1](http://arxiv.org/abs/2510.23121v1)|
-|**2025-10-27**|**CodeAD: Synthesize Code of Rules for Log-based Anomaly Detection with LLMs**|Junjie Huang et.al.|[2510.22986v1](http://arxiv.org/abs/2510.22986v1)|
-|**2025-10-27**|**Diffuse to Detect: A Generalizable Framework for Anomaly Detection with Diffusion Models Applications to UAVs and Beyond**|Mingze Gong et.al.|[2510.22928v1](http://arxiv.org/abs/2510.22928v1)|
+|**2025-10-30**|**Process Integrated Computer Vision for Real-Time Failure Prediction in Steel Rolling Mill**|Vaibhav Kurrey et.al.|[2510.26684v1](http://arxiv.org/abs/2510.26684v1)|
+|**2025-10-30**|**MSAD: A Deep Dive into Model Selection for Time series Anomaly Detection**|Emmanouil Sylligardos et.al.|[2510.26643v1](http://arxiv.org/abs/2510.26643v1)|
+|**2025-10-30**|**Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters**|Mustafa Fuad Rifet Ibrahim et.al.|[2510.26501v1](http://arxiv.org/abs/2510.26501v1)|
+|**2025-10-30**|**Quantum Gated Recurrent GAN with Gaussian Uncertainty for Network Anomaly Detection**|Wajdi Hammami et.al.|[2510.26487v1](http://arxiv.org/abs/2510.26487v1)|
+|**2025-10-30**|**Towards Fine-Grained Vision-Language Alignment for Few-Shot Anomaly Detection**|Yuanting Fan et.al.|[2510.26464v1](http://arxiv.org/abs/2510.26464v1)|
+|**2025-10-30**|**A Survey of Heterogeneous Graph Neural Networks for Cybersecurity Anomaly Detection**|Laura Jiang et.al.|[2510.26307v1](http://arxiv.org/abs/2510.26307v1)|
+|**2025-10-30**|**Segmentation over Complexity: Evaluating Ensemble and Hybrid Approaches for Anomaly Detection in Industrial Time Series**|Emilio Mastriani et.al.|[2510.26159v1](http://arxiv.org/abs/2510.26159v1)|
+|**2025-10-29**|**CAVE: Detecting and Explaining Commonsense Anomalies in Visual Environments**|Rishika Bhagwatkar et.al.|[2510.26006v1](http://arxiv.org/abs/2510.26006v1)|
+|**2025-10-29**|**A Critical Roadmap to Driver Authentication via CAN Bus: Dataset Review, Introduction of the Kidmose CANid Dataset (KCID), and Proof of Concept**|Brooke Elizabeth Kidmose et.al.|[2510.25856v1](http://arxiv.org/abs/2510.25856v1)|
+|**2025-10-29**|**Flex-GAD : Flexible Graph Anomaly Detection**|Apu Chakraborty et.al.|[2510.25809v1](http://arxiv.org/abs/2510.25809v1)|
 
 ## change detection
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-30**|**Sequential Change Detection Under A Markov Setup With Unknown Pre-Change and Post-Change Distributions**|Ashish Bhoopesh Gulaguli et.al.|[2510.26204v1](http://arxiv.org/abs/2510.26204v1)|
 |**2025-10-29**|**Quickest Change Point Detection with Measurements over a Lossy Link**|Krishna Chaythanya KV et.al.|[2510.25604v1](http://arxiv.org/abs/2510.25604v1)|
 |**2025-10-26**|**WaveMAE: Wavelet decomposition Masked Auto-Encoder for Remote Sensing**|Vittorio Bernuzzi et.al.|[2510.22697v1](http://arxiv.org/abs/2510.22697v1)|
 |**2025-10-24**|**Urban 3D Change Detection Using LiDAR Sensor for HD Map Maintenance and Smart Mobility**|Hezam Albagami et.al.|[2510.21112v1](http://arxiv.org/abs/2510.21112v1)|
@@ -117,6 +118,5 @@
 |**2025-10-16**|**EuroMineNet: A Multitemporal Sentinel-2 Benchmark for Spatiotemporal Mining Footprint Analysis in the European Union (2015-2024)**|Weikang Yu et.al.|[2510.14661v1](http://arxiv.org/abs/2510.14661v1)|
 |**2025-10-13**|**Detection of Performance Changes in MooBench Results Using Nyrkiö on GitHub Actions**|Shinhyung Yang et.al.|[2510.11310v1](http://arxiv.org/abs/2510.11310v1)|
 |**2025-10-13**|**Evaluating the effects of preprocessing, method selection, and hyperparameter tuning on SAR-based flood mapping and water depth estimation**|Jean-Paul Travert et.al.|[2510.11305v1](http://arxiv.org/abs/2510.11305v1)|
-|**2025-10-08**|**Knowledge-Aware Mamba for Joint Change Detection and Classification from MODIS Times Series**|Zhengsen Xu et.al.|[2510.09679v1](http://arxiv.org/abs/2510.09679v1)|
 |**2025-10-09**|**VersionRAG: Version-Aware Retrieval-Augmented Generation for Evolving Documents**|Daniel Huwiler et.al.|[2510.08109v1](http://arxiv.org/abs/2510.08109v1)|
 
